@@ -1,0 +1,22 @@
+{
+  "1": { "question": "What are the four primary tissue classes in the body?", "answer": "Epithelial, connective, muscle, and nervous tissue.", "img_src": "" },
+  "2": { "question": "Which tissue type covers body surfaces and lines cavities?", "answer": "Epithelial tissue.", "img_src": "" },
+  "3": { "question": "Which tissue type has the most extracellular matrix?", "answer": "Connective tissue.", "img_src": "" },
+  "4": { "question": "Which epithelium is best for rapid diffusion and filtration?", "answer": "Simple squamous epithelium.", "img_src": "" },
+  "5": { "question": "Which epithelium commonly lines kidney tubules?", "answer": "Simple cuboidal epithelium.", "img_src": "" },
+  "6": { "question": "Which epithelium is common in the digestive tract for absorption and secretion?", "answer": "Simple columnar epithelium.", "img_src": "" },
+  "7": { "question": "What does the term pseudostratified mean?", "answer": "It looks multilayered, but all cells contact the basement membrane.", "img_src": "" },
+  "8": { "question": "Which epithelium changes shape as an organ stretches?", "answer": "Transitional epithelium.", "img_src": "" },
+  "9": { "question": "What is the basement membrane?", "answer": "A thin support layer that anchors epithelium to underlying connective tissue.", "img_src": "" },
+  "10": { "question": "What are the three major components of connective tissue?", "answer": "Cells, fibers, and ground substance.", "img_src": "" },
+  "11": { "question": "Which connective tissue stores energy and helps insulate?", "answer": "Adipose tissue.", "img_src": "" },
+  "12": { "question": "Which connective tissue has a gel-like matrix and supports body structures?", "answer": "Cartilage.", "img_src": "" },
+  "13": { "question": "Which connective tissue has a mineralized matrix?", "answer": "Bone.", "img_src": "" },
+  "14": { "question": "What are the three muscle tissue types?", "answer": "Skeletal, cardiac, and smooth muscle.", "img_src": "" },
+  "15": { "question": "Which muscle tissue is striated and voluntary?", "answer": "Skeletal muscle.", "img_src": "" },
+  "16": { "question": "Which muscle tissue is striated, involuntary, and found only in the heart?", "answer": "Cardiac muscle.", "img_src": "" },
+  "17": { "question": "Which muscle tissue is non-striated and involuntary in hollow organs?", "answer": "Smooth muscle.", "img_src": "" },
+  "18": { "question": "What are intercalated discs associated with?", "answer": "Cardiac muscle cells.", "img_src": "" },
+  "19": { "question": "What is the main signaling cell of nervous tissue?", "answer": "The neuron.", "img_src": "" },
+  "20": { "question": "What is a key support cell type in nervous tissue?", "answer": "Neuroglia (glial cells).", "img_src": "" }
+}

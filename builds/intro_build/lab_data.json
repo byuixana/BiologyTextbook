@@ -1,0 +1,54 @@
+{
+  "$schema": "./lab_data.schema.json",
+  "title": "Histology",
+  "sections": [
+    {
+      "id": "week-1-1-intro-bio-264-lab",
+      "title": "WEEK 1.1 - INTRO BIO 264 LAB",
+      "data": [
+        {
+          "id": 0,
+          "label": "WEEK 1.1 - INTRO BIO 264 LAB",
+          "type": "none",
+          "children": []
+        },
+        {
+          "id": 1,
+          "label": "1.1.1 - Introduction to Bio 264",
+          "load": "Pages/1_1_1_intro.html",
+          "children": []
+        },
+        {
+          "id": 2,
+          "label": "1.1.2 - Review General Terminology",
+          "load": "Pages/1_1_2_terminology.html",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "week-1-2-practice",
+      "title": "WEEK 1.2 - PRACTICE",
+      "type": "none",
+      "data": [
+        {
+          "id": 3,
+          "label": "WEEK 1.2 - PRACTICE",
+          "children": []
+        },
+        {
+          "id": 4,
+          "label": "1.2.1 - Flashcards",
+          "load": "Pages/1_2_1_Flashcards.html",
+          "children": []
+        },
+        {
+          "id": 5,
+          "label": "1.2.2 - Get a Head Start on Week 2",
+          "load": "Pages/1_2_2_headstart.html",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

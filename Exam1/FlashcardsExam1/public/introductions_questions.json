@@ -1,0 +1,22 @@
+{
+  "1": { "question": "What is anatomy?", "answer": "The study of body structures and their relationships.", "img_src": "" },
+  "2": { "question": "What is physiology?", "answer": "The study of how body structures function.", "img_src": "" },
+  "3": { "question": "What level of organization includes cells working together for a common function?", "answer": "Tissue level.", "img_src": "" },
+  "4": { "question": "What level of organization includes multiple organs working together?", "answer": "Organ system level.", "img_src": "" },
+  "5": { "question": "What is homeostasis?", "answer": "Maintenance of a relatively stable internal environment.", "img_src": "" },
+  "6": { "question": "What is the anatomical position?", "answer": "Standing upright, facing forward, arms at sides, palms forward.", "img_src": "" },
+  "7": { "question": "What does superior mean?", "answer": "Toward the head or upper part of a structure.", "img_src": "" },
+  "8": { "question": "What does inferior mean?", "answer": "Toward the feet or lower part of a structure.", "img_src": "" },
+  "9": { "question": "What does anterior mean?", "answer": "Toward the front of the body.", "img_src": "" },
+  "10": { "question": "What does posterior mean?", "answer": "Toward the back of the body.", "img_src": "" },
+  "11": { "question": "What does medial mean?", "answer": "Toward the midline of the body.", "img_src": "" },
+  "12": { "question": "What does lateral mean?", "answer": "Away from the midline of the body.", "img_src": "" },
+  "13": { "question": "What does proximal mean?", "answer": "Closer to the trunk or point of origin.", "img_src": "" },
+  "14": { "question": "What does distal mean?", "answer": "Farther from the trunk or point of origin.", "img_src": "" },
+  "15": { "question": "What does superficial mean?", "answer": "Toward or at the body surface.", "img_src": "" },
+  "16": { "question": "What does deep mean?", "answer": "Away from the body surface; more internal.", "img_src": "" },
+  "17": { "question": "What plane divides the body into right and left portions?", "answer": "Sagittal plane.", "img_src": "" },
+  "18": { "question": "What plane divides the body into anterior and posterior portions?", "answer": "Frontal (coronal) plane.", "img_src": "" },
+  "19": { "question": "What plane divides the body into superior and inferior portions?", "answer": "Transverse (horizontal) plane.", "img_src": "" },
+  "20": { "question": "What does ipsilateral mean?", "answer": "On the same side of the body.", "img_src": "" }
+}

@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<player>
+
+<theme>blue</theme>
+
+<title intro="Pages/Head_neck_trunk_muscles_main.html">[RETURN] To Main Menu</title>
+
+<item type="nolink" name="WEEK 8.1 - HEAD NECK TRUNK">
+	<custom>
+		<text type="bold" font="Verdana, Avenir, Helvetica" size="20px" color="#fff" align="center" />
+		<box color="#3c3c3c" hover="#666666" />
+	</custom>
+</item>
+
+
+<item type="link" name="8.1.1 - Intro to Head Neck and Trunk Muscles">
+	<button load="Pages/8_1_1_intro_head_trunk.html"/>
+</item>
+
+
+
+<!-- This is the beginning of the 2d Menu for head and neck muscles-->
+
+<item type="expand" name="8.1.2- Head and Neck Muscle 2D Anatomy">
+    <subitem type="expand" name="Muscles of the Face">
+		     <subsubitem type="link" name="Buccinator" sound="Sounds/buccinator.wav">
+		        <button name="Example 1" load="Images/Buccinator.jpg" />
+						<button name="Example 2" load="Images/Buccinator Illistration.png" />
+						<button name="Example 3" load="Images/buccinator_front_kaden.jpg" />
+						<button name="Example 4" load="Images/buccinator_side_kaden.jpg" />
+		      </subsubitem>
+
+
+
+		      <subsubitem type="link" name="Corrugator Supercilli" sound="Sounds/corrugator.wav">
+		        <button name="Example 1" load="Images/Corrugator Supercillia Illistration.png" />
+						<button name="Example 2" load="Images/corrugator_side_kaden.jpg" />
+						<button name="Example 3" load="Images/corrugator_supercilli_2.jpg" />
+		      </subsubitem>
+
+
+
+					<subsubitem type="link" name="Depressor Anguli Oris" sound="Sounds/depressor_anguli_oris.wav">
+		        <button name="Example 1" load="Images/Depressor-Anguli-Labi.jpg" />
+						<button name="Example 2" load="Images/Depressor Anguli Oris Anterior.png" />
+						<button name="Example 3" load="Images/depressor_anglui_side_kaden.jpg" />
+						<button name="Example 4" load="Images/depressor-anguli-oris.jpg" />
+		      </subsubitem>
+
+
+
+					<subsubitem type="link" name="Depressor Labii Inferioris" sound="Sounds/depressor_labii_inferioris.wav">
+						<button name="Example 1" load="Images/Depressor-Labi-Inferioris.jpg" />
+						<button name="Example 2" load="Images/Depressor Labii Inferioris Anterior.png" />
+						<button name="Example 3" load="Images/depressor_labii_side_kaden.jpg" />
+					</subsubitem>
+
+
+
+					<subsubitem type="link" name="Levator Labii Superioris" sound="Sounds/levator_labii_superioris.wav">
+						<button name="Example 1" load="Images/Levator-Labi.jpg" />
+						<button name="Example 2" load="Images/Levator Labii Superioris Anterior.png" />
+						<button name="Example 3" load="Images/levator_labii_superior_kaden.jpg" />
+
+					</subsubitem>
+
+					<subsubitem type="link" name="Levator Anguli Oris" sound="">
+						<button name="Example 1" load="Images/levator_anguli_oris_kaden.jpg" />
+					</subsubitem>
+
+
+					<subsubitem type="link" name="Mentalis" sound="Sounds/mentalis.wav">
+						<button name="Example 1" load="Images/Mentalis.jpg" />
+						<button name="Example 2" load="Images/Mentalis Illistration.png" />
+						<button name="Example 3" load="Images/mentalis_front_kaden.jpg" />
+						<button name="Example 4" load="Images/mentalis_side_kaden.jpg" />
+					</subsubitem>
+
+					<subsubitem type="link" name="Nasalis" sound="Sounds/nasalis.wav">
+						<button name="Example 1" load="Images/Nasalis.jpg" />
+						<button name="Example 2" load="Images/Nasalis Anterior.png" />
+						<button name="Example 3" load="Images/nasalis_side_kaden.jpg" />
+					</subsubitem>
+
+					<subsubitem type="link" name="Occipitofrontalis" sound="Sounds/occipitofrontalis.wav">
+						<button name="Occipitalfrontalis" load="Images/occiital_frontalis_kaden.jpg" />
+						<button name="Occipitalis" load="Images/occipitalis_side_kaden.jpg" />
+						<button name="Frontalis" load="Images/frontalis_side_kaden.jpg" />
+						<button name="Epicranial Aponeurosis or (Galea)" load="Images/epicranial_aponerurosis_side_kaden.jpg" />
+					</subsubitem>
+
+					<subsubitem type="link" name="Orbicularis Oculi" sound="Sounds/orbicularis_oculi.wav">
+						<button name="Example 1" load="Images/Orbicularis-Oculi.jpg" />
+						<button name="Example 2" load="Images/Obicularis Oculi Anterior.png" />
+						<button name="Example 3" load="Images/obicularis_oculi_side_kaden.jpg" />
+					</subsubitem>
+
+						<subsubitem type="link" name="Orbicularis Oris" sound="Sounds/orbicularis_oris.wav">
+							<button name="Example 1" load="Images/Orbicularis-Oris.jpg" />
+							<button name="Example 2" load="Images/Obicularis Oris Anterior.png" />
+							<button name="Example 3" load="Images/obicularis_oris_front_kaden.jpg" />
+							<button name="Example 4" load="Images/obicularis_oris_side_kaden.jpg" />
+						</subsubitem>
+
+						<subsubitem type="link" name="Procerus" sound="">
+							<button name="Example 1" load="Images/Procerus_kaden.jpg" />
+							<button name="Example 2" load="Images/Procerus_lauren.jpg" />
+						</subsubitem>
+
+						<subsubitem type="link" name="Risorius" sound="Sounds/risorius.wav">
+							<button name="Example 1" load="Images/Risorius.jpg" />
+							<button name="Example 2" load="Images/Risorius Illistration.png" />
+						</subsubitem>
+
+						<subsubitem type="link" name="Zygomaticus Major" sound="Sounds/zygomaticus_major.wav">
+							<button name="Example 1" load="Images/Zygomaticus-Major.jpg" />
+							<button name="Example 2" load="Images/Zygomaticus Major Anterior.png" />
+							<button name="Example 3" load="Images/zygo_major_front_kaden.jpg" />
+							<button name="Example 4" load="Images/zygo_major_side_kaden.jpg" />
+						</subsubitem>
+
+						<subsubitem type="link" name="Zygomaticus Minor" sound="Sounds/zygomaticus_minor.wav">
+							<button name="Example 1" load="Images/Zygomaticus-Minor.jpg" />
+							<button name="Example 2" load="Images/Zygomaticus Minor Anterior.png" />
+							<button name="Example 3" load="Images/zygo_minor_front_kaden.jpg" />
+							<button name="Example 4" load="Images/zygo_minor_side_kaden.jpg" />
+						</subsubitem>
+
+		  </subitem>
+
+
+
+    <subitem type="expand" name="Muscles of Mastication">
+
+	      <subsubitem type="link" name="Lateral Pterygoid" sound="Sounds/lateral_pterygoid.wav">
+	        <button name="Example 1" load="Images/Lateral Pterygoid Skull.png" />
+					<button name="Example 2" load="Images/lateral_pterygoid_lauren.jpg" />
+					<button name="Example 3 (From Inside)" load="Images/Lateral Pterygoid Internal.png" />
+				  <button name="Example 4" load="Images/Lat_pterygoiid_kaden.jpg" />
+					<button name="Animation" load="Images/animate_LateralPterygoid_Kaden.gif" />
+	      </subsubitem>
+
+
+
+	      <subsubitem type="link" name="Medial Pterygoid" sound="Sounds/medial_pterygoid.wav">
+					<button name="Example 1" load="Images/Medial Pterygoid Skull.png" />
+					<button name="Example 2" load="Images/medial-pterygoid_lauren.jpg" />
+					<button name="Example 3 (From Inside)" load="Images/Medial Pterygoid internal.png" />
+				  <button name="Example 4" load="Images/Med_pterygoiid_kaden.jpg" />
+					<button name="Animation" load="Images/animate_MedPterygoid_Kaden.gif" />
+	      </subsubitem>
+
+
+
+	      <subsubitem type="link" name="Masseter" sound="Sounds/masseter.wav">
+	        <button name="Example 1" load="Images/Masseter Illistration.png" />
+					<button name="Example 2" load="Images/Masseter_lauren.jpg" />
+					<button name="Example 3" load="Images/masseter_side_kaden.jpg" />
+	      </subsubitem>
+
+				<subsubitem type="link" name="Temporalis" sound="Sounds/temporalis.wav">
+			    <button name="Example 1" load="Images/Temporalis Skull.png" />
+					<button name="Example 2" load="Images/temporalis_side_kaden.jpg" />
+			 </subsubitem>
+
+    </subitem>
+
+
+    <subitem type="expand" name="Muscles of the Neck">
+
+	      <subsubitem type="link" name="Digastric" sound="Sounds/digastric.wav">
+					<button name="Both Bellies 1" load="Images/Digastric Illistration.png" />
+					<button name="Both Bellies 2" load="Images/Digastric.jpg" />
+					<button name="Anterior Belly 1" load="Images/Digastric Anterior Belly Illistration.png" />
+					<button name="Anterior Belly 2" load="Images/Digastric_ant_lauren.jpg" />
+					<button name="Posterior Belly 1" load="Images/Digastric Posterior Belly Illistration.png" />
+					<button name="Posterior Belly 2" load="Images/Digastric_post_lauren.jpg" />
+	      </subsubitem>
+
+
+
+				<subsubitem type="link" name="Mylohyoid" sound="Sounds/mylohyoid.wav">
+					<button name="Example 1" load="Images/Mylohyoid Illistration.png" />
+					<button name="Example 2" load="Images/Mylohyoid_lauren.jpg" />
+				</subsubitem>
+
+				<subsubitem type="link" name="Omohyoid" sound="">
+					<button name="Example 1" load="Images/omohyoid grey.png" />
+					<button name="Example 2" load="Images/omohyoid.png" />
+					<button name="Example 3" load="Images/omohyoid-soboto.jpg" />
+				</subsubitem>
+
+				<subsubitem type="link" name="Platysma" sound="Sounds/platysma.wav">
+					<button name="Example 1" load="Images/Platysma Illistration.png" />
+				</subsubitem>
+
+				<subsubitem type="link" name="Scalenus Anterior" sound="">
+          <button name="Example 1" load="Images/Scaleus Anterior Grey.png" />
+					<button name="Reveal all Scalenes" load="Images/scalenes_animate.gif" />
+					<button name="Example 2" load="Images/anterior_scalene_lauren.jpg" />
+
+				</subsubitem>
+
+				<subsubitem type="link" name="Scalenus Medius" sound="">
+					<button name="Example 1" load="Images/Scaleus Medius Grey.png" />
+					<button name="Reveal all Scalenes" load="Images/scalenes_animate.gif" />
+					<button name="Example 2" load="Images/middle_scalene_lauren.jpg" />
+				</subsubitem>
+
+				<subsubitem type="link" name="Scalenus Posterior" sound="">
+					<button name="Example 1" load="Images/Scaleus Posterior Grey.png" />
+					<button name="Reveal all Scalenes" load="Images/scalenes_animate.gif" />
+					<button name="Example 2" load="Images/posterior_scalene_lauren.jpg" />
+				</subsubitem>
+
+				<subsubitem type="link" name="Sternocleidomastoid" sound="Sounds/sternocleidomastoid.wav">
+	        <button name="Example 1" load="Images/Sternocleidomastoid.jpg" />
+					<button name="Example 2" load="Images/Sternocleidomastoid Anterior.png" />
+					<button name="Example 3" load="Images/Sternocleidomatoid Illistration.png" />
+					<button name="Example 4" load="Images/SCM_lauren.jpg" />
+	      </subsubitem>
+
+				<subsubitem type="link" name="Stylohyoid" sound="Sounds/stylohyoid.wav">
+	        <button name="Example 1" load="Images/Stylohyoid Illistration.png" />
+					<button name="Example 2" load="Images/Stylohyoid_Lauren.jpg" />
+	      </subsubitem>
+    </subitem>
+
+
+</item>
+
+<!-- End of 2d Menu  for Face and  Neck -->
+
+
+<!-- This is the beginning of the 2d Menu for trunk muscles-->
+
+<item type="expand" name="8.1.3- Trunk 2D Muscle Anatomy">
+    <subitem type="expand" name="Muscles Acting on the Scapula">
+		      <subsubitem type="link" name="Levator Scapulae" sound="Sounds/levator_scapulae">
+		        <button name="Example 1" load="Images/Lavator Scapulae 346.png" />
+						<button name="Example 1" load="Images/Levator-Scapulae.png" />
+		      </subsubitem>
+
+		      <subsubitem type="link" name="Rhomboideus Minor" sound="Sounds/Rhomboidius_minor.wav">
+		        <button name="Example 1" load="Images/Rhomboideus Minor 346.png" />
+						<button name="Example 2" load="Images/Rhomboideus Minor 344.png" />
+						<button name="Example 3" load="Images/Rhomboid minor (8).png" />
+		      </subsubitem>
+
+					<subsubitem type="link" name="Rhomboideus Major" sound="Sounds/Rhomboideus_major.wav">
+					 <button name="Example 1" load="Images/Rhomboideus Major 346.png" />
+					 <button name="Example 2" load="Images/Rhomboideus Major 344.png" />
+					 <button name="Example 3" load="Images/Rhomboid Major (4).png" />
+				 </subsubitem>
+
+				 <subsubitem type="link" name="Pectoralis Minor" sound="Sounds/pectoralis_minor.wav">
+					 <button name="Example 1" load="Images/Pectoralis Minor Illistration.png" />
+					 <button name="Example 2" load="Images/pec_minor_ant_truj.jpg" />
+				 </subsubitem>
+
+				 <subsubitem type="link" name="Serratus Anterior" sound="Sounds/serratus_anterior.wav">
+					 <button name="Example 1" load="Images/Serratus Anterior Anterior.png" />
+					 <button name="Example 2" load="Images/Serratus Anterior (21).png" />
+					 <button name="Example 3" load="Images/serrat_ant_front_kaden.jpg" />
+					 <button name="Example 4" load="Images/Seratusonly_lateral.jpg" />
+					 <button name="Example 5" load="Images/serrat_ant_truj.jpg" />
+				 </subsubitem>
+
+				 <subsubitem type="link" name="Trapezius" sound="Sounds/trapezius.wav">
+					 <button name="Example 1" load="Images/trapezius.jpg" />
+					 <button name="Example 2" load="Images/Trapezius (4).png" />
+					 <button name="Anterior Example" load="Images/Trapezius Anterior.png" />
+
+				 </subsubitem>
+
+		  </subitem>
+
+
+    <subitem type="expand" name="Muscles of the Ribs and Abdomen">
+
+			<subsubitem type="link" name="Internal Intercostals" sound="">
+		 	 <button name="Example 1" load="Images/Internal_Intercostals-annalee.jpg" />
+		  </subsubitem>
+
+		  <subsubitem type="link" name="External Intercostals" sound="">
+		 		<button name="Example 1" load="Images/External_Intercostals-annalee.jpg" />
+		  </subsubitem>
+
+				<subsubitem type="link" name="External Abdominal Oblique" sound="Sounds/external_abdominal_oblique.wav">
+	        <button name="Example 1" load="Images/External Abdominal Oblique Bock Illistration.png" />
+					<button name="Example 2" load="Images/External Abdominal Oblique Anterior.png" />
+					<button name="Example 3" load="Images/ext_ab_obl_front_kaden.jpg" />
+					<button name="Example 4" load="Images/ext_ab_obl_side_trunkmuscles_kaden.jpg" />
+	      </subsubitem>
+
+	      <subsubitem type="link" name="Inguinal Ligament" sound="Sounds/inguinal_ligament.wav">
+	        <button name="Example 1" load="Images/Inguinal Ligament Gray Illistration.png" />
+					 <button name="Example 2" load="Images/Inguinal Ligament Bock Illistration.png" />
+	      </subsubitem>
+
+				<subsubitem type="link" name="Internal Abdominial Oblique" sound="Sounds/internal_abdominal_oblique.wav">
+				 <button name="Example 1" load="Images/Internal Abdominal Oblique Bock Illistration.png" />
+				 <button name="Animate" load="Images/animate_side_internal_obl_kaden.gif" />
+			 </subsubitem>
+
+				<subsubitem type="link" name="Linea Alba" sound="Sounds/linea_alba.wav">
+	        <button name="Example 1" load="Images/Linea Alba Anterior.png" />
+	      </subsubitem>
+
+				<subsubitem type="link" name="Rectus Abdominis" sound="Sounds/rectus_abdominus.wav">
+					<button name="Example 1" load="Images/Rectus Abdominus Bock Illistration.png" />
+					<button name="Example 2" load="Images/Rectus Abdomininis Anterior.png" />
+					<button name="Animate" load="Images/animate_rectus_ab_Kaden.gif" />
+	      </subsubitem>
+
+				<subsubitem type="link" name="Transverse Abdominis" sound="Sounds/transverse_abdominus.wav">
+	        <button name="Example 1" load="Images/Transversus Abdominus Sabotta Illitration.png" />
+					<button name="Example 2" load="Pages/transverse abdominis.html" />
+					<button name="Animate" load="Images/animate_side_transverse_ab_kaden.gif" />
+	      </subsubitem>
+
+    </subitem>
+
+
+
+		<subitem type="expand" name="Muscles of the Vertebral Column">
+
+				<subsubitem type="link" name="Quadratus Lumborum" sound="Sounds/quadratus_lumborum.wav">
+					<button name="Example 1" load="Images/Quadratus Lumborum Sabotta Illistration.png" />
+					<button name="Example 2" load="Images/quadratus_lum_Grey.png" />
+				</subsubitem>
+
+				<subsubitem type="link" name="Sacrospinalis (Erector Spinae) Example Set 1" sound="Sounds/sacrospinalis.wav">
+					<button name="Sacrospinalis or Erector Spinae" load="Images/sacrospinalis.png" />
+					<button name="Illiocostalis Portion" load="Images/Sacrospinalis-Iliocostalis.png" />
+					<button name="Longissmus Portion" load="Images/Sacrospinalis-Longissiumus.png" />
+					<button name="Spinalis Portion" load="Images/Sacrospinalis-Spinalis.png" />
+				</subsubitem>
+
+				<subsubitem type="link" name="Sacrospinalis (Erector Spinae) Example Set 2" sound="Sounds/sacrospinalis.wav">
+					<button name="Sacrospinalis or Erector Spinae" load="Images/Erector_Spinae_Grey.png" />
+					<button name="Illiocostalis Portion" load="Images/Erector-Spinae-iliocost_Grey.png" />
+					<button name="Longissmus Portion" load="Images/Erector-Spinae-long_Grey.png" />
+					<button name="Spinalis Portion" load="Images/Erector-Spinae-spin_Grey.png" />
+				</subsubitem>
+
+				<subsubitem type="link" name="Serratus Posterior Inferior" sound="">
+					<button name="Example 1" load="Images/post_serratus.png" />
+					<button name="Example 2" load="Images/post-serratus-Grey.png" />
+				</subsubitem>
+
+		</subitem>
+
+</item>
+
+<!-- End of 2d Menu  for Neck and Trunk Muscles -->
+
+
+
+
+
+<item type="expand" name="8.1.4 - Head, Neck, Trunk Muscles 3D Anatomy">
+  		  <subitem type="xlink" name="Head and Neck 3D anatomy">
+				<button load="https://content.byui.edu/file/b7761654-b3e5-47b8-a3d1-908420b3789a/1/Head%20Muscles/index.html" target="_blank" />
+			  </subitem>
+
+		  	<subitem type="xlink" name="Trunk 3D anatomy">
+				<button load="https://content.byui.edu/file/d916db2f-15b6-4403-a536-7f41b797dc7b/1/Trunk%20Muscles/index.html" target="_blank" />
+		  	</subitem>
+</item>
+
+
+
+
+<item type="expand" name="8.1.5 - Head Neck and Trunk Muscle Videos">
+
+			<subitem type="link" name="Introduction to the Muscles Section">
+			<button load="Pages/8_1_5_kaylie_muscles_intro_video.html" />
+			</subitem>
+
+		 <subitem type="link" name="Introduction to the 3D printed models">
+	   <button load="Pages/8_1_5_kaylie_muscles_3dintro_video.html" />
+	   </subitem>
+
+		<subitem type="link" name="Muscles of the Face and Head">
+		<button load="Pages/8_1_5_kaylie_muscles_face_head_video.html" />
+		</subitem>
+
+		<subitem type="link" name="Muscles of the Neck">
+		<button load="Pages/8_1_5_kaylie_muscles_neck_video.html" />
+		</subitem>
+
+		<subitem type="link" name="Muscles of the Anterior Trunk">
+		<button load="Pages/8_1_5_kaylie_muscles_ant_trunk_video.html" />
+		</subitem>
+
+		<subitem type="link" name="Muscles of the Posterior Trunk">
+	 <button load="Pages/8_1_5_kaylie_muscles_post_trunk_video.html" />
+	 </subitem>
+</item>
+
+
+
+
+
+
+<item type="nolink" name="WEEK 8.2 - PRACTICE">
+	<custom>
+		<text type="bold" font="Verdana, Avenir, Helvetica" size="20px" color="#fff" align="center" />
+		<box color="#3c3c3c" hover="#666666" />
+	</custom>
+</item>
+
+
+<item type="link" name="8.2.1 - Descriptions">
+	<button load="Pages/8_2_1_descriptions.html"/>
+</item>
+
+
+<item type="expand" name="8.2.2 - Practice with 3D">
+    <subitem type="xlink" name="Clickable Head and Neck Muscles">
+		<button load="https://content.byui.edu/file/5bda2b7d-2df6-4fc2-bc2b-472a9ec81343/1/Head%20Clickable/index.html" target="_blank" />
+	  </subitem>
+
+		<subitem type="xlink" name="Find Head and Neck Muscles">
+		<button load="https://content.byui.edu/file/5bda2b7d-2df6-4fc2-bc2b-472a9ec81343/1/Head%20Find/index.html" target="_blank" />
+		</subitem>
+
+		<subitem type="xlink" name="Clickable Trunk Muscles">
+		<button load="https://content.byui.edu/file/a4b9abaa-d5a8-466c-8f22-79f56f9e1061/1/Trunk%20Muscles%20Clickable/index.html" target="_blank" />
+		</subitem>
+
+	<subitem type="xlink" name="Find Trunk Muscles">
+		<button load="https://content.byui.edu/file/a4b9abaa-d5a8-466c-8f22-79f56f9e1061/1/Trunk%20Muscles%20Find/index.html" target="_blank" />
+	</subitem>
+
+</item>
+
+
+
+<item type="link" name="8.2.3 - Try Naming Some Pictures">
+		<button load="powerpoint/head_neck/index.html"/>
+</item>
+
+
+<item type="link" name="8.2.4 - [download] Flashcards">
+	<button load="https://content.byui.edu/file/5111f3f1-bb2b-41c2-9ba1-d00c26274ce1/1/Head%20Neck%20and%20Trunk.apkg"/>
+</item>
+
+
+
+
+
+
+
+</player>

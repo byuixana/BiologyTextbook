@@ -1,0 +1,278 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<!-- responsive-fit patch -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {box-sizing: border-box}
+body {font-family: Verdana, sans-serif; margin:0; background-color: 	#000;
+}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 600px;
+  position: relative;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 50px;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: black;
+  font-weight: bold;
+  font-size: 24px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: #909090;
+}
+
+/* text */
+.text {
+  display: inline-block;
+  color: #000;
+  font-size: 15px;
+  position: relative;
+  padding: 50px 50px 50px 60px;
+  top: auto;
+  bottom: 8px;
+  width: 600px;
+  height: auto;
+  text-align: left;
+  background-color: 	#F8F8F8;
+
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #000;
+  font-size: 14px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 10;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 25px;
+  width: 25px;
+  margin: 0 2px;
+  padding-top: 2px;
+  background-color: #d0d0d0;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #818181;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+
+p {
+  margin-left: 40px;
+  color: white;
+  font-size: 20px;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
+</style>
+<style id="responsive-fit-style">
+  html {
+    min-height: 100%;
+    box-sizing: border-box;
+    overflow-x: hidden;
+  }
+  body {
+    min-height: 100%;
+    margin: 0;
+    padding-left: clamp(24px, 6vw, 64px);
+    padding-right: clamp(24px, 6vw, 64px);
+  }
+  *, *::before, *::after { box-sizing: inherit; }
+  img, video, iframe, object, embed {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  iframe {
+    width: min(100%, 960px);
+    aspect-ratio: 608 / 402;
+  }
+</style>
+</head>
+<body>
+
+
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+   <div class="numbertext">1 / 10</div>
+
+  <div class="text">I am a tissue that has very little extracellular matrix. I have many round and open spaces surrounded by cell walls and nuclei. Some of my functions are to store energy materials and act as a thermal insulator. I am mostly found under the skin. What am I?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Adipose tissue'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 10</div>
+  <div class="text">I am a tissue composed of fibers arranged in parallel rows. The nuclei of the cells that reside within me are very thin and long. I take a long time to heal if damaged and make up the tissue that connects muscles to bones. What am I?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Dense fibrous connective tissue regularly arranged'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 10</div>
+  <div class="text">I am an opening in solid tissues where a cell can reside. I am found in several different tissue types and house different cells, but I have the same name. Who am I and what two different cells live within me?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='I am a lacuna. Chondrocytes and Osteocytes live within me.'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">4 / 10</div>
+  <div class="text">I am a solid tissue with more matrix than cells. My cells are organized in rings around a central structure through which a blood vessel passes. When you look at me from a distance, I appear to be made of targets. Who am I?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Compact Bone'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">5 / 10</div>
+  <div class="text">I am a tissue that has cells that flow through a substance that they themselves do not predominately secrete. My job is to transport nutrients and wastes. I also fight infection. Who am I? What is the fluid that surrounds me called?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='I am blood and my matrix is plasma.'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">6 / 10</div>
+  <div class="text">I am a tissue that is found throughout the body and can be found in any organ. I am found with relatively few cells but a lot of extracellular material called matrix. What kind of tissue am I?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Connective Tissue'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">7 / 10</div>
+  <div class="text">This tissue is lacy in appearance and has a lot of fluid filled spaces. This tissue provides support and nourishment. This tissue connects the skin to underlying structures and has a lot of collagen in it.
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Loose Fibrous Connective Tissue also called Areolar Connective Tissue'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">8 / 10</div>
+  <div class="text">I am a tissue witih large collagen fibers that are not parallel. My nuclei in the tissue cells are more oval shaped. I am found in the dermis of the skin and I provide tensile strength that can withstand forces in all directions. What am I?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Dense Fibrous Connective Tissue - Irregularly Arranged'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">9 / 10</div>
+  <div class="text">I look a lot like hyaline cartilage except you will find strands of elastic material in my matrix. I am found in the ears and epiglottis. I provide flexibility and rigidity. What am I?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Elastic Cartilage'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">10 / 10</div>
+  <div class="text">I am found with a rather homogenous matrix. I do have lacunae. I have a perichondrium. I am found on joint surfaces. What am I?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Hyaline Cartilage'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+<a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)">1</span>
+  <span class="dot" onclick="currentSlide(2)">2</span>
+  <span class="dot" onclick="currentSlide(3)">3</span>
+  <span class="dot" onclick="currentSlide(4)">4</span>
+  <span class="dot" onclick="currentSlide(5)">5</span>
+  <span class="dot" onclick="currentSlide(6)">6</span>
+  <span class="dot" onclick="currentSlide(7)">7</span>
+  <span class="dot" onclick="currentSlide(8)">8</span>
+  <span class="dot" onclick="currentSlide(9)">9</span>
+  <span class="dot" onclick="currentSlide(10)">10</span>
+</div>
+
+
+
+
+<script>
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " active";
+}
+</script>
+
+</body>
+</html>

@@ -1,0 +1,14 @@
+{
+    "1000": {
+        "id": 1000,
+        "question": "a- or an-.",
+        "answer": "a- or an- means without or lacking. For example, aphasia means without speech and anoxia means without oxygen.",
+        "img_src": ""
+    },
+    "1001": {
+        "id": 1001,
+        "question": "ab- or abs-.",
+        "answer": "ab- or abs- means away from. For example, abduct means to lead away and abstain means to hold back.",
+        "img_src": ""
+    }
+}

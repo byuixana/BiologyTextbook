@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<player>
+
+<theme>blue</theme>
+
+<title intro="Pages/Special_Senses_main_intro.html">[RETURN] To Main Menu</title>
+
+<item type="nolink" name="WEEK 13.1 - SPECIAL SENSES">
+	<custom>
+		<text type="bold" font="Verdana, Avenir, Helvetica" size="20px" color="#fff" align="center" />
+		<box color="#3c3c3c" hover="#666666" />
+	</custom>
+</item>
+
+
+<item type="link" name="13.1.1 - Intro to Special Senses Anatomy">
+	<button load="Pages/13_1_1_intro_special_senses.html"/>
+</item>
+
+<item type="nolink" name="Eye">
+		<custom>
+				<text type="bold" font="Verdana, Avenir, Helvetica" size="16px" color="white" align="center" />
+				<box color="rgb(66, 96, 116)" hover="#666666" />
+		</custom>
+</item>
+
+<item type="nolink" name="13.1.2 - Eye Anatomy">
+	<custom>
+		<text type="bold"/>
+	</custom>
+</item>
+
+
+<!-- This is the beginning of the 2d Menu-->
+    <item type="expand" name="Accessory Structures of the Eye">
+        <subitem type="link" name="Eyebrows" sound="Sounds/eyebrows.wav">
+            <button name="Illustration" load="Images/1-Eye_anterior_illustration-Eye_Brow.jpg" />
+            <button name="Real Eye" load="Images/real_eye_eyebrow.jpg" />
+        </subitem>
+        <subitem type="link" name="Palpebrae" sound="Sounds/palpebrae.wav">
+            <button name="Illustration" load="Images/1-Eye_anterior_illustration-Palpebrae.jpg"/>
+            <button name="Real Eye" load="Images/real_eye_palpebra.jpg" />
+        </subitem>
+        <subitem type="link" name="Palpebral Fissure" sound="Sounds/palpebral_fissure.wav">
+            <button name="Illustration" load="Images/1-Eye_anterior_illustration-Palpebral_Fissure.jpg"/>
+            <button name="Real Eye" load="Images/real_eye_palpebral_fissure.jpg" />
+        </subitem>
+        <subitem type="link" name="Caruncle" sound="Sounds/caruncle.wav">
+            <button name="Illustration 1" load="Images/1-Eye_anterior_illustration-Caruncle.jpg"/>
+						<button name="Illustration 2" load="Images/Sobotta-caruncle-face.jpg"/>
+            <button name="Real Eye" load="Images/real_eye_caruncle.jpg" />
+        </subitem>
+        <subitem type="link" name="Eyelashes" sound="Sounds/eyelashes.wav">
+            <button load="Images/real_eye_eyelashes.jpg" />
+        </subitem>
+        <subitem type="link" name="Conjunctiva" sound="Sounds/conjunctiva.wav">
+            <button name="Illustration" load="Images/1-Eye_anterior_illustration-Conjunctiva.jpg"/>
+            <button name="Real Eye" load="Images/real_eye_conjunctiva.jpg" />
+        </subitem>
+    </item>
+    <item type="expand" name="Lacrimal Structures">
+        <subitem type="link" name="Lacrimal Gland" sound="Sounds/lacrimal_gland.wav">
+            <button name="Illustration" load="Images/1-Eye_anterior_illustration-Lacrimal_Gland.jpg"/>
+            <button name="Real Eye" load="Images/real_eye_lacrimal_gland.jpg" />
+        </subitem>
+        <subitem type="link" name="Lacrimal Canaliculi" sound="Sounds/lacrimal_canaliculi.wav">
+            <button name="Illustration 1" load="Images/1-Eye_anterior_illustration-Lacrimal_Canaliculi.jpg"/>
+						<button name="Illustration 2" load="Images/Sobotta-canaliculi-face.jpg"/>
+            <button name="Real Eye" load="Images/real_eye_lacrimal_caniliculi.jpg" />
+        </subitem>
+        <subitem type="link" name="Lacrimal Sac" sound="Sounds/lacrimal_sac.wav">
+            <button name="Illustration 1" load="Images/1-Eye_anterior_illustration-Lacrimal_Sac.jpg"/>
+						<button name="Illustration 2" load="Images/Sobotta-lacsac-face.jpg"/>
+            <button name="Real Eye" load="Images/real_eye_lacrimal_sac.jpg" />
+        </subitem>
+        <subitem type="link" name="Nasolacrimal Duct" sound="Sounds/nasolacrimal_duct.wav">
+            <button name="Illustration" load="Images/1-Eye_anterior_illustration-Nasolacrimal_Duct.jpg"/>
+            <button name="Real Eye" load="Images/real_eye_nasolacrimal_canal.jpg" />
+        </subitem>
+    </item>
+    <item type="expand" name="Extrinsic Eye Muscles">
+				<subitem type="link" name="Levator Palpebrea" sound="Sounds/sup_rectus.wav">
+						<button name="Anterior Right Eye" load="Images/lev-palp--turner-front.jpg"/>
+						<button name="Lateral 1 Left Eye" load="Images/Soboto-medial-eye-lev-palp.jpg"/>
+						<button name="Lateral 2 Right Eye" load="Images/Gray-lev-palp-side.jpg"/>
+						<button name="Top" load="Images/Soboto-top-levator-palp.jpg"/>
+				</subitem>
+				<subitem type="link" name="Superior Rectus" sound="Sounds/sup_rectus.wav">
+            <button name="Anterior Right Eye" load="Images/sup-rectus-turner-front.jpg"/>
+            <button name="Lateral 1 Right Eye" load="Images/sup-rectus-turner-side.jpg"/>
+						<button name="Lateral 2 Left Eye" load="Images/Soboto-medial-eye-sup-rec.jpg"/>
+						<button name="Lateral 3 Right Eye" load="Images/Gray-sup-rec-side.jpg"/>
+					  <button name="Top" load="Images/Soboto-top-sup-rectus.jpg"/>
+        </subitem>
+        <subitem type="link" name="Inferior Rectus" sound="Sounds/inf_rectus.wav">
+            <button name="Anterior Right Eye" load="Images/inf-rectus-turner-front.jpg"/>
+            <button name="Lateral 1 Right Eye" load="Images/inf-rectus-turner-side.jpg"/>
+						<button name="Lateral 2 Left Eye" load="Images/Soboto-medial-eye-inf-rec.jpg"/>
+						<button name="Lateral 3 Right Eye" load="Images/Gray-inf-rec-side.jpg"/>
+        </subitem>
+        <subitem type="link" name="Medial Rectus" sound="Sounds/med_rectus.wav">
+            <button name="Anterior Right Eye" load="Images/med-rectus-turner-front.jpg"/>
+            <button name="Lateral 1 Right Eye" load="Images/med-rectus-turner-side.jpg"/>
+						<button name="Lateral 2 Right Eye" load="Images/Gray-med-rec-side.jpg"/>
+						<button name="Top" load="Images/Soboto-top-rectus-med.jpg"/>
+        </subitem>
+        <subitem type="link" name="Lateral Rectus" sound="Sounds/lat_rectus.wav">
+					<button name="Anterior Right Eye" load="Images/lat-rectus-turner-front.jpg"/>
+					<button name="Lateral 1 Right Eye" load="Images/lat-rectus-turner-side.jpg"/>
+					<button name="Lateral 2 Left Eye" load="Images/Soboto-medial-eye-lat-rec.jpg"/>
+					<button name="Lateral 3 Right Eye" load="Images/Gray-lat-rec-side.jpg"/>
+					<button name="Top" load="Images/Soboto-top-lateral-rectus.jpg"/>
+        </subitem>
+        <subitem type="link" name="Superior Oblique" sound="Sounds/sup_oblique.wav">
+            <button name="Anterior Right Eye" load="Images/sup-oblique-turner-front.jpg"/>
+						<button name="Lateral 1 Right Eye" load="Images/sup-oblique-turner-side.jpg"/>
+						<button name="Lateral 2 Right Eye" load="Images/Gray-sup-oblique-side.jpg"/>
+						<button name="Top" load="Images/Soboto-top-sup-oblique.jpg"/>
+        </subitem>
+        <subitem type="link" name="Inferior Oblique" sound="Sounds/inf_oblique.wav">
+            <button name="Anterior Right Eye" load="Images/inf-oblique-turner-front.jpg"/>
+            <button name="Lateral 1 Right Eye" load="Images/inf-oblique-turner-side.jpg"/>
+						<button name="Lateral 2 Left Eye" load="Images/Soboto-medial-eye-inf-obliq.jpg"/>
+						<button name="Lateral 3 Right Eye" load="Images/Gray-inf-oblique-side.jpg"/>
+        </subitem>
+    </item>
+    <item type="expand" name="Eye Chambers">
+        <button name="Replay Animation" load="Images/Eye_Cross_Section_animation.gif"/>
+        <subitem type="link" name="Anterior Chamber" sound="Sounds/ant_chamber.wav">
+            <button load="Images/5-Eye_Cross_Section-Anterior_Chamber.jpg"/>
+        </subitem>
+        <subitem type="link" name="Posterior Chamber" sound="Sounds/post_chamber.wav">
+            <button load="Images/5-Eye_Cross_Section-Posterior_Chamber.jpg"/>
+        </subitem>
+        <subitem type="link" name="Aqueous Humor" sound="Sounds/aqueous_humor.wav">
+            <button load="Images/5-Eye_Cross_Section-Aqueous_Humor.jpg"/>
+        </subitem>
+        <subitem type="link" name="Vitreous Chamber with Vitreous Humor" sound="Sounds/vit_chamber.wav">
+            <button name="" load="Images/5-Eye_Cross_Section-Vitreous_Humor.jpg"/>
+        </subitem>
+    </item>
+    <item type="expand" name="Fibrous Tunic" sound="Sounds/fibrous_tunic.wav">
+        <subitem type="link" name="Sclera" sound="Sounds/sclera.wav">
+            <button name="Illustration" load="Images/5-Eye_Cross_Section-Sclera.jpg"/>
+            <button name="Real Eye" load="Images/real_sclera.jpg"/>
+        </subitem>
+        <subitem type="link" name="Cornea" sound="Sounds/cornea.wav">
+            <button name="Illustration 1" load="Images/5-Eye_Cross_Section-Cornea.jpg"/>
+						<button name="Illustration 2" load="Images/cornea_drawing.jpg"/>
+            <button name="Real Eye" load="Images/cornea_real.jpg"/>
+        </subitem>
+    </item>
+    <item type="expand" name="Vascular Tunic" sound="Sounds/vasc_tunic.wav">
+        <subitem type="link" name="Choroid" sound="Sounds/choroid.wav">
+            <button name="Illustration 1" load="Images/6-Eye_Cross_Section_Full-Choroid.jpg"/>
+						<button name="Illustration 2" load="Images/choroid-wiki.jpg"/>
+						<button name="Highlight in Blue" load="Images/choroid-wiki-blue.jpg"/>
+        </subitem>
+        <subitem type="expand" name="Ciliary Body" sound="Sounds/ciliary_body.wav">
+            <button name="" load="Images/6-Eye_Cross_Section_Full-Ciliary_Body.jpg"/>
+            <subsubitem type="link" name="Ciliary Muscles" sound="Sounds/ciliary_muscles.wav">
+                <button name="Illustration 1" load="Images/5-Eye_Cross_Section_ciliary_muscle.jpg"/>
+								<button name="Illustration 2" load="Images/Eye-dia-Wiki-ciliary-mm.jpg"/>
+								<button name="Highlight in Blue" load="Images/Eye-dia-Wiki-ciliary-blu.jpg"/>
+            </subsubitem>
+            <subsubitem type="link" name="Suspensory Ligaments" sound="Sounds/susp_ligaments.wav">
+                <button load="Images/5-Eye_Cross_Section-Suspensory_Ligaments.jpg"/>
+								<button name="Illustration 1" load="Images/5-Eye_Cross_Section-Suspensory_Ligaments.jpg"/>
+								<button name="Illustration 2" load="Images/Eye-dia-Wiki-lig.jpg"/>
+								<button name="Highlight in Blue" load="Images/Eye-dia-Wiki-lig-blu.jpg"/>
+            </subsubitem>
+        </subitem>
+        <subitem type="link" name="Iris" sound="Sounds/iris.wav">
+            <button name="Illustration" load="Images/5-Eye_Cross_Section-Iris.jpg"/>
+            <button name="Real Eye" load="Images/iris2.jpg" />
+        </subitem>
+        <subitem type="link" name="Lens">
+            <button name="Illustration" load="Images/5-Eye_Cross_Section-Lens.jpg"/>
+            <button name="Real Eye" load="Images/cataract2.jpg"/>
+        </subitem>
+        <subitem type="link" name="Pupil" sound="Sounds/pupil.wav">
+            <button name="Illustration" load="Images/pupil-wiki.jpg"/>
+            <button name="Real Eye" load="Images/pupil-wiki2.jpg" />
+        </subitem>
+    </item>
+    <item type="expand" name="Nervous Tunic (Retina)">
+        <button name="Illustration" load="Images/6-Eye_Cross_Section_Full-Retina.jpg"/>
+				<button name="Illustration 2" load="Images/Eye-diagram-Wiki-retina.jpg"/>
+        <button name="Higlight in Blue" load="Images/Eye-Wiki-retina-blue.jpg"/>
+
+			<subitem type="link" name="Ora Serrata" sound="Sounds/ora_serrata.wav">
+            <button name="Illustration 1" load="Images/6-Eye_Cross_Section_Full-Ora_Serrata.jpg"/>
+						<button name="Illustration 2" load="Images/Eye-dia-Wiki-ora-serr.jpg"/>
+        </subitem>
+
+        <subitem type="link" name="Macula Lutea" sound="Sounds/macula_lutea.wav">
+            <button name="Illustration 1" load="Images/6-Eye_Cross_Section_Full-Macula_Lutea.jpg"/>
+            <button name="Real Eye" load="Images/Macula-Wiki1.jpg"/>
+        </subitem>
+        <subitem type="link" name="Central Fovea (Fovea Centralis)" sound="Sounds/fovea_centralis.wav">
+            <button name="Illustration 1" load="Images/6-Eye_Cross_Section_Full-Central_Fovea.jpg"/>
+            <button name="Real Eye" load="Images/Fovea-Wiki1.jpg"/>
+        </subitem>
+        <subitem type="link" name="Optic Disk" sound="Sounds/optic_disk.wav">
+            <button name="Illustration 1" load="Images/6-Eye_Cross_Section_Full-Optic_Disc.jpg"/>
+            <button name="Real Eye 1" load="Images/OpticDisc-Wiki1.jpg"/>
+						<button name="Real Eye 2" load="Images/optic-disc-wiki-3.jpg"/>
+        </subitem>
+        <subitem type="link" name="Optic Nerve" sound="Sounds/optic_nerv.wav">
+            <button name="Illustration 1" load="Images/6-Eye_Cross_Section_Full-Optic-Nerve.jpg"/>
+						<button name="Illustration 2" load="Images/Eye-dia-Wiki-optic.jpg"/>
+						<button name="Illustration 3" load="Images/gray-optic-nerve.jpg"/>
+        </subitem>
+    </item>
+		<item type="nolink" name="Ear">
+				<custom>
+						<text type="bold" font="Verdana, Avenir, Helvetica" size="16px" color="white" align="center" />
+						<box color="rgb(66, 96, 116)" hover="#666666" />
+				</custom>
+		</item>
+
+		<item type="nolink" name="13.1.3 - Ear Anatomy">
+			<custom>
+				<text type="bold"/>
+			</custom>
+		</item>
+
+    <item type="expand" name="External (Outer) Ear">
+			<subitem type="link" name="Pinna (Auricle)" sound="Sounds/auricle.wav">
+					<button name="illustration" load="Images/Sobotta-auricle.jpg"/>
+					<button name="real ear" load="Images/adam_ea_pinnar.jpg"/>
+			</subitem>
+
+        <subitem type="link" name="Lobule" sound="Sounds/lobule.wav">
+            <button load="Images/adam_ea_lobule.jpg"/>
+        </subitem>
+        <subitem type="link" name="Tragus" sound="Sounds/tragus.wav">
+            <button name="Real Ear" load="Images/adam_ear_tragus.jpg"/>
+						<button name="Highlight in Blue" load="Images/adam_ear_tragus_blu.jpg"/>
+        </subitem>
+        <subitem type="link" name="External Auditory (Acoustic) Meatus and Canal" sound="Sounds/ext_aucustic_meatus.wav">
+            <button name="External Meatus" load="Images/adam_ear_meatus.jpg"/>
+            <button name="Auditory Canal" load="Images/Auditory_Canal_box.jpg"/>
+						<button name="Higlight in Blue" load="Images/Auditory_Canal_highlight.jpg"/>
+						<button name="Illustration 2" load="Images/auditory_canal_turner.jpg"/>
+        </subitem>
+        <subitem type="link" name="Tympanic Membrane" sound="Sounds/tymp_membrane.wav">
+  					<button name="Illustration 1" load="Images/tympanic_membrane_box.jpg"/>
+						<button name="Highlight in Blue" load="Images/tympanic_membrane_highlight.jpg"/>
+						<button name="Illustration 2" load="Images/tympanic_membrane_turner.jpg"/>
+            <button name="Illustration 3" load="Images/Tympanic-Membrane.jpg"/>
+        </subitem>
+    </item>
+    <item type="expand" name="Middle Ear (Tympanic Cavity)">
+        <subitem type="link" name="Eustachian (Auditory) Tube" sound="Sounds/eustachian_tube.wav">
+            <button name="Illustration 1" load="Images/Auditory_tube_box.jpg"/>
+            <button name="Highlight in Blue" load="Images/Auditory_tube_highlight.jpg" />
+            <button name="Illustration 2" load="Images/auditory_tube_turner.jpg" />
+        </subitem>
+        <subitem type="expand" name="Auditory Ossicles (Ear Bones)">
+            <button load="Images/ossicles_bw.jpg"/>
+            <subsubitem type="link" name="Malleus" sound="Sounds/malleus.wav">
+                <button name="Illustration 1" load="Images/ossicles_bw_malleus.jpg"/>
+                <button name="Illustration 2" load="Images/maleous_turner.jpg"/>
+            </subsubitem>
+            <subsubitem type="link" name="Incus" sound="Sounds/incus.wav">
+                <button name="Illustration 1" load="Images/ossicles_bw_incus.jpg"/>
+                <button name="Illustration 2" load="Images/incus_turner.jpg"/>
+            </subsubitem>
+            <subsubitem type="link" name="Stapes" sound="Sounds/stapes.wav">
+                <button name="Illustration 1" load="Images/ossicles_bw_stapes.jpg"/>
+                <button name="Illustration 2" load="Images/stapes_turner.jpg"/>
+            </subsubitem>
+        </subitem>
+        <subitem type="link" name="Tensor Tympani Muscle" sound="Sounds/tensor_typm_muscle.wav">
+            <button name="Illustration 1" load="Images/tensor-tympani_box.jpg"/>
+						<button name="Highlight in Blue" load="Images/tensor-tympani_highlight.jpg"/>
+						<button name="Illustration 2" load="Images/tensor_tympani_turner.jpg"/>
+        </subitem>
+        <subitem type="link" name="Stapedius Muscle" sound="Sounds/stapedius_muscle.wav">
+            <button name="Illustration 1" load="Images/stapedius_turner.jpg"/>
+						<button name="Illustration 2" load="Images/stapedius-wiki1.jpg"/>
+        </subitem>
+        <subitem type="link" name="Fenestra Vestibuli (Oval Window)" sound="Sounds/fenestra_vestibuli.wav">
+            <button name="Illustration 1" load="Images/oval_window_turner.jpg"/>
+            <button name="Illustration 2" load="Images/oval_window_lg.jpg"/>
+        </subitem>
+        <subitem type="link" name="Fenestra Cochlea (Round Window)" sound="Sounds/fenestra_cochlea.wav">
+            <button name="Illustration 1" load="Images/round_window_turner.jpg"/>
+            <button name="Illustration 2" load="Images/round_window_lg.jpg"/>
+        </subitem>
+    </item>
+    <item type="expand" name="Internal (Inner) Ear">
+        <subitem type="expand" name="Cochlea" sound="Sounds/cochlea.wav">
+            <button name="Illustration 1" load="Images/cochlea_box.jpg"/>
+            <button name="Highlight in Blue" load="Images/cochlea_highlight.jpg"/>
+            <button name="Illustration 2" load="Images/cochlea_turner.jpg"/>
+
+            <subsubitem type="link" name="Scala Vestibuli" sound="Sounds/scala_vestibuli.wav">
+                <button load="Images/scala_vestibuli_wiki1.jpg"/>
+            </subsubitem>
+            <subsubitem type="link" name="Vestibular Membrane" sound="Sounds/vestibular_membrane.wav">
+                <button load="Images/vestibular_membrane_wiki1.jpg"/>
+            </subsubitem>
+            <subsubitem type="link" name="Scala Tympani" sound="Sounds/scala_tympani.wav">
+                <button load="Images/scala_tympani_wiki1.jpg"/>
+            </subsubitem>
+            <subsubitem type="link" name="Scala Media (Cochlear Duct)" sound="Sounds/scala_media.wav">
+                <button load="Images/scala_media_wiki1.jpg"/>
+            </subsubitem>
+        </subitem>
+        <subitem type="expand" name="Organ of Corti (Spiral Organ)" sound="Sounds/organ_of_corti.wav">
+            <button load="Images/organ_corti_wiki1.jpg"/>
+            <subsubitem type="link" name="Basilar membrane" sound="Sounds/basilar_membrane.wav">
+                <button load="Images/basilar_membrane_wiki1.jpg"/>
+            </subsubitem>
+            <subsubitem type="link" name="Tectorial Membrane" sound="Sounds/tectorial_membrane.wav">
+                <button load="Images/tectoria_wiki1.jpg"/>
+            </subsubitem>
+            <subsubitem type="link" name="Hair Cells" sound="Sounds/hair_cells.wav">
+                <button load="Images/Hair-Cells1.jpg"/>
+            </subsubitem>
+        </subitem>
+        <subitem type="link" name="Vestibulocochlear (Auditory) Nerve" sound="Sounds/vestibulococh_or_aud_nerve.wav">
+            <button name="Illustration" load="Images/vestib_coch_box.jpg"/>
+            <button name="Highlight in Blue" load="Images/vestib_coch_highlight.jpg"/>
+        </subitem>
+        <subitem type="expand" name="Semicircular Canals" sound="Sounds/semicircular_canals.wav">
+            <button name="" load="Images/semicircular_canals_soboto.jpg"/>
+
+						<subsubitem type="link" name="Lateral Semicircular Canal">
+							  <button name="Illustration 1" load="Images/lateral_canal_soboto.jpg"/>
+								<button name="Illustration 2" load="Images/lateral_canal_box.jpg"/>
+
+            </subsubitem>
+            <subsubitem type="link" name="Superior Semicircular Canal">
+ 						    <button name="Illustration 1" load="Images/superior_canal_soboto.jpg"/>
+							  <button name="Illustration 2" load="Images/superior_canal_box.jpg"/>
+
+            </subsubitem>
+            <subsubitem type="link" name="Posterior Semicircular Canal">
+							  <button name="Illustration 1" load="Images/posterior_canal_soboto.jpg"/>
+								<button name="Illustration 2" load="Images/posterior_canal_box.jpg"/>
+
+            </subsubitem>
+            <subsubitem type="link" name="Ampullae" sound="Sounds/ampullae.wav">
+                <button name="" load="Images/ampulae_soboto.jpg"/>
+            </subsubitem>
+        </subitem>
+    </item>
+
+
+<!-- End of 2d Menu -->
+
+
+<item type="expand" name="13.1.4 - Special Senses Anatomy Videos">
+
+			<subitem type="link" name="External Ear Anatomy">
+			<button load="Pages/13_1_4_ExternalEar_video.html" />
+			</subitem>
+
+		 <subitem type="link" name="Inner Ear Anatomy">
+	   <button load="Pages/13_1_4_InnerEar_video.html" />
+	   </subitem>
+
+		<subitem type="link" name="Outer Eye Anatomy - Part 1">
+		<button load="Pages/13_1_4_OuterEye_1_video.html" />
+		</subitem>
+
+		<subitem type="link" name="Outer Eye Anatomy - Part 2">
+		<button load="Pages/13_1_4_OuterEye_2_video.html" />
+		</subitem>
+
+		<subitem type="link" name="Inner Eye Anatomy">
+		<button load="Pages/13_1_4_InnerEye_video.html" />
+		</subitem>
+
+</item>
+
+
+<item type="nolink" name="WEEK 13.2 - PRACTICE">
+	<custom>
+		<text type="bold" font="Verdana, Avenir, Helvetica" size="20px" color="#fff" align="center" />
+		<box color="#3c3c3c" hover="#666666" />
+	</custom>
+</item>
+
+<item type="link" name="13.2.1 - Descriptions">
+	<button load="Pages/13_2_1_descriptions.html"/>
+</item>
+
+<item type="link" name="13.2.3 - [download] Flashcards">
+	<button load="https://content.byui.edu/file/5111f3f1-bb2b-41c2-9ba1-d00c26274ce1/1/Special%20Senses.apkg"/>
+</item>
+
+</player>

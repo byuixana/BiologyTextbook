@@ -1,0 +1,710 @@
+{
+  "$schema": "./lab_data.schema.json",
+  "title": "Arm Muscles",
+  "sections": [
+    {
+      "id": "week-9-1-arm-muscles",
+      "title": "WEEK 9.1 - ARM MUSCLES",
+      "data": [
+        {
+          "id": 0,
+          "label": "WEEK 9.1 - ARM MUSCLES",
+          "children": [],
+          "type": "none"
+        },
+        {
+          "id": 1,
+          "label": "9.1.1 - Intro to Arm Muscles",
+          "load": "Pages/9_1_1_intro arm muscles.html",
+          "children": []
+        },
+        {
+          "id": 2,
+          "label": "9.1.1- Arm 2D Muscle Anatomy",
+          "children": [
+            {
+              "id": 3,
+              "label": "Muscles Acting on the Humerus",
+              "children": [
+                {
+                  "id": 4,
+                  "label": "Coracobrachialis",
+                  "type": "img",
+                  "sound": "Sounds/coracobrachialis.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "Images/Coracobrachialis (13).png"
+                    },
+                    {
+                      "label": "Example 2",
+                      "img": "Images/Coracobrachialis.png"
+                    },
+                    {
+                      "label": "Example 3",
+                      "img": "Images/Coracobrachialis Anterior.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 5,
+                  "label": "Deltoid",
+                  "type": "img",
+                  "sound": "Sounds/deltoid.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "Images/Deltoid (5).png"
+                    },
+                    {
+                      "label": "Example 2",
+                      "img": "Images/Deltoid Anterior.png"
+                    },
+                    {
+                      "label": "Example 3",
+                      "img": "Images/Deltoid Posterior.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 6,
+                  "label": "Latissimus Dorsi",
+                  "type": "img",
+                  "sound": "Sounds/latissimus_dorsi.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "Images/Latissimus dorsi  (1).png"
+                    },
+                    {
+                      "label": "Example 2",
+                      "img": "Images/Latissimus Dorsi 346.png"
+                    },
+                    {
+                      "label": "Example 3",
+                      "img": "Images/Latissimus Dorsi Posterior.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 7,
+                  "label": "Pectoralis Major",
+                  "type": "img",
+                  "sound": "Sounds/pectoralis_major.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "Images/Pectoralis major (3).png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 8,
+                  "label": "Infraspinatus",
+                  "type": "img",
+                  "sound": "Sounds/infraspinatus.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "Images/Infraspinatus 346.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 9,
+                  "label": "Supraspinatus",
+                  "type": "img",
+                  "sound": "Sounds/supraspinatus.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "Images/Supraspinatus 346.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 10,
+                  "label": "Subscapularis",
+                  "type": "img",
+                  "sound": "Sounds/subscapularis.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "Images/subscapularis.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 11,
+                  "label": "Teres Minor",
+                  "type": "img",
+                  "sound": "Sounds/teres_minor.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "Images/Teres Minor 346.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 12,
+                  "label": "Teres Major",
+                  "type": "img",
+                  "sound": "Sounds/teres_major.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "Images/Teres Major 346.png"
+                    },
+                    {
+                      "label": "Example 2 - Anterior View",
+                      "img": "Images/Teres Major Anteromedial.png"
+                    }
+                  ],
+                  "children": []
+                }
+              ],
+              "type": "none"
+            },
+            {
+              "id": 13,
+              "label": "Muscles Acting on the Forearm",
+              "children": [
+                {
+                  "id": 14,
+                  "label": "Biceps Brachii",
+                  "type": "img",
+                  "sound": "Sounds/biceps_brachii.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "Images/Biceps_Brachii.png"
+                    },
+                    {
+                      "label": "Example 2",
+                      "img": "Images/Biceps-Brachii.png"
+                    },
+                    {
+                      "label": "Long Head",
+                      "img": "Images/Biceps Brachii Long Head Illistration.png"
+                    },
+                    {
+                      "label": "Short Head",
+                      "img": "Images/Biceps Brachii Short Head Illistration.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 15,
+                  "label": "Brachialis",
+                  "type": "img",
+                  "sound": "Sounds/brachialis.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "Images/Brachialis.png"
+                    },
+                    {
+                      "label": "Example 2",
+                      "img": "Images/Brachialis_3.png"
+                    },
+                    {
+                      "label": "Example 3",
+                      "img": "Images/Brachialis Anteromedial.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 16,
+                  "label": "Brachioradialis",
+                  "type": "img",
+                  "sound": "Sounds/brachioradialis.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "Images/Brachioradialis.png"
+                    },
+                    {
+                      "label": "Example 2",
+                      "img": "Images/Brachioradialis Anterior Arm.png"
+                    },
+                    {
+                      "label": "Example 3",
+                      "img": "Images/Brachiradialis101.png"
+                    },
+                    {
+                      "label": "Example 4",
+                      "img": "Images/Brachioradialis Anterior.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 17,
+                  "label": "Triceps Brachii",
+                  "type": "img",
+                  "sound": "Sounds/triceps_brachii.wav",
+                  "buttons": [
+                    {
+                      "label": "Lateral Head",
+                      "img": "Images/Tricep Brachii Lateral Head Posterior.png"
+                    },
+                    {
+                      "label": "Long Head",
+                      "img": "Images/triceps Brachii Long Head Posterior.png"
+                    },
+                    {
+                      "label": "Medial Head",
+                      "img": "Images/Tricep Brachii Medial Head Posterior.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 18,
+                  "label": "Anconeus",
+                  "type": "img",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "Images/Anconeus_Grey.png"
+                    },
+                    {
+                      "label": "Example 2",
+                      "img": "Images/Anconeus_Anatomie.jpg"
+                    },
+                    {
+                      "label": "Example 3",
+                      "img": "Images/Anconeus_Braus.jpg"
+                    }
+                  ],
+                  "children": []
+                }
+              ],
+              "type": "none"
+            },
+            {
+              "id": 19,
+              "label": "Muscles that Move the Hand",
+              "children": [
+                {
+                  "id": 20,
+                  "label": "Flexor Carpi Ulnaris",
+                  "type": "img",
+                  "sound": "Sounds/flexor_carpi_ulnaris.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "Images/Flexor Carpi Ulnaris Anterior.png"
+                    },
+                    {
+                      "label": "Example 2",
+                      "img": "Images/Flexor Carpi Ulnaris Anterior Arm.png"
+                    },
+                    {
+                      "label": "Posterior View",
+                      "img": "Images/Flexor Carpi Ulnaris Posterior Arm.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 21,
+                  "label": "Flexor Digitorum Superficialis",
+                  "type": "img",
+                  "sound": "Sounds/flexor_digitorum_superficialis.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "Images/Flexor Digitorum Superficialis Anterior.png"
+                    },
+                    {
+                      "label": "Example 2",
+                      "img": "Images/Flexor Digitorium Superficialis Anterior Arm.png"
+                    },
+                    {
+                      "label": "Example 3",
+                      "img": "Images/Flexor Digitorum Superficialis Gray Illistration.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 22,
+                  "label": "Palmaris Longus",
+                  "type": "img",
+                  "sound": "Sounds/palmaris_longus.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "Images/Palmaris-Longus (7).png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 23,
+                  "label": "Flexor Carpi Radialis",
+                  "type": "img",
+                  "sound": "Sounds/flexor_carpi_radialis.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "Images/Flexor Carpi Radialis Anterior.png"
+                    },
+                    {
+                      "label": "Example 2",
+                      "img": "Images/Flexor Carpi Radialis Anterior Arm.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 24,
+                  "label": "Pronator Teres",
+                  "type": "img",
+                  "sound": "Sounds/pronator_teres.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "Images/Pronator Teres Anterior Arm.png"
+                    },
+                    {
+                      "label": "Example 2",
+                      "img": "Images/Pronator-Teres (5).png"
+                    },
+                    {
+                      "label": "Example 3",
+                      "img": "Images/Pronator Teres Anteriomedial.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 25,
+                  "label": "Pronator Quadratuss",
+                  "type": "img",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "Images/pronator-quad-Blaus.png"
+                    },
+                    {
+                      "label": "Example 2",
+                      "img": "Images/pronator-quad-Grey.png"
+                    },
+                    {
+                      "label": "Example 3",
+                      "img": "Images/Pronator-Quad-Sobotto.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 26,
+                  "label": "Supinator",
+                  "type": "img",
+                  "sound": "Sounds/supinator.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "Images/Suppinator Anterior Arm.png"
+                    },
+                    {
+                      "label": "Example 2",
+                      "img": "Images/Supinator.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 27,
+                  "label": "Flexor Digitorum Profundus",
+                  "type": "img",
+                  "sound": "Sounds/flexor_digitorum_profundus.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "Images/FDP_FPL_Gray.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 28,
+                  "label": "Flexor Pollicis Longus",
+                  "type": "img",
+                  "sound": "Sounds/flexor_pollicis_longus.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "Images/FDP_FPL_Gray.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 29,
+                  "label": "Extensor Carpi Radialis Longus",
+                  "type": "img",
+                  "sound": "Sounds/extensor_carpi_radialis_longus.wav",
+                  "buttons": [
+                    {
+                      "label": "Illustration",
+                      "img": "Images/Extensor Carpi Radialis Longus Posterior Arm.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 30,
+                  "label": "Extensor Carpi Radialis Brevis",
+                  "type": "img",
+                  "sound": "Sounds/extensor_carpi_radialis_brevis.wav",
+                  "buttons": [
+                    {
+                      "label": "Illustration",
+                      "img": "Images/Ext_carpi_rad_brev.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 31,
+                  "label": "Abductor Pollicis Longus",
+                  "type": "img",
+                  "sound": "Sounds/abductor_pollicis_lonogus.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "Images/Abductor Pollicis Longus Posterior Arm.png"
+                    },
+                    {
+                      "label": "With Extensor Digitorum Removed",
+                      "img": "Images/Abductor Pollicis Longus (NO Digitorum) Posterior Arm.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 32,
+                  "label": "Extensor Pollicis Brevis",
+                  "type": "img",
+                  "sound": "Sounds/extensor_pollicis_Brevis.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "Images/Extensor Pollicis Brevis Posterior Arm.png"
+                    },
+                    {
+                      "label": "With Extensor Digitorum Removed",
+                      "img": "Images/Extensor Pollicis Brevis (NO Digitorum) Posterior Arm.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 33,
+                  "label": "Extensor Pollicis Longus",
+                  "type": "img",
+                  "sound": "Sounds/extensor_pollicis_Longus.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "Images/Extensor Pollicis Longus Posterior Arm.png"
+                    },
+                    {
+                      "label": "With Extensor Digitorum Removed",
+                      "img": "Images/Extensor Pollicis Longus (NO DIgitorum) Posterior Arm.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 34,
+                  "label": "Extensor Digitorum",
+                  "type": "img",
+                  "sound": "Sounds/extensor_digitorum.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "Images/Extensor Digitorum Posterior Arm.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 35,
+                  "label": "Extensor Digiti Minimi",
+                  "type": "img",
+                  "sound": "Sounds/extensor_digiti_minimi.wav",
+                  "buttons": [
+                    {
+                      "label": "Illustration",
+                      "img": "Images/Extensor Digiti Minimi Posterior Arm.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 36,
+                  "label": "Extensor Indices",
+                  "type": "img",
+                  "buttons": [
+                    {
+                      "label": "Illustration",
+                      "img": "Images/ExtensorIndicesGrey.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 37,
+                  "label": "Extensor Carpi Ulnaris",
+                  "type": "img",
+                  "sound": "Sounds/extensor_carpi_ulnaris.wav",
+                  "buttons": [
+                    {
+                      "label": "Illustration",
+                      "img": "Images/Extensor Carpi Ulnaris Posterior Arm.png"
+                    },
+                    {
+                      "label": "Ext Digitorum Removed",
+                      "img": "Images/Extensor Carpi Ulnaris (NO Digitorum) Posterior Arm.png"
+                    }
+                  ],
+                  "children": []
+                }
+              ],
+              "type": "none"
+            }
+          ],
+          "type": "none"
+        },
+        {
+          "id": 38,
+          "label": "9.1.2 - Arm Muscles 3D Anatomy",
+          "children": [
+            {
+              "id": 39,
+              "label": "Upper Arm",
+              "type": "none",
+              "child_items": [
+                {
+                  "page": "https://content.byui.edu/file/c1538d05-6f87-4a1b-8c3d-155267022b1c/1/Arm%20Upper/index.html"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 40,
+              "label": "Lower Arm",
+              "type": "none",
+              "child_items": [
+                {
+                  "page": "https://content.byui.edu/file/fce46a99-4495-4a75-91fc-2ca13d5b010c/1/Arm%20Lower/index.html"
+                }
+              ],
+              "children": []
+            }
+          ],
+          "type": "none"
+        },
+        {
+          "id": 41,
+          "label": "9.1.4 - Arm Muscle Anatomy Videos",
+          "children": [
+            {
+              "id": 42,
+              "label": "Muscles of the Upper Arm",
+              "children": [],
+              "load": "Pages/9_1_4_kaylie_muscles_UpperArm_video.html",
+              "type": "video",
+              "child_items": [
+                {
+                  "video_link": "https://cdnapisec.kaltura.com/p/1157612/sp/115761200/embedIframeJs/uiconf_id/41338032/partner_id/1157612?iframeembed=true&playerId=kaltura_player&entry_id=1_x8vr9h7e&flashvars[localizationCode]=en&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_hr44vzms"
+                }
+              ]
+            },
+            {
+              "id": 43,
+              "label": "Muscles of the Lower Arm",
+              "children": [],
+              "load": "Pages/9_1_4_kaylie_muscles_LowerArm_video.html",
+              "type": "video",
+              "child_items": [
+                {
+                  "video_link": "https://cdnapisec.kaltura.com/p/1157612/sp/115761200/embedIframeJs/uiconf_id/41338032/partner_id/1157612?iframeembed=true&playerId=kaltura_player&entry_id=1_7ri06exn&flashvars[localizationCode]=en&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_728aw7w4"
+                }
+              ]
+            }
+          ],
+          "type": "none"
+        }
+      ]
+    },
+    {
+      "id": "week-9-2-practice",
+      "title": "WEEK 9.2 - PRACTICE",
+      "data": [
+        {
+          "id": 44,
+          "label": "WEEK 9.2 - PRACTICE",
+          "children": [],
+          "type": "none"
+        },
+        {
+          "id": 45,
+          "label": "9.2.1 - Descriptions",
+          "load": "Pages/9_2_1_descriptions.html",
+          "children": []
+        },
+        {
+          "id": 46,
+          "label": "9.2.2 - Practice with 3D",
+          "children": [
+            {
+              "id": 47,
+              "label": "Arm Muscles Clickable",
+              "type": "none",
+              "child_items": [
+                {
+                  "page": "https://content.byui.edu/file/fb176702-87af-45f2-9dbb-02a21e909886/1/Arm%20Clickable/index.html"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 48,
+              "label": "Find Arm Muscles",
+              "type": "none",
+              "child_items": [
+                {
+                  "page": "https://content.byui.edu/file/fb176702-87af-45f2-9dbb-02a21e909886/1/Arm%20Find/index.html"
+                }
+              ],
+              "children": []
+            }
+          ],
+          "type": "none"
+        },
+        {
+          "id": 49,
+          "label": "9.2.4 - [download] Flashcards",
+          "children": [],
+          "type": "none"
+        }
+      ]
+    }
+  ]
+}

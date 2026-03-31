@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<player>
+
+<theme>blue</theme>
+
+<title intro="Pages/histology_main_intro.html">[RETURN] To Main Menu</title>
+
+
+
+
+
+<item type="nolink" name="WEEK 2.1 - HISTOLOGY">
+	<custom>
+		<text type="bold" font="Verdana, Avenir, Helvetica" size="20px" color="#fff" align="center" />
+		<box color="#3c3c3c" hover="#666666" />
+	</custom>
+</item>
+
+
+<item type="link" name="2.1.1 - Introduction to Histology">
+	<button load="Pages/2_1_1_intro_histology.html"/>
+</item>
+
+
+<item type="expand" name="2.1.2 - Epithelial Tissue">
+	<button load="Pages/2_1_2_epithelial.html"/>
+
+
+		<subitem type="link" name="Simple Squamous Epithelial Tissue - Video">
+			<button load="Pages/simple_sqamous.html" />
+		</subitem>
+
+		<subitem type="link" name="Simple Cuboidal Epithelial Tissue - Video">
+			<button load="Pages/simple_cuboidal.html" />
+		</subitem>
+
+		<subitem type="link" name="Simple Columnar Epithelial Tissue - Video">
+			<button load="Pages/simple_columnar.html" />
+		</subitem>
+
+		<subitem type="link" name="Pseudostratified Columnar Epithelial Tissue - Video">
+			<button load="Pages/pseudostratified_columnar.html" />
+		</subitem>
+
+		<subitem type="link" name="Stratified Sqamous Epithelial Tissue - Video">
+			<button load="Pages/stratified_sqamous.html" />
+		</subitem>
+
+		<subitem type="link" name="Transitional Epithelial Tissue - Video">
+			<button load="Pages/transitional.html" />
+		</subitem>
+
+</item>
+
+
+<item type="expand" name="2.1.3 - Connective Tissue">
+	<button load="Pages/2_1_3_connective.html"/>
+
+
+		<subitem type="link" name="Loose Fibrous Connective Tissue - Video">
+			<button load="Pages/loose_fibrous_connective.html" />
+		</subitem>
+
+		<subitem type="link" name="Adipose Tissue - Video">
+			<button load="Pages/adipose_connective.html" />
+		</subitem>
+
+		<subitem type="link" name="Dense Connective Tissue - Video">
+			<button load="Pages/dense_fibrous_connective.html" />
+		</subitem>
+
+		<subitem type="link" name="Cartilage - Video">
+			<button load="Pages/cartilage_connective.html" />
+		</subitem>
+
+		<subitem type="link" name="Bone - Video">
+			<button load="Pages/bone_connective.html" />
+		</subitem>
+
+</item>
+
+<item type="expand" name="2.1.4 - Muscle Tissue">
+	<button load="Pages/2_1_4_muscle.html"/>
+
+
+		<subitem type="link" name="Skeletal Muscle - Video">
+			<button load="Pages/skeletal_muscle.html" />
+		</subitem>
+
+		<subitem type="link" name="Smooth Muscle - Video">
+			<button load="Pages/smooth_muscle.html" />
+		</subitem>
+
+		<subitem type="link" name="Cardiac Muscle - Video">
+			<button load="Pages/cardiac_muscle.html" />
+		</subitem>
+
+</item>
+
+
+<item type="nolink" name="WEEK 2.2 - PRACTICE">
+	<custom>
+		<text type="bold" font="Verdana, Avenir, Helvetica" size="20px" color="#fff" align="center" />
+		<box color="#3c3c3c" hover="#666666" />
+	</custom>
+</item>
+
+<item type="expand" name="2.2.1 - Practice with Descriptions">
+
+		<subitem type="link" name="Epithelial Tissue">
+			<button load="Pages/2_2_1_descriptions_epithelial.html" />
+		</subitem>
+
+		<subitem type="link" name="Connective Tissue">
+			<button load="Pages/2_2_1_descriptions_connective.html" />
+		</subitem>
+
+		<subitem type="link" name="Muscle Tissue">
+			<button load="Pages/2_2_1_descriptions_muscle.html" />
+		</subitem>
+
+</item>
+
+<item type="expand" name="2.2.2 - Practice Identification">
+
+		<subitem type="link" name="Epithelial Tissue">
+			<button load="Powerpoints/Epithelial_Tissues_Review/index.html" />
+		</subitem>
+
+		<subitem type="link" name="Connective Tissue">
+			<button load="Powerpoints/Connective_Tissue_ Review/index.html" />
+		</subitem>
+
+		<subitem type="link" name="Muscle Tissue">
+			<button load="Powerpoints/Muscle_Review/index.html" />
+		</subitem>
+
+		<subitem type="link" name="All Tissues Reviewed">
+			<button load="Powerpoints/Review_All_Tissues/index.html" />
+		</subitem>
+
+</item>
+
+
+<item type="link" name="2.2.3 - Flashcards">
+	<button load="Pages/Flashcards.html"/>
+</item>
+
+
+
+
+
+
+
+</player>

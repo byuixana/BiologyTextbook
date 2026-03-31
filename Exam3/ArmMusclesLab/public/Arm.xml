@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<player>
+
+<theme>blue</theme>
+
+<title intro="Pages/Arm_muscles_main_intro.html">[RETURN] To Main Menu</title>
+
+<item type="nolink" name="WEEK 9.1 - ARM MUSCLES">
+	<custom>
+		<text type="bold" font="Verdana, Avenir, Helvetica" size="20px" color="#fff" align="center" />
+		<box color="#3c3c3c" hover="#666666" />
+	</custom>
+</item>
+
+
+<item type="link" name="9.1.1 - Intro to Arm Muscles">
+	<button load="Pages/9_1_1_intro arm muscles.html"/>
+</item>
+
+
+
+<!-- This is the beginning of the 2d Menu for the Arm Muscles-->
+
+<item type="expand" name="9.1.1- Arm 2D Muscle Anatomy">
+    <subitem type="expand" name="Muscles Acting on the Humerus">
+
+		      <subsubitem type="link" name="Coracobrachialis" sound="Sounds/coracobrachialis.wav">
+		        <button name="Example 1" load="Images/Coracobrachialis (13).png" />
+						<button name="Example 2" load="Images/Coracobrachialis.png" />
+ 					  <button name="Example 3" load="Images/Coracobrachialis Anterior.png" />
+
+
+		      </subsubitem>
+
+					<subsubitem type="link" name="Deltoid" sound="Sounds/deltoid.wav">
+						<button name="Example 1" load="Images/Deltoid (5).png" />
+						<button name="Example 2" load="Images/Deltoid Anterior.png" />
+						<button name="Example 3" load="Images/Deltoid Posterior.png" />
+				  </subsubitem>
+
+					<subsubitem type="link" name="Latissimus Dorsi" sound="Sounds/latissimus_dorsi.wav">
+				 	 <button name="Example 1" load="Images/Latissimus dorsi  (1).png" />
+					 <button name="Example 2" load="Images/Latissimus Dorsi 346.png" />
+					 <button name="Example 3" load="Images/Latissimus Dorsi Posterior.png" />
+				  </subsubitem>
+
+					<subsubitem type="link" name="Pectoralis Major" sound="Sounds/pectoralis_major.wav">
+				 	 <button name="Example 1" load="Images/Pectoralis major (3).png" />
+				  </subsubitem>
+
+					<subsubitem type="link" name="Infraspinatus" sound="Sounds/infraspinatus.wav">
+					 <button name="Example 1" load="Images/Infraspinatus 346.png" />
+					</subsubitem>
+
+					<subsubitem type="link" name="Supraspinatus" sound="Sounds/supraspinatus.wav">
+					 <button name="Example 1" load="Images/Supraspinatus 346.png" />
+					</subsubitem>
+
+					<subsubitem type="link" name="Subscapularis" sound="Sounds/subscapularis.wav">
+					 <button name="Example 1" load="Images/subscapularis.png" />
+					</subsubitem>
+
+					<subsubitem type="link" name="Teres Minor" sound="Sounds/teres_minor.wav">
+					 <button name="Example 1" load="Images/Teres Minor 346.png" />
+					</subsubitem>
+
+					<subsubitem type="link" name="Teres Major" sound="Sounds/teres_major.wav">
+					 <button name="Example 1" load="Images/Teres Major 346.png" />
+					 <button name="Example 2 - Anterior View" load="Images/Teres Major Anteromedial.png" />
+					</subsubitem>
+
+		  </subitem>
+
+
+    <subitem type="expand" name="Muscles Acting on the Forearm">
+
+	      <subsubitem type="link" name="Biceps Brachii" sound="Sounds/biceps_brachii.wav">
+	        <button name="Example 1" load="Images/Biceps_Brachii.png" />
+					<button name="Example 2" load="Images/Biceps-Brachii.png" />
+					<button name="Long Head" load="Images/Biceps Brachii Long Head Illistration.png" />
+					<button name="Short Head" load="Images/Biceps Brachii Short Head Illistration.png" />
+	      </subsubitem>
+
+				<subsubitem type="link" name="Brachialis" sound="Sounds/brachialis.wav">
+			 	 <button name="Example 1" load="Images/Brachialis.png" />
+				 <button name="Example 2" load="Images/Brachialis_3.png" />
+				 <button name="Example 3" load="Images/Brachialis Anteromedial.png" />
+			  </subsubitem>
+
+				<subsubitem type="link" name="Brachioradialis" sound="Sounds/brachioradialis.wav">
+				 <button name="Example 1" load="Images/Brachioradialis.png" />
+ 				 <button name="Example 2" load="Images/Brachioradialis Anterior Arm.png" />
+ 				 <button name="Example 3" load="Images/Brachiradialis101.png" />
+				 <button name="Example 4" load="Images/Brachioradialis Anterior.png" />
+			  </subsubitem>
+
+				<subsubitem type="link" name="Triceps Brachii" sound="Sounds/triceps_brachii.wav">
+					<button name="Lateral Head" load="Images/Tricep Brachii Lateral Head Posterior.png" />
+  				<button name="Long Head" load="Images/triceps Brachii Long Head Posterior.png" />
+  				<button name="Medial Head" load="Images/Tricep Brachii Medial Head Posterior.png" />
+			  </subsubitem>
+
+				<subsubitem type="link" name="Anconeus" sound="">
+				 <button name="Example 1" load="Images/Anconeus_Grey.png" />
+				 <button name="Example 2" load="Images/Anconeus_Anatomie.jpg" />
+				 <button name="Example 3" load="Images/Anconeus_Braus.jpg" />
+				 <button name="Video Explanation" load="https://cdnapisec.kaltura.com/index.php/extwidget/preview/partner_id/1157612/uiconf_id/42438192/entry_id/1_i5t19wdd/embed/dynamic" />
+				</subsubitem>
+
+
+    </subitem>
+
+    <subitem type="expand" name="Muscles that Move the Hand">
+
+	      <subsubitem type="link" name="Flexor Carpi Ulnaris" sound="Sounds/flexor_carpi_ulnaris.wav">
+	        <button name="Example 1" load="Images/Flexor Carpi Ulnaris Anterior.png" />
+					<button name="Example 2" load="Images/Flexor Carpi Ulnaris Anterior Arm.png" />
+					<button name="Posterior View" load="Images/Flexor Carpi Ulnaris Posterior Arm.png" />
+	      </subsubitem>
+
+				<subsubitem type="link" name="Flexor Digitorum Superficialis" sound="Sounds/flexor_digitorum_superficialis.wav">
+ 				 <button name="Example 1" load="Images/Flexor Digitorum Superficialis Anterior.png" />
+				 <button name="Example 2" load="Images/Flexor Digitorium Superficialis Anterior Arm.png" />
+				 <button name="Example 3" load="Images/Flexor Digitorum Superficialis Gray Illistration.png" />
+ 			 </subsubitem>
+
+			 <subsubitem type="link" name="Palmaris Longus" sound="Sounds/palmaris_longus.wav">
+			 	<button name="Example 1" load="Images/Palmaris-Longus (7).png" />
+			 </subsubitem>
+
+			 <subsubitem type="link" name="Flexor Carpi Radialis" sound="Sounds/flexor_carpi_radialis.wav">
+				 <button name="Example 1" load="Images/Flexor Carpi Radialis Anterior.png" />
+				 <button name="Example 2" load="Images/Flexor Carpi Radialis Anterior Arm.png" />
+			 </subsubitem>
+
+			 <subsubitem type="link" name="Pronator Teres" sound="Sounds/pronator_teres.wav">
+			 	<button name="Example 1" load="Images/Pronator Teres Anterior Arm.png" />
+				<button name="Example 2" load="Images/Pronator-Teres (5).png" />
+				<button name="Example 3" load="Images/Pronator Teres Anteriomedial.png" />
+			 </subsubitem>
+
+			 <subsubitem type="link" name="Pronator Quadratuss" sound="">
+			 	<button name="Example 1" load="Images/pronator-quad-Blaus.png" />
+				<button name="Example 2" load="Images/pronator-quad-Grey.png" />
+				<button name="Example 3" load="Images/Pronator-Quad-Sobotto.png" />
+			 </subsubitem>
+
+			 <subsubitem type="link" name="Supinator" sound="Sounds/supinator.wav">
+				 <button name="Example 1" load="Images/Suppinator Anterior Arm.png" />
+				 <button name="Example 2" load="Images/Supinator.png" />
+			 </subsubitem>
+
+			 <subsubitem type="link" name="Flexor Digitorum Profundus" sound="Sounds/flexor_digitorum_profundus.wav">
+				 <button name="Example 1" load="Images/FDP_FPL_Gray.png" />
+			 </subsubitem>
+
+			 <subsubitem type="link" name="Flexor Pollicis Longus" sound="Sounds/flexor_pollicis_longus.wav">
+				 <button name="Example 1" load="Images/FDP_FPL_Gray.png" />
+			 </subsubitem>
+
+			 <subsubitem type="link" name="Extensor Carpi Radialis Longus" sound="Sounds/extensor_carpi_radialis_longus.wav">
+				<button name="Illustration" load="Images/Extensor Carpi Radialis Longus Posterior Arm.png" />
+				<button name="Video Explanation" load="https://cdnapisec.kaltura.com/index.php/extwidget/preview/partner_id/1157612/uiconf_id/42438192/entry_id/1_whmmrwvs/embed/dynamic" />
+			 </subsubitem>
+
+			 <subsubitem type="link" name="Extensor Carpi Radialis Brevis" sound="Sounds/extensor_carpi_radialis_brevis.wav">
+ 			  <button name="Illustration" load="Images/Ext_carpi_rad_brev.png" />
+				<button name="Video Explanation" load="https://cdnapisec.kaltura.com/index.php/extwidget/preview/partner_id/1157612/uiconf_id/42438192/entry_id/1_whmmrwvs/embed/dynamic" />
+			 </subsubitem>
+
+			 <subsubitem type="link" name="Abductor Pollicis Longus" sound="Sounds/abductor_pollicis_lonogus.wav">
+			 	<button name="Example 1" load="Images/Abductor Pollicis Longus Posterior Arm.png" />
+				<button name="With Extensor Digitorum Removed" load="Images/Abductor Pollicis Longus (NO Digitorum) Posterior Arm.png" />
+			 </subsubitem>
+
+			 <subsubitem type="link" name="Extensor Pollicis Brevis" sound="Sounds/extensor_pollicis_Brevis.wav">
+			 	<button name="Example 1" load="Images/Extensor Pollicis Brevis Posterior Arm.png" />
+				<button name="With Extensor Digitorum Removed" load="Images/Extensor Pollicis Brevis (NO Digitorum) Posterior Arm.png" />
+			 </subsubitem>
+
+			 <subsubitem type="link" name="Extensor Pollicis Longus" sound="Sounds/extensor_pollicis_Longus.wav">
+			 <button name="Example 1" load="Images/Extensor Pollicis Longus Posterior Arm.png" />
+			 <button name="With Extensor Digitorum Removed" load="Images/Extensor Pollicis Longus (NO DIgitorum) Posterior Arm.png" />
+			</subsubitem>
+
+			 <subsubitem type="link" name="Extensor Digitorum" sound="Sounds/extensor_digitorum.wav">
+			  <button name="Example 1" load="Images/Extensor Digitorum Posterior Arm.png" />
+			 </subsubitem>
+
+			 <subsubitem type="link" name="Extensor Digiti Minimi" sound="Sounds/extensor_digiti_minimi.wav">
+ 			 <button name="Illustration" load="Images/Extensor Digiti Minimi Posterior Arm.png" />
+			 <button name="Video Explanation" load="https://cdnapisec.kaltura.com/index.php/extwidget/preview/partner_id/1157612/uiconf_id/42438192/entry_id/1_62rw287h/embed/dynamic" />
+			</subsubitem>
+
+			<subsubitem type="link" name="Extensor Indices" sound="">
+ 			<button name="Illustration" load="Images/ExtensorIndicesGrey.png" />
+			<button name="Video Explanation" load="https://cdnapisec.kaltura.com/index.php/extwidget/preview/partner_id/1157612/uiconf_id/42438192/entry_id/1_62rw287h/embed/dynamic" />
+		 </subsubitem>
+
+			<subsubitem type="link" name="Extensor Carpi Ulnaris" sound="Sounds/extensor_carpi_ulnaris.wav">
+			 <button name="Illustration" load="Images/Extensor Carpi Ulnaris Posterior Arm.png" />
+			 <button name="Ext Digitorum Removed" load="Images/Extensor Carpi Ulnaris (NO Digitorum) Posterior Arm.png" />
+			</subsubitem>
+
+    </subitem>
+
+
+</item>
+
+<!-- End of 2d Menu for Arm Muscles -->
+
+
+
+
+<item type="expand" name="9.1.2 - Arm Muscles 3D Anatomy">
+  		  <subitem type="xlink" name="Upper Arm">
+				<button load="https://content.byui.edu/file/c1538d05-6f87-4a1b-8c3d-155267022b1c/1/Arm%20Upper/index.html" target="_blank" />
+			  </subitem>
+
+		  	<subitem type="xlink" name="Lower Arm">
+				<button load="https://content.byui.edu/file/fce46a99-4495-4a75-91fc-2ca13d5b010c/1/Arm%20Lower/index.html" target="_blank" />
+		  	</subitem>
+</item>
+
+
+
+
+
+
+
+<item type="expand" name="9.1.4 - Arm Muscle Anatomy Videos">
+
+			<subitem type="link" name="Muscles of the Upper Arm">
+			<button load="Pages/9_1_4_kaylie_muscles_UpperArm_video.html" />
+			</subitem>
+
+			<subitem type="link" name="Muscles of the Lower Arm">
+			<button load="Pages/9_1_4_kaylie_muscles_LowerArm_video.html" />
+			</subitem>
+</item>
+
+
+<item type="nolink" name="WEEK 9.2 - PRACTICE">
+	<custom>
+		<text type="bold" font="Verdana, Avenir, Helvetica" size="20px" color="#fff" align="center" />
+		<box color="#3c3c3c" hover="#666666" />
+	</custom>
+</item>
+
+
+<item type="link" name="9.2.1 - Descriptions">
+	<button load="Pages/9_2_1_descriptions.html"/>
+</item>
+
+<item type="expand" name="9.2.2 - Practice with 3D">
+	  <subitem type="xlink" name="Arm Muscles Clickable">
+		<button load="https://content.byui.edu/file/fb176702-87af-45f2-9dbb-02a21e909886/1/Arm%20Clickable/index.html" target="_blank" />
+	  </subitem>
+
+	<subitem type="xlink" name="Find Arm Muscles">
+		<button load="https://content.byui.edu/file/fb176702-87af-45f2-9dbb-02a21e909886/1/Arm%20Find/index.html" target="_blank" />
+	</subitem>
+
+</item>
+
+
+<item type="link" name="9.2.4 - [download] Flashcards">
+	<button load="https://content.byui.edu/file/5111f3f1-bb2b-41c2-9ba1-d00c26274ce1/1/Arm%20Muscles.apkg"/>
+</item>
+
+</player>

@@ -1,0 +1,278 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<!-- responsive-fit patch -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {box-sizing: border-box}
+body {font-family: Verdana, sans-serif; margin:0; background-color: 	#000;
+}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 600px;
+  position: relative;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 50px;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: black;
+  font-weight: bold;
+  font-size: 24px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: #909090;
+}
+
+/* text */
+.text {
+  display: inline-block;
+  color: #000;
+  font-size: 15px;
+  position: relative;
+  padding: 50px 50px 50px 60px;
+  top: auto;
+  bottom: 8px;
+  width: 600px;
+  height: auto;
+  text-align: left;
+  background-color: 	#F8F8F8;
+
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #000;
+  font-size: 14px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 10;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 25px;
+  width: 25px;
+  margin: 0 2px;
+  padding-top: 2px;
+  background-color: #d0d0d0;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #818181;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+
+p {
+  margin-left: 40px;
+  color: white;
+  font-size: 20px;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
+</style>
+<style id="responsive-fit-style">
+  html {
+    min-height: 100%;
+    box-sizing: border-box;
+    overflow-x: hidden;
+  }
+  body {
+    min-height: 100%;
+    margin: 0;
+    padding-left: clamp(24px, 6vw, 64px);
+    padding-right: clamp(24px, 6vw, 64px);
+  }
+  *, *::before, *::after { box-sizing: inherit; }
+  img, video, iframe, object, embed {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  iframe {
+    width: min(100%, 960px);
+    aspect-ratio: 608 / 402;
+  }
+</style>
+</head>
+<body>
+
+
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+   <div class="numbertext">1 / 10</div>
+
+  <div class="text">I am a tissue made of a single layer of cells that are taller than they are wide. The nuclei of my cells are usually all lined up in an even row. I contain cells that secrete mucus. I line the digestive system and have a role in secretion and absorption. What am I?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Simple columnar epithelium'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 10</div>
+  <div class="text">I am a multi-layer tissue that is composed of flattened cells. My surface is made up of dead cells filled with a protein. My basement membrane is wavy and I make up the surface of the skin. I function to reduce water loss and act as a protective barrier. What am I?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Keratinized stratified squamous epithelium'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 10</div>
+  <div class="text">I am a cell that is found periodically among other cells that are taller than they are wide. My neighbors often contain hair-like structures on their outside surface. I secrete a substance that is important for trapping dust and pathogens in the respiratory system. What am I and what do I secrete?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='I am a goblet cell and I secrete mucus.'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">4 / 10</div>
+  <div class="text">I am a tissue made of a single layer of cells that are the same height and width. The nuclei of my cells are located in the center and are round. I often line ducts and tubes. I participate in selective transport and secretion. What am I?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Simple cuboidal epithelium'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">5 / 10</div>
+  <div class="text">I am a tissue made of a single layer of flattened cells. I line blood vessels and make up the alveoli in the lungs. Some of my functions are filtration and diffusion. What am I?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Simple squamous epithelium'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">6 / 10</div>
+  <div class="text">I am a structure that connects one avascular tissue to a deeper vascular tissue. When viewed on a slide, I can be seen in the area where tissue types visually change. What am I?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Basement membrane '; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">7 / 10</div>
+  <div class="text">I am a tissue made of a single layer of cells where each cell is connected to the basement membrane but not all reach to the apical surface. The nuclei of my cells are not lined up evenly but reside at different levels. I line the respiratory system and contain cells that secrete mucus. What am I?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Pseudostratified columnar epithelium'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">8 / 10</div>
+  <div class="text">I am a cell structure that protrudes from the surface of tall and slender cells. I can move back and forth and help propel a substance over the cell I am a part of. What am I?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Cilia'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">9 / 10</div>
+  <div class="text">I am a multi-layer tissue that can vary in appearance. In most slides, my cells contain round nuclei. I have cells on my surface that cover 2-3 others beneath them. I line the urinary bladder. My function is to accommodate for changes in volume and protect against the acidic urine. What am I?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Transitional epithelium'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">10 / 10</div>
+  <div class="text">I am a multi-layer tissue made up of flattened cells. The lower layers of my cells are usually darker than those at the apical surface. I line the mouth and throat. Some of my functions are to protect against abrasion and provide a barrier against infection. What am I?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Non-keratinized stratified squamous epithelium'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+<a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)">1</span>
+  <span class="dot" onclick="currentSlide(2)">2</span>
+  <span class="dot" onclick="currentSlide(3)">3</span>
+  <span class="dot" onclick="currentSlide(4)">4</span>
+  <span class="dot" onclick="currentSlide(5)">5</span>
+  <span class="dot" onclick="currentSlide(6)">6</span>
+  <span class="dot" onclick="currentSlide(7)">7</span>
+  <span class="dot" onclick="currentSlide(8)">8</span>
+  <span class="dot" onclick="currentSlide(9)">9</span>
+  <span class="dot" onclick="currentSlide(10)">10</span>
+</div>
+
+
+<p>Learning anatomy is more than just recognizing pictures and models. It is very helpful to be able to imagine anatomical parts are in your mind with only a descripton to give you clues. This is sometimes called mental mapping of anatomy. As you study anatomy, it is a good idea to imagine in your mind how you might describe what you are looking at. You will see some questions on your quizzes and exams that ask you to identify anatomy through a small description of it. To help you practice this, we have included some cards above that have descriptions and a "show answer" button at the bottom that you can use to see if you got it right!</p>
+
+<script>
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " active";
+}
+</script>
+
+</body>
+</html>

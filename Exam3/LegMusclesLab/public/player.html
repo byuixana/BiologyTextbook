@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	<title>Bio 264 Online Atlas</title>
+	<link type="image/x-icon" rel="shortcut icon" href="http://www.byui.edu/prebuilt/stylenew/images/ico/favicon.ico" />
+	<style type="text/css">
+		@import url("Appearance/player.css");
+	</style>
+	<script src="JS/jquery.min.js" type="text/javascript"></script>
+	<script src="JS/ajax.js" type="text/javascript"></script>
+	<script src="JS/player.js" type="text/javascript"></script>
+</head>
+<body>
+	<table id="player">
+		<tr>
+			<th id="title" onclick="main_menu()" style="cursor:pointer;"><span style="color:blue";>Title</span></th>
+			<td id="buttonContainer"></td>
+		</tr>
+		<tr>
+			<th id="scrollingContent">
+				<div id="collapseAll" onclick="collapseAll()">Collapse All (-)</div>
+				<ul id="topicList"></ul>
+			</th>
+			<td id="window" rowspan="2">
+				<img id="displayImage" src="" />
+				<iframe id="displayFrame" src=""></iframe>
+			</td>
+		</tr>
+		<tr>
+			<th id="currentView">Current Item</th>
+		</tr>
+	</table>
+	<audio id="audio" src=""></audio>
+</body>
+</html>

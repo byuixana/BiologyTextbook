@@ -1,0 +1,143 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "lab_data.schema.json",
+  "title": "Lab Data",
+  "description": "Schema for BYU-Idaho anatomy lab content configuration (lab_data.json)",
+  "type": "object",
+  "required": ["title", "sections"],
+  "additionalProperties": false,
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "description": "Path to this JSON Schema file for editor validation."
+    },
+    "title": {
+      "type": "string",
+      "description": "Lab title displayed in the header bar (e.g., 'Skull Lab').",
+      "minLength": 1
+    },
+    "sections": {
+      "type": "array",
+      "description": "Ordered list of sections shown in the sidebar navigation.",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/definitions/Section"
+      }
+    }
+  },
+  "definitions": {
+    "Section": {
+      "type": "object",
+      "description": "A top-level navigation section (e.g., a week or unit).",
+      "required": ["id", "title", "data"],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Unique identifier for this section (e.g., 'week1'). Not shown in the UI.",
+          "minLength": 1
+        },
+        "title": {
+          "type": "string",
+          "description": "Heading displayed above this section's tree in the sidebar.",
+          "minLength": 1
+        },
+        "data": {
+          "type": "array",
+          "description": "Top-level tree nodes for this section.",
+          "items": {
+            "$ref": "#/definitions/TreeNode"
+          }
+        }
+      }
+    },
+    "TreeNode": {
+      "type": "object",
+      "description": "A single item in the navigation tree. May contain nested children.",
+      "required": ["id", "label"],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "integer",
+          "description": "MUST be unique across all nodes in the entire file. Used for tree selection tracking."
+        },
+        "label": {
+          "type": "string",
+          "description": "Text displayed in the sidebar menu.",
+          "minLength": 1
+        },
+        "type": {
+          "type": "string",
+          "description": "Content type. Controls which component renders when this item is selected.",
+          "enum": ["img", "video", "html"]
+        },
+        "sound": {
+          "type": "string",
+          "description": "Path to a .wav pronunciation file relative to public/ (e.g., 'Sounds/frontalbone.wav'). Used with type 'img'.",
+          "pattern": "^Sounds/.+\\.wav$"
+        },
+        "load": {
+          "type": "string",
+          "description": "Path to an HTML lecture page relative to public/ (e.g., 'Pages/intro.html'). Used when type is absent.",
+          "pattern": "^Pages/.+\\.html$"
+        },
+        "buttons": {
+          "type": "array",
+          "description": "View-angle buttons for the image viewer. Required when type is 'img'.",
+          "items": {
+            "$ref": "#/definitions/Button"
+          }
+        },
+        "child_items": {
+          "type": "array",
+          "description": "Used for 'video' and external 'html' type nodes.",
+          "items": {
+            "$ref": "#/definitions/ChildItem"
+          }
+        },
+        "children": {
+          "type": "array",
+          "description": "Nested child tree nodes shown as sub-items in the sidebar.",
+          "items": {
+            "$ref": "#/definitions/TreeNode"
+          }
+        }
+      }
+    },
+    "Button": {
+      "type": "object",
+      "description": "A view-angle button in the image viewer.",
+      "required": ["label", "img"],
+      "additionalProperties": false,
+      "properties": {
+        "label": {
+          "type": "string",
+          "description": "Button text (e.g., 'Anterior', 'Lateral', 'Superior Zoom').",
+          "minLength": 1
+        },
+        "img": {
+          "type": "string",
+          "description": "Path to the image file relative to public/ (e.g., 'Images/frontal-ant.jpg').",
+          "pattern": "^Images/.+"
+        }
+      }
+    },
+    "ChildItem": {
+      "type": "object",
+      "description": "Payload for video or external HTML nodes.",
+      "additionalProperties": false,
+      "properties": {
+        "video_link": {
+          "type": "string",
+          "description": "Full Kaltura embed URL for a video node.",
+          "pattern": "^https?://"
+        },
+        "page": {
+          "type": "string",
+          "description": "Full URL to open in a new browser tab for an external html node.",
+          "pattern": "^https?://"
+        }
+      }
+    }
+  }
+}

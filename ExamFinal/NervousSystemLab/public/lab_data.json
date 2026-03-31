@@ -1,0 +1,1757 @@
+{
+  "$schema": "./lab_data.schema.json",
+  "title": "Nervous System",
+  "sections": [
+    {
+      "id": "week-12-1-nervous-system",
+      "title": "WEEK 12.1 - NERVOUS SYSTEM",
+      "data": [
+        {
+          "id": 0,
+          "label": "WEEK 12.1 - NERVOUS SYSTEM",
+          "children": [],
+          "type": "none"
+        },
+        {
+          "id": 1,
+          "label": "12.1.1 - Intro to Nervous System Anatomy",
+          "load": "Pages/12_1_1_intro_nervous.html",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "12-1-2-nervous-system-2d-anatomy",
+      "title": "12.1.2 - Nervous System 2D Anatomy",
+      "data": [
+        {
+          "id": 2,
+          "label": "12.1.2 - Nervous System 2D Anatomy",
+          "children": [],
+          "type": "none"
+        },
+        {
+          "id": 3,
+          "label": "Coverings of the Brain and Blood Supply",
+          "sound": "?",
+          "children": [
+            {
+              "id": 4,
+              "label": "Meninges",
+              "type": "img",
+              "sound": "Sounds/meninges.wav",
+              "buttons": [
+                {
+                  "label": "",
+                  "img": "Images/coverings_brain_final.jpg"
+                }
+              ],
+              "children": [
+                {
+                  "id": 5,
+                  "label": "Dura Mater",
+                  "type": "img",
+                  "sound": "Sounds/dura_mater.wav",
+                  "buttons": [
+                    {
+                      "label": "Illustration 1",
+                      "img": "Images/coverings_brain_final-Dura_Mater.jpg"
+                    },
+                    {
+                      "label": "Illustration 2",
+                      "img": "Images/coverings_of_brain_zoom-Dura-Mater.jpg"
+                    },
+                    {
+                      "label": "Illustration 3",
+                      "img": "Images/dura_saggital.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 6,
+                  "label": "Arachnoid Mater",
+                  "type": "img",
+                  "sound": "Sounds/arachnoid_membrane.wav",
+                  "buttons": [
+                    {
+                      "label": "Illustration 1",
+                      "img": "Images/coverings_brain_final-Arachnoid_Mater.jpg"
+                    },
+                    {
+                      "label": "Illustration 2",
+                      "img": "Images/coverings_of_brain_zoom-Arachnoid-Mater.jpg"
+                    },
+                    {
+                      "label": "Illustration 3",
+                      "img": "Images/arachnoid_saggital.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 7,
+                  "label": "Pia Mater",
+                  "type": "img",
+                  "sound": "Sounds/pia_mater.wav",
+                  "buttons": [
+                    {
+                      "label": "Illustration 1",
+                      "img": "Images/coverings_brain_final-Pia_Mater.jpg"
+                    },
+                    {
+                      "label": "Illustration 2",
+                      "img": "Images/coverings_of_brain_zoom-Pia-Mater.jpg"
+                    },
+                    {
+                      "label": "Illustration 3",
+                      "img": "Images/pia_saggital.jpg"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "label": "Falx Cerebri",
+              "type": "img",
+              "sound": "Sounds/falx_cerebri.wav",
+              "buttons": [
+                {
+                  "label": "Illustration 1",
+                  "img": "Images/Sobo_Falx_Cerebri.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 9,
+              "label": "Falx Cerebelli",
+              "type": "img",
+              "sound": "Sounds/falx_cerebelli.wav",
+              "buttons": [
+                {
+                  "label": "",
+                  "img": "Images/Sobo_Falx_Cerebelli.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 10,
+              "label": "Tentorium Cerebelli",
+              "type": "img",
+              "sound": "Sounds/tentorium_cerebelli.wav",
+              "buttons": [
+                {
+                  "label": "Illustration 1",
+                  "img": "Images/Soboto_Tentorium_Cerebelli.jpg"
+                },
+                {
+                  "label": "Illustration 2",
+                  "img": "Images/Tentorium-Cerebelli2i.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 11,
+              "label": "Dural Sinus",
+              "type": "img",
+              "sound": "Sounds/dural_sinus.wav",
+              "buttons": [
+                {
+                  "label": "Illustration 1",
+                  "img": "Images/Sobo_Dural_Sinus.jpg"
+                },
+                {
+                  "label": "Illustration 2",
+                  "img": "Images/coverings_brain_final-Dural_Sinus.jpg"
+                },
+                {
+                  "label": "Illustration 3",
+                  "img": "Images/coverings_of_brain_zoom-Dural-Sinus.jpg"
+                },
+                {
+                  "label": "Illustration 4",
+                  "img": "Images/Sobo_superior-brain_dural-sinus.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 12,
+              "label": "Vertebral Arteries",
+              "type": "img",
+              "sound": "Sounds/vertebral_arteries.wav",
+              "buttons": [
+                {
+                  "label": "Illustration 1",
+                  "img": "Images/Grey_Brain_VertArt.jpg"
+                },
+                {
+                  "label": "Illustration 2",
+                  "img": "Images/vertebral_arteries_turner.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 13,
+              "label": "Basilar Artery",
+              "type": "img",
+              "sound": "Sounds/basilar_artery.wav",
+              "buttons": [
+                {
+                  "label": "Illustration 1",
+                  "img": "Images/Grey_Brain_Basilar.jpg"
+                },
+                {
+                  "label": "Illustration 2",
+                  "img": "Images/Basilar_Artery_turner.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 14,
+              "label": "Internal Carotid Arteries",
+              "type": "img",
+              "sound": "Sounds/internal_carotid_arteries.wav",
+              "buttons": [
+                {
+                  "label": "Illustration 1",
+                  "img": "Images/Grey_Brain_internal_carodtid.jpg"
+                },
+                {
+                  "label": "Illustration 2",
+                  "img": "Images/internal_carotid_turner.jpg"
+                },
+                {
+                  "label": "Illustration 3",
+                  "img": "Images/Internal-Carotid2.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 15,
+              "label": "Arterial Circle (circle of Willis)",
+              "type": "img",
+              "sound": "Sounds/arterial_circle.wav",
+              "buttons": [
+                {
+                  "label": "Illustration 1",
+                  "img": "Images/Grey_Brain_arterialcircle.jpg"
+                },
+                {
+                  "label": "Illustration 2",
+                  "img": "Images/Arterial_Circle_turner.jpg"
+                }
+              ],
+              "children": []
+            }
+          ],
+          "type": "none"
+        },
+        {
+          "id": 16,
+          "label": "Ventricles of the Brain",
+          "type": "img",
+          "buttons": [
+            {
+              "label": "",
+              "img": "Images/ventricles.gif"
+            }
+          ],
+          "sound": "?",
+          "children": [
+            {
+              "id": 17,
+              "label": "Lateral Ventricles",
+              "type": "img",
+              "sound": "Sounds/lateral_ventricles.wav",
+              "buttons": [
+                {
+                  "label": "",
+                  "img": "Images/Lateral-Ventricle-gif.gif"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 18,
+              "label": "Third Ventricle",
+              "type": "img",
+              "sound": "Sounds/third_ventricle.wav",
+              "buttons": [
+                {
+                  "label": "",
+                  "img": "Images/third_ventricle.gif"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 19,
+              "label": "Fourth Ventricle",
+              "type": "img",
+              "sound": "Sounds/fourth_ventricle.wav",
+              "buttons": [
+                {
+                  "label": "",
+                  "img": "Images/fourth_ventricle.gif"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 20,
+              "label": "Cerebral Aqueduct",
+              "type": "img",
+              "sound": "Sounds/cerebral_aqueduct.wav",
+              "buttons": [
+                {
+                  "label": "",
+                  "img": "Images/cerebral_aqueduct.gif"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 21,
+              "label": "Choroid Plexus",
+              "type": "img",
+              "sound": "Sounds/choroid_plexus.wav",
+              "buttons": [
+                {
+                  "label": "Photo Example 1",
+                  "img": "Images/Choroid-Plexus1.jpg"
+                },
+                {
+                  "label": "Photo Example 2",
+                  "img": "Images/Choroid-Plexus2.jpg"
+                },
+                {
+                  "label": "Photo Example 3",
+                  "img": "Images/Choroid-Plexus3.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 22,
+              "label": "Septum Pellucidum",
+              "type": "img",
+              "sound": "Sounds/septum_pellucidum.wav",
+              "buttons": [
+                {
+                  "label": "Illustration",
+                  "img": "Images/septum_pellucidum_Sobotta.jpg"
+                },
+                {
+                  "label": "Photo Closeup",
+                  "img": "Images/Septum-Pellucidum-closeup.jpg"
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "label": "Structures of the Cerebrum and Cerebellum",
+          "sound": "?",
+          "children": [
+            {
+              "id": 24,
+              "label": "Cerebrum",
+              "type": "img",
+              "sound": "?",
+              "buttons": [
+                {
+                  "label": "Top",
+                  "img": "Images/Sobotta-cerebrum-top.jpg"
+                },
+                {
+                  "label": "Medial",
+                  "img": "Images/Sobotta-Brain-Hemspherei.jpg"
+                },
+                {
+                  "label": "Inferior",
+                  "img": "Images/Sobotta-cerebrum-Inferior.jpg"
+                }
+              ],
+              "children": [
+                {
+                  "id": 25,
+                  "label": "Cerebral Hemispheres",
+                  "type": "img",
+                  "sound": "Sounds/cerebral_hemispheres.wav",
+                  "buttons": [
+                    {
+                      "label": "Left hemisphere Top",
+                      "img": "Images/Soboto--brain_top_left.jpg"
+                    },
+                    {
+                      "label": "Right hemisphere Top",
+                      "img": "Images/Soboto--brain_top_right.jpg"
+                    },
+                    {
+                      "label": "Medial View Left Hemisphere",
+                      "img": "Images/Sobotta-Brain-Hemspherei.jpg"
+                    },
+                    {
+                      "label": "Lateral View Right Hemisphere",
+                      "img": "Images/right-hemiphsere-cad.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 26,
+                  "label": "Gyrus",
+                  "type": "img",
+                  "sound": "Sounds/gyrus.wav",
+                  "buttons": [
+                    {
+                      "label": "",
+                      "img": "Images/gyri.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 27,
+                  "label": "Sulcus",
+                  "type": "img",
+                  "sound": "Sounds/sulcus.wav",
+                  "buttons": [
+                    {
+                      "label": "",
+                      "img": "Images/sulci.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 28,
+                  "label": "Gray Matter",
+                  "type": "img",
+                  "sound": "Sounds/grey_matter.wav",
+                  "buttons": [
+                    {
+                      "label": "",
+                      "img": "Images/Brain_grey_matter.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 29,
+                  "label": "White Matter",
+                  "type": "img",
+                  "sound": "Sounds/white_matter.wav",
+                  "buttons": [
+                    {
+                      "label": "",
+                      "img": "Images/brain_white_matter.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 30,
+                  "label": "Longitudinal Fissure",
+                  "type": "img",
+                  "sound": "Sounds/longitudinal_fissure.wav",
+                  "buttons": [
+                    {
+                      "label": "",
+                      "img": "Images/Soboto-top-brain-long-fissure.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 31,
+                  "label": "Lateral Sulcus (or fissure)",
+                  "type": "img",
+                  "sound": "Sounds/lateral_sulcus.wav",
+                  "buttons": [
+                    {
+                      "label": "Lateral",
+                      "img": "Images/cad_lat_fissure.jpg"
+                    },
+                    {
+                      "label": "3d Illustration",
+                      "img": "Images/Lateral_sulcus.gif"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 32,
+                  "label": "Parietooccipital Sulcus",
+                  "type": "img",
+                  "sound": "Sounds/parietooccipital_sulcus.wav",
+                  "buttons": [
+                    {
+                      "label": "",
+                      "img": "Images/Sobotta-parietooccip-Hemi.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 33,
+                  "label": "Frontal Lobe",
+                  "type": "img",
+                  "sound": "Sounds/frontal_lobe.wav",
+                  "buttons": [
+                    {
+                      "label": "Top",
+                      "img": "Images/Soboto-top-Frontal.jpg"
+                    },
+                    {
+                      "label": "Right Lateral",
+                      "img": "Images/Cadaver-Lateral-Parietal.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 34,
+                  "label": "Precentral Gyrus",
+                  "type": "img",
+                  "sound": "Sounds/precentral_gyrus.wav",
+                  "buttons": [
+                    {
+                      "label": "Top",
+                      "img": "Images/Soboto-top-pre-central.jpg"
+                    },
+                    {
+                      "label": "Right Lateral",
+                      "img": "Images/Cadaver-pre-central-gyrus.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 35,
+                  "label": "Central Sulcus",
+                  "type": "img",
+                  "sound": "Sounds/central_sulcus.wav",
+                  "buttons": [
+                    {
+                      "label": "Top",
+                      "img": "Images/Soboto-top-central-sulcus.jpg"
+                    },
+                    {
+                      "label": "Right Lateral",
+                      "img": "Images/Cadaver-Brain-central-sulcus.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 36,
+                  "label": "Postcentral Gyrus",
+                  "type": "img",
+                  "sound": "Sounds/postcentral_gyrus.wav",
+                  "buttons": [
+                    {
+                      "label": "Top",
+                      "img": "Images/Soboto-top-post-central.jpg"
+                    },
+                    {
+                      "label": "Right Lateral",
+                      "img": "Images/Cadaver-Brain-post-central.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 37,
+                  "label": "Parietal Lobe",
+                  "type": "img",
+                  "sound": "Sounds/parietal_lobe.wav",
+                  "buttons": [
+                    {
+                      "label": "Top",
+                      "img": "Images/Soboto-top-parietal.jpg"
+                    },
+                    {
+                      "label": "Right Lateral",
+                      "img": "Images/Cadaver-parietal_lat.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 38,
+                  "label": "Temporal Lobe",
+                  "type": "img",
+                  "sound": "Sounds/temporal_lobe.wav",
+                  "buttons": [
+                    {
+                      "label": "Right Lateral",
+                      "img": "Images/cadaver_temporal_lat.jpg"
+                    },
+                    {
+                      "label": "Inferior",
+                      "img": "Images/Sobotta-Brain-Inferior-temporal.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 39,
+                  "label": "Occipital Lobe",
+                  "type": "img",
+                  "sound": "Sounds/occipital_lobe.wav",
+                  "buttons": [
+                    {
+                      "label": "Top",
+                      "img": "Images/Soboto-top-occipital.jpg"
+                    },
+                    {
+                      "label": "Right Lateral",
+                      "img": "Images/Cadaver-temporal_lat.jpg"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": 40,
+              "label": "Cerebellum",
+              "type": "img",
+              "sound": "Sounds/cerebellum.wav",
+              "buttons": [
+                {
+                  "label": "Inferior",
+                  "img": "Images/Sobotta-Brain-Inferior-cerebellum.jpg"
+                },
+                {
+                  "label": "Medial",
+                  "img": "Images/Sobotta-Brain-Hemi-cerebellum.jpg"
+                },
+                {
+                  "label": "Lateral",
+                  "img": "Images/Cadaver_cerebellum_lateral.jpg"
+                }
+              ],
+              "children": [
+                {
+                  "id": 41,
+                  "label": "Cerebellar Hemisphere",
+                  "type": "img",
+                  "sound": "Sounds/cerebellar_hemisphere.wav",
+                  "buttons": [
+                    {
+                      "label": "Right Hemiphere",
+                      "img": "Images/Sobotta-Brain-Inferior-cereb-right.jpg"
+                    },
+                    {
+                      "label": "Left Hemisphere",
+                      "img": "Images/Sobotta-Brain-Inferior-cereb-left.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 42,
+                  "label": "Vermis",
+                  "type": "img",
+                  "buttons": [
+                    {
+                      "label": "",
+                      "img": "Images/Cerebellar_vermis_animation.gif"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 43,
+                  "label": "Arbor Vitae",
+                  "type": "img",
+                  "sound": "Sounds/arbor_vitae.wav",
+                  "buttons": [
+                    {
+                      "label": "Medial View",
+                      "img": "Images/Sobotta-arborvitae-Hemi.jpg"
+                    },
+                    {
+                      "label": "Illustration",
+                      "img": "Images/Arbor_Vitae_red.png"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": 44,
+              "label": "Corpus Callosum",
+              "type": "img",
+              "sound": "Sounds/corpus_callosum.wav",
+              "buttons": [
+                {
+                  "label": "",
+                  "img": "Images/Sobotta-corpus-callosum-Hemi.jpg"
+                }
+              ],
+              "children": [
+                {
+                  "id": 45,
+                  "label": "Genu",
+                  "type": "img",
+                  "sound": "Sounds/genu.wav",
+                  "buttons": [
+                    {
+                      "label": "",
+                      "img": "Images/Sobotta-Brain-Hemi-Genu.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 46,
+                  "label": "Splenium",
+                  "type": "img",
+                  "sound": "Sounds/splenium.wav",
+                  "buttons": [
+                    {
+                      "label": "",
+                      "img": "Images/Sobotta-Brain-Hemi-splenium.jpg"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            }
+          ],
+          "type": "none"
+        },
+        {
+          "id": 47,
+          "label": "Diencephalon",
+          "type": "img",
+          "buttons": [
+            {
+              "label": "Medial View",
+              "img": "Images/Sobotta-Brain-Hemi-diencephalon.jpg"
+            },
+            {
+              "label": "Top of Brainstem",
+              "img": "Images/dienceph-on-top-brainstem.jpg"
+            },
+            {
+              "label": "Animation",
+              "img": "Images/diencephalon.gif"
+            }
+          ],
+          "sound": "Sounds/diencephalon.wav",
+          "children": [
+            {
+              "id": 48,
+              "label": "Thalamus",
+              "type": "img",
+              "sound": "Sounds/thalamus.wav",
+              "buttons": [
+                {
+                  "label": "Medial View",
+                  "img": "Images/Sobotta-Thalamus-Hemi.jpg"
+                },
+                {
+                  "label": "Top of Brainstem",
+                  "img": "Images/Thalamus-on-Brain-stem.jpg"
+                }
+              ],
+              "children": [
+                {
+                  "id": 49,
+                  "label": "Intermediate Mass",
+                  "type": "img",
+                  "sound": "Sounds/intermediate_mass.wav",
+                  "buttons": [
+                    {
+                      "label": "",
+                      "img": "Images/Sobotta-Intermediate-Mass-Hemi.jpg"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": 50,
+              "label": "Hypothalamus",
+              "type": "img",
+              "sound": "Sounds/hypothalamus.wav",
+              "buttons": [
+                {
+                  "label": "",
+                  "img": "Images/Sobotta-hypothalmus-Hemi.jpg"
+                }
+              ],
+              "children": [
+                {
+                  "id": 51,
+                  "label": "Mammillary Body",
+                  "type": "img",
+                  "sound": "Sounds/mammilary_body.wav",
+                  "buttons": [
+                    {
+                      "label": "Medial",
+                      "img": "Images/Sobotta-Mamillary-Body-Hemi.jpg"
+                    },
+                    {
+                      "label": "Inferior",
+                      "img": "Images/Sobotta-Brain-Inferior_mamillary.jpg"
+                    },
+                    {
+                      "label": "Illustration",
+                      "img": "Images/Brainstem_ventral_mamillary.jpg"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": 52,
+              "label": "Fornix",
+              "type": "img",
+              "sound": "Sounds/fornix.wav",
+              "buttons": [
+                {
+                  "label": "Lateral",
+                  "img": "Images/Sobotta-Fornix-Hemi.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 53,
+              "label": "Pineal Body (Gland)",
+              "type": "img",
+              "sound": "Sounds/pineal_body.wav",
+              "buttons": [
+                {
+                  "label": "Medial",
+                  "img": "Images/Sobotta-pineal-Hemi.jpg"
+                },
+                {
+                  "label": "Illustration 1",
+                  "img": "Images/Pituitary_pineal_glands.png"
+                },
+                {
+                  "label": "Illustration 2",
+                  "img": "Images/pineal_hypo.png"
+                },
+                {
+                  "label": "Illustration 3",
+                  "img": "Images/piineal_post_brainstem.png"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 54,
+              "label": "Pituitary Gland",
+              "type": "img",
+              "sound": "Sounds/pituitary_gland.wav",
+              "buttons": [
+                {
+                  "label": "Medial",
+                  "img": "Images/Sobotta-Pituitary-Hemi.jpg"
+                },
+                {
+                  "label": "Inferior",
+                  "img": "Images/Sobotta-Brain-Inferior-pituitary.jpg"
+                },
+                {
+                  "label": "Illustrated",
+                  "img": "Images/pituitary_illustrated.png"
+                }
+              ],
+              "children": [
+                {
+                  "id": 55,
+                  "label": "Infundibulum",
+                  "type": "img",
+                  "sound": "Sounds/infundibulum.wav",
+                  "buttons": [
+                    {
+                      "label": "Medial",
+                      "img": "Images/Sobotta-Infundibulum-Hemi.jpg"
+                    },
+                    {
+                      "label": "Illustrated",
+                      "img": "Images/infundibulum-illustrated.png"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 56,
+          "label": "Brain Stem",
+          "type": "img",
+          "buttons": [
+            {
+              "label": "Illustration",
+              "img": "Images/Brain_sagittal_section_stem_highlighted.png"
+            },
+            {
+              "label": "Medial",
+              "img": "Images/Sobotta-Brain-Hemi-brainstem.jpg"
+            },
+            {
+              "label": "Inferior",
+              "img": "Images/Sobotta-Brainstem-inferior.jpg"
+            }
+          ],
+          "sound": "Sounds/brain_stem.wav",
+          "children": [
+            {
+              "id": 57,
+              "label": "Medulla Oblongata",
+              "type": "img",
+              "sound": "Sounds/medulla_oblongata.wav",
+              "buttons": [
+                {
+                  "label": "Medial",
+                  "img": "Images/Sobotta-medulla-Hemi.jpg"
+                },
+                {
+                  "label": "Inferior",
+                  "img": "Images/Sobotta-Brain-Inferior-medulla.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 58,
+              "label": "Pons",
+              "type": "img",
+              "sound": "Sounds/pons.wav",
+              "buttons": [
+                {
+                  "label": "Medial",
+                  "img": "Images/Sobotta-Pons-Hemi.jpg"
+                },
+                {
+                  "label": "Inferior",
+                  "img": "Images/Sobotta-Brain-Inferior-pons.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 59,
+              "label": "Midbrain",
+              "type": "img",
+              "sound": "Sounds/midbrain.wav",
+              "buttons": [
+                {
+                  "label": "Medial",
+                  "img": "Images/Sobotta-midbrain-Hemi.jpg"
+                },
+                {
+                  "label": "Rotating Midbrain",
+                  "img": "Images/Midbrain.gif"
+                }
+              ],
+              "children": [
+                {
+                  "id": 60,
+                  "label": "Corpora Quadrigemina",
+                  "type": "img",
+                  "sound": "Sounds/corpora_quadrigemina.wav",
+                  "buttons": [
+                    {
+                      "label": "Medial",
+                      "img": "Images/Sobotta-Hem_corpora-Quadi.jpg"
+                    },
+                    {
+                      "label": "Posteior without Cerebrum",
+                      "img": "Images/corpora-gray-with-thalmus.jpg"
+                    },
+                    {
+                      "label": "Superior Colliculi",
+                      "img": "Images/superior-colliculi-gray.jpg"
+                    },
+                    {
+                      "label": "Inferior Colliculi",
+                      "img": "Images/inferior-colliculi-gray.jpg"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 61,
+          "label": "Cranial Nerves",
+          "type": "img",
+          "buttons": [
+            {
+              "label": "",
+              "img": "Images/cranial-nerve-illustrate.png"
+            }
+          ],
+          "sound": "?",
+          "children": [
+            {
+              "id": 62,
+              "label": "I. Olfactory Nerve",
+              "type": "img",
+              "sound": "Sounds/olfactory_nerve.wav",
+              "buttons": [
+                {
+                  "label": "Anterior",
+                  "img": "Images/Sobotta-Brain-olfactory-n.jpg"
+                },
+                {
+                  "label": "Zoom",
+                  "img": "Images/Sobota-olfactory nerve-zoom.jpg"
+                }
+              ],
+              "children": [
+                {
+                  "id": 63,
+                  "label": "Olfactory Bulb",
+                  "type": "img",
+                  "sound": "Sounds/olfactory_bulb.wav",
+                  "buttons": [
+                    {
+                      "label": "Anterior",
+                      "img": "Images/Sobotta-Brain-olf-bulb.jpg"
+                    },
+                    {
+                      "label": "Zoom",
+                      "img": "Images/Sobota-olfactorybulb-zoom.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 64,
+                  "label": "Olfactory Tract",
+                  "type": "img",
+                  "sound": "Sounds/olfactory_tract.wav",
+                  "buttons": [
+                    {
+                      "label": "Anterior",
+                      "img": "Images/Sobotta-Brain-olf-tract.jpg"
+                    },
+                    {
+                      "label": "Zoom",
+                      "img": "Images/Sobota-olf tract-zoom.jpg"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": 65,
+              "label": "II. Optic Nerve",
+              "type": "img",
+              "sound": "Sounds/optic_nerve.wav",
+              "buttons": [
+                {
+                  "label": "Anterior",
+                  "img": "Images/Sobotta-Brain-optic.jpg"
+                },
+                {
+                  "label": "Zoom",
+                  "img": "Images/Sobota-optic-zoom.jpg"
+                }
+              ],
+              "children": [
+                {
+                  "id": 66,
+                  "label": "Optic Chiasma",
+                  "type": "img",
+                  "sound": "Sounds/optic_chiasma.wav",
+                  "buttons": [
+                    {
+                      "label": "Anterior",
+                      "img": "Images/Sobotta-Brain-chiasma.jpg"
+                    },
+                    {
+                      "label": "Zoom",
+                      "img": "Images/Sobota-chiasma-zoom.jpg"
+                    },
+                    {
+                      "label": "Illustration 1",
+                      "img": "Images/Brainstem_ventral_chiasma.jpg"
+                    },
+                    {
+                      "label": "Illustration 2",
+                      "img": "Images/gray-inferior-chiasma.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 67,
+                  "label": "Optic Tract",
+                  "type": "img",
+                  "sound": "Sounds/optic_tract.wav",
+                  "buttons": [
+                    {
+                      "label": "Anterior",
+                      "img": "Images/Sobotta-Brain-optic-tract.jpg"
+                    },
+                    {
+                      "label": "Zoom",
+                      "img": "Images/Sobota-optic tract-zoom.jpg"
+                    },
+                    {
+                      "label": "Illustration 1",
+                      "img": "Images/Brainstem_ventral_optictract.jpg"
+                    },
+                    {
+                      "label": "Illustration 2",
+                      "img": "Images/optic-tract-gray.jpg"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": 68,
+              "label": "III. Oculomotor Nerve",
+              "type": "img",
+              "sound": "Sounds/oculomotor_nerve.wav",
+              "buttons": [
+                {
+                  "label": "Anterior",
+                  "img": "Images/Sobotta-Brain-oculomotor.jpg"
+                },
+                {
+                  "label": "Zoom",
+                  "img": "Images/Sobota-oculomotor-zoom.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 69,
+              "label": "IV. Trochlear Nerve",
+              "type": "img",
+              "sound": "Sounds/trochlear_nerve.wav",
+              "buttons": [
+                {
+                  "label": "Anterior",
+                  "img": "Images/Sobotta-Brain-trochlear.jpg"
+                },
+                {
+                  "label": "Zoom",
+                  "img": "Images/Sobota-trochlear-zoom.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 70,
+              "label": "V. Trigeminal Nerve",
+              "type": "img",
+              "sound": "Sounds/trigeminal_nerve.wav",
+              "buttons": [
+                {
+                  "label": "Anterior",
+                  "img": "Images/Sobotta-Brain-trigeminal.jpg"
+                },
+                {
+                  "label": "Zoom",
+                  "img": "Images/Sobota-trigeminal-zoom.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 71,
+              "label": "VI. Abducens Nerve",
+              "type": "img",
+              "sound": "Sounds/abducens_nerve.wav",
+              "buttons": [
+                {
+                  "label": "Anterior",
+                  "img": "Images/Sobotta-Brain-abducens.jpg"
+                },
+                {
+                  "label": "Zoom",
+                  "img": "Images/Sobota-abducens-zoom.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 72,
+              "label": "VII. Facial Nerve",
+              "type": "img",
+              "sound": "Sounds/facial_nerve.wav",
+              "buttons": [
+                {
+                  "label": "Anterior",
+                  "img": "Images/Sobotta-Brain-facial.jpg"
+                },
+                {
+                  "label": "Zoom",
+                  "img": "Images/Sobota-facial-zoom.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 73,
+              "label": "VIII. Vestibulocochlear Nerve",
+              "type": "img",
+              "sound": "Sounds/vestibulocochlear_nerve.wav",
+              "buttons": [
+                {
+                  "label": "Anterior",
+                  "img": "Images/Sobotta-Brain-vestibulo.jpg"
+                },
+                {
+                  "label": "Zoom",
+                  "img": "Images/Sobota-vestibulo-zoom.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 74,
+              "label": "IX. Glossopharyngeal Nerve",
+              "type": "img",
+              "sound": "Sounds/glossopharyngeal_nerve.wav",
+              "buttons": [
+                {
+                  "label": "Anterior",
+                  "img": "Images/Sobotta-Brain-glosso.jpg"
+                },
+                {
+                  "label": "Zoom",
+                  "img": "Images/Sobota-glosso-zoom.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 75,
+              "label": "X. Vagus Nerve",
+              "type": "img",
+              "sound": "Sounds/vagus_nerve.wav",
+              "buttons": [
+                {
+                  "label": "Anterior",
+                  "img": "Images/Sobotta-Brain-vagus.jpg"
+                },
+                {
+                  "label": "Zoom",
+                  "img": "Images/Sobota-vagus-zoom.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 76,
+              "label": "XI. Accessory Nerve",
+              "type": "img",
+              "sound": "Sounds/accessory_nerve.wav",
+              "buttons": [
+                {
+                  "label": "Posterior",
+                  "img": "Images/Sobotta-Brain-accessory.jpg"
+                },
+                {
+                  "label": "Zoom",
+                  "img": "Images/Sobota-accessory-zoom.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 77,
+              "label": "XII. Hypoglossal Nerve",
+              "type": "img",
+              "sound": "Sounds/hypoglossal_nerve.wav",
+              "buttons": [
+                {
+                  "label": "Anterior",
+                  "img": "Images/Sobotta-Brain-hypoglossal.jpg"
+                },
+                {
+                  "label": "Zoom",
+                  "img": "Images/Sobota-hypoglossal-zoom.jpg"
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 78,
+          "label": "Structures of the Spinal Cord",
+          "sound": "?",
+          "children": [
+            {
+              "id": 79,
+              "label": "Gray Matter",
+              "type": "img",
+              "sound": "Sounds/grey_matter.wav",
+              "buttons": [
+                {
+                  "label": "",
+                  "img": "Images/SC_graymatter_turner.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 80,
+              "label": "White Matter",
+              "type": "img",
+              "sound": "Sounds/white_matter.wav",
+              "buttons": [
+                {
+                  "label": "",
+                  "img": "Images/SC_white_matter_turner.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 81,
+              "label": "Gray Commissure",
+              "type": "img",
+              "sound": "Sounds/comissure.wav",
+              "buttons": [
+                {
+                  "label": "",
+                  "img": "Images/SC_gray_commisure_turner.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 82,
+              "label": "Horns",
+              "sound": "?",
+              "children": [
+                {
+                  "id": 83,
+                  "label": "Ventral Horn",
+                  "type": "img",
+                  "sound": "Sounds/ventral_horn.wav",
+                  "buttons": [
+                    {
+                      "label": "",
+                      "img": "Images/SC_ventral-horn_turner.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 84,
+                  "label": "Lateral Horn",
+                  "type": "img",
+                  "sound": "Sounds/lateral_horn.wav",
+                  "buttons": [
+                    {
+                      "label": "",
+                      "img": "Images/SC_lateralhorn_turner.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 85,
+                  "label": "Dorsal Horn",
+                  "type": "img",
+                  "sound": "Sounds/dorsal_horn.wav",
+                  "buttons": [
+                    {
+                      "label": "",
+                      "img": "Images/SC_dorsalhorn_turner.jpg"
+                    }
+                  ],
+                  "children": []
+                }
+              ],
+              "type": "none"
+            },
+            {
+              "id": 86,
+              "label": "Columns",
+              "sound": "?",
+              "children": [
+                {
+                  "id": 87,
+                  "label": "Ventral Column",
+                  "type": "img",
+                  "sound": "Sounds/ventral_column.wav",
+                  "buttons": [
+                    {
+                      "label": "",
+                      "img": "Images/SC_ventralcolumn_turner.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 88,
+                  "label": "Lateral Column",
+                  "type": "img",
+                  "sound": "Sounds/lateral_column.wav",
+                  "buttons": [
+                    {
+                      "label": "",
+                      "img": "Images/SC_lateral-column_turner.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 89,
+                  "label": "Dorsal Column",
+                  "type": "img",
+                  "sound": "Sounds/dorsal_column.wav",
+                  "buttons": [
+                    {
+                      "label": "",
+                      "img": "Images/SC_dorsalcolumn_turner.jpg"
+                    }
+                  ],
+                  "children": []
+                }
+              ],
+              "type": "none"
+            },
+            {
+              "id": 90,
+              "label": "Central Canal",
+              "type": "img",
+              "sound": "Sounds/central_canal.wav",
+              "buttons": [
+                {
+                  "label": "",
+                  "img": "Images/SC_centralcanal_turner.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 91,
+              "label": "Anterior Median Fissure",
+              "type": "img",
+              "sound": "Sounds/anterior_median_fissure.wav",
+              "buttons": [
+                {
+                  "label": "",
+                  "img": "Images/SC_antmedfissure_turner.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 92,
+              "label": "Posterior Median Sulcus",
+              "type": "img",
+              "sound": "Sounds/posterior_median_sulcus.wav",
+              "buttons": [
+                {
+                  "label": "",
+                  "img": "Images/SC_postmedfissure_turner.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 93,
+              "label": "Dorsal Root Ganglion",
+              "type": "img",
+              "sound": "Sounds/dorsal_root_ganglion.wav",
+              "buttons": [
+                {
+                  "label": "",
+                  "img": "Images/SC_dorsalrootgang_turner.jpg"
+                }
+              ],
+              "children": []
+            }
+          ],
+          "type": "none"
+        },
+        {
+          "id": 94,
+          "label": "Anatomy of a Neuron",
+          "sound": "?",
+          "children": [
+            {
+              "id": 95,
+              "label": "Soma",
+              "type": "img",
+              "sound": "Sounds/soma.wav",
+              "buttons": [
+                {
+                  "label": "",
+                  "img": "Images/Neuron_Anatomy_soma.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 96,
+              "label": "Axon",
+              "type": "img",
+              "sound": "Sounds/axon.wav",
+              "buttons": [
+                {
+                  "label": "",
+                  "img": "Images/Neuron_Anatomy_axon.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 97,
+              "label": "Axon Hillock",
+              "type": "img",
+              "sound": "Sounds/axon_hillock.wav",
+              "buttons": [
+                {
+                  "label": "",
+                  "img": "Images/Neuron_Anatomy_hillock.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 98,
+              "label": "Dendrites",
+              "type": "img",
+              "sound": "Sounds/dendrite.wav",
+              "buttons": [
+                {
+                  "label": "",
+                  "img": "Images/Neuron_Anatomy_dendrites.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 99,
+              "label": "Nucleus",
+              "type": "img",
+              "sound": "Sounds/nucleus.wav",
+              "buttons": [
+                {
+                  "label": "",
+                  "img": "Images/Neuron_Anatomy_nucleus.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 100,
+              "label": "Myelin Sheath and Schwann Cell",
+              "type": "img",
+              "sound": "Sounds/myelin_sheath.wav",
+              "buttons": [
+                {
+                  "label": "",
+                  "img": "Images/Neuron_Anatomy_myelin.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 101,
+              "label": "Nodes of Ranvier",
+              "type": "img",
+              "sound": "Sounds/node_of_ranvier.wav",
+              "buttons": [
+                {
+                  "label": "Nodes of Ranvier",
+                  "img": "Images/Neuron_Anatomy_nodes.jpg"
+                }
+              ],
+              "children": []
+            }
+          ],
+          "type": "none"
+        },
+        {
+          "id": 102,
+          "label": "12.1.3 - Brain Anatomy 3D",
+          "type": "none",
+          "child_items": [
+            {
+              "page": "https://content.byui.edu/file/3487ff2c-6a4f-4e9d-a7e1-8a6e02d4f294/1/Brain/index.html"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": 103,
+          "label": "12.1.4 - Nervous System Anatomy Videos",
+          "children": [
+            {
+              "id": 104,
+              "label": "Brain coverings or Meninges",
+              "children": [],
+              "load": "Pages/12_1_4_brain_covering_video.html",
+              "type": "video",
+              "child_items": [
+                {
+                  "video_link": "https://cdnapisec.kaltura.com/p/1157612/sp/115761200/embedIframeJs/uiconf_id/41338032/partner_id/1157612?iframeembed=true&playerId=kaltura_player&entry_id=1_7zbr612p&flashvars[localizationCode]=en&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_04s63kuw"
+                }
+              ]
+            },
+            {
+              "id": 105,
+              "label": "Large Structures of the Brain",
+              "children": [],
+              "load": "Pages/12_1_4_lg_structures_brain_video.html",
+              "type": "video",
+              "child_items": [
+                {
+                  "video_link": "https://cdnapisec.kaltura.com/p/1157612/sp/115761200/embedIframeJs/uiconf_id/41338032/partner_id/1157612?iframeembed=true&playerId=kaltura_player&entry_id=1_2lnaicnc&flashvars[localizationCode]=en&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_dtasexe2"
+                }
+              ]
+            },
+            {
+              "id": 106,
+              "label": "Ventricles of the Brain",
+              "children": [],
+              "load": "Pages/12_1_4_ventricles_brain_video.html",
+              "type": "video",
+              "child_items": [
+                {
+                  "video_link": "https://cdnapisec.kaltura.com/p/1157612/sp/115761200/embedIframeJs/uiconf_id/41338032/partner_id/1157612?iframeembed=true&playerId=kaltura_player&entry_id=1_zsbh4xj0&flashvars[localizationCode]=en&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_ztl0phie"
+                }
+              ]
+            },
+            {
+              "id": 107,
+              "label": "Sagittal View of the Brain",
+              "children": [],
+              "load": "Pages/12_1_4_sagittal_brain_video.html",
+              "type": "video",
+              "child_items": [
+                {
+                  "video_link": "https://cdnapisec.kaltura.com/p/1157612/sp/115761200/embedIframeJs/uiconf_id/41338032/partner_id/1157612?iframeembed=true&playerId=kaltura_player&entry_id=1_ohktlz9n&flashvars[localizationCode]=en&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_p876pjcd"
+                }
+              ]
+            },
+            {
+              "id": 108,
+              "label": "Cranial Nerves",
+              "children": [],
+              "load": "Pages/12_1_4_cranialnerves_video.html",
+              "type": "video",
+              "child_items": [
+                {
+                  "video_link": "https://cdnapisec.kaltura.com/p/1157612/sp/115761200/embedIframeJs/uiconf_id/41338032/partner_id/1157612?iframeembed=true&playerId=kaltura_player&entry_id=1_58v9trls&flashvars[localizationCode]=en&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_u89o7wtk"
+                }
+              ]
+            },
+            {
+              "id": 109,
+              "label": "Neuron Anatomy",
+              "children": [],
+              "load": "Pages/12_1_4_neuron_anatomy_video.html",
+              "type": "video",
+              "child_items": [
+                {
+                  "video_link": "https://cdnapisec.kaltura.com/p/1157612/sp/115761200/embedIframeJs/uiconf_id/41338032/partner_id/1157612?iframeembed=true&playerId=kaltura_player&entry_id=1_86uzugem&flashvars[localizationCode]=en&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_4wnm9xct"
+                }
+              ]
+            },
+            {
+              "id": 110,
+              "label": "Spinal Cord Anatomy",
+              "children": [],
+              "load": "Pages/12_1_4_spinalcord_video.html",
+              "type": "video",
+              "child_items": [
+                {
+                  "video_link": "https://cdnapisec.kaltura.com/p/1157612/sp/115761200/embedIframeJs/uiconf_id/41338032/partner_id/1157612?iframeembed=true&playerId=kaltura_player&entry_id=1_g5lkk5sl&flashvars[localizationCode]=en&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_6glzt89d"
+                }
+              ]
+            }
+          ],
+          "type": "none"
+        }
+      ]
+    },
+    {
+      "id": "week-12-2-practice",
+      "title": "WEEK 12.2 - PRACTICE",
+      "data": [
+        {
+          "id": 111,
+          "label": "WEEK 12.2 - PRACTICE",
+          "children": [],
+          "type": "none"
+        },
+        {
+          "id": 112,
+          "label": "12.2.1 - Descriptions",
+          "load": "Pages/12_2_1_descriptions.html",
+          "children": []
+        },
+        {
+          "id": 113,
+          "label": "12.2.2 - Practice with 3D",
+          "children": [
+            {
+              "id": 114,
+              "label": "Clickable Brain",
+              "type": "none",
+              "child_items": [
+                {
+                  "page": "https://content.byui.edu/file/e0d196ed-38e1-42ee-a1c7-08c5c20bf329/1/Brain%20Click/index.html"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 115,
+              "label": "Find Sructures on the Brain",
+              "type": "none",
+              "child_items": [
+                {
+                  "page": "https://content.byui.edu/file/e0d196ed-38e1-42ee-a1c7-08c5c20bf329/1/Brain%20Find/index.html"
+                }
+              ],
+              "children": []
+            }
+          ],
+          "type": "none"
+        },
+        {
+          "id": 116,
+          "label": "12.2.4 - [download] Flashcards",
+          "children": [],
+          "type": "none"
+        }
+      ]
+    }
+  ]
+}

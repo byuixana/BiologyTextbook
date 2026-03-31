@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<player>
+
+<theme>blue</theme>
+
+<title intro="Pages/arm_trunk_main_intro.html">[RETURN] To Main Menu</title>
+
+<item type="nolink" name="WEEK 5.1 - ARM AND TRUNK">
+	<custom>
+		<text type="bold" font="Verdana, Avenir, Helvetica" size="20px" color="#fff" align="center" />
+		<box color="#3c3c3c" hover="#666666" />
+	</custom>
+</item>
+
+
+<item type="link" name="5.1.1 - Intro to Arms and Trunk Bones">
+	<button load="Pages/5_1_1_intro_trunkarm_bones.html"/>
+</item>
+
+
+<!-- This is the beginning of the 2d Menu -->
+<item type="expand" name="5.1.2 - Arm and Trunk 2D Anatomy">
+  <subitem type="expand" name="Clavicle" sound="Sounds/clavicle.wav">
+    <button load="Images/clavicle.jpg" />
+
+      <subsubitem type="link" name="Acromial (Lateral) End" sound="Sounds/acromial.wav">
+        <button name="" load="Images/acromial_end.jpg" />
+		  </subsubitem>
+
+      <subsubitem type="link" name="Conoid Process" sound="Sounds/conoid.wav">
+        <button name="" load="Images/conoid_proc_clav.jpg" />
+      </subsubitem>
+
+      <subsubitem type="link" name="Sternal (Medial) End" sound="Sounds/sternal_end.wav">
+       <button name="" load="Images/sternal_end.jpg" />
+		 </subsubitem>
+  </subitem>
+
+
+  <subitem type="expand" name="Scapula" sound="Sounds/scapula.wav">
+  <button name="Posterior Complete Skeleton" load="Images/scapula.jpg" />
+  <button name="Anterior" load="Images/ant_scapula.jpg" />
+  <button name="Lateral" load="Images/lat_scapula.jpg" />
+  <button name="Posterior" load="Images/post_scapula.jpg" />
+  <button name="Superior" load="Images/sup_scapula.jpg" />
+  <button name="3D Animation" load="Images/gifs/scapula.gif" />
+
+    <subsubitem type="link" name="Acromion Process" sound="Sounds/acromion_process.wav">
+    <button name="Anterior" load="Images/acromion_proc_ant.jpg" />
+    <button name="Lateral" load="Images/acromion_proc_lat.jpg" />
+    <button name="Posterior" load="Images/acromion_proc_post.jpg" />
+    <button name="Superior" load="Images/acromion_proc_sup.jpg" />
+  	</subsubitem>
+
+    <subsubitem type="link" name="Axillary (Lateral) Border" sound="Sounds/axillary.wav">
+    <button name="Anterior" load="Images/axil_border_ant.jpg" />
+    <button name="Lateral" load="Images/axil_border_lat.jpg" />
+    <button name="Posterior" load="Images/axil_border_post.jpg" />
+	  </subsubitem>
+
+    <subsubitem type="link" name="Coracoid Process" sound="Sounds/coracoid_process.wav">
+    <button name="Anterior" load="Images/coracoid_proc_ant.jpg" />
+    <button name="Lateral" load="Images/coracoid_proc_lat.jpg" />
+    <button name="Posterior" load="Images/coracoid_proc_post.jpg" />
+    <button name="Superior" load="Images/coracoid_proc_sup.jpg" />
+	  </subsubitem>
+
+     <subsubitem type="link" name="Glenoid Cavity" sound="Sounds/glenoid.wav">
+     <button name="Anterior" load="Images/glenoid_ant.jpg" />
+     <button name="Lateral" load="Images/glenoid_lat.jpg" />
+     <button name="Superior" load="Images/glenoid_sup.jpg" />
+	   </subsubitem>
+
+     <subsubitem type="link" name="Inferior Angle" sound="Sounds/inferior_angle.wav">
+     <button name="Anterior" load="Images/inf_angle_ant.jpg" />
+     <button name="Lateral" load="Images/inf_angle_lat.jpg" />
+     <button name="Posterior" load="Images/inf_angle_post.jpg" />
+     </subsubitem>
+
+     <subsubitem type="link" name="Infraspinous Fossa" sound="Sounds/infraspinous.wav">
+     <button load="Images/infraspin_fossa_post.jpg" />
+	   </subsubitem>
+
+    <subsubitem type="link" name="Scapular Notch" sound="Sounds/scapular_notch.wav">
+    <button name="Anterior" load="Images/scap_notch_ant.jpg" />
+    <button name="Posterior" load="Images/scap_notch_post.jpg" />
+    <button name="Superior" load="Images/Scap_notch_sup.jpg" />
+	  </subsubitem>
+
+    <subsubitem type="link" name="Spine" sound="Sounds/spine.wav">
+    <button name="Posterior" load="Images/spine_post.jpg" />
+    <button name="Superior" load="Images/spine_sup.jpg" />
+	  </subsubitem>
+
+    <subsubitem type="link" name="Subscapular Fossa" sound="Sounds/subscapular_fossa.wav">
+    <button load="Images/subscap_fossa_ant.jpg" />
+	  </subsubitem>
+
+    <subsubitem type="link" name="Superior (Medial) Angle" sound="Sounds/superior_angle.wav">
+    <button name="Anterior" load="Images/sup_angle_ant.jpg" />
+    <button name="Lateral" load="Images/sup_angle_lat.jpg" />
+    <button name="Posterior" load="Images/sup_angle_post.jpg" />
+    <button name="Superior" load="Images/sup_angle_sup.jpg" />
+	  </subsubitem>
+
+    <subsubitem type="link" name="Superior Border" sound="Sounds/superior_border.wav">
+    <button name="Anterior" load="Images/sup_border_ant.jpg" />
+    <button name="Lateral" load="Images/sup_border_lat.jpg" />
+    <button name="Posterior" load="Images/sup_border_post.jpg" />
+    <button name="Superior" load="Images/sup_border_sup.jpg" />
+	  </subsubitem>
+
+    <subsubitem type="link" name="Supraspinous Fossa" sound="Sounds/supraspinous_fossa.wav">
+    <button name="Posterior" load="Images/supraspin_fossa_post.jpg" />
+    <button name="Superior" load="Images/supraspin_fossa_sup.jpg" />
+	  </subsubitem>
+
+    <subsubitem type="link" name="Vertebral (Medial) Border" sound="Sounds/vertebral_border.wav">
+    <button name="Anterior" load="Images/vert_border_ant.jpg" />
+    <button name="Posterior" load="Images/vert_border_post.jpg" />
+	  </subsubitem>
+  </subitem>
+
+  <subitem type="expand" name="Humerus" sound="Sounds/humerus.wav">
+  <button name="Anterior and Posterior-Complete" load="Images/humerus.jpg" />
+  <button name="Anterior, Lateral, and Posterior-Zoom" load="Images/humerus-zoom.jpg" />
+  <button name="3D Animation" load="Images/humerus.gif" />
+
+    <subsubitem type="link" name="Anatomical Neck" sound="Sounds/anatomical_neck.wav">
+    <button name="" load="Images/anatomical_neck.jpg" />
+	  </subsubitem>
+
+    <subsubitem type="link" name="Capitulum" sound="Sounds/capitulum.wav">
+    <button name="" load="Images/capitulum.jpg" />
+	  </subsubitem>
+
+    <subsubitem type="link" name="Coronoid Fossa" sound="Sounds/coronoid_fossa.wav">
+    <button name="" load="Images/coronoid_fossa.jpg" />
+    </subsubitem>
+
+    <subsubitem type="link" name="Deltoid Tuberosity" sound="Sounds/deltoid_tuberosity.wav">
+    <button name="" load="Images/deltoid_tuberosity.jpg" />
+    </subsubitem>
+
+    <subsubitem type="link" name="Greater Tubercle" sound="Sounds/greater_tubercle.wav">
+    <button name="" load="Images/greater_tubercle.jpg" />
+    </subsubitem>
+
+    <subsubitem type="link" name="Head" sound="Sounds/head.wav">
+    <button name="" load="Images/head.jpg" />
+    </subsubitem>
+
+    <subsubitem type="link" name="Intertubercular Groove" sound="Sounds/intertubercular_groove.wav">
+    <button name="" load="Images/inter_groove.jpg" />
+    </subsubitem>
+
+    <subsubitem type="link" name="Lateral Epicondyle" sound="Sounds/Lateral_epicondyle.wav">
+    <button name="" load="Images/lat_epicondyle.jpg" />
+    </subsubitem>
+
+    <subsubitem type="link" name="Lesser Tubercle" sound="Sounds/lesser_tubercle.wav">
+    <button load="Images/lesser_tubercle.jpg" />
+    </subsubitem>
+
+    <subsubitem type="link" name="Medial Epicondyle" sound="Sounds/medial_epicondyle.wav">
+    <button load="Images/med_epicondyle.jpg" />
+    </subsubitem>
+
+    <subsubitem type="link" name="Olecranon Fossa" sound="Sounds/olecranon_fossa.wav">
+    <button load="Images/olecranon_fossa.jpg" />
+    </subsubitem>
+
+    <subsubitem type="link" name="Radial Fossa" sound="Sounds/radial_fossa.wav">
+    <button load="Images/radial_fossa.jpg" />
+    </subsubitem>
+
+    <subsubitem type="link" name="Surgical Neck" sound="Sounds/surgical_neck.wav">
+    <button load="Images/surgical_neck.jpg" />
+    </subsubitem>
+
+    <subsubitem type="link" name="Trochlea" sound="Sounds/trochlea.wav">
+    <button load="Images/trochlea.jpg" />
+    </subsubitem>
+  </subitem>
+
+
+  <subitem type="expand" name="Radius" sound="Sounds/radius.wav">
+    <button name="Anterior and Posterior-Complete" load="Images/radius.jpg" />
+    <button name="Overview" load="Images/radius_zoom.jpg" />
+    <button name="3D Animation" load="Images/radius.gif" />
+
+  <subsubitem type="link" name="Head" sound="Sounds/head.wav">
+    <button name="Radius Only Multiple Views" load="Images/head_radius.jpg" />
+	  <button name="See With Entire Forearm" load="Images/head_forearm.jpg" />
+
+  </subsubitem>
+
+  <subsubitem type="link" name="Neck" sound="Sounds/neck.wav">
+    <button name="Radius Only Multiple Views" load="Images/neck_radius.jpg" />
+	  <button name="See With Entire Forearm" load="Images/neck_forearm.jpg" />
+  </subsubitem>
+
+  <subsubitem type="link" name="Radial Tuberosity" sound="Sounds/radial_tuberosity.wav">
+    <button name="Radius Only Multiple Views" load="Images/radial_tuberosity.jpg" />
+	<button name="See With Entire Forearm" load="Images/radial_tuberosity_forearm.jpg" />
+  </subsubitem>
+
+  <subsubitem type="link" name="Styloid Process" sound="Sounds/styloid_process.wav">
+    <button name="Radius Only Multiple Views" load="Images/syloid_proc_radius.jpg" />
+	<button name="See With Entire Forearm" load="Images/styloid_process_forearm.jpg" />
+  </subsubitem>
+
+  <subsubitem type="link" name="Ulnar Notch" sound="Sounds/ulnar_notch.wav">
+    <button name="Radius Only Multiple Views" load="Images/ulnar_notch.jpg" />
+	<button name="See With Entire Forearm" load="Images/ulnar_notch_forearm.jpg" />
+  </subsubitem>
+ </subitem>
+
+
+  <subitem type="expand" name="Ulna" sound="Sounds/ulna.wav">
+    <button name="Anterior and Posterior-Complete" load="Images/ulna.jpg" />
+    <button name="Overview" load="Images/ulna_zoom.jpg" />
+    <button name="3D Animation" load="Images/ulna.gif" />
+
+  <subsubitem type="link" name="Coronoid Process" sound="Sounds/coronoid_process.wav">
+    <button name="Ulna Only Multiple Views" load="Images/coronoid_proc_ulna.jpg" />
+	  <button name="See With Entire Forearm" load="Images/coronoid_process_ulna.jpg" />
+  </subsubitem>
+
+  <subsubitem type="link" name="Head" sound="Sounds/head.wav">
+    <button name="Ulna Only Multiple Views" load="Images/head_ulna.jpg" />
+	  <button name="See With Entire Forearm" load="Images/head_ulna_arm.jpg" />
+  </subsubitem>
+
+  <subsubitem type="link" name="Olecranon Process" sound="Sounds/olecranon_process.wav">
+    <button name="Ulna Only Multiple Views" load="Images/olecranon_proc.jpg" />
+	  <button name="See With Entire Forearm" load="Images/olecranon_process_arm.jpg" />
+  </subsubitem>
+
+  <subsubitem type="link" name="Radial Notch" sound="Sounds/radial_notch.wav">
+    <button name="Ulna Only Multiple Views" load="Images/radial_notch.jpg" />
+	  <button name="See With Entire Forearm" load="Images/radial_notch_ulna.jpg" />
+  </subsubitem>
+
+  <subsubitem type="link" name="Styloid Process" sound="Sounds/styloid_process.wav">
+    <button name="Ulna Only Multiple Views" load="Images/styloid_proc_ulna.jpg" />
+	  <button name="See With Entire Forearm" load="Images/styloid_process_ulna.jpg" />
+  </subsubitem>
+
+  <subsubitem type="link" name="Trochlear (Semilunar) Notch" sound="Sounds/trochlear_notch.wav">
+    <button name="Ulna Only Multiple Views" load="Images/trochlear_notch.jpg" />
+	  <button name="See With Entire Forearm" load="Images/trochlear_notch_ulna.jpg" />
+  </subsubitem>
+
+  <subsubitem type="link" name="Ulnar Tuberosity" sound="Sounds/ulnar_tuberosity.wav">
+    <button name="Ulna Only Multiple Views" load="Images/ulnar_tuberosity.jpg" />
+ 	  <button name="See With Entire Forearm" load="Images/ulnar_tuberosity_arm.jpg" />
+  </subsubitem>
+ </subitem>
+
+
+  <subitem type="expand" name="Carpal Bones" sound="Sounds/carpals.wav">
+	  <button name="Anterior-Complete Skeleton" load="Images/carpals.jpg" />
+	  <button name="Anterior and Posterior-Zoom" load="Images/carpals-zoom.jpg" />
+
+  <subsubitem type="link" name="Scaphoid" sound="Sounds/scaphoid.wav">
+    <button name="" load="Images/scaphoid.jpg" />
+  </subsubitem>
+
+  <subsubitem type="link" name="Lunate" sound="Sounds/lunate.wav">
+    <button name="" load="Images/lunate.jpg" />
+  </subsubitem>
+
+   <subsubitem type="link" name="Triquetrum" sound="Sounds/triquetrum.wav">
+    <button name="" load="Images/triquetrum.jpg" />
+   </subsubitem>
+
+    <subsubitem type="link" name="Pisiform" sound="Sounds/pisiform.wav">
+      <button name="" load="Images/pisiform.jpg" />
+    </subsubitem>
+
+    <subsubitem type="link" name="Trapezium" sound="Sounds/trapezium.wav">
+      <button name="" load="Images/trapezium.jpg" />
+    </subsubitem>
+
+    <subsubitem type="link" name="Trapezoid" sound="Sounds/trapezoid.wav">
+      <button name="" load="Images/trapezoid.jpg" />
+    </subsubitem>
+
+    <subsubitem type="link" name="Capitate" sound="Sounds/capitate.wav">
+      <button name="" load="Images/capitate.jpg" />
+    </subsubitem>
+
+    <subsubitem type="link" name="Hamate" sound="Sounds/hamate.wav">
+      <button name="" load="Images/Hamate.jpg" />
+    </subsubitem>
+
+ </subitem>
+
+
+  <subitem type="expand" name="Metacarpals" sound="Sounds/metacarpals.wav">
+    <button name="Anterior-Complete Skeleton" load="Images/metacarpals.jpg" />
+    <button name="Anterior and Posterior-Zoom" load="Images/metacarpals-zoom.jpg" />
+
+  <subsubitem type="link" name="Metacarpal 1" sound="?">
+    <button load="Images/metacarp_one.jpg" />
+  </subsubitem>
+
+  <subsubitem type="link" name="Metacarpal 2" sound="?">
+    <button load="Images/metacarp_two.jpg" />
+  </subsubitem>
+
+  <subsubitem type="link" name="Metacarpal 3" sound="?">
+    <button load="Images/metacarp_three.jpg" />
+  </subsubitem>
+
+  <subsubitem type="link" name="Metacarpal 4" sound="?">
+    <button load="Images/metacarp_four.jpg" />
+  </subsubitem>
+
+  <subsubitem type="link" name="Metacarpal 5" sound="?">
+    <button load="Images/metacarp_five.jpg" />
+  </subsubitem>
+ </subitem>
+
+
+  <subitem type="expand" name="Digits (Phalanges)" sound="Sounds/digits.wav">
+    <button name="Anterior-Complete Skeleton" load="Images/digits.jpg" />
+    <button name="Anterior and Posterior-Zoom" load="Images/digits-zoom.jpg" />
+
+  <subsubitem type="link" name="Distal Phalanx" sound="Sounds/distal_phalanx.wav">
+    <button name="" load="Images/dist_phalan.jpg" />
+  </subsubitem>
+
+  <subsubitem type="link" name="Middle Phalanx" sound="Sounds/middle_phalanx.wav">
+    <button name="" load="Images/mid_phalan.jpg" />
+  </subsubitem>
+
+  <subsubitem type="link" name="Proximal Phalanx" sound="Sounds/proximal_phalanx.wav">
+    <button name="" load="Images/prox_phalan.jpg" />
+  </subsubitem>
+ </subitem>
+
+
+
+  <subitem type="expand" name="Sternum" sound="Sounds/sternum.wav">
+    <button name="Anterior" load="Images/ant_sternum.jpg" />
+    <button name="Lateral" load="Images/lat_sternum.jpg" />
+
+  <subsubitem type="link" name="Body" sound="Sounds/body.wav">
+    <button name="Anterior" load="Images/ant_body_stern.jpg" />
+    <button name="Lateral" load="Images/lat_body_stern.jpg" />
+  </subsubitem>
+
+  <subsubitem type="link" name="Clavicular Notch" sound="Sounds/clavicular_notch.wav">
+    <button name="Anterior" load="Images/ant_clav_notch.jpg" />
+    <button name="Lateral" load="Images/lat_clav_notch.jpg" />
+  </subsubitem>
+
+  <subsubitem type="link" name="Costal Notches" sound="Sounds/costal_notches.wav">
+    <button name="Anterior" load="Images/ant_costal_notch.jpg" />
+    <button name="Lateral" load="Images/lat_costal_notch.jpg" />
+  </subsubitem>
+
+  <subsubitem type="link" name="Jugular Notch" sound="Sounds/jugular_notch.wav">
+    <button name="Anterior" load="Images/ant_jug_notch.jpg" />
+    <button name="Lateral" load="Images/lat_jug_notch.jpg" />
+  </subsubitem>
+
+  <subsubitem type="link" name="Manubrium" sound="Sounds/manubrium.wav">
+    <button name="Anterior" load="Images/ant_manubrium.jpg" />
+    <button name="Lateral" load="Images/lat_manubrium.jpg" />
+  </subsubitem>
+
+  <subsubitem type="link" name="Sternal Angle" sound="Sounds/sternal_angle.wav">
+    <button name="Anterior" load="Images/ant_stern_angle.jpg" />
+    <button name="Lateral" load="Images/lat_stern_angle.jpg" />
+  </subsubitem>
+
+  <subsubitem type="link" name="Xiphoid Process" sound="Sounds/xiphoid.wav">
+    <button name="Anterior" load="Images/ant_xiphoid.jpg" />
+    <button name="Lateral" load="Images/lat_xiphoid.jpg" />
+  </subsubitem>
+ </subitem>
+
+
+
+  <subitem type="expand" name="Ribs" sound="Sounds/ribs.wav">
+    <button name="Complete Skeleton" load="Images/ribs.jpg" />
+    <button name="Anterior Ribcage" load="Images/ant_ribs.jpg" />
+    <button name="Posterior Ribcage" load="Images/post_ribs.jpg" />
+    <button name="Posterior Rib" load="Images/rib_posterior.jpg" />
+    <button name="Animation" load="Images/rib_animation.gif" />
+
+   <subsubitem type="link" name="Head" sound="Sounds/head.wav">
+    <button name="" load="Images/post_head_rib.jpg" />
+   </subsubitem>
+
+   <subsubitem type="link" name="Neck" sound="Sounds/neck.wav">
+    <button name="" load="Images/post_neck_rib.jpg" />
+   </subsubitem>
+
+   <subsubitem type="link" name="Tubercle" sound="Sounds/tubercle.wav">
+    <button name="" load="Images/post_tubercle.jpg" />
+   </subsubitem>
+
+   <subsubitem type="link" name="Angle" sound="Sounds/angle.wav">
+    <button name="" load="Images/post_angle.jpg" />
+   </subsubitem>
+
+   <subsubitem type="link" name="Body" sound="Sounds/body.wav">
+    <button name="" load="Images/post_body_rib.jpg" />
+   </subsubitem>
+
+   <subsubitem type="link" name="Costal Groove" sound="Sounds/costal_groove.wav">
+    <button name="" load="Images/post_costal_groove.jpg" />
+   </subsubitem>
+
+  <subsubitem type="link" name="Costal Cartilage" sound="Sounds/costal_cartilage.wav">
+    <button load="Images/cost_cartilage_ant.jpg" />
+  </subsubitem>
+
+  <subsubitem type="link" name="False Ribs (5 Pair)" sound="Sounds/false_ribs.wav">
+    <button name="Anterior" load="Images/false_ribs_ant.jpg" />
+    <button name="Posterior" load="Images/false_ribs_post.jpg" />
+  </subsubitem>
+
+  <subsubitem type="link" name="Floating Ribs (2 Pair)" sound="Sounds/floating.wav">
+    <button name="Anterior" load="Images/floating_ribs_ant.jpg" />
+    <button name="Posterior" load="Images/floating_ribs_post.jpg" />
+  </subsubitem>
+
+  <subsubitem type="link" name="True Ribs (7 Pair)" sound="Sounds/true_ribs.wav">
+    <button name="Anterior" load="Images/true_ribs_ant.jpg" />
+    <button name="Posterior" load="Images/true_ribs_post.jpg" />
+  </subsubitem>
+ </subitem>
+
+
+
+  <subitem type="link" name="Vertebrae Regions" sound="Sounds/vertebrae_general.wav">
+  <button name="Lateral" load="Images/vertebrae_lat.jpg" />
+  <button name="Superior" load="Images/vertebrae_sup.jpg" />
+  <button name="Posterior" load="Images/vertebrae_post.jpg" />
+  </subitem>
+
+  <subitem type="expand" name="Vertebrae - General Features" sound="Sounds/vertebrae_general.wav">
+    <subsubitem type="link" name="Body" sound="Sounds/body.wav">
+    <button name="Lateral" load="Images/vert_body_lat.jpg" />
+    <button name="Superior" load="Images/vert_body_sup.jpg" />
+    <button name="Posterior" load="Images/vert_body_post.jpg" />
+    </subsubitem>
+
+    <subsubitem type="link" name="Inferior Articular Facet" sound="Sounds/inferior_articular_facet.wav">
+     <button name="" load="Images/vert_inf_art_facet_lat.jpg" />
+    </subsubitem>
+
+    <subsubitem type="link" name="Inferior Articular Process" sound="Sounds/inferior_articular_process.wav">
+      <button name="Lateral" load="Images/vert_inf_art_proc_lat.jpg" />
+      <button name="Posterior" load="Images/vert_inf_art_proc_post.jpg" />
+    </subsubitem>
+
+    <subsubitem type="link" name="Inferior Intervertebral Notch" sound="Sounds/inferior_intervertebral_notch.wav">
+      <button load="Images/inf_intervert_notch.jpg" />
+    </subsubitem>
+
+    <subsubitem type="link" name="Intervertebral Foramen" sound="Sounds/intervertebral_foramen.wav">
+      <button load="Images/intervert_foramen.jpg" />
+    </subsubitem>
+
+    <subsubitem type="link" name="Lamina" sound="Sounds/lamina.wav">
+      <button name="Lateral" load="Images/vert_lamina_lat.jpg" />
+      <button name="Superior" load="Images/vert_lamina_sup.jpg" />
+      <button name="Posterior" load="Images/vert_lamina_post.jpg" />
+    </subsubitem>
+
+    <subsubitem type="link" name="Pedicle" sound="Sounds/pedicle.wav">
+      <button name="Lateral" load="Images/vert_pedicle_lat.jpg" />
+      <button name="Superior" load="Images/vert_pedicle_sup.jpg" />
+    </subsubitem>
+
+    <subsubitem type="link" name="Spinous Process" sound="Sounds/spinous_process.wav">
+      <button name="Lateral" load="Images/vert_spinous_proc_lat.jpg" />
+      <button name="Superior" load="Images/vert_spinous_proc_sup.jpg" />
+      <button name="Posterior" load="Images/vert_spinous_proc_post.jpg" />
+    </subsubitem>
+
+    <subsubitem type="link" name="Superior Articular Facet" sound="Sounds/superior_articular_facet.wav">
+      <button name="Lateral" load="Images/vert_sup_art_facet_lat.jpg" />
+      <button name="Superior" load="Images/vert_sup_art_facet_sup.jpg" />
+      <button name="Posterior" load="Images/vert_sup_art_facet_post.jpg" />
+    </subsubitem>
+
+    <subsubitem type="link" name="Superior Articular Process" sound="Sounds/superior_articular_process.wav">
+      <button name="Lateral" load="Images/vert_sup_art_proc_lat.jpg" />
+      <button name="Superior" load="Images/vert_sup_art_proc_sup.jpg" />
+      <button name="Posterior" load="Images/vert_sup_art_proc_post.jpg" />
+    </subsubitem>
+
+    <subsubitem type="link" name="Superior Intervertebral Notch" sound="Sounds/superior_intervertebral_notch.wav">
+      <button load="Images/sup_intervert_notch.jpg" />
+    </subsubitem>
+
+    <subsubitem type="link" name="Transverse Process" sound="Sounds/transverse_process.wav">
+      <button name="Lateral" load="Images/vert_trans_proc_lat.jpg" />
+      <button name="Superior" load="Images/vert_trans_proc_sup.jpg" />
+      <button name="Posterior" load="Images/vert_trans_proc_post.jpg" />
+    </subsubitem>
+
+    <subsubitem type="link" name="Vertebral Arch" sound="Sounds/vertebral_arch.wav">
+      <button name="Lateral" load="Images/vert_arch_lat.jpg" />
+      <button name="Superior" load="Images/vert_arch_sup.jpg" />
+      <button name="Posterior" load="Images/vert_arch_post.jpg" />
+    </subsubitem>
+
+    <subsubitem type="link" name="Vertebral Foramen" sound="Sounds/vertebral_foramen.wav">
+      <button load="Images/vert_foramen_sup.jpg" />
+    </subsubitem>
+	</subitem>
+
+
+
+ <subitem type="expand" name="Cervical Vertebrae (7)" sound="Sounds/cervical_vertebrae.wav">
+  <button name="Anterior and Posterior-Complete" load="Images/cerv_vert_axis_atlas.jpg" />
+  <button name="Axis and Atlas" load="Images/cerv_vert_axis_atlas-zoom.jpg" />
+  <button name="3D Animation" load="Images/cervical.gif" />
+
+  <subsubitem type="link" name="Atlas (C1)" sound="Sounds/atlas.wav">
+     <button name="Overview" load="Images/atlas.jpg" />
+     <button name="3D Animation - Atlas" load="Images/atlas.gif" />
+     <button name="3D Animation - Atlas and Axis" load="Images/atlas_axis.gif" />
+  </subsubitem>
+
+  <subsubitem type="link" name="Axis (C2)" sound="Sounds/axis.wav">
+    <button name="Overview" load="Images/axis.jpg" />
+    <button name="3D Animation" load="Images/axis.gif" />
+  </subsubitem>
+
+  <subsubitem type="link" name="Bifid Spinous Process" sound="Sounds/bifid.wav">
+   <button name="" load="Images/bi_spinous_proc_axis.jpg" />
+  </subsubitem>
+
+  <subsubitem type="link" name="Odontoid Process (Dens)" sound="Sounds/odontoid.wav">
+   <button name="" load="Images/dens_axis.jpg" />
+  </subsubitem>
+
+  <subsubitem type="link" name="Transverse Foramen" sound="Sounds/transverse_foramen.wav">
+   <button name="Atlas" load="Images/trans_foramen_atlas.jpg" />
+   <button name="Axis" load="Images/trans_foramen_axis.jpg" />
+  </subsubitem>
+ </subitem>
+
+
+ <subitem type="expand" name="Thoracic Vertebrae (12)" sound="Sounds/thoracic.wav">
+  <button name="Anterior and Posterior-Complete" load="Images/thoracic_lat.jpg" />
+  <button name="Lateral" load="Images/thoracic_lat-zoom.jpg" />
+  <button name="Superior" load="Images/thoracic_sup.jpg" />
+  <button name="Posterior" load="Images/thoracic_post.jpg" />
+  <button name="3D Animation" load="Images/thoracic.gif" />
+
+   <subsubitem type="link" name="Costal Facet" sound="Sounds/costal_facet.wav">
+   <button load="Images/costal_facet_lat.jpg" />
+   </subsubitem>
+ </subitem>
+
+ <subitem type="link" name="Lumbar Vertebrae (5)" sound="Sounds/lumbar.wav">
+    <button name="Anterior and Posterior-Complete" load="Images/lumbar_lat.jpg" />
+    <button name="Lateral" load="Images/lumbar_lat_zoom.jpg" />
+    <button name="Posterior" load="Images/lumbar_post.jpg" />
+    <button name="Superior" load="Images/lumbar_sup.jpg" />
+    <button name="3D Animation" load="Images/lumbar.gif" />
+ </subitem>
+
+
+ <subitem type="expand" name="Sacrum" sound="Sounds/sacrum.wav">
+    <button name="Complete Skeleton" load="Images/sacrum.jpg" />
+    <button name="Anterior" load="Images/ant_sacrum_1.jpg" />
+    <button name="Lateral" load="Images/lat_sacrum_1.jpg" />
+     <button name="Posterior" load="Images/post_sacrum_1.jpg" />
+    <button name="Superior" load="Images/sup_sacrum.jpg" />
+    <button name="Anterior with Coxal Bones" load="Images/sacrum_comp_ant.jpg" />
+    <button name="Posterior with Coxal Bones" load="Images/sacrum_comp_post.jpg" />
+
+      <subsubitem type="link" name="Anterior (Ventral) Sacral Foramen" sound="Sounds/anterior_sacral.wav">
+       <button name="Anterior with Coxal Bones" load="Images/ant_sacral_foramen_comp_ant.jpg" />
+       <button name="Anterior Sacrum Only" load="Images/ant_sacral_foramen.jpg" />
+		 </subsubitem>
+
+    <subsubitem type="link" name="Auricular Surface" sound="Sounds/auricular_surface.wav">
+      <button name="Posterior" load="Images/post_auric_surface.jpg" />
+      <button name="Lateral" load="Images/lat_auric_surface.jpg" />
+    </subsubitem>
+
+    <subsubitem type="link" name="Median Sacral Crest" sound="Sounds/median_sacral_crest.wav">
+      <button name="Posterior with Coxal Bones" load="Images/med_sacral_crest_comp_post.jpg" />
+      <button name="Posterior Sacrum Only" load="Images/post_med_sacral_crest.jpg" />
+      <button name="Lateral Sacrum Only" load="Images/lat_med_sacral_crest.jpg" />
+    </subsubitem>
+
+    <subsubitem type="link" name="Posterior (Dorsal) Sacral Foramen" sound="Sounds/posterior_sacral.wav">
+      <button name="Posterior with Coxal Bones" load="Images/post_sacral_foramen_comp_post.jpg" />
+      <button name="Posterior Sacrum only" load="Images/post_sacral_foramen.jpg" />
+    </subsubitem>
+
+    <subsubitem type="link" name="Sacral Canal" sound="Sounds/sacral_canal.wav">
+      <button name="Posterior with Coxal Bones" load="Images/sacral_canal_comp_post.jpg" />
+      <button name="Posterior Sacrum Only" load="Images/post_sacral_canal.jpg" />
+      <button name="Superior Sacrum Only" load="Images/sup_sacral_canal.jpg" />
+    </subsubitem>
+  </subitem>
+
+
+  <subitem type="link" name="Coccyx" sound="Sounds/coccyx.wav">
+    <button name="Anterior" load="Images/ant_coccyx.jpg" />
+    <button name="Lateral" load="Images/lat_coccyx.jpg" />
+    <button name="Posterior" load="Images/post_coccyx.jpg" />
+  </subitem>
+
+</item>
+
+<!-- End of 2d Menu Items -->
+
+
+
+<!-- This is the beginning of the 3d Menu -->
+<item type="expand" name="5.1.3 - Arm and Trunk 3D Anatomy">
+	<subitem type="xlink" name="Arm 3D Webpage">
+		 <button load="https://content.byui.edu/file/b40899bd-8a26-4370-b5e7-b49584145e6c/1/Arm%20Bones/index.html"/>
+	 </subitem>
+
+	 <subitem type="xlink" name="Trunk 3D Webpage">
+ 		 <button load="https://content.byui.edu/file/e90b324a-2fbd-4eee-97cb-a58479879b98/1/Trunk%20Bones/index.html"/>
+ 	 </subitem>
+</item>
+
+
+
+
+<item type="expand" name="5.1.4 - Arm and Trunk Videos">
+
+	   <subitem type="link" name="Clavicle and Scapula">
+	   <button load="Pages/4_1_4_clavicle_scap_kaylie_video.html" />
+	   </subitem>
+
+		 <subitem type="link" name="Humerus">
+		<button load="Pages/4_1_4_humerus_kaylie_video.html" />
+		</subitem>
+
+	 <subitem type="link" name="Radius and Ulna">
+	<button load="Pages/4_1_4_radius_ulna_kaylie_video.html" />
+	</subitem>
+
+	<subitem type="link" name="Carpals and Digits">
+  <button load="Pages/4_1_4_carpals_digits_kaylie_video.html" />
+  </subitem>
+
+  <subitem type="link" name="Sternum and Ribs">
+  <button load="Pages/4_1_4_sternum_ribs_kaylie_video.html" />
+  </subitem>
+
+	<subitem type="link" name="Vertebrae">
+  <button load="Pages/4_1_4_vertebrae_kaylie_video.html" />
+  </subitem>
+
+	<subitem type="link" name="Sacrum and Coccyx">
+  <button load="Pages/4_1_4_sacrum_kaylie_video.html" />
+  </subitem>
+</item>
+
+
+<item type="nolink" name="WEEK 5.2 - PRACTICE">
+	<custom>
+		<text type="bold" font="Verdana, Avenir, Helvetica" size="20px" color="#fff" align="center" />
+		<box color="#3c3c3c" hover="#666666" />
+	</custom>
+</item>
+
+
+<item type="link" name="5.2.1 - Practice Some Descriptions">
+	<button load="Pages/5_2_1_descriptions.html"/>
+</item>
+
+
+<item type="expand" name="5.2.2 - Practice with 3D">
+    <subitem type="xlink" name="Clickable Arm">
+		<button load="https://content.byui.edu/file/a1939ee2-f436-4928-bd26-60dff94b5f27/1/Arm%20Clickable%20Bones/index.html" target="_blank" />
+	  </subitem>
+
+		<subitem type="xlink" name="Find on the Arm">
+		<button load="https://content.byui.edu/file/a1939ee2-f436-4928-bd26-60dff94b5f27/1/Arm%20Bones%20Find/index.html" target="_blank" />
+		</subitem>
+
+		<subitem type="xlink" name="Clickable Trunk">
+		<button load="https://content.byui.edu/file/b58295d6-be96-4f2b-9463-000a85071f6b/1/Trunk%20Bones%20Clickable/index.html" target="_blank" />
+		</subitem>
+
+	  <subitem type="xlink" name="Find on the Trunk">
+		<button load="https://content.byui.edu/file/b58295d6-be96-4f2b-9463-000a85071f6b/1/Trunk%20Bones%20Find/index.html" target="_blank" />
+  	</subitem>
+
+</item>
+
+
+
+<item type="link" name="5.2.3 - Try Naming Some Pictures">
+		<button load="powerpoint/arms_trunk/index.html"/>
+</item>
+
+
+<item type="link" name="5.2.4 - [download] Flashcards">
+	<button load="https://content.byui.edu/file/5111f3f1-bb2b-41c2-9ba1-d00c26274ce1/1/Bones-Arms%20and%20Trunk.apkg"/>
+</item>
+
+
+
+
+
+
+
+</player>

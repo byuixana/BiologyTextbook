@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- responsive-fit patch -->
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	<title>Bio 264 Online Atlas</title>
+	<link type="image/x-icon" rel="shortcut icon" href="http://www.byui.edu/prebuilt/stylenew/images/ico/favicon.ico" />
+	<style type="text/css">
+		@import url("Appearance/player.css");
+	</style>
+	<script src="JS/jquery.min.js" type="text/javascript"></script>
+	<script src="JS/ajax.js" type="text/javascript"></script>
+	<script src="JS/player.js" type="text/javascript"></script>
+<style id="responsive-fit-style">
+  html {
+    min-height: 100%;
+    box-sizing: border-box;
+    overflow-x: hidden;
+  }
+  body {
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  *, *::before, *::after { box-sizing: inherit; }
+  img, video, iframe, object, embed {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  iframe {
+    width: min(100%, 960px);
+    aspect-ratio: 608 / 402;
+  }
+</style>
+</head>
+<body>
+	<table id="player">
+		<tr>
+			<th id="title" onclick="main_menu()" style="cursor:pointer;"><span style="color:blue";>Title</span></th>
+			<td id="buttonContainer"></td>
+		</tr>
+		<tr>
+			<th id="scrollingContent">
+				<div id="collapseAll" onclick="collapseAll()">Collapse All (-)</div>
+				<ul id="topicList"></ul>
+			</th>
+			<td id="window" rowspan="2">
+				<img id="displayImage" src="" />
+				<iframe id="displayFrame" src=""></iframe>
+			</td>
+		</tr>
+		<tr>
+			<th id="currentView">Current Item</th>
+		</tr>
+	</table>
+	<audio id="audio" src=""></audio>
+</body>
+</html>

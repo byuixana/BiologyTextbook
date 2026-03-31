@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<player>
+
+<theme>blue</theme>
+
+<title intro="Pages/Leg_main_intro.html">[RETURN] To Main Menu</title>
+
+<item type="nolink" name="WEEK 10.1 - LEG MUSCLES">
+	<custom>
+		<text type="bold" font="Verdana, Avenir, Helvetica" size="20px" color="#fff" align="center" />
+		<box color="#3c3c3c" hover="#666666" />
+	</custom>
+</item>
+
+
+<item type="link" name="10.1.1 - Intro to Leg Muscles">
+	<button load="Pages/10_1_1_intro_legs.html"/>
+</item>
+
+
+<!-- This is the beginning of the 2d Menu-->
+
+<item type="expand" name="10.1.2- Hip and Leg Muscle 2D Anatomy">
+    <subitem type="expand" name="Muscles of the Hip">
+
+		      <subsubitem type="link" name="Gluteus Maximus" sound="Sounds/gluteus_maximus.wav">
+		        <button name="Example 1" load="Images/Gluteus Maximus 357.png" />
+		      </subsubitem>
+
+					<subsubitem type="link" name="Gluteus Medius" sound="Sounds/gluteus_medius.wav">
+					 <button name="With Gluteus Maximus On" load="Images/Gluteus Medius 357.png" />
+					 <button name="With Gluteus Maximus Removed" load="Images/Gluteus Medius (NO Maximus) 357.png" />
+				 </subsubitem>
+
+				 <subsubitem type="link" name="Gluteus Minimus" sound="Sounds/gluteus_minimus.wav">
+					 <button name="With Gluteus Medius On" load="Images/Gluteus Minimus 357.png" />
+					 <button name="With Gluteus Medius Removed" load="Images/Gluteus Minimus (NO Medius).png" />
+					 <button name="Animate" load="Images/animate_GlutMin_Kaden.gif" />
+				 </subsubitem>
+
+				 <subsubitem type="link" name="Iliopsoas" sound="Sounds/iliopsoas.wav">
+					 <button name="Illiopsoas" load="Images/Illiopsoas Gray.png" />
+					 <button name="Iliacus" load="Images/Illiacus Gray.png" />
+					 <button name="Iliacus 2" load="Images/illiacus_ant_Thigh_Kaden.jpg" />
+					 <button name="Psoas Major" load="Images/Psoas Major Gray.png" />
+					 <button name="Psoas Major 2" load="Images/psoasmajor_ant_Thigh_Kaden.jpg" />
+				 </subsubitem>
+
+				 <subsubitem type="link" name="iliotibial Band" sound="Sounds/iliotibialband.wav">
+				 	<button name="Example 1" load="Images/Illiotibial Band Anterior.png" />
+				 </subsubitem>
+
+				 <subsubitem type="link" name="Piriformis" sound="Sounds/piriformis.wav">
+				 	<button name="Example 1" load="Images/Piriformis 357.png" />
+					<button name="Example 2" load="Images/animate_piriformis_Kaden.gif" />
+				 </subsubitem>
+
+				 <subsubitem type="link" name="Superior Gemellus" sound="">
+				 <button name="Animate" load="Images/animate_SupGemellus_Kaden.gif" />
+				 </subsubitem>
+
+					<subsubitem type="link" name="Obturator Internus" sound="">
+					<button name="Animate" load="Images/animate_ObturatorInt_Kaden.gif" />
+				  </subsubitem>
+
+					 <subsubitem type="link" name="Inferior Gemellus" sound="">
+					 <button name="Animate" load="Images/animate_Infgemellus_Kaden.gif" />
+				  </subsubitem>
+
+					<subsubitem type="link" name="Quadratus Femoris" sound="">
+					<button name="Animate" load="Images/animate_QuadratusFem_Kaden.gif" />
+				 </subsubitem>
+
+				 <subsubitem type="link" name="Tensor Fascia Latae" sound="Sounds/tensor_fascia_latae.wav">
+					 <button name="Example 1" load="Images/Tensor Fasia Lata Anterior.png" />
+					 <button name="Example 2" load="Images/TFL_antthigh_Kaden.jpg" />
+				 </subsubitem>
+
+		  </subitem>
+
+
+    <subitem type="expand" name="Muscles of the Thigh">
+
+				<subsubitem type="link" name="Pectineus" sound="Sounds/pectineus.wav">
+	        <button name="Example 1" load="Images/Pectineus Anterior.png" />
+					<button name="Example 2" load="Images/pectineus_ant_Thigh_Kaden.jpg" />
+	      </subsubitem>
+
+				<subsubitem type="link" name="Adductor Brevis" sound="Sounds/adductor_brevis.wav">
+					<button name="Example 1" load="Images/Adductor Brevis Anterior.png" />
+					<button name="Deeper" load="Images/Adductor Brevis Anterior Thigh.png" />
+				</subsubitem>
+
+				<subsubitem type="link" name="Adductor Longus" sound="Sounds/adductor_longus.wav">
+					<button name="Example 1" load="Images/Adductor Longus Anterior.png" />
+					<button name="Example 2" load="Images/adductorlongus_ant_Thigh_Kaden.jpg" />
+					<button name="Deeper" load="Images/Adductor Longus Anterior Thigh.png" />
+				</subsubitem>
+
+				<subsubitem type="link" name="Adductor Magnus" sound="Sounds/adductor_magnus.wav">
+					<button name="Example 1" load="Images/Adductor Magnus Anterior Thigh.png" />
+				</subsubitem>
+
+				<subsubitem type="link" name="Gracilis" sound="Sounds/gracilis.wav">
+					<button name="Example 1" load="Images/Grcillis Anterior.png" />
+					<button name="Example 2" load="Images/Gracilis Anterior Thigh.png" />
+					<button name="Example 3" load="Images/gracillis_ant_Thigh_Kaden.jpg" />
+				</subsubitem>
+
+				<subsubitem type="link" name="Hamstrings" sound="Sounds/hamstring.wav">
+					<button name="Hamstrings" load="Images/Hamstrings Posterior Thigh.png" />
+					<button name="Semimembranosus" load="Images/Hamstring Semimembanosus Posterior Thigh.png" />
+					<button name="Semitendinosus" load="Images/Hamstrings Semitendonosus Posterior Thigh.png" />
+					<button name="Biceps Femoris Long Head" load="Images/Hamstring Biceps Femoris Posterior Thigh.png" />
+				</subsubitem>
+
+				<subsubitem type="link" name="Sartorius" sound="Sounds/sartorius.wav">
+					<button name="Example 1" load="Images/Sartorius Anterior.png" />
+					<button name="Example 2" load="Images/Sartorius_antthigh_Kaden.jpg" />
+				</subsubitem>
+
+	      <subsubitem type="link" name="Quadriceps Femoris" sound="Sounds/quadriceps_femoris.wav">
+	        <button name="Quadricps Femoris" load="Images/Quadraceps Femoris Anteriors.png" />
+					<button name="Vastus Lateralis" load="Images/Vastus Lateralis Anterior.png" />
+					<button name="Rectus Femoris" load="Images/Rectus Femoris Anterior.png" />
+						<button name="Vastus Medialis" load="Images/Vastus Medius Anterior.png" />
+					<button name="Vastus Intermedius (Rectus Femoris Removed)" load="Images/Vastus Intermedius Anterior.png" />
+	      </subsubitem>
+
+    </subitem>
+
+    <subitem type="expand" name="Muscles of the Leg">
+
+	      <subsubitem type="link" name="Tibialis Anterior" sound="Sounds/tibialis_anterior.wav">
+	        	<button name="Example 1" load="Images/Tibalis Anterior Anterior.png" />
+	      </subsubitem>
+
+				<subsubitem type="link" name="Extensor Digitorum Longus" sound="Sounds/extensor_digitorum_longus.wav">
+	        	<button name="Example 1" load="Images/Extensor Digitorum Longus Anterior.png" />
+	      </subsubitem>
+
+				<subsubitem type="link" name="Extensor Hallucis Longus" sound="Sounds/extensor_hallucis.wav">
+	        	<button name="Example 1" load="Images/Extensor Hallicus Longus Anterior.png" />
+	      </subsubitem>
+
+				<subsubitem type="link" name="Fibularis Tertius" sound="Sounds/fibularis_tertius.wav">
+	        	<button name="Example 1" load="Images/Fibularis Tertius Sabotta Illistation.png" />
+						<button name="Example 2" load="Images/Fibularis_Tertius_Sobotta.jpg" />
+						<button name="Example 3" load="Images/Fibularis_Tertius_Kaden.jpg" />
+	      </subsubitem>
+
+				<subsubitem type="link" name="Fibularis Brevis" sound="Sounds/fibularis_brevis.wav">
+						<button name="Example 1" load="Images/Fibularis Brevis Sabotta Illistration.png" />
+						<button name="Example 2" load="Images/Fibularis_Brevis_Sobotta.jpg" />
+						<button name="Example 3" load="Images/Fibularis_Brevis_Kaden.jpg" />
+				</subsubitem>
+
+				<subsubitem type="link" name="Fibularis Longus" sound="Sounds/fibularis_longus.wav">
+						<button name="Example 1" load="Images/Fibularis Lonus Sobotta Illistration.png" />
+						<button name="Example 2" load="Images/Fibularis-Longus-Sobotta.jpg" />
+						<button name="Example 3 (CUT)" load="Images/Fibularis-Longus-Kaden.jpg" />
+				</subsubitem>
+
+				<subsubitem type="link" name="Gastrocnemius" sound="Sounds/gastrocnemius.wav">
+						<button name="Gastronemius" load="Images/Gastrocnemeus Posterior Leg.png" />
+						<button name="Lateral Head" load="Images/Gastrocnemius Lateral Head Posterior Leg.png" />
+						<button name="Medial Head" load="Images/Gastrocnemius Medial Head Posterior Leg.png" />
+				</subsubitem>
+
+				<subsubitem type="link" name="Plantaris" sound="Sounds/plantaris.wav">
+						<button name="With Gastroc On" load="Images/Plantaris Posterior Leg.png" />
+						<button name="With Gastroc Off" load="Images/Plantaris (NO Gas) Posterior Leg.png" />
+				</subsubitem>
+
+				<subsubitem type="link" name="Soleus" sound="Sounds/soleus.wav">
+						<button name="Example 1" load="Images/Soleus Posterior Leg.png" />
+				</subsubitem>
+
+				<subsubitem type="link" name="Tendo Calcaneous" sound="Sounds/tendo_calcaneous.wav">
+						<button name="Example 1" load="Images/Tendo Calcaneus Posterior Leg.png" />
+				</subsubitem>
+
+				<subsubitem type="link" name="Popliteus" sound="Sounds/popliteus.wav">
+						<button name="Example 1" load="Images/Popliteus Posterior Leg.png" />
+				</subsubitem>
+
+				<subsubitem type="link" name="Flexor Digitorum Longus" sound="Sounds/flexor_digitorum_longus.wav">
+						<button name="Example 1" load="Images/Flexor Digitorum Longus Gray Illistration.png" />
+						<button name="Example 2" load="Images/Flexor_Dig_Long_Kaden.jpg" />
+						<button name="Example 3" load="Images/Flex_Dig_Long_Sobotta.jpg" />
+						<button name="Animate" load="Images/flex_dig_long.gif" />
+				</subsubitem>
+
+				<subsubitem type="link" name="Flexor Hallucis Longus" sound="Sounds/flexor_hallucis_longus.wav">
+						<button name="Example 1" load="Images/Flexor Hallicus Long Gray Illistration.png" />
+						<button name="Example 2" load="Images/Flex_Hal_Long_Sobotta.jpg" />
+						<button name="Example 3" load="Images/Flex_Hallicus_Long_Kaden.jpg" />
+						<button name="Animate" load="Images/flex_hal_long.gif" />
+				</subsubitem>
+
+				<subsubitem type="link" name="Tibialis Posterior" sound="Sounds/tibialis_posterior.wav">
+						<button name="Example 1" load="Images/Tibialis Posterior Gray Illistration.png" />
+						<button name="Example 2" load="Images/Tib_Post_Sobotta.jpg" />
+						<button name="Example 3" load="Images/Tibialis_Post_Kaden.jpg" />
+						<button name="Animate" load="Images/tib_post.gif" />
+
+				</subsubitem>
+
+    </subitem>
+
+
+</item>
+
+<!-- End of 2d Menu -->
+
+
+<item type="expand" name="10.1.3 - Leg Muscles 3D Anatomy">
+  		  <subitem type="xlink" name="Upper Leg Muscles">
+				<button load="https://content.byui.edu/file/7b2fb7f0-9a9f-4629-93cf-c2dbf2fd74ad/1/Leg%20Upper/index.html" target="_blank" />
+			  </subitem>
+
+		  	<subitem type="xlink" name="Lower Leg Muscles">
+				<button load="https://content.byui.edu/file/7b2fb7f0-9a9f-4629-93cf-c2dbf2fd74ad/1/Leg%20Lower/index.html" target="_blank" />
+		  	</subitem>
+</item>
+
+
+
+<item type="expand" name="10.1.4 - Hip and Leg Muscle Videos">
+
+			<subitem type="link" name="Muscles of the Anterior Upper Leg">
+			<button load="Pages/10_1_4_kaylie_muscles_anterior_UpperLeg_video.html" />
+			</subitem>
+
+		 <subitem type="link" name="Muscles of the Posterior Upper Leg">
+	   <button load="Pages/10_1_4_kaylie_muscles_posterior_UpperLeg_video.html" />
+	   </subitem>
+
+		<subitem type="link" name="Muscles of the Lower Leg">
+		<button load="Pages/10_1_4_kaylie_muscles_LowerLeg_video.html" />
+		</subitem>
+</item>
+
+
+<item type="nolink" name="WEEK 10.2 - PRACTICE">
+	<custom>
+		<text type="bold" font="Verdana, Avenir, Helvetica" size="20px" color="#fff" align="center" />
+		<box color="#3c3c3c" hover="#666666" />
+	</custom>
+</item>
+
+
+<item type="link" name="10.2.1 - Descriptions">
+	<button load="Pages/10_2_1_descriptions.html"/>
+</item>
+
+
+<item type="expand" name="10.2.2 - Practice with 3D">
+    <button load="Pages/5_2_2_3D_leg_practice_intro.html"/>
+	  <subitem type="xlink" name="Clickable Leg Muscles">
+		<button load="https://content.byui.edu/file/df0e5d67-68b2-4025-88b6-894660f21d4f/1/Leg%20Clickable/index.html" target="_blank" />
+	  </subitem>
+
+	<subitem type="xlink" name="Find Leg Muscles">
+		<button load="https://content.byui.edu/file/df0e5d67-68b2-4025-88b6-894660f21d4f/1/Leg%20Find/index.html" target="_blank" />
+	</subitem>
+
+</item>
+
+
+
+<item type="link" name="10.2.3 - Try Naming Some Pictures">
+		<button load="powerpoint/head_neck/index.html"/>
+</item>
+
+
+<item type="link" name="10.2.4 - [download] Flashcards">
+	<button load="https://content.byui.edu/file/5111f3f1-bb2b-41c2-9ba1-d00c26274ce1/1/Leg%20and%20Hip.apkg"/>
+</item>
+
+
+
+
+
+
+
+</player>

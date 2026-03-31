@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<player>
+
+<theme>blue</theme>
+
+<title intro="Pages/main_intro.html">[RETURN] To Main Menu</title>
+
+<item type="nolink" name="WEEK 1.1 - INTRO BIO 264 LAB">
+	<custom>
+		<text type="bold" font="Verdana, Avenir, Helvetica" size="20px" color="#fff" align="center" />
+		<box color="#3c3c3c" hover="#666666" />
+	</custom>
+</item>
+
+
+<item type="link" name="1.1.1 - Introduction to Bio 264">
+	<button load="Pages/1_1_1_intro.html"/>
+</item>
+
+
+<item type="link" name="1.1.2 - Review General Terminology">
+	<button load="Pages/1_1_2_terminology.html"/>
+</item>
+
+
+
+<item type="nolink" name="WEEK 1.2 - PRACTICE">
+	<custom>
+		<text type="bold" font="Verdana, Avenir, Helvetica" size="20px" color="#fff" align="center" />
+		<box color="#3c3c3c" hover="#666666" />
+	</custom>
+</item>
+
+
+<item type="link" name="1.2.1 - Flashcards">
+	<button load="Pages/1_2_1_Flashcards.html"/>
+</item>
+
+
+<item type="link" name="1.2.2 - Get a Head Start on Week 2">
+	<button load="Pages/1_2_2_headstart.html"/>
+</item>
+
+
+</player>

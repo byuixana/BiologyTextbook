@@ -1,0 +1,218 @@
+{
+    "1000": {
+        "id": 1000,
+        "question": "a- or an-.",
+        "answer": "a- or an- means without or lacking. For example, aphasia means without speech and anoxia means without oxygen.",
+        "img_src": ""
+    },
+    "1001": {
+        "id": 1001,
+        "question": "ab-",
+        "answer": "ab- means away from. For example abduct means to take something away from its normal position.",
+        "img_src": ""
+    },
+    "1002": {
+        "id": 1002,
+        "question": "bi- and di-",
+        "answer": "bi- and di- mean two. For example, bicyle means two wheels.",
+        "img_src": ""
+    },
+    "1003": {
+        "id": 1003,
+        "question": "epi-",
+        "answer": "epi- means upon, above or on top of. For example, epidermis means the top layer of skin. ",
+        "img_src": ""
+    },
+    "1004": {
+        "id": 1004,
+        "question": "semi-",
+        "answer": "semi- means half of. For example, semicircle means half a circle. Semi- can also mean partial. For example, semiconscious means partially conscious.",
+        "img_src": ""
+    },
+    "1005": {
+        "id": 1005,
+        "question": "brady-",
+        "answer": "brady- means slow. For example, bradycardia means slow heart rate.",
+        "img_src": ""
+    },
+    "1006": {
+        "id": 1006,
+        "question": "dys-",
+        "answer": "dys- means difficult or painful. For example, dyspnea means to have a hard time breathing",
+        "img_src": ""
+    },
+    "1007": {
+        "id": 1007,
+        "question": "hyper-",
+        "answer": "hyper- means above, or more than normal. For example, hyperglycemia means high blood sugar.",
+        "img_src": ""
+    },
+    "1008": {
+        "id": 1008,
+        "question": "hypo-",
+        "answer": "hypo- means below or less than normal. For example, hypoglycemia means low blood sugar.",
+        "img_src": ""
+    },
+    "1009": {
+        "id": 1009,
+        "question": "sub-",
+        "answer": "sub- means under or below. For example, subcutaneous means under the skin.",
+        "img_src": ""
+    },
+    "1010": {
+        "id": 1010,
+        "question": "osteo-",
+        "answer": "osteo- means bone. For example, osteoporosis means porous bones.",
+        "img_src": ""
+    },
+    "1011": {
+        "id": 1011,
+        "question": "homo-",
+        "answer": "homo- means same. For example, homologous means similar or same.",
+        "img_src": ""
+    },
+    "1012": {
+        "id": 1012,
+        "question": "iso-",
+        "answer": "iso- means same or equal. For example, isometric means equal in measure and can refer to a muscle contraction that creates tension but no change in bone position (like making a tight fist).",
+        "img_src": ""
+    },
+    "1013": {
+        "id": 1013,
+        "question": "hetero-",
+        "answer": "hetero- means different. For example, heterochromia means different colors and is a term used to describe the condition of having two different color of eyes.",
+        "img_src": ""
+    },
+    "1014": {
+        "id": 1014,
+        "question": "post-",
+        "answer": "post- means after. For example, postnatal means after birth.",
+        "img_src": ""
+    },
+    "1015": {
+        "id": 1015,
+        "question": "rhin-",
+        "answer": "rhin- means nose. For example, rhinostomy means surgical procedure to help open the passages of the nose.",
+        "img_src": ""
+    },
+    "1016": {
+        "id": 1016,
+        "question": "tachy-",
+        "answer": "tachy- means fast. For example, tachycardia means fast heart rate.",
+        "img_src": ""
+    },    
+    "1017": {
+        "id": 1017,
+        "question": "anti-",
+        "answer": "anti- means against or opposite of. For example, antibiotic means against bacteria.",
+        "img_src": ""
+    },
+    "1018": {
+        "id": 1018,
+        "question": "endo-",
+        "answer": "endo- means within or inside. For example, endoscopy means to use a scope to see inside the body.",
+        "img_src": ""
+    },
+    "1019": {
+        "id": 1019,
+        "question": "cardi-",
+        "answer": "cardi- means heart. For example, cardiomyopathy means heart muscle disease.",
+        "img_src": ""
+    },
+    "1020": {
+        "id": 1020,
+        "question": "myo-",
+        "answer": "myo- means muscle. For example, myocardium means heart muscle.",
+        "img_src": ""
+    },
+    "1021": {
+        "id": 1021,
+        "question": "hepat-",
+        "answer": "hepat- means liver. For example, hepatomegaly means enlarged liver.",
+        "img_src": ""
+    },
+    "1022": {
+        "id": 1022,
+        "question": "nephro-",
+        "answer": "nephro- means kidney. For example, nephritis means inflammation of the kidney.",
+        "img_src": ""
+    },
+    "1023": {
+        "id": 1023,
+        "question": "peri-",
+        "answer": "peri- means around. For example, pericardium means around the heart.",
+        "img_src": ""
+    },
+    "1024": {
+        "id": 1024,
+        "question": "trans-",
+        "answer": "trans- means across or through. For example, transdermal means through the skin.",
+        "img_src": ""
+    },
+    "1025": {
+        "id": 1025,
+        "question": "nulli-",
+        "answer": "nulli- means none or no. For example, nulliparous means having no children.",
+        "img_src": ""
+    },
+    "1026": {
+        "id": 1026,
+        "question": "supra-",
+        "answer": "supra- means above. For example, suprarenal means above the kidney.",
+        "img_src": ""
+    },
+    "1027": {
+        "id": 1027,
+        "question": "infra-",
+        "answer": "infra- means below. For example, infraorbital means below the eye socket.",
+        "img_src": ""
+    }, 
+    "1028": {
+        "id": 1028,
+        "question": "retro-",
+        "answer": "retro- means behind or backward. For example, retrograde means backward movement.",
+        "img_src": ""
+    },
+    "1029": {
+        "id": 1029,
+        "question": "ante-",
+        "answer": "ante- means before. For example, anteroposterior means front to back.",
+        "img_src": ""
+    },
+    "1030": {
+        "id": 1030,
+        "question": "eu-",
+        "answer": "eu- means good or well. For example, eupnea means good or normal breathing.",
+        "img_src": ""
+    },
+     "1031": {
+        "id": 1031,
+        "question": "mal-",
+        "answer": "mal- means bad or evil. For example, malnutrition means bad nutrition.",
+        "img_src": ""
+    },
+     "1032": {
+        "id": 1032,
+        "question": "pseudo-",
+        "answer": "pseudo- means false or fake. For example, pseudopregnancy means false pregnancy.",
+        "img_src": ""
+    },
+     "1033": {
+        "id": 1033,
+        "question": "gastro-",
+        "answer": "gastro- means stomach. For example, gastritis means inflammation of the stomach.",
+        "img_src": ""
+    },
+     "1034": {
+        "id": 1034,
+        "question": "derm-",
+        "answer": "derm- means skin. For example, dermatitis means inflammation of the skin.",
+        "img_src": ""
+    }, 
+    "1035": {
+        "id": 1035,
+        "question": "auto-",
+        "answer": "auto- means self. For example, autoimmune means the body attacks itself.",
+        "img_src": ""
+    } 
+}
