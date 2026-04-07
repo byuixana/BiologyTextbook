@@ -1,0 +1,396 @@
+<html>
+<head>
+<!-- responsive-fit patch -->
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<style>
+		body {
+			margin: 0px;
+			padding: 0px;
+			font-size: 14pt;
+			font-family: helvetica;
+			color: white;
+			background-color: black;
+		}
+		table#hdr {
+			width: 100%;
+			border-collapse: collapse;
+			position: sticky;
+			top: 0px;
+		}
+		table#hdr thead tr th {
+			padding: 10px;
+			height: 40px;
+			text-align: left;
+			background-color: rgb(45, 45, 45);
+		}
+		table#terms {
+			margin-top: 40px;
+			width: 100%;
+			border-collapse: collapse;
+		}
+		table#terms tbody tr th {
+			padding: 12px;
+			padding-left: 38px;
+			text-align: left;
+			color: rgb(245, 245, 245);
+			font-size: 18px;
+			background-color: rgb(80, 80, 80);
+		}
+		table#terms tbody tr td:first-child {
+			width: 8px;
+		}
+		table#terms tbody .sound:hover td:first-child {
+			background-image: url(../Appearance/sound.png);
+			background-size: contain;
+			background-position: center;
+			background-repeat: no-repeat;
+		}
+
+		table#terms tbody .nosound:hover td:first-child {
+			background-image: url(../Appearance/sound.png);
+			background-size: contain;
+			background-position: center;
+			background-repeat: no-repeat;
+		}
+
+		table#terms tbody td {
+			padding: 10px;
+		}
+		table#terms tbody tr td:nth-child(2) {
+			width: 375px;
+		}
+		table#terms tbody tr:hover td {
+			cursor: pointer;
+		}
+		table#terms tbody tr:nth-child(odd) td {
+			background-color: rgb(130, 130, 130);
+		}
+		table#terms tbody tr:nth-child(even) td {
+			background-color: rgb(120, 120, 120);
+		}
+		table#terms tbody tr:nth-child(odd):hover td {
+			background-color: rgb(100, 100, 100);
+		}
+		table#terms tbody tr:nth-child(even):hover td {
+			background-color: rgb(100, 100, 100);
+		}
+
+		p {
+			padding-left: 25px;
+			Padding-right: 25px;
+		}
+
+	</style>
+	<script src="../JS/jquery.min.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		function playSound(file) {
+			$("#audio").attr('src', file);
+			document.getElementById("audio").play();
+		}
+	</script>
+<style id="responsive-fit-style">
+  html {
+    min-height: 100%;
+    box-sizing: border-box;
+    overflow-x: hidden;
+  }
+  body {
+    min-height: 100%;
+    margin: 0;
+    padding-left: clamp(24px, 6vw, 64px);
+    padding-right: clamp(24px, 6vw, 64px);
+  }
+  *, *::before, *::after { box-sizing: inherit; }
+  img, video, iframe, object, embed {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  iframe {
+    width: min(100%, 960px);
+    aspect-ratio: 608 / 402;
+  }
+</style>
+</head>
+<body>
+
+
+<table id="hdr">
+		<thead>
+			<tr>
+				<th style="width: 8px;">&nbsp;</th>
+				<th style="width: 375px;">Term</th>
+				<th>Description</th>
+			</tr>
+		</thead>
+	</table>
+<p>*Below is a table of common terms that you will find in your studies of anatomy this semester. Sometimes these terms will be combined in a way to give a structure more meaning. We recommend that you review this list and commit the descriptions to memory. Later when you learn more specific anatomical structures, these terms will help you.</p>
+<p>Finally, notice that when you hover on some of the more tricky sounding words, you will see a speaker icon to the left of them. If you click on these speaker icons, it will play the audio of someone saying the term to help you pronounce some of the more difficult words.</p>
+	<table id="terms">
+		<tbody>
+<!-- TERMS START HERE -->
+
+
+      <tr>
+        <th colspan="3">Prefixes and Suffixes</th>
+        </tr>
+
+					<tr>
+						<td></td>
+						<td>a- or an-</td>
+						<td>Without or lacking (ex: atheist meaning "without" belief in a deity)</td>
+					</tr>
+
+					<tr>
+						<td></td>
+						<td>ab-</td>
+						<td>away from (ex: abnormal meaning "away from" being normal</td>
+					</tr>
+
+				 <tr>
+						<td></td>
+						<td>bi- and di-</td>
+						<td>two (ex: biceps or two heads of a muscle)</td>
+					</tr>
+
+					<tr>
+						<td></td>
+						<td>epi-</td>
+						<td>upon, above or on top of (ex: epicondyle of the humerus - meaning above the condyle of the humerus)</td>
+					</tr>
+
+					<tr>
+						<td></td>
+						<td>-oid</td>
+						<td>Resembling or to be like (ex: Rheumatoid or to be like Rheumatism...and rheumatism means joint pain)</td>
+					</tr>
+
+					<tr>
+						<td></td>
+						<td>-osity</td>
+						<td>To be full of or abounding in (ex. curiosity means to abound in or be full of curiousness)</td>
+					</tr>
+
+					<tr>
+						<td></td>
+						<td>semi-</td>
+						<td>Half of (ex; semiannual is at the half year)</td>
+					</tr>
+
+
+	<tr>
+		<th colspan="3">Terms</th>
+	</tr>
+
+
+			<tr>
+	        <td></td>
+	        <td>Angle</td>
+	        <td>Bend</td>
+	     </tr>
+
+			<tr>
+				<td></td>
+				<td>Body</td>
+				<td>Main Part</td>
+			</tr>
+
+
+      <tr class="sound" onclick="playSound('../Sounds/canal.wav')">
+        <td></td>
+        <td>Canal or Meatus</td>
+        <td>Tunnel</td>
+      </tr>
+
+			<tr class="sound" onclick="playSound('../Sounds/condyle.wav')">
+				<td></td>
+				<td>Condyle</td>
+				<td>Smooth, rounded articular surface</td>
+			</tr>
+
+
+      <tr class="sound" onclick="playSound('../Sounds/cornu.wav')">
+        <td></td>
+        <td>Cornu</td>
+        <td>Horn-shaped process</td>
+      </tr>
+
+      <tr class="sound" onclick="playSound('../Sounds/crista.wav')">
+        <td></td>
+        <td>Crest or Crista</td>
+        <td>Prominent Ridge</td>
+      </tr>
+
+      <tr class="sound" onclick="playSound('../Sounds/epicondyle.wav')">
+        <td></td>
+        <td>Epicondyle</td>
+        <td>Upon a condyle</td>
+      </tr>
+
+      <tr class="sound" onclick="playSound('../Sounds/facet.wav')">
+        <td></td>
+        <td>Facet</td>
+        <td>Small, flattened articular surface</td>
+      </tr>
+
+      <tr class="sound" onclick="playSound('../Sounds/fissure.wav')">
+        <td></td>
+        <td>Fissure</td>
+        <td>Cleft</td>
+      </tr>
+
+			<tr class="sound" onclick="playSound('../Sounds/foramen.wav')">
+				<td></td>
+				<td>Foramen</td>
+				<td>Hole</td>
+			</tr>
+
+			<tr class="sound" onclick="playSound('../Sounds/fossa.wav')">
+        <td></td>
+        <td>Fossa</td>
+        <td>General Term for a depression</td>
+      </tr>
+
+			<tr class="sound" onclick="playSound('../Sounds/fovea.wav')">
+				<td></td>
+				<td>Fovea</td>
+				<td>Little pit</td>
+			</tr>
+
+			<tr class="sound" onclick="playSound('../Sounds/groove.wav')">
+				<td></td>
+				<td>Groove or Sulcus</td>
+				<td>Deep, narrow depression</td>
+			</tr>
+
+			<tr class="sound" onclick="playSound('../Sounds/hamulus.wav')">
+        <td></td>
+        <td>Hamulus</td>
+        <td>Hook-shaped Process</td>
+      </tr>
+
+			<tr>
+				<td></td>
+				<td>Head</td>
+				<td>Enlarged, often rounded end</td>
+			</tr>
+
+			<tr class="sound" onclick="playSound('../Sounds/linea.wav')">
+        <td></td>
+        <td>Line or Linea</td>
+        <td>Low Ridge</td>
+      </tr>
+
+			<tr>
+				<td></td>
+				<td>Margin or Border</td>
+				<td>Edge</td>
+			</tr>
+
+			<tr>
+				<td></td>
+				<td>Neck</td>
+				<td>Constriction between head and body</td>
+			</tr>
+
+      <tr>
+        <td></td>
+        <td>Notch</td>
+        <td>Depression in the margin of a bone</td>
+      </tr>
+
+			<tr>
+				<td></td>
+				<td>Process</td>
+				<td>Prominent Projection</td>
+			</tr>
+
+      <tr class="sound" onclick="playSound('../Sounds/ramus.wav')">
+        <td></td>
+        <td>Ramus</td>
+        <td>Branch off the body beyond the angle</td>
+      </tr>
+
+
+      <tr class="sound" onclick="playSound('../Sounds/sinus.wav')">
+        <td></td>
+        <td>Sinus or Labyrinth</td>
+        <td>Cavity</td>
+      </tr>
+
+      <tr>
+        <td></td>
+        <td>Spine</td>
+        <td>Very High Ridge</td>
+      </tr>
+
+			<tr class="sound" onclick="playSound('../Sounds/trochanter.wav')">
+				<td></td>
+				<td>Trochanter</td>
+				<td>Tuberosities on the proximal femur</td>
+			</tr>
+
+      <tr class="sound" onclick="playSound('../Sounds/tubercle.wav')">
+        <td></td>
+        <td>Tubercle</td>
+        <td>Small, rounded bump</td>
+      </tr>
+
+      <tr class="sound" onclick="playSound('../Sounds/tuberosity.wav')">
+        <td></td>
+        <td>Tuberosity or Tuber</td>
+        <td>Knob, larger than a tubercle</td>
+      </tr>
+
+
+
+			<tr>
+				<th colspan="3">Directions</th>
+			</tr>
+
+			<tr>
+				<td></td>
+				<td>Superior</td>
+				<td>Towards the head, higher</td>
+			</tr>
+
+			<tr>
+				<td></td>
+				<td>Inferior</td>
+				<td>Towards the tail, lower</td>
+			</tr>
+
+			<tr>
+				<td></td>
+				<td>Lateral</td>
+				<td>Toward the sides or edge of the body</td>
+			</tr>
+
+			<tr>
+				<td></td>
+				<td>Medial</td>
+				<td>Towards the midline of the body</td>
+			</tr>
+
+			<tr>
+				<td></td>
+				<td>Supra-</td>
+				<td>Above or on the upper side</td>
+			</tr>
+
+			<tr>
+				<td></td>
+				<td>Infra-</td>
+				<td>Beneath, or on the lower side</td>
+			</tr>
+<!-- TERMS END HERE -->
+
+		</tbody>
+	</table>
+	<table id="hdr">
+	<table>
+		<audio id="audio" src=""></audio>
+</body>
+</html>

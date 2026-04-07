@@ -1,0 +1,781 @@
+{
+  "$schema": "./lab_data.schema.json",
+  "title": "Leg Muscles",
+  "sections": [
+    {
+      "id": "week-10-1-leg-muscles",
+      "title": "WEEK 10.1 - LEG MUSCLES",
+      "data": [
+        {
+          "id": 0,
+          "label": "WEEK 10.1 - LEG MUSCLES",
+          "children": [],
+          "type": "none"
+        },
+        {
+          "id": 1,
+          "label": "10.1.1 - Intro to Leg Muscles",
+          "load": "assets/legmuscles/Pages/10_1_1_intro_legs.html",
+          "children": [],
+          "type": "lecture"
+        },
+        {
+          "id": 2,
+          "label": "10.1.2- Hip and Leg Muscle 2D Anatomy",
+          "children": [
+            {
+              "id": 3,
+              "label": "Muscles of the Hip",
+              "children": [
+                {
+                  "id": 4,
+                  "label": "Gluteus Maximus",
+                  "type": "img",
+                  "sound": "assets/legmuscles/Sounds/gluteus_maximus.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "assets/legmuscles/Images/Gluteus Maximus 357.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 5,
+                  "label": "Gluteus Medius",
+                  "type": "img",
+                  "sound": "assets/legmuscles/Sounds/gluteus_medius.wav",
+                  "buttons": [
+                    {
+                      "label": "With Gluteus Maximus On",
+                      "img": "assets/legmuscles/Images/Gluteus Medius 357.png"
+                    },
+                    {
+                      "label": "With Gluteus Maximus Removed",
+                      "img": "assets/legmuscles/Images/Gluteus Medius (NO Maximus) 357.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 6,
+                  "label": "Gluteus Minimus",
+                  "type": "img",
+                  "sound": "assets/legmuscles/Sounds/gluteus_minimus.wav",
+                  "buttons": [
+                    {
+                      "label": "With Gluteus Medius On",
+                      "img": "assets/legmuscles/Images/Gluteus Minimus 357.png"
+                    },
+                    {
+                      "label": "With Gluteus Medius Removed",
+                      "img": "assets/legmuscles/Images/Gluteus Minimus (NO Medius).png"
+                    },
+                    {
+                      "label": "Animate",
+                      "img": "assets/legmuscles/Images/animate_GlutMin_Kaden.gif"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 7,
+                  "label": "Iliopsoas",
+                  "type": "img",
+                  "sound": "assets/legmuscles/Sounds/iliopsoas.wav",
+                  "buttons": [
+                    {
+                      "label": "Illiopsoas",
+                      "img": "assets/legmuscles/Images/Illiopsoas Gray.png"
+                    },
+                    {
+                      "label": "Iliacus",
+                      "img": "assets/legmuscles/Images/Illiacus Gray.png"
+                    },
+                    {
+                      "label": "Iliacus 2",
+                      "img": "assets/legmuscles/Images/illiacus_ant_Thigh_Kaden.jpg"
+                    },
+                    {
+                      "label": "Psoas Major",
+                      "img": "assets/legmuscles/Images/Psoas Major Gray.png"
+                    },
+                    {
+                      "label": "Psoas Major 2",
+                      "img": "assets/legmuscles/Images/psoasmajor_ant_Thigh_Kaden.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 8,
+                  "label": "iliotibial Band",
+                  "type": "img",
+                  "sound": "assets/legmuscles/Sounds/iliotibialband.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "assets/legmuscles/Images/Illiotibial Band Anterior.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 9,
+                  "label": "Piriformis",
+                  "type": "img",
+                  "sound": "assets/legmuscles/Sounds/piriformis.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "assets/legmuscles/Images/Piriformis 357.png"
+                    },
+                    {
+                      "label": "Example 2",
+                      "img": "assets/legmuscles/Images/animate_piriformis_Kaden.gif"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 10,
+                  "label": "Superior Gemellus",
+                  "type": "img",
+                  "buttons": [
+                    {
+                      "label": "Animate",
+                      "img": "assets/legmuscles/Images/animate_SupGemellus_Kaden.gif"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 11,
+                  "label": "Obturator Internus",
+                  "type": "img",
+                  "buttons": [
+                    {
+                      "label": "Animate",
+                      "img": "assets/legmuscles/Images/animate_ObturatorInt_Kaden.gif"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 12,
+                  "label": "Inferior Gemellus",
+                  "type": "img",
+                  "buttons": [
+                    {
+                      "label": "Animate",
+                      "img": "assets/legmuscles/Images/animate_Infgemellus_Kaden.gif"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 13,
+                  "label": "Quadratus Femoris",
+                  "type": "img",
+                  "buttons": [
+                    {
+                      "label": "Animate",
+                      "img": "assets/legmuscles/Images/animate_QuadratusFem_Kaden.gif"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 14,
+                  "label": "Tensor Fascia Latae",
+                  "type": "img",
+                  "sound": "assets/legmuscles/Sounds/tensor_fascia_latae.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "assets/legmuscles/Images/Tensor Fasia Lata Anterior.png"
+                    },
+                    {
+                      "label": "Example 2",
+                      "img": "assets/legmuscles/Images/TFL_antthigh_Kaden.jpg"
+                    }
+                  ],
+                  "children": []
+                }
+              ],
+              "type": "none"
+            },
+            {
+              "id": 15,
+              "label": "Muscles of the Thigh",
+              "children": [
+                {
+                  "id": 16,
+                  "label": "Pectineus",
+                  "type": "img",
+                  "sound": "assets/legmuscles/Sounds/pectineus.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "assets/legmuscles/Images/Pectineus Anterior.png"
+                    },
+                    {
+                      "label": "Example 2",
+                      "img": "assets/legmuscles/Images/pectineus_ant_Thigh_Kaden.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 17,
+                  "label": "Adductor Brevis",
+                  "type": "img",
+                  "sound": "assets/legmuscles/Sounds/adductor_brevis.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "assets/legmuscles/Images/Adductor Brevis Anterior.png"
+                    },
+                    {
+                      "label": "Deeper",
+                      "img": "assets/legmuscles/Images/Adductor Brevis Anterior Thigh.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 18,
+                  "label": "Adductor Longus",
+                  "type": "img",
+                  "sound": "assets/legmuscles/Sounds/adductor_longus.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "assets/legmuscles/Images/Adductor Longus Anterior.png"
+                    },
+                    {
+                      "label": "Example 2",
+                      "img": "assets/legmuscles/Images/adductorlongus_ant_Thigh_Kaden.jpg"
+                    },
+                    {
+                      "label": "Deeper",
+                      "img": "assets/legmuscles/Images/Adductor Longus Anterior Thigh.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 19,
+                  "label": "Adductor Magnus",
+                  "type": "img",
+                  "sound": "assets/legmuscles/Sounds/adductor_magnus.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "assets/legmuscles/Images/Adductor Magnus Anterior Thigh.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 20,
+                  "label": "Gracilis",
+                  "type": "img",
+                  "sound": "assets/legmuscles/Sounds/gracilis.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "assets/legmuscles/Images/Grcillis Anterior.png"
+                    },
+                    {
+                      "label": "Example 2",
+                      "img": "assets/legmuscles/Images/Gracilis Anterior Thigh.png"
+                    },
+                    {
+                      "label": "Example 3",
+                      "img": "assets/legmuscles/Images/gracillis_ant_Thigh_Kaden.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 21,
+                  "label": "Hamstrings",
+                  "type": "img",
+                  "sound": "assets/legmuscles/Sounds/hamstring.wav",
+                  "buttons": [
+                    {
+                      "label": "Hamstrings",
+                      "img": "assets/legmuscles/Images/Hamstrings Posterior Thigh.png"
+                    },
+                    {
+                      "label": "Semimembranosus",
+                      "img": "assets/legmuscles/Images/Hamstring Semimembanosus Posterior Thigh.png"
+                    },
+                    {
+                      "label": "Semitendinosus",
+                      "img": "assets/legmuscles/Images/Hamstrings Semitendonosus Posterior Thigh.png"
+                    },
+                    {
+                      "label": "Biceps Femoris Long Head",
+                      "img": "assets/legmuscles/Images/Hamstring Biceps Femoris Posterior Thigh.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 22,
+                  "label": "Sartorius",
+                  "type": "img",
+                  "sound": "assets/legmuscles/Sounds/sartorius.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "assets/legmuscles/Images/Sartorius Anterior.png"
+                    },
+                    {
+                      "label": "Example 2",
+                      "img": "assets/legmuscles/Images/Sartorius_antthigh_Kaden.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 23,
+                  "label": "Quadriceps Femoris",
+                  "type": "img",
+                  "sound": "assets/legmuscles/Sounds/quadriceps_femoris.wav",
+                  "buttons": [
+                    {
+                      "label": "Quadricps Femoris",
+                      "img": "assets/legmuscles/Images/Quadraceps Femoris Anteriors.png"
+                    },
+                    {
+                      "label": "Vastus Lateralis",
+                      "img": "assets/legmuscles/Images/Vastus Lateralis Anterior.png"
+                    },
+                    {
+                      "label": "Rectus Femoris",
+                      "img": "assets/legmuscles/Images/Rectus Femoris Anterior.png"
+                    },
+                    {
+                      "label": "Vastus Medialis",
+                      "img": "assets/legmuscles/Images/Vastus Medius Anterior.png"
+                    },
+                    {
+                      "label": "Vastus Intermedius (Rectus Femoris Removed)",
+                      "img": "assets/legmuscles/Images/Vastus Intermedius Anterior.png"
+                    }
+                  ],
+                  "children": []
+                }
+              ],
+              "type": "none"
+            },
+            {
+              "id": 24,
+              "label": "Muscles of the Leg",
+              "children": [
+                {
+                  "id": 25,
+                  "label": "Tibialis Anterior",
+                  "type": "img",
+                  "sound": "assets/legmuscles/Sounds/tibialis_anterior.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "assets/legmuscles/Images/Tibalis Anterior Anterior.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 26,
+                  "label": "Extensor Digitorum Longus",
+                  "type": "img",
+                  "sound": "assets/legmuscles/Sounds/extensor_digitorum_longus.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "assets/legmuscles/Images/Extensor Digitorum Longus Anterior.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 27,
+                  "label": "Extensor Hallucis Longus",
+                  "type": "img",
+                  "sound": "assets/legmuscles/Sounds/extensor_hallucis.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "assets/legmuscles/Images/Extensor Hallicus Longus Anterior.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 28,
+                  "label": "Fibularis Tertius",
+                  "type": "img",
+                  "sound": "assets/legmuscles/Sounds/fibularis_tertius.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "assets/legmuscles/Images/Fibularis Tertius Sabotta Illistation.png"
+                    },
+                    {
+                      "label": "Example 2",
+                      "img": "assets/legmuscles/Images/Fibularis_Tertius_Sobotta.jpg"
+                    },
+                    {
+                      "label": "Example 3",
+                      "img": "assets/legmuscles/Images/Fibularis_Tertius_Kaden.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 29,
+                  "label": "Fibularis Brevis",
+                  "type": "img",
+                  "sound": "assets/legmuscles/Sounds/fibularis_brevis.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "assets/legmuscles/Images/Fibularis Brevis Sabotta Illistration.png"
+                    },
+                    {
+                      "label": "Example 2",
+                      "img": "assets/legmuscles/Images/Fibularis_Brevis_Sobotta.jpg"
+                    },
+                    {
+                      "label": "Example 3",
+                      "img": "assets/legmuscles/Images/Fibularis_Brevis_Kaden.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 30,
+                  "label": "Fibularis Longus",
+                  "type": "img",
+                  "sound": "assets/legmuscles/Sounds/fibularis_longus.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "assets/legmuscles/Images/Fibularis Lonus Sobotta Illistration.png"
+                    },
+                    {
+                      "label": "Example 2",
+                      "img": "assets/legmuscles/Images/Fibularis-Longus-Sobotta.jpg"
+                    },
+                    {
+                      "label": "Example 3 (CUT)",
+                      "img": "assets/legmuscles/Images/Fibularis-Longus-Kaden.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 31,
+                  "label": "Gastrocnemius",
+                  "type": "img",
+                  "sound": "assets/legmuscles/Sounds/gastrocnemius.wav",
+                  "buttons": [
+                    {
+                      "label": "Gastronemius",
+                      "img": "assets/legmuscles/Images/Gastrocnemeus Posterior Leg.png"
+                    },
+                    {
+                      "label": "Lateral Head",
+                      "img": "assets/legmuscles/Images/Gastrocnemius Lateral Head Posterior Leg.png"
+                    },
+                    {
+                      "label": "Medial Head",
+                      "img": "assets/legmuscles/Images/Gastrocnemius Medial Head Posterior Leg.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 32,
+                  "label": "Plantaris",
+                  "type": "img",
+                  "sound": "assets/legmuscles/Sounds/plantaris.wav",
+                  "buttons": [
+                    {
+                      "label": "With Gastroc On",
+                      "img": "assets/legmuscles/Images/Plantaris Posterior Leg.png"
+                    },
+                    {
+                      "label": "With Gastroc Off",
+                      "img": "assets/legmuscles/Images/Plantaris (NO Gas) Posterior Leg.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 33,
+                  "label": "Soleus",
+                  "type": "img",
+                  "sound": "assets/legmuscles/Sounds/soleus.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "assets/legmuscles/Images/Soleus Posterior Leg.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 34,
+                  "label": "Tendo Calcaneous",
+                  "type": "img",
+                  "sound": "assets/legmuscles/Sounds/tendo_calcaneous.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "assets/legmuscles/Images/Tendo Calcaneus Posterior Leg.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 35,
+                  "label": "Popliteus",
+                  "type": "img",
+                  "sound": "assets/legmuscles/Sounds/popliteus.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "assets/legmuscles/Images/Popliteus Posterior Leg.png"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 36,
+                  "label": "Flexor Digitorum Longus",
+                  "type": "img",
+                  "sound": "assets/legmuscles/Sounds/flexor_digitorum_longus.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "assets/legmuscles/Images/Flexor Digitorum Longus Gray Illistration.png"
+                    },
+                    {
+                      "label": "Example 2",
+                      "img": "assets/legmuscles/Images/Flexor_Dig_Long_Kaden.jpg"
+                    },
+                    {
+                      "label": "Example 3",
+                      "img": "assets/legmuscles/Images/Flex_Dig_Long_Sobotta.jpg"
+                    },
+                    {
+                      "label": "Animate",
+                      "img": "assets/legmuscles/Images/flex_dig_long.gif"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 37,
+                  "label": "Flexor Hallucis Longus",
+                  "type": "img",
+                  "sound": "assets/legmuscles/Sounds/flexor_hallucis_longus.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "assets/legmuscles/Images/Flexor Hallicus Long Gray Illistration.png"
+                    },
+                    {
+                      "label": "Example 2",
+                      "img": "assets/legmuscles/Images/Flex_Hal_Long_Sobotta.jpg"
+                    },
+                    {
+                      "label": "Example 3",
+                      "img": "assets/legmuscles/Images/Flex_Hallicus_Long_Kaden.jpg"
+                    },
+                    {
+                      "label": "Animate",
+                      "img": "assets/legmuscles/Images/flex_hal_long.gif"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": 38,
+                  "label": "Tibialis Posterior",
+                  "type": "img",
+                  "sound": "assets/legmuscles/Sounds/tibialis_posterior.wav",
+                  "buttons": [
+                    {
+                      "label": "Example 1",
+                      "img": "assets/legmuscles/Images/Tibialis Posterior Gray Illistration.png"
+                    },
+                    {
+                      "label": "Example 2",
+                      "img": "assets/legmuscles/Images/Tib_Post_Sobotta.jpg"
+                    },
+                    {
+                      "label": "Example 3",
+                      "img": "assets/legmuscles/Images/Tibialis_Post_Kaden.jpg"
+                    },
+                    {
+                      "label": "Animate",
+                      "img": "assets/legmuscles/Images/tib_post.gif"
+                    }
+                  ],
+                  "children": []
+                }
+              ],
+              "type": "none"
+            }
+          ],
+          "type": "none"
+        },
+        {
+          "id": 39,
+          "label": "10.1.3 - Leg Muscles 3D Anatomy",
+          "children": [
+            {
+              "id": 40,
+              "label": "Upper Leg Muscles",
+              "type": "none",
+              "child_items": [
+                {
+                  "page": "https://content.byui.edu/file/7b2fb7f0-9a9f-4629-93cf-c2dbf2fd74ad/1/Leg%20Upper/index.html"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 41,
+              "label": "Lower Leg Muscles",
+              "type": "none",
+              "child_items": [
+                {
+                  "page": "https://content.byui.edu/file/7b2fb7f0-9a9f-4629-93cf-c2dbf2fd74ad/1/Leg%20Lower/index.html"
+                }
+              ],
+              "children": []
+            }
+          ],
+          "type": "none"
+        },
+        {
+          "id": 42,
+          "label": "10.1.4 - Hip and Leg Muscle Videos",
+          "children": [
+            {
+              "id": 43,
+              "label": "Muscles of the Anterior Upper Leg",
+              "load": "assets/legmuscles/Pages/10_1_4_kaylie_muscles_anterior_UpperLeg_video.html",
+              "children": [],
+              "type": "video",
+              "child_items": [
+                {
+                  "video_link": "https://cdnapisec.kaltura.com/p/1157612/sp/115761200/embedIframeJs/uiconf_id/41338032/partner_id/1157612?iframeembed=true&playerId=kaltura_player&entry_id=1_hw30gud6&flashvars[localizationCode]=en&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_u3gm7eeo"
+                }
+              ]
+            },
+            {
+              "id": 44,
+              "label": "Muscles of the Posterior Upper Leg",
+              "load": "assets/legmuscles/Pages/10_1_4_kaylie_muscles_posterior_UpperLeg_video.html",
+              "children": [],
+              "type": "video",
+              "child_items": [
+                {
+                  "video_link": "https://cdnapisec.kaltura.com/p/1157612/sp/115761200/embedIframeJs/uiconf_id/41338032/partner_id/1157612?iframeembed=true&playerId=kaltura_player&entry_id=1_y4eoili4&flashvars[localizationCode]=en&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_tm9fj0l6"
+                }
+              ]
+            },
+            {
+              "id": 45,
+              "label": "Muscles of the Lower Leg",
+              "load": "assets/legmuscles/Pages/10_1_4_kaylie_muscles_LowerLeg_video.html",
+              "children": [],
+              "type": "video",
+              "child_items": [
+                {
+                  "video_link": "https://cdnapisec.kaltura.com/p/1157612/sp/115761200/embedIframeJs/uiconf_id/41338032/partner_id/1157612?iframeembed=true&playerId=kaltura_player&entry_id=1_fon44m6t&flashvars[localizationCode]=en&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_2kg6wih2"
+                }
+              ]
+            }
+          ],
+          "type": "none"
+        }
+      ]
+    },
+    {
+      "id": "week-10-2-practice",
+      "title": "WEEK 10.2 - PRACTICE",
+      "data": [
+        {
+          "id": 46,
+          "label": "WEEK 10.2 - PRACTICE",
+          "children": [],
+          "type": "none"
+        },
+        {
+          "id": 47,
+          "label": "10.2.1 - Descriptions",
+          "load": "assets/legmuscles/Pages/10_2_1_descriptions.html",
+          "children": [],
+          "type": "lecture"
+        },
+        {
+          "id": 48,
+          "label": "10.2.2 - Practice with 3D",
+          "load": "assets/legmuscles/Pages/5_2_2_3D_leg_practice_intro.html",
+          "children": [
+            {
+              "id": 49,
+              "label": "Clickable Leg Muscles",
+              "type": "none",
+              "child_items": [
+                {
+                  "page": "https://content.byui.edu/file/df0e5d67-68b2-4025-88b6-894660f21d4f/1/Leg%20Clickable/index.html"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": 50,
+              "label": "Find Leg Muscles",
+              "type": "none",
+              "child_items": [
+                {
+                  "page": "https://content.byui.edu/file/df0e5d67-68b2-4025-88b6-894660f21d4f/1/Leg%20Find/index.html"
+                }
+              ],
+              "children": []
+            }
+          ],
+          "type": "lecture"
+        },
+        {
+          "id": 51,
+          "label": "10.2.3 - Try Naming Some Pictures",
+          "load": "assets/legmuscles/powerpoint/head_neck/index.html",
+          "children": [],
+          "type": "lecture"
+        },
+        {
+          "id": 52,
+          "label": "10.2.4 - Flashcards",
+          "children": [],
+          "type": "none",
+          "child_items": [
+            {
+              "page": "https://content.byui.edu/file/072f8f82-cbbc-463e-a98c-4e520214a834/1/flashcards3_build/index.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

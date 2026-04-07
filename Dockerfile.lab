@@ -1,0 +1,11 @@
+FROM nginx:1.27-alpine
+
+ARG LAB_DIR
+
+# Fail fast if LAB_DIR is missing.
+RUN test -n "$LAB_DIR"
+
+# Copy one lab's static build into nginx's web root.
+COPY ${LAB_DIR}/ /usr/share/nginx/html/
+
+EXPOSE 80

@@ -1,0 +1,291 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {box-sizing: border-box}
+body {
+  font-family: Verdana, sans-serif;
+  margin: 0;
+  background-color: #000;
+}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 640px;
+  width: 100%;
+  position: relative;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 24px;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: black;
+  font-weight: bold;
+  font-size: 24px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: #909090;
+}
+
+/* text */
+.text {
+  display: inline-block;
+  color: #000;
+  font-size: 15px;
+  position: relative;
+  padding: 50px 50px 50px 60px;
+  top: auto;
+  bottom: 8px;
+  width: 100%;
+  max-width: 640px;
+  height: auto;
+  text-align: left;
+  background-color: 	#F8F8F8;
+
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #000;
+  font-size: 14px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 10;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 25px;
+  width: 25px;
+  margin: 0 2px;
+  padding-top: 2px;
+  background-color: #d0d0d0;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #818181;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+
+p {
+  margin-left: 40px;
+  color: white;
+  font-size: 20px;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
+
+@media only screen and (max-width: 680px) {
+  .text {
+    padding: 22px;
+  }
+
+  p {
+    margin-left: 0;
+  }
+}
+</style>
+<style id="responsive-fit-style">
+  html {
+    min-height: 100%;
+    box-sizing: border-box;
+    overflow-x: hidden;
+  }
+  body {
+    min-height: 100%;
+    margin: 0;
+    padding-left: clamp(24px, 6vw, 64px);
+    padding-right: clamp(24px, 6vw, 64px);
+  }
+  *, *::before, *::after { box-sizing: inherit; }
+  img, video, iframe, object, embed {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  iframe {
+    width: min(100%, 960px);
+    aspect-ratio: 608 / 402;
+  }
+</style>
+</head>
+<body>
+
+
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+   <div class="numbertext">1 / 10</div>
+
+  <div class="text">The majority of this muscle would be seen lying in the posterior abdominal cavity and only its most distal attachment extneds below the inguinal ligament where it attaches to the femur. This muscle flexes the hip. What muscle is this?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Iliopsoas'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 10</div>
+  <div class="text">This muscle lies deep to the gluteus maximus and is known for its close association to the large sciatic nerve that passes by this muscle. This muscle runs from the sacrum to the femur.  What muscle is this?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Piriformis'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 10</div>
+  <div class="text">This muscle is quite long and thin. It runs across the femur on its journey from the anterior pelvis to the medial tibia. What muscle is this?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Sartorius'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">4 / 10</div>
+  <div class="text">This muscle is the shortest muscle of the medial thigh that helps to adduct the femur. This muscle lies just superior to the adductor brevis. What muscle is this?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Pectineus'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">5 / 10</div>
+  <div class="text">This muscle has a short muscle belly relative to a very long tendon. It blends in with a large broad tendon on the lateral thigh called the IT band. This muscle can be palpated on the lateral hip just beneath the anterior portion of the iliac crest. What muscle is this?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Tensor Fascia Latae'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">6 / 10</div>
+  <div class="text">This muscle is located on the anterior thigh and is able to extend the knee and flex the hip because of its connection to the illium. This muscle is one of the muscles of the quadricepts femoris muscles. This muscle is called?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Rectus Femoris'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">7 / 10</div>
+  <div class="text">This muscle is found on the lateral leg and runs along the lateral fibula.  It's tendon extends under the foot and actually inserts on the oposite side or "little toe" side of the bottom of the foot. This muscle is the longer of two with the shorter muscle being one that does not extend across to the other side of the bottom of the foot. What muscle is this?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Peroneus Longus'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">8 / 10</div>
+  <div class="text">This muscle is located on the posterior thigh and is one of the hamstring muscles. This muscle is on the medial side of the posterior thigh and is superficial to the other hamstring muscle on this side. What muscle is this?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Semitendinosus'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">9 / 10</div>
+  <div class="text">This muscle is located on the back of the knee. The muscle belly is small and sends a tendon down between the gastrocnemius and the soleus. It almost looks like a little mouse with a long tail.  What muscle is this?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Plantaris'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">10 / 10</div>
+  <div class="text">This muscle is on the posterior leg and it sends a tendon behind the medial malleolus. At the medial malleolus, the tendon of this muscle lies next to the tendons for the flexor dgitorum longus and the tibialis posterior. What muscle is this?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Flexor Hallucis Longus'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+<a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)">1</span>
+  <span class="dot" onclick="currentSlide(2)">2</span>
+  <span class="dot" onclick="currentSlide(3)">3</span>
+  <span class="dot" onclick="currentSlide(4)">4</span>
+  <span class="dot" onclick="currentSlide(5)">5</span>
+  <span class="dot" onclick="currentSlide(6)">6</span>
+  <span class="dot" onclick="currentSlide(7)">7</span>
+  <span class="dot" onclick="currentSlide(8)">8</span>
+  <span class="dot" onclick="currentSlide(9)">9</span>
+  <span class="dot" onclick="currentSlide(10)">10</span>
+</div>
+
+
+
+<script>
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " active";
+}
+</script>
+
+</body>
+</html>

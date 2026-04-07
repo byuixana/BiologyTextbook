@@ -1,0 +1,277 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<!-- responsive-fit patch -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {box-sizing: border-box}
+body {font-family: Verdana, sans-serif; margin:0; background-color: 	#000;
+}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 600px;
+  position: relative;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 50px;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: black;
+  font-weight: bold;
+  font-size: 24px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: #909090;
+}
+
+/* text */
+.text {
+  display: inline-block;
+  color: #000;
+  font-size: 15px;
+  position: relative;
+  padding: 50px 50px 50px 60px;
+  top: auto;
+  bottom: 8px;
+  width: 600px;
+  height: auto;
+  text-align: left;
+  background-color: 	#F8F8F8;
+
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #000;
+  font-size: 14px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 10;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 25px;
+  width: 25px;
+  margin: 0 2px;
+  padding-top: 2px;
+  background-color: #d0d0d0;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #818181;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+
+p {
+  margin-left: 40px;
+  color: white;
+  font-size: 20px;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
+</style>
+<style id="responsive-fit-style">
+  html {
+    min-height: 100%;
+    box-sizing: border-box;
+    overflow-x: hidden;
+  }
+  body {
+    min-height: 100%;
+    margin: 0;
+    padding-left: clamp(24px, 6vw, 64px);
+    padding-right: clamp(24px, 6vw, 64px);
+  }
+  *, *::before, *::after { box-sizing: inherit; }
+  img, video, iframe, object, embed {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  iframe {
+    width: min(100%, 960px);
+    aspect-ratio: 608 / 402;
+  }
+</style>
+</head>
+<body>
+
+
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+   <div class="numbertext">1 / 10</div>
+
+  <div class="text">This is a cavity that is found in the diencephalon. The intermediate mass is found here and the cerebral aquaduct extends off the inferior boundary.
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='3rd Ventricle'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 10</div>
+  <div class="text">This cranial nerve is the largest one the anterior brain stem at the level of the lateral pons. This cranial nerve provides sensation to the face.
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Trigeminal or Cranial Nerve V'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 10</div>
+  <div class="text">This meningeal layer sits just underneath the Dura Mater. If blood builds up ontop of it, we call it a Subdural bleed. Extending beneath this layer are small tissue processes that travel down do the pia mater. The cerebral spinal fluid is found just inferior to this layer.
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Arachnoid Mater'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">4 / 10</div>
+  <div class="text">This artery travels on the anterior brain stem and runs right between the trigeminal nerves. This artery feeds into the arterial circle.
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Basilar Artery'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">5 / 10</div>
+  <div class="text">This structure is a bundle of sensory neuron cell bodies that lie just outside the spinal cord. Axons that extend from this structure into the spinal cord make up the dorsal root. What is this structure?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Dorsal Root Ganglia'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">6 / 10</div>
+  <div class="text">This is a vertical structure that sits right between the hemispheres of the cerbellum. It is best seen from the posterior surface of the cerebellum.
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Vermis'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">7 / 10</div>
+  <div class="text">This structure travels along the mid saggital section of the brain. It contains venous blood that flows down into the Jugular veins. Cerebral spinal fluid dumps into this structure.
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Dural Sinus'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">8 / 10</div>
+  <div class="text">This structure is the mosts rostral (forward) part of the olfactory nerve. This structure is a thickening or enlargement of the olfactory nerve and sits right above the cribriform plate.
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Olfactory Bulb'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">9 / 10</div>
+  <div class="text">This structure is a specialized part of the cell body or soma of a neuron. This structure is where action potentials are innitiated after signals being transmitted from synapses on the dendrites and cell body. This section occurs just before the myelinated segments of the axon.
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Axon Hillock'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">10 / 10</div>
+  <div class="text">This tissue if found as a bumpy lining of the ventricles of the brain. This tissue is responsible for synthesizing cerebral spinal fluid which is secretes into the ventricles.
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Choroid Plexus'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+<a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)">1</span>
+  <span class="dot" onclick="currentSlide(2)">2</span>
+  <span class="dot" onclick="currentSlide(3)">3</span>
+  <span class="dot" onclick="currentSlide(4)">4</span>
+  <span class="dot" onclick="currentSlide(5)">5</span>
+  <span class="dot" onclick="currentSlide(6)">6</span>
+  <span class="dot" onclick="currentSlide(7)">7</span>
+  <span class="dot" onclick="currentSlide(8)">8</span>
+  <span class="dot" onclick="currentSlide(9)">9</span>
+  <span class="dot" onclick="currentSlide(10)">10</span>
+</div>
+
+
+
+<script>
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " active";
+}
+</script>
+
+</body>
+</html>

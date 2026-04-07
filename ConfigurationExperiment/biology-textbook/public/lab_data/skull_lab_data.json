@@ -1,0 +1,1856 @@
+{
+  "$schema": "./lab_data.schema.json",
+  "title": "Skull Lab",
+  "sections": [
+    {
+      "id": "week1",
+      "title": "Week 4.1: Skull Bone Anatomy",
+      "data": [
+        {
+          "id": 0,
+          "label": "WEEK 4.1 - SKULL BONES",
+          "children": [],
+          "type": "none"
+        },
+        {
+          "id": 1,
+          "label": "4.1.1 - Introduction to Skeletal System and Skull Bones",
+          "children": [],
+          "load": "assets/skull/Pages/4_1_1_intro_bone_anat.html",
+          "type": "lecture"
+        },
+        {
+          "id": 2,
+          "label": "4.1.2 - 2D Skull Anatomy",
+          "children": [
+            {
+              "buttons": [
+                {
+                  "label": "Anterior",
+                  "img": "assets/skull/Images/ethmoid-ant.jpg"
+                },
+                {
+                  "label": "Anterior Zoom",
+                  "img": "assets/skull/Images/ethmoid-orbit.jpg"
+                },
+                {
+                  "label": "Superior",
+                  "img": "assets/skull/Images/ethmoid.jpg"
+                },
+                {
+                  "label": "3D Animation",
+                  "img": "assets/skull/Images/ethmoid.gif"
+                }
+              ],
+              "children": [
+                {
+                  "buttons": [
+                    {
+                      "label": "Superior",
+                      "img": "assets/skull/Images/cribiform-plt.jpg"
+                    },
+                    {
+                      "label": "Superior Zoom",
+                      "img": "assets/skull/Images/cribiform-plt-zoom.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 4,
+                  "label": "Cribriform Plate",
+                  "sound": "assets/skull/Sounds/cribriformplate.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Superior",
+                      "img": "assets/skull/Images/cristagalli.jpg"
+                    },
+                    {
+                      "label": "Superior Zoom",
+                      "img": "assets/skull/Images/cristagalli-zoom.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 5,
+                  "label": "Crista Galli",
+                  "sound": "assets/skull/Sounds/cristagalli.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Anterior",
+                      "img": "assets/skull/Images/nasalconchae.jpg"
+                    },
+                    {
+                      "label": "Anterior Zoom",
+                      "img": "assets/skull/Images/nasalconchae-ant-zoom.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 6,
+                  "label": "Nasal Conchae",
+                  "sound": "assets/skull/Sounds/nasalconchae.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Anterior",
+                      "img": "assets/skull/Images/perp-plt-ant.jpg"
+                    },
+                    {
+                      "label": "Anterior Zoom",
+                      "img": "assets/skull/Images/perp-plt-ant-zoom.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 7,
+                  "label": "Perpendicular Plate",
+                  "sound": "assets/skull/Sounds/perpendicularplate.wav",
+                  "type": "img"
+                }
+              ],
+              "id": 3,
+              "label": "Ethmoid Bone",
+              "sound": "assets/skull/Sounds/ethmoid.wav",
+              "type": "img"
+            },
+            {
+              "buttons": [
+                {
+                  "img": "assets/skull/Images/fossa-sinus-suture.jpg"
+                }
+              ],
+              "children": [
+                {
+                  "buttons": [
+                    {
+                      "label": "Anterior",
+                      "img": "assets/skull/Images/ant-crnl-fossa.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 9,
+                  "label": "Anterior Cranial Fossa",
+                  "sound": "assets/skull/Sounds/anterior_cranial_fossa.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Middle Cranial Fossa",
+                      "img": "assets/skull/Images/mid-crnl-fossa.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 10,
+                  "label": "Middle Cranial Fossa",
+                  "sound": "assets/skull/Sounds/middle_cranial_fossa.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Posterior",
+                      "img": "assets/skull/Images/pos-crnl-fossa.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 11,
+                  "label": "Posterior Cranial Fossa",
+                  "sound": "assets/skull/Sounds/posterior_cranial_fossa.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Replay Animation",
+                      "img": "assets/skull/Images/mandible_animation1.gif"
+                    }
+                  ],
+                  "children": [],
+                  "id": 12,
+                  "label": "Mandibular Fossa",
+                  "sound": "assets/skull/Sounds/mandibular_fossa.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "img": "assets/skull/Images/frontal-sinus.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 13,
+                  "label": "Frontal Sinus",
+                  "sound": "assets/skull/Sounds/frontal_sinus.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Replay Animation",
+                      "img": "assets/skull/Images/max-sinus-anim.gif"
+                    }
+                  ],
+                  "children": [],
+                  "id": 14,
+                  "label": "Maxillary Sinus",
+                  "sound": "assets/skull/Sounds/maxillary_sinus.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Replay Animation",
+                      "img": "assets/skull/Images/sphenoid-sinus-anim.gif"
+                    }
+                  ],
+                  "children": [],
+                  "id": 15,
+                  "label": "Sphenoid Sinus",
+                  "sound": "assets/skull/Sounds/sphenoid_sinus.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Anterior",
+                      "img": "assets/skull/Images/coronalsuture-ant.jpg"
+                    },
+                    {
+                      "label": "Lateral",
+                      "img": "assets/skull/Images/coronalsuture-lat.jpg"
+                    },
+                    {
+                      "label": "Superior",
+                      "img": "assets/skull/Images/coron-suture-sup.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 16,
+                  "label": "Coronal Suture",
+                  "sound": "assets/skull/Sounds/coronal_suture.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Posterior",
+                      "img": "assets/skull/Images/lamb-suture-post.jpg"
+                    },
+                    {
+                      "label": "Lateral",
+                      "img": "assets/skull/Images/lamb-suture-lat.jpg"
+                    },
+                    {
+                      "label": "Superior",
+                      "img": "assets/skull/Images/lamb-suture-sup.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 17,
+                  "label": "Lambdoid Suture",
+                  "sound": "assets/skull/Sounds/lambdoid_suture.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Posterior",
+                      "img": "assets/skull/Images/sagtl-suture-post.jpg"
+                    },
+                    {
+                      "label": "Superior",
+                      "img": "assets/skull/Images/sag-suture-sup.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 18,
+                  "label": "Sagittal Suture",
+                  "sound": "assets/skull/Sounds/sagittal_suture.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "img": "assets/skull/Images/squam_suture_lat.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 19,
+                  "label": "Squamous Suture",
+                  "sound": "assets/skull/Sounds/squamous_suture.wav",
+                  "type": "img"
+                }
+              ],
+              "id": 8,
+              "label": "Fossas, Sinuses, and Sutures",
+              "sound": "assets/skull/Sounds/fossas_sinuses_sutures.wav",
+              "type": "img"
+            },
+            {
+              "buttons": [
+                {
+                  "label": "Anterior",
+                  "img": "assets/skull/Images/frontal.jpg"
+                },
+                {
+                  "label": "Superior",
+                  "img": "assets/skull/Images/frontal-sup.jpg"
+                }
+              ],
+              "children": [
+                {
+                  "buttons": [
+                    {
+                      "img": "assets/skull/Images/glabella.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 21,
+                  "label": "Glabella",
+                  "sound": "assets/skull/Sounds/glabella.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Anterior",
+                      "img": "assets/skull/Images/supra-orb-fmn.jpg"
+                    },
+                    {
+                      "label": "Anterior Zoom",
+                      "img": "assets/skull/Images/supra-orb-fmn-zoom.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 22,
+                  "label": "Supraorbital Foramen",
+                  "sound": "assets/skull/Sounds/supraorbital_foramen.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Anterior",
+                      "img": "assets/skull/Images/supra-orb-mgn-ant.jpg"
+                    },
+                    {
+                      "label": "Lateral",
+                      "img": "assets/skull/Images/supra-orb-fmn-lat.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 23,
+                  "label": "Supraorbital Margin",
+                  "sound": "assets/skull/Sounds/supraorbital_margin.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Anterior",
+                      "img": "assets/skull/Images/zgm-prc-frnt-ant.jpg"
+                    },
+                    {
+                      "label": "Lateral",
+                      "img": "assets/skull/Images/zgm-prc-frnt-lat.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 24,
+                  "label": "Zygomatic Process-Frontal Bone",
+                  "sound": "assets/skull/Sounds/zygomaticprocess_frontal.wav",
+                  "type": "img"
+                }
+              ],
+              "id": 20,
+              "label": "Frontal Bone",
+              "sound": "assets/skull/Sounds/frontal.wav",
+              "type": "img"
+            },
+            {
+              "buttons": [
+                {
+                  "label": "With Skull",
+                  "img": "assets/skull/Images/hyoid_location.jpg"
+                },
+                {
+                  "label": "Zoom",
+                  "img": "assets/skull/Images/hyoid.jpg"
+                }
+              ],
+              "children": [],
+              "id": 25,
+              "label": "Hyoid Bone",
+              "sound": "assets/skull/Sounds/hyoid.wav",
+              "type": "img"
+            },
+            {
+              "buttons": [
+                {
+                  "label": "Anterior",
+                  "img": "assets/skull/Images/lacrimal.jpg"
+                },
+                {
+                  "label": "Anterior Zoom",
+                  "img": "assets/skull/Images/lacrimal-zoom.jpg"
+                },
+                {
+                  "label": "3D Animation",
+                  "img": "gifs/lacrimal2.gif"
+                }
+              ],
+              "children": [
+                {
+                  "buttons": [
+                    {
+                      "label": "Lateral",
+                      "img": "assets/skull/Images/lacrimal_lat.jpg"
+                    },
+                    {
+                      "label": "Superior",
+                      "img": "assets/skull/Images/lacrimal_ant.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 27,
+                  "label": "Nasolacrimal Canal",
+                  "sound": "assets/skull/Sounds/nasolacrimal_canal.wav",
+                  "type": "img"
+                }
+              ],
+              "id": 26,
+              "label": "Lacrimal Bone",
+              "sound": "assets/skull/Sounds/lacrimal.wav",
+              "type": "img"
+            },
+            {
+              "buttons": [
+                {
+                  "label": "Anterior",
+                  "img": "assets/skull/Images/mandible-ant.jpg"
+                },
+                {
+                  "label": "Lateral",
+                  "img": "assets/skull/Images/mandible-lat.jpg"
+                },
+                {
+                  "label": "Inferior",
+                  "img": "assets/skull/Images/mandible-inf.jpg"
+                },
+                {
+                  "label": "Anterior Zoom",
+                  "img": "assets/skull/Images/mand-zoom-ant.jpg"
+                },
+                {
+                  "label": "Posterior Zoom",
+                  "img": "assets/skull/Images/mandible-zoom-post.jpg"
+                }
+              ],
+              "children": [
+                {
+                  "buttons": [
+                    {
+                      "label": "Anterior",
+                      "img": "assets/skull/Images/alv-prc-mand.jpg"
+                    },
+                    {
+                      "label": "Anterior Zoom",
+                      "img": "assets/skull/Images/alv-prc-mand-zoom-ant.jpg"
+                    },
+                    {
+                      "label": "Lateral Zoom",
+                      "img": "assets/skull/Images/alv-prc-mand-zoom-lat.jpg"
+                    },
+                    {
+                      "label": "Posterior Zoom",
+                      "img": "assets/skull/Images/alv-prc-mand-zoom-post.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 29,
+                  "label": "Alveolar Process-Mandible",
+                  "sound": "assets/skull/Sounds/alveolarprocessofmandible.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Lateral",
+                      "img": "assets/skull/Images/angle-mand-lat.jpg"
+                    },
+                    {
+                      "label": "Anterior Zoom",
+                      "img": "assets/skull/Images/angle-mand-zoom-ant.jpg"
+                    },
+                    {
+                      "label": "Lateral Zoom",
+                      "img": "assets/skull/Images/angle-mand-zoom-lat.jpg"
+                    },
+                    {
+                      "label": "Posterior Zoom",
+                      "img": "assets/skull/Images/angle-mand-zoom-post.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 30,
+                  "label": "Angle of Mandible",
+                  "sound": "assets/skull/Sounds/angle_mandible.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Anterior",
+                      "img": "assets/skull/Images/body-mand.jpg"
+                    },
+                    {
+                      "label": "Anterior Zoom",
+                      "img": "assets/skull/Images/body-mand-zoom-ant.jpg"
+                    },
+                    {
+                      "label": "Lateral Zoom",
+                      "img": "assets/skull/Images/body-mand-zoom-lat.jpg"
+                    },
+                    {
+                      "label": "Posterior Zoom",
+                      "img": "assets/skull/Images/body-mand-zoom-post.jpg"
+                    },
+                    {
+                      "label": "Inferior",
+                      "img": "assets/skull/Images/body-mand-inf.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 31,
+                  "label": "Body of Mandible",
+                  "sound": "assets/skull/Sounds/body_mandible.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Lateral",
+                      "img": "assets/skull/Images/cond-prc-mand-lat.jpg"
+                    },
+                    {
+                      "label": "Anterior Zoom",
+                      "img": "assets/skull/Images/cond-prc-mand-zoom-ant.jpg"
+                    },
+                    {
+                      "label": "Lateral Zoom",
+                      "img": "assets/skull/Images/cond-prc-mand-zoom-lat.jpg"
+                    },
+                    {
+                      "label": "Posterior Zoom",
+                      "img": "assets/skull/Images/cond-prc-mand-zoom-post.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 32,
+                  "label": "Condylar Process",
+                  "sound": "assets/skull/Sounds/condylarprocess.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Anterior",
+                      "img": "assets/skull/Images/coronoid-prc-ant.jpg"
+                    },
+                    {
+                      "label": "Anterior Zoom",
+                      "img": "assets/skull/Images/coronoid-prc-zoom-ant.jpg"
+                    },
+                    {
+                      "label": "Lateral",
+                      "img": "assets/skull/Images/coronoid-prc-lat.jpg"
+                    },
+                    {
+                      "label": "Lateral Zoom",
+                      "img": "assets/skull/Images/coronoid-prc-zoom-lat.jpg"
+                    },
+                    {
+                      "label": "Posterior Zoom",
+                      "img": "assets/skull/Images/coronoid-prc-zoom-post.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 33,
+                  "label": "Coronoid Process",
+                  "sound": "assets/skull/Sounds/coronoid_process_mandible.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Lateral",
+                      "img": "assets/skull/Images/mand-cond-lat.jpg"
+                    },
+                    {
+                      "label": "Lateral Zoom",
+                      "img": "assets/skull/Images/mand-cond-zoom-lat.jpg"
+                    },
+                    {
+                      "label": "Anterior Zoom",
+                      "img": "assets/skull/Images/mand-cond-zoom-ant.jpg"
+                    },
+                    {
+                      "label": "Posterior Zoom",
+                      "img": "assets/skull/Images/mand-cond-zoom-post.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 34,
+                  "label": "Mandibular Condyle",
+                  "sound": "assets/skull/Sounds/mandibular_condyle.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "img": "assets/skull/Images/Mand_Foramen.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 35,
+                  "label": "Mandibular Foramen",
+                  "sound": "?",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Lateral",
+                      "img": "assets/skull/Images/mand-notch-lat.jpg"
+                    },
+                    {
+                      "label": "Lateral Zoom",
+                      "img": "assets/skull/Images/mand-notch-zoom-lat.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 36,
+                  "label": "Mandibular Notch",
+                  "sound": "assets/skull/Sounds/mandibular_notch.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Anterior",
+                      "img": "assets/skull/Images/mand-symph.jpg"
+                    },
+                    {
+                      "label": "Anterior Zoom",
+                      "img": "assets/skull/Images/mand-symph-zoom.jpg"
+                    },
+                    {
+                      "label": "Posterior Zoom",
+                      "img": "assets/skull/Images/mand-symph-zoom-post.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 37,
+                  "label": "Mandibular Symphysis",
+                  "sound": "assets/skull/Sounds/mandibular_symphysis.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Anterior",
+                      "img": "assets/skull/Images/mental-fmn-ant.jpg"
+                    },
+                    {
+                      "label": "Anterior Zoom",
+                      "img": "assets/skull/Images/mental-fmn-zoom-ant.jpg"
+                    },
+                    {
+                      "label": "Lateral Zoom",
+                      "img": "assets/skull/Images/mental-fmn-zoom-lat.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 38,
+                  "label": "Mental Foramen",
+                  "sound": "assets/skull/Sounds/mental_foramen.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Lateral",
+                      "img": "assets/skull/Images/ramus-mand-lat.jpg"
+                    },
+                    {
+                      "label": "Anterior Zoom",
+                      "img": "assets/skull/Images/ramus-mand-zoom-ant.jpg"
+                    },
+                    {
+                      "label": "Lateral Zoom",
+                      "img": "assets/skull/Images/ramus-mand-zoom-lat.jpg"
+                    },
+                    {
+                      "label": "Posterior Zoom",
+                      "img": "assets/skull/Images/ramus-mand-zoom-post.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 39,
+                  "label": "Ramus of Mandible",
+                  "sound": "assets/skull/Sounds/ramus_mandible.wav",
+                  "type": "img"
+                }
+              ],
+              "id": 28,
+              "label": "Mandible",
+              "sound": "assets/skull/Sounds/mandible.wav",
+              "type": "img"
+            },
+            {
+              "buttons": [
+                {
+                  "label": "Anterior",
+                  "img": "assets/skull/Images/maxilla.jpg"
+                },
+                {
+                  "label": "Lateral",
+                  "img": "assets/skull/Images/maxilla-lat.jpg"
+                },
+                {
+                  "label": "Inferior",
+                  "img": "assets/skull/Images/maxilla-inferior.jpg"
+                }
+              ],
+              "children": [
+                {
+                  "buttons": [
+                    {
+                      "label": "Anterior",
+                      "img": "assets/skull/Images/alv-prc-max.jpg"
+                    },
+                    {
+                      "label": "Lateral",
+                      "img": "assets/skull/Images/alv-prc-max-lat.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 41,
+                  "label": "Alveolar Process-Maxilla",
+                  "sound": "assets/skull/Sounds/alveolarprocessofmaxilla.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Anterior",
+                      "img": "assets/skull/Images/ant-nasalspine.jpg"
+                    },
+                    {
+                      "label": "Anterior Zoom",
+                      "img": "assets/skull/Images/ant-nasalspine-zoom.jpg"
+                    },
+                    {
+                      "label": "Lateral",
+                      "img": "assets/skull/Images/ant-nasalspine-lat.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 42,
+                  "label": "Anterior Nasal Spine",
+                  "sound": "assets/skull/Sounds/anterior_nasal_spine.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Anterior",
+                      "img": "assets/skull/Images/frnt-prc-max-ant.jpg"
+                    },
+                    {
+                      "label": "Lateral",
+                      "img": "assets/skull/Images/frnt-prc-max-lat.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 43,
+                  "label": "Frontal Process-Maxilla",
+                  "sound": "assets/skull/Sounds/frontal_process_maxilla.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Anterior",
+                      "img": "assets/skull/Images/infra-orb-fmn-ant.jpg"
+                    },
+                    {
+                      "label": "Anterior Zoom",
+                      "img": "assets/skull/Images/infra-orb-fmn-zoom.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 44,
+                  "label": "Infraorbital Foramen",
+                  "sound": "assets/skull/Sounds/infraorbital_foramen.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Inferior",
+                      "img": "assets/skull/Images/palatine-prc-inf.jpg"
+                    },
+                    {
+                      "label": "Inferior Zoom",
+                      "img": "assets/skull/Images/palatine-prc-zoom.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 45,
+                  "label": "Palatine Process",
+                  "sound": "assets/skull/Sounds/palatine_process.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Anterior",
+                      "img": "assets/skull/Images/zgm-prc-max-ant.jpg"
+                    },
+                    {
+                      "label": "Lateral",
+                      "img": "assets/skull/Images/zgm-prc-max-lat.jpg"
+                    },
+                    {
+                      "label": "Inferior",
+                      "img": "assets/skull/Images/zgm-prc-max-inf.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 46,
+                  "label": "Zygomatic Process-Maxilla",
+                  "sound": "assets/skull/Sounds/zygomatic_process_maxilla.wav",
+                  "type": "img"
+                }
+              ],
+              "id": 40,
+              "label": "Maxilla",
+              "sound": "assets/skull/Sounds/maxilla.wav",
+              "type": "img"
+            },
+            {
+              "buttons": [
+                {
+                  "label": "Anterior",
+                  "img": "assets/skull/Images/nasal.jpg"
+                },
+                {
+                  "label": "Lateral",
+                  "img": "assets/skull/Images/nasal-lat.jpg"
+                }
+              ],
+              "children": [],
+              "id": 47,
+              "label": "Nasal Bone",
+              "sound": "assets/skull/Sounds/nasal.wav",
+              "type": "img"
+            },
+            {
+              "buttons": [
+                {
+                  "label": "Posterior",
+                  "img": "assets/skull/Images/occipital-post.jpg"
+                },
+                {
+                  "label": "Inferior",
+                  "img": "assets/skull/Images/occipital-inf.jpg"
+                },
+                {
+                  "label": "Superior",
+                  "img": "assets/skull/Images/occipital-sup.jpg"
+                },
+                {
+                  "label": "Internal Superior",
+                  "img": "assets/skull/Images/occipital-internal.jpg"
+                }
+              ],
+              "children": [
+                {
+                  "buttons": [
+                    {
+                      "label": "Posterior",
+                      "img": "assets/skull/Images/ext-occ-protube-post.jpg"
+                    },
+                    {
+                      "label": "Inferior",
+                      "img": "assets/skull/Images/ext-occ-protube-inf.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 49,
+                  "label": "External Occipital Protuberance",
+                  "sound": "assets/skull/Sounds/external_occipital_protuberance.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Superior",
+                      "img": "assets/skull/Images/fmn-magnum-sup.jpg"
+                    },
+                    {
+                      "label": "Inferior",
+                      "img": "assets/skull/Images/fmn-magnum-inf.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 50,
+                  "label": "Foramen Magnum",
+                  "sound": "assets/skull/Sounds/foramen_magnum.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Superior",
+                      "img": "assets/skull/Images/hypg-cnl-internal.jpg"
+                    },
+                    {
+                      "label": "Inferior Zoom",
+                      "img": "assets/skull/Images/hypg-cnl-inf-zoom.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 51,
+                  "label": "Hypoglossal Canal",
+                  "sound": "assets/skull/Sounds/hypoglossal_canal.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "img": "assets/skull/Images/nuchallines-post.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 52,
+                  "label": "Nuchal Lines",
+                  "sound": "assets/skull/Sounds/nuchal_lines.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Inferior",
+                      "img": "assets/skull/Images/occ-condyles.jpg"
+                    },
+                    {
+                      "label": "Posterior",
+                      "img": "assets/skull/Images/occ-condyles-post.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 53,
+                  "label": "Occipital Condyles",
+                  "sound": "assets/skull/Sounds/occip_condyles.wav",
+                  "type": "img"
+                }
+              ],
+              "id": 48,
+              "label": "Occipital Bone",
+              "sound": "assets/skull/Sounds/occipital.wav",
+              "type": "img"
+            },
+            {
+              "buttons": [
+                {
+                  "label": "Inferior",
+                  "img": "assets/skull/Images/palatine.jpg"
+                },
+                {
+                  "label": "Inferior Zoom",
+                  "img": "assets/skull/Images/palatine-Zoom.jpg"
+                },
+                {
+                  "label": "3D Animation",
+                  "img": "gifs/palatine2.gif"
+                }
+              ],
+              "children": [
+                {
+                  "buttons": [
+                    {
+                      "label": "Inferior",
+                      "img": "assets/skull/Images/hz-plt.jpg"
+                    },
+                    {
+                      "label": "Inferior Zoom",
+                      "img": "assets/skull/Images/hz-plt-zoom.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 55,
+                  "label": "Horizontal Plate",
+                  "sound": "assets/skull/Sounds/horizontal_plate.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Inferior",
+                      "img": "assets/skull/Images/palatineforamina.jpg"
+                    },
+                    {
+                      "label": "Inferior Zoom",
+                      "img": "assets/skull/Images/palatine-zoom-arrows.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 56,
+                  "label": "Palatine Foramina",
+                  "sound": "assets/skull/Sounds/palatine_foramina.wav",
+                  "type": "img"
+                }
+              ],
+              "id": 54,
+              "label": "Palatine Bone",
+              "sound": "assets/skull/Sounds/palatine_bone.wav",
+              "type": "img"
+            },
+            {
+              "buttons": [
+                {
+                  "label": "Anterior",
+                  "img": "assets/skull/Images/parietal-ant.jpg"
+                },
+                {
+                  "label": " Lateral",
+                  "img": "assets/skull/Images/parietal-lat.jpg"
+                },
+                {
+                  "label": "Posterior",
+                  "img": "assets/skull/Images/parietal-post.jpg"
+                },
+                {
+                  "label": "Superior",
+                  "img": "assets/skull/Images/parietal-sup.jpg"
+                }
+              ],
+              "children": [
+                {
+                  "buttons": [
+                    {
+                      "img": "assets/skull/Images/temporal-lines-lat.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 58,
+                  "label": "Temporal Lines",
+                  "sound": "assets/skull/Sounds/temporal_lines.wav",
+                  "type": "img"
+                }
+              ],
+              "id": 57,
+              "label": "Parietal Bone",
+              "sound": "assets/skull/Sounds/parietal.wav",
+              "type": "img"
+            },
+            {
+              "buttons": [
+                {
+                  "label": "Superior",
+                  "img": "assets/skull/Images/sphenoid.jpg"
+                },
+                {
+                  "label": "Anterior",
+                  "img": "assets/skull/Images/sphenoid-ant.jpg"
+                },
+                {
+                  "label": "Lateral",
+                  "img": "assets/skull/Images/sphenoid-lat.jpg"
+                },
+                {
+                  "label": "Inferior",
+                  "img": "assets/skull/Images/sphenoid-inf.jpg"
+                },
+                {
+                  "label": "3D Animation",
+                  "img": "gifs/sphenoid.gif"
+                }
+              ],
+              "children": [
+                {
+                  "buttons": [
+                    {
+                      "label": "Superior",
+                      "img": "assets/skull/Images/fmn-lacerum-sup.jpg"
+                    },
+                    {
+                      "label": "Superior Zoom",
+                      "img": "assets/skull/Images/fmn-lacerum-sup-zoom.jpg"
+                    },
+                    {
+                      "label": "Inferior",
+                      "img": "assets/skull/Images/fmn-lacerum-inf.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 60,
+                  "label": "Foramen Lacerum",
+                  "sound": "assets/skull/Sounds/lacerum.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Superior",
+                      "img": "assets/skull/Images/fmn-ovale-sup.jpg"
+                    },
+                    {
+                      "label": "Superior Zoom",
+                      "img": "assets/skull/Images/fmn-ovale-sup-zoom.jpg"
+                    },
+                    {
+                      "label": "Inferior",
+                      "img": "assets/skull/Images/fmn-ovale-inf.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 61,
+                  "label": "Foramen Ovale",
+                  "sound": "assets/skull/Sounds/ovale.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Superior",
+                      "img": "assets/skull/Images/fmn-rotundum-sup.jpg"
+                    },
+                    {
+                      "label": "Superior Zoom",
+                      "img": "assets/skull/Images/fmn-rotundum-sup-zoom.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 62,
+                  "label": "Foramen Rotundum",
+                  "sound": "assets/skull/Sounds/rotundum.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Superior",
+                      "img": "assets/skull/Images/fmn-spinosum-sup.jpg"
+                    },
+                    {
+                      "label": "Superior Zoom",
+                      "img": "assets/skull/Images/fmn-spinosum-sup-zoom.jpg"
+                    },
+                    {
+                      "label": "Inferior",
+                      "img": "assets/skull/Images/fmn-spinosum-inf.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 63,
+                  "label": "Foramen Spinosum",
+                  "sound": "assets/skull/Sounds/spinosum.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Superior",
+                      "img": "assets/skull/Images/greaterwing-sup.jpg"
+                    },
+                    {
+                      "label": "Anterior",
+                      "img": "assets/skull/Images/greaterwing-ant.jpg"
+                    },
+                    {
+                      "label": "Inferior",
+                      "img": "assets/skull/Images/greaterwing-inf.jpg"
+                    },
+                    {
+                      "label": "Lateral",
+                      "img": "assets/skull/Images/greaterwing-lat.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 64,
+                  "label": "Greater Wing",
+                  "sound": "assets/skull/Sounds/greater_wing.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Anterior",
+                      "img": "assets/skull/Images/inf-orb-fissure-ant.jpg"
+                    },
+                    {
+                      "label": "Anterior Zoom",
+                      "img": "assets/skull/Images/inf-orb-fissure-zoom.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 65,
+                  "label": "Inferior Orbital Fissure",
+                  "sound": "assets/skull/Sounds/inferior_orbital_fissure.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Inferior",
+                      "img": "assets/skull/Images/lat-pt-plt-inf.jpg"
+                    },
+                    {
+                      "label": "Inferior Zoom",
+                      "img": "assets/skull/Images/lat-pt-plt-inf-zoom.jpg"
+                    },
+                    {
+                      "label": "Lateral",
+                      "img": "assets/skull/Images/lat-pt-plt-lat.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 66,
+                  "label": "Lateral Pterygoid Plate",
+                  "sound": "assets/skull/Sounds/lat_pterygoid_plate.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Superior",
+                      "img": "assets/skull/Images/lesserwing-sup.jpg"
+                    },
+                    {
+                      "label": "Anterior",
+                      "img": "assets/skull/Images/lesserwing-ant.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 67,
+                  "label": "Lesser Wing",
+                  "sound": "assets/skull/Sounds/lesser_wing.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Inferior",
+                      "img": "assets/skull/Images/med-pt-plt-inf.jpg"
+                    },
+                    {
+                      "label": "Inferior Zoom",
+                      "img": "assets/skull/Images/med-pt-plt-inf-zoom.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 68,
+                  "label": "Medial Pterygoid Plate",
+                  "sound": "assets/skull/Sounds/med_pterygoid_plate.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Superior",
+                      "img": "assets/skull/Images/optic-cnl-sup.jpg"
+                    },
+                    {
+                      "label": "Superior Zoom",
+                      "img": "assets/skull/Images/optic-cnl-zoom.jpg"
+                    },
+                    {
+                      "label": "Anterior Zoom",
+                      "img": "assets/skull/Images/optic-canal-ant-zoom.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 69,
+                  "label": "Optic Canal",
+                  "sound": "assets/skull/Sounds/op_canal.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Superior",
+                      "img": "assets/skull/Images/sellaturcica-sup.jpg"
+                    },
+                    {
+                      "label": "Superior Zoom",
+                      "img": "assets/skull/Images/sellaturcica-sup-zoom.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 70,
+                  "label": "Sella Turcica",
+                  "sound": "assets/skull/Sounds/sella.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Anterior",
+                      "img": "assets/skull/Images/sup-orb-fissure-ant.jpg"
+                    },
+                    {
+                      "label": "Anterior Zoom",
+                      "img": "assets/skull/Images/sup-orb-fissure-zoom.jpg"
+                    },
+                    {
+                      "label": "From Inside Skull",
+                      "img": "assets/skull/Images/sup-orb-fissure-int-zoom.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 71,
+                  "label": "Superior Orbital Fissure",
+                  "sound": "assets/skull/Sounds/superior_orbital.wav",
+                  "type": "img"
+                }
+              ],
+              "id": 59,
+              "label": "Sphenoid Bone",
+              "sound": "assets/skull/Sounds/sphenoid.wav",
+              "type": "img"
+            },
+            {
+              "buttons": [
+                {
+                  "label": "Lateral",
+                  "img": "assets/skull/Images/temporal-lat.jpg"
+                },
+                {
+                  "label": "Anterior",
+                  "img": "assets/skull/Images/temporal-ant.jpg"
+                },
+                {
+                  "label": "Posterior",
+                  "img": "assets/skull/Images/temporal-post.jpg"
+                },
+                {
+                  "label": "Superior",
+                  "img": "assets/skull/Images/temporal-sup.jpg"
+                },
+                {
+                  "label": "Inferior",
+                  "img": "assets/skull/Images/temporal-inf.jpg"
+                }
+              ],
+              "children": [
+                {
+                  "buttons": [
+                    {
+                      "label": "Superior",
+                      "img": "assets/skull/Images/carotid-cnl-sup.jpg"
+                    },
+                    {
+                      "label": "Superior Zoom",
+                      "img": "assets/skull/Images/carotid-cnl-sup-zoom.jpg"
+                    },
+                    {
+                      "label": "Inferior",
+                      "img": "assets/skull/Images/carotid-cnl-inf.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 73,
+                  "label": "Carotid Canal",
+                  "sound": "assets/skull/Sounds/carotid_canal.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Lateral",
+                      "img": "assets/skull/Images/ex-acoustic-mea-lat.jpg"
+                    },
+                    {
+                      "label": "Inferior",
+                      "img": "assets/skull/Images/ex-acoustic-mea-inf.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 74,
+                  "label": "External Acoustic Meatus",
+                  "sound": "assets/skull/Sounds/external_acoustic_meatus.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "img": "assets/skull/Images/in-acoustic-mea-sup.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 75,
+                  "label": "Internal Acoustic Meatus",
+                  "sound": "assets/skull/Sounds/internal_acoustic_meatus.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Superior",
+                      "img": "assets/skull/Images/jugular-fmn-sup.jpg"
+                    },
+                    {
+                      "label": "Inferior",
+                      "img": "assets/skull/Images/jugular-fmn-inf.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 76,
+                  "label": "Jugular Foramen",
+                  "sound": "assets/skull/Sounds/jugular_foramen.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Lateral",
+                      "img": "assets/skull/Images/mastoid-prc-lat.jpg"
+                    },
+                    {
+                      "label": "Inferior",
+                      "img": "assets/skull/Images/mastoid-prc-inf.jpg"
+                    },
+                    {
+                      "label": "Anterior",
+                      "img": "assets/skull/Images/mastoid-prc-ant.jpg"
+                    },
+                    {
+                      "label": "Posterior",
+                      "img": "assets/skull/Images/mastoid-prc-post.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 77,
+                  "label": "Mastoid Process",
+                  "sound": "assets/skull/Sounds/mastoid_process.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Superior",
+                      "img": "assets/skull/Images/petrous-prtn.jpg"
+                    },
+                    {
+                      "label": "Inferior",
+                      "img": "assets/skull/Images/petrous-prtn-inf.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 78,
+                  "label": "Petrous Portion",
+                  "sound": "assets/skull/Sounds/petrous_portion.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Superior",
+                      "img": "assets/skull/Images/squamous-prtn-sup.jpg"
+                    },
+                    {
+                      "label": "Lateral",
+                      "img": "assets/skull/Images/squamous-prtn-lat.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 79,
+                  "label": "Squamous Portion",
+                  "sound": "assets/skull/Sounds/squamous_portion.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Inferior",
+                      "img": "assets/skull/Images/styloid-prc-inf.jpg"
+                    },
+                    {
+                      "label": "Lateral",
+                      "img": "assets/skull/Images/styloid-prc-lat.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 80,
+                  "label": "Styloid Process",
+                  "sound": "assets/skull/Sounds/styloid_process.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "img": "assets/skull/Images/sty-mast-fmn.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 81,
+                  "label": "Stylomastoid Foramen",
+                  "sound": "assets/skull/Sounds/stylomastoid_foramen.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Lateral",
+                      "img": "assets/skull/Images/zgm-prc-temp-lat.jpg"
+                    },
+                    {
+                      "label": "Inferior",
+                      "img": "assets/skull/Images/zgm-prc-temp-inf.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 82,
+                  "label": "Zygomatic Process-Temporal Bone",
+                  "sound": "assets/skull/Sounds/zygomatic_process_temporal.wav",
+                  "type": "img"
+                }
+              ],
+              "id": 72,
+              "label": "Temporal Bone",
+              "sound": "assets/skull/Sounds/temporal.wav",
+              "type": "img"
+            },
+            {
+              "buttons": [
+                {
+                  "label": "Anterior",
+                  "img": "assets/skull/Images/vomer-ant.jpg"
+                },
+                {
+                  "label": "Inferior",
+                  "img": "assets/skull/Images/vomer-inf.jpg"
+                },
+                {
+                  "label": "Inferior Zoom",
+                  "img": "assets/skull/Images/vomer-inf-zoom.jpg"
+                },
+                {
+                  "label": "3D Animation",
+                  "img": "gifs/vomer2.gif"
+                }
+              ],
+              "children": [],
+              "id": 83,
+              "label": "Vomer",
+              "sound": "assets/skull/Sounds/vomer.wav",
+              "type": "img"
+            },
+            {
+              "buttons": [
+                {
+                  "label": "Anterior",
+                  "img": "assets/skull/Images/zygomatic.jpg"
+                },
+                {
+                  "label": "Lateral",
+                  "img": "assets/skull/Images/zygomatic-lat.jpg"
+                },
+                {
+                  "label": "Inferior",
+                  "img": "assets/skull/Images/zygomatic-inf.jpg"
+                }
+              ],
+              "children": [
+                {
+                  "buttons": [
+                    {
+                      "label": "Anterior",
+                      "img": "assets/skull/Images/infra-orb-margin-ant.jpg"
+                    },
+                    {
+                      "label": "Lateral",
+                      "img": "assets/skull/Images/infra-orb-margin-lat.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 85,
+                  "label": "Infraorbital Margin",
+                  "sound": "assets/skull/Sounds/infraorbital_margin.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Lateral",
+                      "img": "assets/skull/Images/temp-prc-lat.jpg"
+                    },
+                    {
+                      "label": "Inferior",
+                      "img": "assets/skull/Images/temp-prc-inf.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 86,
+                  "label": "Temporal Process",
+                  "sound": "assets/skull/Sounds/temporal_process_zygomatic.wav",
+                  "type": "img"
+                },
+                {
+                  "buttons": [
+                    {
+                      "label": "Lateral",
+                      "img": "assets/skull/Images/zgm-arch-lat.jpg"
+                    },
+                    {
+                      "label": "Inferior",
+                      "img": "assets/skull/Images/zgm-arch-inf.jpg"
+                    }
+                  ],
+                  "children": [],
+                  "id": 87,
+                  "label": "Zygomatic Arch",
+                  "sound": "assets/skull/Sounds/zygomatic_arch.wav",
+                  "type": "img"
+                }
+              ],
+              "id": 84,
+              "label": "Zygomatic Bone",
+              "sound": "assets/skull/Sounds/zygomatic bone.wav",
+              "type": "img"
+            }
+          ],
+          "load": "assets/skull/Pages/4_1_2_2D_intro.html",
+          "type": "lecture"
+        },
+        {
+          "id": 88,
+          "label": "4.1.3 - 3D Skull Anatomy",
+          "children": [
+            {
+              "id": 89,
+              "label": "Instructions for 3D Webpage for Skull",
+              "type": "html",
+              "children": [],
+              "child_items": [
+                {
+                  "load": "assets/skull/Pages/4_1_3_skull_3D.html"
+                }
+              ]
+            },
+            {
+              "id": 90,
+              "label": "Direct Link to 3D Webpage for Skull",
+              "type": "none",
+              "children": [],
+              "child_items": [
+                {
+                  "page": "https://content.byui.edu/file/24be55b8-db82-4908-9cd9-b9282cafd6c6/1/Skull/index.html"
+                }
+              ]
+            }
+          ],
+          "load": "assets/skull/Pages/4_1_3_skull_3D.html",
+          "type": "lecture"
+        },
+        {
+          "id": 91,
+          "label": "4.1.4 - Skull Videos",
+          "load": "assets/skull/Pages/4_1_4_TA video intro.html",
+          "children": [
+            {
+              "id": 92,
+              "label": "Skull Bones and Sutures Video",
+              "children": [],
+              "load": "assets/skull/Pages/4_1_4_skull_videos_bones_sutures_kaylie.html",
+              "type": "video",
+              "child_items": [
+                {
+                  "video_link": "https://cdnapisec.kaltura.com/p/1157612/sp/115761200/embedIframeJs/uiconf_id/41338032/partner_id/1157612?iframeembed=true&playerId=kaltura_player&entry_id=1_ayuwrvz7&flashvars[localizationCode]=en&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_ffemgzev"
+                }
+              ]
+            },
+            {
+              "id": 93,
+              "label": "Skull Anterior View Video",
+              "children": [],
+              "load": "assets/skull/Pages/4_1_4_skull_videos_Ant_kaylie.html",
+              "type": "video",
+              "child_items": [
+                {
+                  "video_link": "https://cdnapisec.kaltura.com/p/1157612/sp/115761200/embedIframeJs/uiconf_id/41338032/partner_id/1157612?iframeembed=true&playerId=kaltura_player&entry_id=1_ihtaix6d&flashvars[localizationCode]=en&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_mcfzu0dd"
+                }
+              ]
+            },
+            {
+              "id": 94,
+              "label": "Skull Lateral and Posterior View Video",
+              "children": [],
+              "load": "assets/skull/Pages/4_1_4_skull_videos_Lat_Post_kaylie.html",
+              "type": "video",
+              "child_items": [
+                {
+                  "video_link": "https://cdnapisec.kaltura.com/p/1157612/sp/115761200/embedIframeJs/uiconf_id/41338032/partner_id/1157612?iframeembed=true&playerId=kaltura_player&entry_id=1_9wg1pjee&flashvars[localizationCode]=en&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_8ebfhe0m"
+                }
+              ]
+            },
+            {
+              "id": 95,
+              "label": "Skull Superior (top) View Video",
+              "children": [],
+              "load": "assets/skull/Pages/4_1_4_skull_videos_Sup_kaylie.html",
+              "type": "video",
+              "child_items": [
+                {
+                  "video_link": "https://cdnapisec.kaltura.com/p/1157612/sp/115761200/embedIframeJs/uiconf_id/41338032/partner_id/1157612?iframeembed=true&playerId=kaltura_player&entry_id=1_66fcxsyt&flashvars[localizationCode]=en&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_s2h55sl4"
+                }
+              ]
+            },
+            {
+              "id": 96,
+              "label": "Skull Inferior View Video",
+              "children": [],
+              "load": "assets/skull/Pages/4_1_4_skull_videos_Internal_kaylie.html",
+              "type": "video",
+              "child_items": [
+                {
+                  "video_link": "https://cdnapisec.kaltura.com/p/1157612/sp/115761200/embedIframeJs/uiconf_id/41338032/partner_id/1157612?iframeembed=true&playerId=kaltura_player&entry_id=1_5ec5ag5o&flashvars[localizationCode]=en&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_vcs0sb7p"
+                }
+              ]
+            },
+            {
+              "id": 97,
+              "label": "Skull Internal (inside) View Video",
+              "children": [],
+              "load": "assets/skull/Pages/4_1_4_skull_videos_Internal_kaylie.html",
+              "type": "video",
+              "child_items": [
+                {
+                  "video_link": "https://cdnapisec.kaltura.com/p/1157612/sp/115761200/embedIframeJs/uiconf_id/41338032/partner_id/1157612?iframeembed=true&playerId=kaltura_player&entry_id=1_5ec5ag5o&flashvars[localizationCode]=en&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_vcs0sb7p"
+                }
+              ]
+            },
+            {
+              "id": 98,
+              "label": "Skull Sinuses Video",
+              "children": [],
+              "load": "assets/skull/Pages/4_1_4_skull_videos_sinuse_kaylie.html",
+              "type": "video",
+              "child_items": [
+                {
+                  "video_link": "https://cdnapisec.kaltura.com/p/1157612/sp/115761200/embedIframeJs/uiconf_id/41338032/partner_id/1157612?iframeembed=true&playerId=kaltura_player&entry_id=1_p02hpqii&flashvars[localizationCode]=en&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_pcudieep"
+                }
+              ]
+            },
+            {
+              "id": 99,
+              "label": "Skull Mandible and Hyoid Video",
+              "children": [],
+              "load": "assets/skull/Pages/4_1_4_skull_videos_mandible_kaylie.html",
+              "type": "video",
+              "child_items": [
+                {
+                  "video_link": "https://cdnapisec.kaltura.com/p/1157612/sp/115761200/embedIframeJs/uiconf_id/41338032/partner_id/1157612?iframeembed=true&playerId=kaltura_player&entry_id=1_awzqj71a&flashvars[localizationCode]=en&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_lt9lmgzw"
+                }
+              ]
+            },
+            {
+              "id": 100,
+              "label": "Skull Fossas and Ear Bones Video",
+              "children": [],
+              "load": "assets/skull/Pages/4_1_4_skull_videos_FossaEar.html",
+              "type": "video",
+              "child_items": [
+                {
+                  "video_link": "https://cdnapisec.kaltura.com/p/1157612/sp/115761200/embedIframeJs/uiconf_id/41338032/partner_id/1157612?iframeembed=true&playerId=kaltura_player&entry_id=1_09iqusw3&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_2ddz7q41"
+                }
+              ]
+            }
+          ],
+          "child_items": [
+            {}
+          ],
+          "type": "lecture"
+        }
+      ]
+    },
+    {
+      "id": "week2",
+      "title": "Week 4.2: Practice",
+      "data": [
+        {
+          "id": 101,
+          "label": "WEEK 4.2 - PRACTICE",
+          "type": "none",
+          "children": []
+        },
+        {
+          "id": 102,
+          "label": "4.2.1 - Practice Some Descriptions",
+          "children": [],
+          "load": "assets/skull/Pages/4_2_1_descriptions.html",
+          "type": "lecture"
+        },
+        {
+          "id": 103,
+          "label": "4.2.2 - Practice with 3D",
+          "children": [
+            {
+              "id": 104,
+              "label": "Clickable Skull",
+              "type": "none",
+              "children": [],
+              "child_items": [
+                {
+                  "page": "https://content.byui.edu/file/70ddde1f-1506-4ed8-8b4b-fd7562148ad6/1/Skull%20Clickable/index.html"
+                }
+              ]
+            },
+            {
+              "id": 105,
+              "label": "Find on the Skull",
+              "type": "none",
+              "children": [],
+              "child_items": [
+                {
+                  "page": "https://content.byui.edu/file/70ddde1f-1506-4ed8-8b4b-fd7562148ad6/1/Skull%20Find/index.html"
+                }
+              ]
+            }
+          ],
+          "load": "assets/skull/Pages/4_1_3_skull_3D.html",
+          "type": "lecture"
+        },
+        {
+          "id": 106,
+          "label": "4.2.3 - Try Naming Some Pictures",
+          "children": [],
+          "load": "assets/skull/powerpoint/Skull_misc1/index.html",
+          "child_items": [
+            {}
+          ],
+          "type": "lecture"
+        },
+        {
+          "id": 107,
+          "label": "4.2.4 - Go to Flashcards",
+          "children": [],
+          "type": "none",
+          "child_items": [
+            {
+              "page": "https://content.byui.edu/file/7be1c52f-c2a4-4d40-a709-65b9d0554453/1/flashcards2_build/index.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

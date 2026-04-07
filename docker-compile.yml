@@ -1,0 +1,122 @@
+services:
+  introduction:
+    build:
+      context: .
+      dockerfile: Dockerfile.lab
+      args:
+        LAB_DIR: builds/intro_build
+    container_name: introduction
+  histology:
+    build:
+      context: .
+      dockerfile: Dockerfile.lab
+      args:
+        LAB_DIR: builds/histology_build
+    container_name: histology
+  skull:
+    build:
+      context: .
+      dockerfile: Dockerfile.lab
+      args:
+        LAB_DIR: builds/skull_build
+    container_name: skull
+  trunkarm:
+    build:
+      context: .
+      dockerfile: Dockerfile.lab
+      args:
+        LAB_DIR: builds/trunkarm_build
+    container_name: trunkarm
+  legjoints:
+    build:
+      context: .
+      dockerfile: Dockerfile.lab
+      args:
+        LAB_DIR: builds/legjoints_build
+    container_name: legjoints
+  headnecktrunk:
+    build:
+      context: .
+      dockerfile: Dockerfile.lab
+      args:
+        LAB_DIR: builds/headnecktrunk_build
+    container_name: headnecktrunk
+  armmuscles:
+    build:
+      context: .
+      dockerfile: Dockerfile.lab
+      args:
+        LAB_DIR: builds/armmuscles_build
+    container_name: armmuscles
+  legmuscles:
+    build:
+      context: .
+      dockerfile: Dockerfile.lab
+      args:
+        LAB_DIR: builds/legmuscles_build
+    container_name: legmuscles
+  nervoussystem:
+    build:
+      context: .
+      dockerfile: Dockerfile.lab
+      args:
+        LAB_DIR: builds/nervous_build
+    container_name: nervoussystem
+  specialsenses:
+    build:
+      context: .
+      dockerfile: Dockerfile.lab
+      args:
+        LAB_DIR: builds/earseyes_build
+    container_name: specialsenses
+  flashcards1:
+    build:
+      context: .
+      dockerfile: Dockerfile.lab
+      args:
+        LAB_DIR: builds/flashcards1_build
+    container_name: flashcards1
+  flashcards2:
+    build:
+      context: .
+      dockerfile: Dockerfile.lab
+      args:
+        LAB_DIR: builds/flashcards2_build
+    container_name: flashcards2
+  flashcards3:
+    build:
+      context: .
+      dockerfile: Dockerfile.lab
+      args:
+        LAB_DIR: builds/flashcards3_build
+    container_name: flashcards3
+  flashcardsfinal:
+    build:
+      context: .
+      dockerfile: Dockerfile.lab
+      args:
+        LAB_DIR: builds/flashcardsfinal_build
+    container_name: flashcardsfinal
+  proxy:
+    image: nginx:alpine
+    container_name: reverse-proxy
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx/default.conf:/etc/nginx/conf.d/default.conf:ro
+    depends_on:
+      - introduction
+      - histology
+      - skull
+      - trunkarm
+      - legjoints
+      - headnecktrunk
+      - armmuscles
+      - legmuscles
+      - nervoussystem
+      - specialsenses
+      - flashcards1
+      - flashcards2
+      - flashcards3
+      - flashcardsfinal
+  

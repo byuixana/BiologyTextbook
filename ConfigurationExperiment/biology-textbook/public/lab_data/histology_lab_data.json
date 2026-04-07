@@ -1,0 +1,257 @@
+{
+  "$schema": "./lab_data.schema.json",
+  "title": "Histology Lab",
+  "sections": [
+    {
+      "id": "week-2-1-histology",
+      "title": "WEEK 2.1 - HISTOLOGY",
+      "data": [
+        {
+          "id": 0,
+          "label": "WEEK 2.1 - HISTOLOGY",
+          "type": "none",
+          "children": []
+        },
+        {
+          "id": 1,
+          "label": "2.1.1 - Introduction to Histology",
+          "children": [],
+          "load": "assets/histology/Pages/2_1_1_intro_histology.html",
+          "type": "lecture"
+        },
+        {
+          "id": 2,
+          "label": "2.1.2 - Epithelial Tissue",
+          "children": [
+            {
+              "id": 3,
+              "label": "Simple Squamous Epithelial Tissue - Video",
+              "children": [],
+              "type": "video",
+              "child_items": [
+                {
+                  "video_link": "https://cdnapisec.kaltura.com/p/1157612/sp/115761200/embedIframeJs/uiconf_id/41338032/partner_id/1157612?iframeembed=true&playerId=kaltura_player&entry_id=0_pjbnak95&flashvars[streamerType]=auto&flashvars[localizationCode]=en&flashvars[leadWithHTML5]=true&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[Kaltura.addCrossoriginToIframe]=true&&wid=1_yyyjr1yo"
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "label": "Simple Cuboidal Epithelial Tissue - Video",
+              "children": [],
+              "type": "video",
+              "child_items": [
+                {
+                  "video_link": "https://cdnapisec.kaltura.com/p/1157612/sp/115761200/embedIframeJs/uiconf_id/41338032/partner_id/1157612?iframeembed=true&playerId=kaltura_player&entry_id=0_h51iy0hc&flashvars[streamerType]=auto&flashvars[localizationCode]=en&flashvars[leadWithHTML5]=true&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[Kaltura.addCrossoriginToIframe]=true&&wid=1_wwh7jjgb"
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "label": "Simple Columnar Epithelial Tissue - Video",
+              "children": [],
+              "type": "video",
+              "child_items": [
+                {
+                  "video_link": "https://cdnapisec.kaltura.com/p/1157612/sp/115761200/embedIframeJs/uiconf_id/41338032/partner_id/1157612?iframeembed=true&playerId=kaltura_player&entry_id=0_srpqxqt2&flashvars[streamerType]=auto&flashvars[localizationCode]=en&flashvars[leadWithHTML5]=true&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[Kaltura.addCrossoriginToIframe]=true&&wid=1_zm7n0j24"
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "label": "Pseudostratified Columnar Epithelial Tissue - Video",
+              "children": [],
+              "type": "video",
+              "child_items": [
+                {
+                  "video_link": "https://cdnapisec.kaltura.com/p/1157612/sp/115761200/embedIframeJs/uiconf_id/41338032/partner_id/1157612?iframeembed=true&playerId=kaltura_player&entry_id=0_avek9g88&flashvars[streamerType]=auto&flashvars[localizationCode]=en&flashvars[leadWithHTML5]=true&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[Kaltura.addCrossoriginToIframe]=true&&wid=1_el9ycn7r"
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "label": "Stratified Sqamous Epithelial Tissue - Video",
+              "children": [],
+              "type": "video",
+              "child_items": [
+                {
+                  "video_link": "https://cdnapisec.kaltura.com/p/1157612/sp/115761200/embedIframeJs/uiconf_id/41338032/partner_id/1157612?iframeembed=true&playerId=kaltura_player&entry_id=0_7ljomqc2&flashvars[streamerType]=auto&flashvars[localizationCode]=en&flashvars[leadWithHTML5]=true&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[Kaltura.addCrossoriginToIframe]=true&&wid=1_jvaq72c3"
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "label": "Transitional Epithelial Tissue - Video",
+              "children": [],
+              "type": "video",
+              "child_items": [
+                {
+                  "video_link": "https://cdnapisec.kaltura.com/p/1157612/sp/115761200/embedIframeJs/uiconf_id/41338032/partner_id/1157612?iframeembed=true&playerId=kaltura_player&entry_id=0_gdslfgb1&flashvars[streamerType]=auto&flashvars[localizationCode]=en&flashvars[leadWithHTML5]=true&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[Kaltura.addCrossoriginToIframe]=true&&wid=1_rbyi6db0"
+                }
+              ]
+            }
+          ],
+          "load": "assets/histology/Pages/2_1_2_epithelial.html",
+          "type": "lecture"
+        },
+        {
+          "id": 9,
+          "label": "2.1.3 - Connective Tissue",
+          "children": [
+            {
+              "id": 10,
+              "label": "Loose Fibrous Connective Tissue - Video",
+              "children": [],
+              "load": "assets/histology/Pages/loose_fibrous_connective.html",
+              "type": "lecture"
+            },
+            {
+              "id": 11,
+              "label": "Adipose Tissue - Video",
+              "children": [],
+              "load": "assets/histology/Pages/adipose_connective.html",
+              "type": "lecture"
+            },
+            {
+              "id": 12,
+              "label": "Dense Connective Tissue - Video",
+              "children": [],
+              "load": "assets/histology/Pages/dense_fibrous_connective.html",
+              "type": "lecture"
+            },
+            {
+              "id": 13,
+              "label": "Cartilage - Video",
+              "children": [],
+              "load": "assets/histology/Pages/cartilage_connective.html",
+              "type": "lecture"
+            },
+            {
+              "id": 14,
+              "label": "Bone - Video",
+              "children": [],
+              "load": "assets/histology/Pages/bone_connective.html",
+              "type": "lecture"
+            }
+          ],
+          "load": "assets/histology/Pages/2_1_3_connective.html",
+          "type": "lecture"
+        },
+        {
+          "id": 15,
+          "label": "2.1.4 - Muscle Tissue",
+          "load": "assets/histology/Pages/2_1_4_muscle.html",
+          "children": [
+            {
+              "id": 16,
+              "label": "Skeletal Muscle - Video",
+              "children": [],
+              "load": "assets/histology/Pages/skeletal_muscle.html",
+              "type": "lecture"
+            },
+            {
+              "id": 17,
+              "label": "Smooth Muscle - Video",
+              "children": [],
+              "load": "assets/histology/Pages/smooth_muscle.html",
+              "type": "lecture"
+            },
+            {
+              "id": 18,
+              "label": "Cardiac Muscle - Video",
+              "children": [],
+              "load": "assets/histology/Pages/cardiac_muscle.html",
+              "type": "lecture"
+            }
+          ],
+          "type": "lecture"
+        }
+      ]
+    },
+    {
+      "id": "week-2-2-practice",
+      "title": "WEEK 2.2 - PRACTICE",
+      "data": [
+        {
+          "id": 19,
+          "label": "WEEK 2.2 - PRACTICE",
+          "type": "none",
+          "children": []
+        },
+        {
+          "id": 20,
+          "label": "2.2.1 - Practice with Descriptions",
+          "type": "none",
+          "children": [
+            {
+              "id": 21,
+              "label": "Epithelial Tissue",
+              "load": "assets/histology/Pages/2_2_1_descriptions_epithelial.html",
+              "children": [],
+              "type": "lecture"
+            },
+            {
+              "id": 22,
+              "label": "Connective Tissue",
+              "load": "assets/histology/Pages/2_2_1_descriptions_connective.html",
+              "children": [],
+              "type": "lecture"
+            },
+            {
+              "id": 23,
+              "label": "Muscle Tissue",
+              "load": "assets/histology/Pages/2_2_1_descriptions_muscle.html",
+              "children": [],
+              "type": "lecture"
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "label": "2.2.2 - Practice Identification",
+          "type": "none",
+          "children": [
+            {
+              "id": 25,
+              "label": "Epithelial Tissue",
+              "load": "assets/histology/Powerpoints/Epithelial_Tissues_Review/index.html",
+              "children": [],
+              "type": "lecture"
+            },
+            {
+              "id": 26,
+              "label": "Connective Tissue",
+              "load": "assets/histology/Powerpoints/Connective_Tissue_ Review/index.html",
+              "children": [],
+              "type": "lecture"
+            },
+            {
+              "id": 27,
+              "label": "Muscle Tissue",
+              "load": "assets/histology/Powerpoints/Muscle_Review/index.html",
+              "children": [],
+              "type": "lecture"
+            },
+            {
+              "id": 28,
+              "label": "All Tissues Reviewed",
+              "load": "assets/histology/Powerpoints/Review_All_Tissues/index.html",
+              "children": [],
+              "type": "lecture"
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "label": "2.2.3 - Flashcards",
+          "children": [],
+          "type": "none",
+          "child_items": [
+            {
+              "page": "https://content.byui.edu/file/ff122ee1-acad-4947-a257-a7c15edf3049/1/flashcards1_build/index.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

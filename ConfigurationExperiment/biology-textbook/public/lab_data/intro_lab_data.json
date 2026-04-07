@@ -1,0 +1,63 @@
+{
+  "$schema": "./lab_data.schema.json",
+  "title": "Histology",
+  "sections": [
+    {
+      "id": "week-1-1-intro-bio-264-lab",
+      "title": "WEEK 1.1 - INTRO BIO 264 LAB",
+      "data": [
+        {
+          "id": 0,
+          "label": "WEEK 1.1 - INTRO BIO 264 LAB",
+          "type": "none",
+          "children": []
+        },
+        {
+          "id": 1,
+          "label": "1.1.1 - Introduction to Bio 264",
+          "load": "assets/intro/Pages/1_1_1_intro.html",
+          "children": [],
+          "type": "lecture"
+        },
+        {
+          "id": 2,
+          "label": "1.1.2 - Review General Terminology",
+          "load": "assets/intro/Pages/1_1_2_terminology.html",
+          "children": [],
+          "type": "lecture"
+        }
+      ]
+    },
+    {
+      "id": "week-1-2-practice",
+      "title": "WEEK 1.2 - PRACTICE",
+      "type": "none",
+      "data": [
+        {
+          "id": 3,
+          "label": "WEEK 1.2 - PRACTICE",
+          "type": "none",
+          "children": []
+        },
+        {
+          "id": 4,
+          "label": "1.2.1 - Flashcards",
+          "children": [],
+          "type": "none",
+          "child_items": [
+            {
+              "page": "https://content.byui.edu/file/ff122ee1-acad-4947-a257-a7c15edf3049/1/flashcards1_build/index.html"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "label": "1.2.2 - Get a Head Start on Week 2",
+          "load": "assets/intro/Pages/1_2_2_headstart.html",
+          "children": [],
+          "type": "lecture"
+        }
+      ]
+    }
+  ]
+}

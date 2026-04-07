@@ -224,8 +224,13 @@
         {
           "id": 29,
           "label": "2.2.3 - Flashcards",
-          "load": "Pages/Flashcards.html",
-          "children": []
+          "children": [],
+          "type": "none",
+          "child_items": [
+            {
+              "page": "https://content.byui.edu/file/ff122ee1-acad-4947-a257-a7c15edf3049/1/flashcards1_build/index.html"
+            }
+          ]
         }
       ]
     }

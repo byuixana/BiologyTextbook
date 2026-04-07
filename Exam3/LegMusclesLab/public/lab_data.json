@@ -762,9 +762,14 @@
         },
         {
           "id": 52,
-          "label": "10.2.4 - [download] Flashcards",
+          "label": "10.2.4 - Flashcards",
           "children": [],
-          "type": "none"
+          "type": "none",
+          "child_items": [
+            {
+              "page": "https://content.byui.edu/file/072f8f82-cbbc-463e-a98c-4e520214a834/1/flashcards3_build/index.html"
+            }
+          ]
         }
       ]
     }

@@ -1,0 +1,276 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<!-- responsive-fit patch -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {box-sizing: border-box}
+body {font-family: Verdana, sans-serif; margin:0; background-color: 	#000;
+}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 600px;
+  position: relative;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 50px;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: black;
+  font-weight: bold;
+  font-size: 24px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: #909090;
+}
+
+/* text */
+.text {
+  display: inline-block;
+  color: #000;
+  font-size: 15px;
+  position: relative;
+  padding: 50px 50px 50px 60px;
+  top: auto;
+  bottom: 8px;
+  width: 600px;
+  height: auto;
+  text-align: left;
+  background-color: 	#F8F8F8;
+
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #000;
+  font-size: 14px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 10;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 25px;
+  width: 25px;
+  margin: 0 2px;
+  padding-top: 2px;
+  background-color: #d0d0d0;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #818181;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+
+p {
+  margin-left: 40px;
+  color: white;
+  font-size: 20px;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
+</style>
+<style id="responsive-fit-style">
+  html {
+    min-height: 100%;
+    box-sizing: border-box;
+    overflow-x: hidden;
+  }
+  body {
+    min-height: 100%;
+    margin: 0;
+    padding-left: clamp(24px, 6vw, 64px);
+    padding-right: clamp(24px, 6vw, 64px);
+  }
+  *, *::before, *::after { box-sizing: inherit; }
+  img, video, iframe, object, embed {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  iframe {
+    width: min(100%, 960px);
+    aspect-ratio: 608 / 402;
+  }
+</style>
+</head>
+<body>
+
+
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+   <div class="numbertext">1 / 10</div>
+
+  <div class="text">I am a deep, triangular impression on the distal end of the bone that attaches to the scapula and allows for the circular movement of the arm. I am found on the posterior side of this bone and allow space for the movement of the one of the lower arm bones during extension. What am I and what bone am I found on?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Olecranon fossa of humerus'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 10</div>
+  <div class="text">I am a bone found between the bones that make up the palm and the bones that make up the forearm. I have seven neighbors that are all the same type of bone as me. I get my name from the geometric shape I resemble. I am located laterally and articulate with the bone that underlies digit 1. Who am I?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Trapezium'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 10</div>
+  <div class="text">I am a pointed process on the distal end of a bone that makes up the forearm. The bone I am a part of rotates around its neighbor. I get my name from a writing instrument that I resemble. Who am I and what bone am I a part of?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Styloid process of radius'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">4 / 10</div>
+  <div class="text">I am a flat, articular surface on the superior and lateral portion of a bone that makes up the shoulder. I form a joint with the bone of the arm that allows for broad circumduction. I am easiest to see when the bone I am a part of is viewed from the side (according to anatomical position). Who am I and what bone am I a part of?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Glenoid cavity of scapula'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">5 / 10</div>
+  <div class="text">I am a crescent-shaped structure on the proximal end of one of the bones that make up the forearm. My inside surface articulates with the posterior and inferior side of the end of the bone of the upper arm. Who am I and what bone am I a part of?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Trochlear/semilunar notch of ulna'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">6 / 10</div>
+  <div class="text">I am a common structure found among all of the bones of the spinal cord. I form an opening roughly in the center of these bones between their weight-bearing portion and the pointed processes that can be felt along the back of the spine. When all of the bones of the spinal cord are aligned, you can see how I form an opening for an important nervous structure. Who am I?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Vertebral foramen'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">7 / 10</div>
+  <div class="text">I am a set of grooves found on the lateral edges of a bone located in the center of the chest. Cartilage extensions join me to thin, curved bones that protect the thorax. Who am I and what bone am I a part of?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Costal notches of sternum'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">8 / 10</div>
+  <div class="text">I am a bone found in the upper appendages. In anatomical position, I am one of the farthest bones away from the trunk of the body. Usually I am grouped in threes, but in this specific location I am only grouped in twos. I can be found underlying a nail. Who am I?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Distal phalanx of the 1st digit'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">9 / 10</div>
+  <div class="text">I am part of a bone that underlies the skull. I am a knob that points upward and inserts into an opening of another bone that lies directly beneath the skull. I allow for the rotation of the head and get my name because of my shape. Who am I and what bone am I a part of?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Odontoid process/dens of axis'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">10 / 10</div>
+  <div class="text">I am two pairs of bones that are found in the lower half of the trunk. I only connect to other bones in one place with my head. Some people call me false, but I am true telling you the truth when I say that I allow for the flexibility of the thorax that is necessary for breathing. Who am I?
+  <p>  <input type="button" value="Show Answer" onclick="if(this.value=='Show Answer') { this.value='Floating ribs'; } else { this.value='Show Answer'; }" />  </p>
+  </div>
+</div>
+
+<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+<a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)">1</span>
+  <span class="dot" onclick="currentSlide(2)">2</span>
+  <span class="dot" onclick="currentSlide(3)">3</span>
+  <span class="dot" onclick="currentSlide(4)">4</span>
+  <span class="dot" onclick="currentSlide(5)">5</span>
+  <span class="dot" onclick="currentSlide(6)">6</span>
+  <span class="dot" onclick="currentSlide(7)">7</span>
+  <span class="dot" onclick="currentSlide(8)">8</span>
+  <span class="dot" onclick="currentSlide(9)">9</span>
+  <span class="dot" onclick="currentSlide(10)">10</span>
+</div>
+
+
+<script>
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " active";
+}
+</script>
+
+</body>
+</html>
