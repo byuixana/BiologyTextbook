@@ -27,23 +27,23 @@
               "id": 3,
               "label": "Coxal Bones (Os Coxae)",
               "type": "img",
-              "sound": "assets/legjoints/Sounds/os_coxae.wav",
+              "sound": "assets/legjoints/Sounds/os_coxae.mp3",
               "buttons": [
                 {
                   "label": "Anterior and Posterior Complete",
-                  "img": "assets/legjoints/Images/cox_bone.jpg"
+                  "img": "assets/legjoints/Images/cox_bone.webp"
                 },
                 {
                   "label": "Complete Skeleton 3D Animation",
-                  "img": "gifs/os_coxae.gif"
+                  "img": "gifs/os_coxae.webp"
                 },
                 {
                   "label": "Posterior with Sacrum",
-                  "img": "assets/legjoints/Images/cox_bones_post.jpg"
+                  "img": "assets/legjoints/Images/cox_bones_post.webp"
                 },
                 {
                   "label": "3D Animation One Os Coxae",
-                  "img": "gifs/coxal.gif"
+                  "img": "gifs/coxal.webp"
                 }
               ],
               "children": [
@@ -51,19 +51,19 @@
                   "id": 4,
                   "label": "Acetabulum",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/acetabulum.wav",
+                  "sound": "assets/legjoints/Sounds/acetabulum.mp3",
                   "buttons": [
                     {
                       "label": "Anterior with Sacrum",
-                      "img": "assets/legjoints/Images/acetab_comp_ant.jpg"
+                      "img": "assets/legjoints/Images/acetab_comp_ant.webp"
                     },
                     {
                       "label": "Lateral",
-                      "img": "assets/legjoints/Images/acetabulum_lat.jpg"
+                      "img": "assets/legjoints/Images/acetabulum_lat.webp"
                     },
                     {
                       "label": "Posterior",
-                      "img": "assets/legjoints/Images/acetabulum_post.jpg"
+                      "img": "assets/legjoints/Images/acetabulum_post.webp"
                     }
                   ],
                   "children": []
@@ -72,27 +72,27 @@
                   "id": 5,
                   "label": "Anterior Inferior Iliac Spine",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/anterior_inferior_iliac_spine.wav",
+                  "sound": "assets/legjoints/Sounds/anterior_inferior_iliac_spine.mp3",
                   "buttons": [
                     {
                       "label": "Anterior with Sacrum",
-                      "img": "assets/legjoints/Images/ant_inf_iliac_spine_comp_ant.jpg"
+                      "img": "assets/legjoints/Images/ant_inf_iliac_spine_comp_ant.webp"
                     },
                     {
                       "label": "Anterior",
-                      "img": "assets/legjoints/Images/ant_inf_iliac_spine_ant.jpg"
+                      "img": "assets/legjoints/Images/ant_inf_iliac_spine_ant.webp"
                     },
                     {
                       "label": "Medial",
-                      "img": "assets/legjoints/Images/ant_inf_iliac_spine_med.jpg"
+                      "img": "assets/legjoints/Images/ant_inf_iliac_spine_med.webp"
                     },
                     {
                       "label": "Posterior",
-                      "img": "assets/legjoints/Images/ant_inf_iliac_spine_post.jpg"
+                      "img": "assets/legjoints/Images/ant_inf_iliac_spine_post.webp"
                     },
                     {
                       "label": "Lateral",
-                      "img": "assets/legjoints/Images/ant_inf_iliac_spine_lat.jpg"
+                      "img": "assets/legjoints/Images/ant_inf_iliac_spine_lat.webp"
                     }
                   ],
                   "children": []
@@ -101,27 +101,27 @@
                   "id": 6,
                   "label": "Anterior Superior Iliac Spine",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/anterior_superior_iliac_spine.wav",
+                  "sound": "assets/legjoints/Sounds/anterior_superior_iliac_spine.mp3",
                   "buttons": [
                     {
                       "label": "Anterior with Sacrum",
-                      "img": "assets/legjoints/Images/ant_sup_iliac_spine_comp_ant.jpg"
+                      "img": "assets/legjoints/Images/ant_sup_iliac_spine_comp_ant.webp"
                     },
                     {
                       "label": "Anterior",
-                      "img": "assets/legjoints/Images/ant_sup_iliac_spine_ant.jpg"
+                      "img": "assets/legjoints/Images/ant_sup_iliac_spine_ant.webp"
                     },
                     {
                       "label": "Medial",
-                      "img": "assets/legjoints/Images/ant_sup_iliac_spine_med.jpg"
+                      "img": "assets/legjoints/Images/ant_sup_iliac_spine_med.webp"
                     },
                     {
                       "label": "Posterior",
-                      "img": "assets/legjoints/Images/ant_sup_iliac_spine_post.jpg"
+                      "img": "assets/legjoints/Images/ant_sup_iliac_spine_post.webp"
                     },
                     {
                       "label": "Lateral",
-                      "img": "assets/legjoints/Images/ant_sup_iliac_spine_lat.jpg"
+                      "img": "assets/legjoints/Images/ant_sup_iliac_spine_lat.webp"
                     }
                   ],
                   "children": []
@@ -130,15 +130,15 @@
                   "id": 7,
                   "label": "Auricular Surface",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/auricular_surface.wav",
+                  "sound": "assets/legjoints/Sounds/auricular_surface.mp3",
                   "buttons": [
                     {
                       "label": "Anterior",
-                      "img": "assets/legjoints/Images/auric_surface_ant.jpg"
+                      "img": "assets/legjoints/Images/auric_surface_ant.webp"
                     },
                     {
                       "label": "Medial",
-                      "img": "assets/legjoints/Images/auric_surface_med.jpg"
+                      "img": "assets/legjoints/Images/auric_surface_med.webp"
                     }
                   ],
                   "children": []
@@ -147,31 +147,31 @@
                   "id": 8,
                   "label": "Greater Sciatic Notch",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/greater_sciatic_notch.wav",
+                  "sound": "assets/legjoints/Sounds/greater_sciatic_notch.mp3",
                   "buttons": [
                     {
                       "label": "Anterior with Sacrum",
-                      "img": "assets/legjoints/Images/g_sciatic_notch_comp_ant.jpg"
+                      "img": "assets/legjoints/Images/g_sciatic_notch_comp_ant.webp"
                     },
                     {
                       "label": "Posterior with Sacrum",
-                      "img": "assets/legjoints/Images/g_sciatic_notch_comp_post.jpg"
+                      "img": "assets/legjoints/Images/g_sciatic_notch_comp_post.webp"
                     },
                     {
                       "label": "Anterior",
-                      "img": "assets/legjoints/Images/great_sciatic_notch_ant.jpg"
+                      "img": "assets/legjoints/Images/great_sciatic_notch_ant.webp"
                     },
                     {
                       "label": "Medial",
-                      "img": "assets/legjoints/Images/great_sciatic_notch_med.jpg"
+                      "img": "assets/legjoints/Images/great_sciatic_notch_med.webp"
                     },
                     {
                       "label": "Posterior",
-                      "img": "assets/legjoints/Images/great_sciatic_notch_post.jpg"
+                      "img": "assets/legjoints/Images/great_sciatic_notch_post.webp"
                     },
                     {
                       "label": "Lateral",
-                      "img": "assets/legjoints/Images/great_sciatic_notch_lat.jpg"
+                      "img": "assets/legjoints/Images/great_sciatic_notch_lat.webp"
                     }
                   ],
                   "children": []
@@ -180,31 +180,31 @@
                   "id": 9,
                   "label": "Iliac Crest",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/iliac_crest.wav",
+                  "sound": "assets/legjoints/Sounds/iliac_crest.mp3",
                   "buttons": [
                     {
                       "label": "Anterior with Sacrum",
-                      "img": "assets/legjoints/Images/iliac_crest_comp_ant.jpg"
+                      "img": "assets/legjoints/Images/iliac_crest_comp_ant.webp"
                     },
                     {
                       "label": "Posterior with Sacrum",
-                      "img": "assets/legjoints/Images/iliac_crest_comp_post.jpg"
+                      "img": "assets/legjoints/Images/iliac_crest_comp_post.webp"
                     },
                     {
                       "label": "Anterior",
-                      "img": "assets/legjoints/Images/iliac_crest_ant.jpg"
+                      "img": "assets/legjoints/Images/iliac_crest_ant.webp"
                     },
                     {
                       "label": "Medial",
-                      "img": "assets/legjoints/Images/iliac_crest_med.jpg"
+                      "img": "assets/legjoints/Images/iliac_crest_med.webp"
                     },
                     {
                       "label": "Posterior",
-                      "img": "assets/legjoints/Images/iliac_crest_post.jpg"
+                      "img": "assets/legjoints/Images/iliac_crest_post.webp"
                     },
                     {
                       "label": "Lateral",
-                      "img": "assets/legjoints/Images/iliac_crest_lat.jpg"
+                      "img": "assets/legjoints/Images/iliac_crest_lat.webp"
                     }
                   ],
                   "children": []
@@ -213,19 +213,19 @@
                   "id": 10,
                   "label": "Iliac Fossa",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/iliac_fossa.wav",
+                  "sound": "assets/legjoints/Sounds/iliac_fossa.mp3",
                   "buttons": [
                     {
                       "label": "Anterior with Sacrum",
-                      "img": "assets/legjoints/Images/iliac_fossa_comp_ant.jpg"
+                      "img": "assets/legjoints/Images/iliac_fossa_comp_ant.webp"
                     },
                     {
                       "label": "Anterior",
-                      "img": "assets/legjoints/Images/iliac_fossa_ant.jpg"
+                      "img": "assets/legjoints/Images/iliac_fossa_ant.webp"
                     },
                     {
                       "label": "Medial",
-                      "img": "assets/legjoints/Images/iliac_fossa_med.jpg"
+                      "img": "assets/legjoints/Images/iliac_fossa_med.webp"
                     }
                   ],
                   "children": []
@@ -234,31 +234,31 @@
                   "id": 11,
                   "label": "Ilium",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/ilium.wav",
+                  "sound": "assets/legjoints/Sounds/ilium.mp3",
                   "buttons": [
                     {
                       "label": "Anterior with Sacrum",
-                      "img": "assets/legjoints/Images/ilium_comp_ant.jpg"
+                      "img": "assets/legjoints/Images/ilium_comp_ant.webp"
                     },
                     {
                       "label": "Posterior with Sacrum",
-                      "img": "assets/legjoints/Images/ilium_comp_post.jpg"
+                      "img": "assets/legjoints/Images/ilium_comp_post.webp"
                     },
                     {
                       "label": "Anterior",
-                      "img": "assets/legjoints/Images/ilium_ant.jpg"
+                      "img": "assets/legjoints/Images/ilium_ant.webp"
                     },
                     {
                       "label": "Medial",
-                      "img": "assets/legjoints/Images/ilium_med.jpg"
+                      "img": "assets/legjoints/Images/ilium_med.webp"
                     },
                     {
                       "label": "Posterior",
-                      "img": "assets/legjoints/Images/ilium_post.jpg"
+                      "img": "assets/legjoints/Images/ilium_post.webp"
                     },
                     {
                       "label": "Lateral",
-                      "img": "assets/legjoints/Images/ilium_lat.jpg"
+                      "img": "assets/legjoints/Images/ilium_lat.webp"
                     }
                   ],
                   "children": []
@@ -267,27 +267,27 @@
                   "id": 12,
                   "label": "Inferior Pubic Ramus",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/inferior_pubic_ramus.wav",
+                  "sound": "assets/legjoints/Sounds/inferior_pubic_ramus.mp3",
                   "buttons": [
                     {
                       "label": "Anterior with Sacrum",
-                      "img": "assets/legjoints/Images/inf_pubic_ramus_comp_ant.jpg"
+                      "img": "assets/legjoints/Images/inf_pubic_ramus_comp_ant.webp"
                     },
                     {
                       "label": "Posterior with Sacrum",
-                      "img": "assets/legjoints/Images/inf_pubic_ramus_comp_post.jpg"
+                      "img": "assets/legjoints/Images/inf_pubic_ramus_comp_post.webp"
                     },
                     {
                       "label": "Anterior",
-                      "img": "assets/legjoints/Images/inf_pubic_ramus_ant.jpg"
+                      "img": "assets/legjoints/Images/inf_pubic_ramus_ant.webp"
                     },
                     {
                       "label": "Medial",
-                      "img": "assets/legjoints/Images/inf_pubic_ramus_med.jpg"
+                      "img": "assets/legjoints/Images/inf_pubic_ramus_med.webp"
                     },
                     {
                       "label": "Lateral",
-                      "img": "assets/legjoints/Images/inf_pubic_ramus_lat.jpg"
+                      "img": "assets/legjoints/Images/inf_pubic_ramus_lat.webp"
                     }
                   ],
                   "children": []
@@ -296,27 +296,27 @@
                   "id": 13,
                   "label": "Ischial Ramus",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/ischial_ramus.wav",
+                  "sound": "assets/legjoints/Sounds/ischial_ramus.mp3",
                   "buttons": [
                     {
                       "label": "Anterior with Sacrum",
-                      "img": "assets/legjoints/Images/ischial_ramus_comp_ant.jpg"
+                      "img": "assets/legjoints/Images/ischial_ramus_comp_ant.webp"
                     },
                     {
                       "label": "Posterior with Sacrum",
-                      "img": "assets/legjoints/Images/isch_ramus_comp_post.jpg"
+                      "img": "assets/legjoints/Images/isch_ramus_comp_post.webp"
                     },
                     {
                       "label": "Anterior",
-                      "img": "assets/legjoints/Images/ischial_ramus_ant.jpg"
+                      "img": "assets/legjoints/Images/ischial_ramus_ant.webp"
                     },
                     {
                       "label": "Medial",
-                      "img": "assets/legjoints/Images/ischial_ramus_med.jpg"
+                      "img": "assets/legjoints/Images/ischial_ramus_med.webp"
                     },
                     {
                       "label": "Lateral",
-                      "img": "assets/legjoints/Images/ischial_ramus_lat.jpg"
+                      "img": "assets/legjoints/Images/ischial_ramus_lat.webp"
                     }
                   ],
                   "children": []
@@ -325,23 +325,23 @@
                   "id": 14,
                   "label": "Ischial Spine",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/ischial_spine.wav",
+                  "sound": "assets/legjoints/Sounds/ischial_spine.mp3",
                   "buttons": [
                     {
                       "label": "Anterior",
-                      "img": "assets/legjoints/Images/ischial_spine_ant.jpg"
+                      "img": "assets/legjoints/Images/ischial_spine_ant.webp"
                     },
                     {
                       "label": "Medial",
-                      "img": "assets/legjoints/Images/ischial_spine_med.jpg"
+                      "img": "assets/legjoints/Images/ischial_spine_med.webp"
                     },
                     {
                       "label": "Posterior",
-                      "img": "assets/legjoints/Images/ischial_spine_post.jpg"
+                      "img": "assets/legjoints/Images/ischial_spine_post.webp"
                     },
                     {
                       "label": "Posterior with Sacrum",
-                      "img": "assets/legjoints/Images/isch_spine_comp_post.jpg"
+                      "img": "assets/legjoints/Images/isch_spine_comp_post.webp"
                     }
                   ],
                   "children": []
@@ -350,31 +350,31 @@
                   "id": 15,
                   "label": "Ischial Tuberosity",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/ischial_tuberosity.wav",
+                  "sound": "assets/legjoints/Sounds/ischial_tuberosity.mp3",
                   "buttons": [
                     {
                       "label": "Anterior with Sacrum",
-                      "img": "assets/legjoints/Images/ischial_tuberos_comp_ant.jpg"
+                      "img": "assets/legjoints/Images/ischial_tuberos_comp_ant.webp"
                     },
                     {
                       "label": "Posterior with Sacrum",
-                      "img": "assets/legjoints/Images/isch_tuber_comp_post.jpg"
+                      "img": "assets/legjoints/Images/isch_tuber_comp_post.webp"
                     },
                     {
                       "label": "Anterior",
-                      "img": "assets/legjoints/Images/ischial_tuberos_ant.jpg"
+                      "img": "assets/legjoints/Images/ischial_tuberos_ant.webp"
                     },
                     {
                       "label": "Medial",
-                      "img": "assets/legjoints/Images/ischial_tuberos_med.jpg"
+                      "img": "assets/legjoints/Images/ischial_tuberos_med.webp"
                     },
                     {
                       "label": "Posterior",
-                      "img": "assets/legjoints/Images/ischial_tuberos_post.jpg"
+                      "img": "assets/legjoints/Images/ischial_tuberos_post.webp"
                     },
                     {
                       "label": "Lateral",
-                      "img": "assets/legjoints/Images/ischial_tuberos_lat.jpg"
+                      "img": "assets/legjoints/Images/ischial_tuberos_lat.webp"
                     }
                   ],
                   "children": []
@@ -383,31 +383,31 @@
                   "id": 16,
                   "label": "Ischium",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/ischium.wav",
+                  "sound": "assets/legjoints/Sounds/ischium.mp3",
                   "buttons": [
                     {
                       "label": "Anterior with Sacrum",
-                      "img": "assets/legjoints/Images/ischium_comp_ant.jpg"
+                      "img": "assets/legjoints/Images/ischium_comp_ant.webp"
                     },
                     {
                       "label": "Posterior with Sacrum",
-                      "img": "assets/legjoints/Images/ischium_comp_post.jpg"
+                      "img": "assets/legjoints/Images/ischium_comp_post.webp"
                     },
                     {
                       "label": "Anterior",
-                      "img": "assets/legjoints/Images/ischium_ant.jpg"
+                      "img": "assets/legjoints/Images/ischium_ant.webp"
                     },
                     {
                       "label": "Medial",
-                      "img": "assets/legjoints/Images/ischium_med.jpg"
+                      "img": "assets/legjoints/Images/ischium_med.webp"
                     },
                     {
                       "label": "Posterior",
-                      "img": "assets/legjoints/Images/ischium_post.jpg"
+                      "img": "assets/legjoints/Images/ischium_post.webp"
                     },
                     {
                       "label": "Lateral",
-                      "img": "assets/legjoints/Images/ischium_lat.jpg"
+                      "img": "assets/legjoints/Images/ischium_lat.webp"
                     }
                   ],
                   "children": []
@@ -416,23 +416,23 @@
                   "id": 17,
                   "label": "Lesser Sciatic Notch",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/lesser_sciatic_notch.wav",
+                  "sound": "assets/legjoints/Sounds/lesser_sciatic_notch.mp3",
                   "buttons": [
                     {
                       "label": "Anterior",
-                      "img": "assets/legjoints/Images/less_sciatic_notch_ant.jpg"
+                      "img": "assets/legjoints/Images/less_sciatic_notch_ant.webp"
                     },
                     {
                       "label": "Medial",
-                      "img": "assets/legjoints/Images/less_sciatic_notch_med.jpg"
+                      "img": "assets/legjoints/Images/less_sciatic_notch_med.webp"
                     },
                     {
                       "label": "Posterior",
-                      "img": "assets/legjoints/Images/less_sciatic_notch_post.jpg"
+                      "img": "assets/legjoints/Images/less_sciatic_notch_post.webp"
                     },
                     {
                       "label": "Posterior with Sacrum",
-                      "img": "assets/legjoints/Images/l_sciatic_notch_comp_post.jpg"
+                      "img": "assets/legjoints/Images/l_sciatic_notch_comp_post.webp"
                     }
                   ],
                   "children": []
@@ -441,27 +441,27 @@
                   "id": 18,
                   "label": "Obturator Foramen",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/obturator_foramen.wav",
+                  "sound": "assets/legjoints/Sounds/obturator_foramen.mp3",
                   "buttons": [
                     {
                       "label": "Anterior with Sacrum",
-                      "img": "assets/legjoints/Images/obt_foramen_comp_ant.jpg"
+                      "img": "assets/legjoints/Images/obt_foramen_comp_ant.webp"
                     },
                     {
                       "label": "Posterior with Sacrum",
-                      "img": "assets/legjoints/Images/obt_foramen_comp_post.jpg"
+                      "img": "assets/legjoints/Images/obt_foramen_comp_post.webp"
                     },
                     {
                       "label": "Anterior",
-                      "img": "assets/legjoints/Images/obt_foramen_ant.jpg"
+                      "img": "assets/legjoints/Images/obt_foramen_ant.webp"
                     },
                     {
                       "label": "Medial",
-                      "img": "assets/legjoints/Images/obt_foramen_med.jpg"
+                      "img": "assets/legjoints/Images/obt_foramen_med.webp"
                     },
                     {
                       "label": "Lateral",
-                      "img": "assets/legjoints/Images/obt_foramen_lat.jpg"
+                      "img": "assets/legjoints/Images/obt_foramen_lat.webp"
                     }
                   ],
                   "children": []
@@ -470,27 +470,27 @@
                   "id": 19,
                   "label": "Posterior Inferior Iliac Spine",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/posterior_inferior_iliac_spine.wav",
+                  "sound": "assets/legjoints/Sounds/posterior_inferior_iliac_spine.mp3",
                   "buttons": [
                     {
                       "label": "Anterior",
-                      "img": "assets/legjoints/Images/post_inf_iliac_spine_ant.jpg"
+                      "img": "assets/legjoints/Images/post_inf_iliac_spine_ant.webp"
                     },
                     {
                       "label": "Medial",
-                      "img": "assets/legjoints/Images/post_inf_iliac_spine_med.jpg"
+                      "img": "assets/legjoints/Images/post_inf_iliac_spine_med.webp"
                     },
                     {
                       "label": "Posterior",
-                      "img": "assets/legjoints/Images/post_inf_iliac_spine_post.jpg"
+                      "img": "assets/legjoints/Images/post_inf_iliac_spine_post.webp"
                     },
                     {
                       "label": "Lateral",
-                      "img": "assets/legjoints/Images/post_inf_iliac_spine_lat.jpg"
+                      "img": "assets/legjoints/Images/post_inf_iliac_spine_lat.webp"
                     },
                     {
                       "label": "Posterior with Sacrum",
-                      "img": "assets/legjoints/Images/post_inf_iliac_spine_comp_post.jpg"
+                      "img": "assets/legjoints/Images/post_inf_iliac_spine_comp_post.webp"
                     }
                   ],
                   "children": []
@@ -499,27 +499,27 @@
                   "id": 20,
                   "label": "Posterior Superior Iliac Spine",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/posterior_superior_iliac_spine.wav",
+                  "sound": "assets/legjoints/Sounds/posterior_superior_iliac_spine.mp3",
                   "buttons": [
                     {
                       "label": "Anterior",
-                      "img": "assets/legjoints/Images/post_sup_iliac_spine_ant.jpg"
+                      "img": "assets/legjoints/Images/post_sup_iliac_spine_ant.webp"
                     },
                     {
                       "label": "Medial",
-                      "img": "assets/legjoints/Images/post_sup_iliac_spine_med.jpg"
+                      "img": "assets/legjoints/Images/post_sup_iliac_spine_med.webp"
                     },
                     {
                       "label": "Posterior",
-                      "img": "assets/legjoints/Images/post_sup_iliac_spine_post.jpg"
+                      "img": "assets/legjoints/Images/post_sup_iliac_spine_post.webp"
                     },
                     {
                       "label": "Lateral",
-                      "img": "assets/legjoints/Images/post_sup_iliac_spine_lat.jpg"
+                      "img": "assets/legjoints/Images/post_sup_iliac_spine_lat.webp"
                     },
                     {
                       "label": "Posterior with Sacrum",
-                      "img": "assets/legjoints/Images/post_sup_iliac_spine_comp_post.jpg"
+                      "img": "assets/legjoints/Images/post_sup_iliac_spine_comp_post.webp"
                     }
                   ],
                   "children": []
@@ -528,23 +528,23 @@
                   "id": 21,
                   "label": "Pubic Crest",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/pubic_crest.wav",
+                  "sound": "assets/legjoints/Sounds/pubic_crest.mp3",
                   "buttons": [
                     {
                       "label": "Anterior with Sacrum",
-                      "img": "assets/legjoints/Images/pubic_crest_comp_ant.jpg"
+                      "img": "assets/legjoints/Images/pubic_crest_comp_ant.webp"
                     },
                     {
                       "label": "Anterior",
-                      "img": "assets/legjoints/Images/pubic_crest_ant.jpg"
+                      "img": "assets/legjoints/Images/pubic_crest_ant.webp"
                     },
                     {
                       "label": "Medial",
-                      "img": "assets/legjoints/Images/pubic_crest_med.jpg"
+                      "img": "assets/legjoints/Images/pubic_crest_med.webp"
                     },
                     {
                       "label": "Lateral",
-                      "img": "assets/legjoints/Images/pubic_crest_lat.jpg"
+                      "img": "assets/legjoints/Images/pubic_crest_lat.webp"
                     }
                   ],
                   "children": []
@@ -553,27 +553,27 @@
                   "id": 22,
                   "label": "Pubis",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/pubis.wav",
+                  "sound": "assets/legjoints/Sounds/pubis.mp3",
                   "buttons": [
                     {
                       "label": "Anterior with Sacrum",
-                      "img": "assets/legjoints/Images/pubis_comp_ant.jpg"
+                      "img": "assets/legjoints/Images/pubis_comp_ant.webp"
                     },
                     {
                       "label": "Anterior",
-                      "img": "assets/legjoints/Images/pubis_ant.jpg"
+                      "img": "assets/legjoints/Images/pubis_ant.webp"
                     },
                     {
                       "label": "Medial",
-                      "img": "assets/legjoints/Images/pubis_med.jpg"
+                      "img": "assets/legjoints/Images/pubis_med.webp"
                     },
                     {
                       "label": "Posterior",
-                      "img": "assets/legjoints/Images/pubis_post.jpg"
+                      "img": "assets/legjoints/Images/pubis_post.webp"
                     },
                     {
                       "label": "Lateral",
-                      "img": "assets/legjoints/Images/pubis_lat.jpg"
+                      "img": "assets/legjoints/Images/pubis_lat.webp"
                     }
                   ],
                   "children": []
@@ -582,23 +582,23 @@
                   "id": 23,
                   "label": "Superior Pubic Ramus",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/superior_pubic_ramus.wav",
+                  "sound": "assets/legjoints/Sounds/superior_pubic_ramus.mp3",
                   "buttons": [
                     {
                       "label": "Anterior with Sacrum",
-                      "img": "assets/legjoints/Images/sup_pubic_ramus_comp_ant.jpg"
+                      "img": "assets/legjoints/Images/sup_pubic_ramus_comp_ant.webp"
                     },
                     {
                       "label": "Anterior",
-                      "img": "assets/legjoints/Images/sup_pubic_ramus_ant.jpg"
+                      "img": "assets/legjoints/Images/sup_pubic_ramus_ant.webp"
                     },
                     {
                       "label": "Medial",
-                      "img": "assets/legjoints/Images/sup_pubic_ramus_med.jpg"
+                      "img": "assets/legjoints/Images/sup_pubic_ramus_med.webp"
                     },
                     {
                       "label": "Lateral",
-                      "img": "assets/legjoints/Images/sup_pubic_ramus_lat.jpg"
+                      "img": "assets/legjoints/Images/sup_pubic_ramus_lat.webp"
                     }
                   ],
                   "children": []
@@ -607,19 +607,19 @@
                   "id": 24,
                   "label": "Symphysis Pubis",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/symphysis_pubis.wav",
+                  "sound": "assets/legjoints/Sounds/symphysis_pubis.mp3",
                   "buttons": [
                     {
                       "label": "Anterior with Sacrum",
-                      "img": "assets/legjoints/Images/symphysis_pubis_comp_ant.jpg"
+                      "img": "assets/legjoints/Images/symphysis_pubis_comp_ant.webp"
                     },
                     {
                       "label": "Anterior",
-                      "img": "assets/legjoints/Images/symphysis_pubis_ant.jpg"
+                      "img": "assets/legjoints/Images/symphysis_pubis_ant.webp"
                     },
                     {
                       "label": "Medial",
-                      "img": "assets/legjoints/Images/symphysis_pubis_med.jpg"
+                      "img": "assets/legjoints/Images/symphysis_pubis_med.webp"
                     }
                   ],
                   "children": []
@@ -630,19 +630,19 @@
               "id": 25,
               "label": "Femur",
               "type": "img",
-              "sound": "assets/legjoints/Sounds/femur.wav",
+              "sound": "assets/legjoints/Sounds/femur.mp3",
               "buttons": [
                 {
                   "label": "Anterior and Posterior-Complete",
-                  "img": "assets/legjoints/Images/femur.jpg"
+                  "img": "assets/legjoints/Images/femur.webp"
                 },
                 {
                   "label": "Anterior and Posterior-Zoom",
-                  "img": "assets/legjoints/Images/femur-zoom.jpg"
+                  "img": "assets/legjoints/Images/femur-zoom.webp"
                 },
                 {
                   "label": "3D Animation",
-                  "img": "gifs/femur.gif"
+                  "img": "gifs/femur.webp"
                 }
               ],
               "children": [
@@ -650,11 +650,11 @@
                   "id": 26,
                   "label": "Body",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/body.wav",
+                  "sound": "assets/legjoints/Sounds/body.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/body_femur.jpg"
+                      "img": "assets/legjoints/Images/body_femur.webp"
                     }
                   ],
                   "children": []
@@ -663,11 +663,11 @@
                   "id": 27,
                   "label": "Fovea Capitis",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/fovea_capitis.wav",
+                  "sound": "assets/legjoints/Sounds/fovea_capitis.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/fovea_capitis2.jpg"
+                      "img": "assets/legjoints/Images/fovea_capitis2.webp"
                     }
                   ],
                   "children": []
@@ -676,11 +676,11 @@
                   "id": 28,
                   "label": "Gluteal Tuberosity",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/gluteal_tuberosity.wav",
+                  "sound": "assets/legjoints/Sounds/gluteal_tuberosity.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/glut_tuberosity.jpg"
+                      "img": "assets/legjoints/Images/glut_tuberosity.webp"
                     }
                   ],
                   "children": []
@@ -689,11 +689,11 @@
                   "id": 29,
                   "label": "Greater Trochanter",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/greater_trochanter.wav",
+                  "sound": "assets/legjoints/Sounds/greater_trochanter.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/g_trochanter.jpg"
+                      "img": "assets/legjoints/Images/g_trochanter.webp"
                     }
                   ],
                   "children": []
@@ -702,11 +702,11 @@
                   "id": 30,
                   "label": "Head",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/head.wav",
+                  "sound": "assets/legjoints/Sounds/head.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/head_femur.jpg"
+                      "img": "assets/legjoints/Images/head_femur.webp"
                     }
                   ],
                   "children": []
@@ -715,11 +715,11 @@
                   "id": 31,
                   "label": "Intercondylar Fossa",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/intercondylar_fossa.wav",
+                  "sound": "assets/legjoints/Sounds/intercondylar_fossa.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/intercon_fossa.jpg"
+                      "img": "assets/legjoints/Images/intercon_fossa.webp"
                     }
                   ],
                   "children": []
@@ -728,11 +728,11 @@
                   "id": 32,
                   "label": "Intertrochanteric Crest",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/intertrochanteric_crest.wav",
+                  "sound": "assets/legjoints/Sounds/intertrochanteric_crest.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/intertroch_crest.jpg"
+                      "img": "assets/legjoints/Images/intertroch_crest.webp"
                     }
                   ],
                   "children": []
@@ -741,11 +741,11 @@
                   "id": 33,
                   "label": "Lateral Condyle",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/lateral_condyle.wav",
+                  "sound": "assets/legjoints/Sounds/lateral_condyle.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/lat_condyle_femur.jpg"
+                      "img": "assets/legjoints/Images/lat_condyle_femur.webp"
                     }
                   ],
                   "children": []
@@ -758,7 +758,7 @@
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/lat_epicondyle_femur.jpg"
+                      "img": "assets/legjoints/Images/lat_epicondyle_femur.webp"
                     }
                   ],
                   "children": []
@@ -767,11 +767,11 @@
                   "id": 35,
                   "label": "Lesser Trochanter",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/lesser_trochanter.wav",
+                  "sound": "assets/legjoints/Sounds/lesser_trochanter.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/l_trochanter.jpg"
+                      "img": "assets/legjoints/Images/l_trochanter.webp"
                     }
                   ],
                   "children": []
@@ -780,11 +780,11 @@
                   "id": 36,
                   "label": "Linea Aspera",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/linea_aspera.wav",
+                  "sound": "assets/legjoints/Sounds/linea_aspera.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/linea_aspera.jpg"
+                      "img": "assets/legjoints/Images/linea_aspera.webp"
                     }
                   ],
                   "children": []
@@ -793,11 +793,11 @@
                   "id": 37,
                   "label": "Medial Condyle",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/medial_condyle.wav",
+                  "sound": "assets/legjoints/Sounds/medial_condyle.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/med_condyle_femur.jpg"
+                      "img": "assets/legjoints/Images/med_condyle_femur.webp"
                     }
                   ],
                   "children": []
@@ -806,11 +806,11 @@
                   "id": 38,
                   "label": "Medial Epicondyle",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/medial_epicondyle.wav",
+                  "sound": "assets/legjoints/Sounds/medial_epicondyle.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/med_epicondyle_femur.jpg"
+                      "img": "assets/legjoints/Images/med_epicondyle_femur.webp"
                     }
                   ],
                   "children": []
@@ -819,11 +819,11 @@
                   "id": 39,
                   "label": "Neck",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/neck.wav",
+                  "sound": "assets/legjoints/Sounds/neck.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/neck_femur.jpg"
+                      "img": "assets/legjoints/Images/neck_femur.webp"
                     }
                   ],
                   "children": []
@@ -832,11 +832,11 @@
                   "id": 40,
                   "label": "Patellar Groove",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/patellar_groove.wav",
+                  "sound": "assets/legjoints/Sounds/patellar_groove.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/patellar_groove.jpg"
+                      "img": "assets/legjoints/Images/patellar_groove.webp"
                     }
                   ],
                   "children": []
@@ -847,23 +847,23 @@
               "id": 41,
               "label": "Patella",
               "type": "img",
-              "sound": "assets/legjoints/Sounds/patella.wav",
+              "sound": "assets/legjoints/Sounds/patella.mp3",
               "buttons": [
                 {
                   "label": "Complete Skeleton",
-                  "img": "assets/legjoints/Images/patella.jpg"
+                  "img": "assets/legjoints/Images/patella.webp"
                 },
                 {
                   "label": "Anterior",
-                  "img": "assets/legjoints/Images/patella_ant.jpg"
+                  "img": "assets/legjoints/Images/patella_ant.webp"
                 },
                 {
                   "label": "Posterior",
-                  "img": "assets/legjoints/Images/patella_post.jpg"
+                  "img": "assets/legjoints/Images/patella_post.webp"
                 },
                 {
                   "label": "3D Animation",
-                  "img": "assets/legjoints/Images/Patella.gif"
+                  "img": "assets/legjoints/Images/Patella.webp"
                 }
               ],
               "children": [
@@ -871,11 +871,11 @@
                   "id": 42,
                   "label": "Anterior Surface",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/anterior_surface.wav",
+                  "sound": "assets/legjoints/Sounds/anterior_surface.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/ant_surface.jpg"
+                      "img": "assets/legjoints/Images/ant_surface.webp"
                     }
                   ],
                   "children": []
@@ -884,15 +884,15 @@
                   "id": 43,
                   "label": "Apex",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/apex.wav",
+                  "sound": "assets/legjoints/Sounds/apex.mp3",
                   "buttons": [
                     {
                       "label": "Anterior",
-                      "img": "assets/legjoints/Images/apex_ant_pat.jpg"
+                      "img": "assets/legjoints/Images/apex_ant_pat.webp"
                     },
                     {
                       "label": "Posterior",
-                      "img": "assets/legjoints/Images/apex_post_pat.jpg"
+                      "img": "assets/legjoints/Images/apex_post_pat.webp"
                     }
                   ],
                   "children": []
@@ -901,15 +901,15 @@
                   "id": 44,
                   "label": "Base",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/base.wav",
+                  "sound": "assets/legjoints/Sounds/base.mp3",
                   "buttons": [
                     {
                       "label": "Anterior",
-                      "img": "assets/legjoints/Images/base_ant_pat.jpg"
+                      "img": "assets/legjoints/Images/base_ant_pat.webp"
                     },
                     {
                       "label": "Posterior",
-                      "img": "assets/legjoints/Images/base_ant_pat.jpg"
+                      "img": "assets/legjoints/Images/base_ant_pat.webp"
                     }
                   ],
                   "children": []
@@ -918,11 +918,11 @@
                   "id": 45,
                   "label": "Posterior Surface",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/posterior_surface.wav",
+                  "sound": "assets/legjoints/Sounds/posterior_surface.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/post_surface.jpg"
+                      "img": "assets/legjoints/Images/post_surface.webp"
                     }
                   ],
                   "children": []
@@ -931,11 +931,11 @@
                   "id": 46,
                   "label": "Lateral Articular Facet",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/lateral_articular_facet.wav",
+                  "sound": "assets/legjoints/Sounds/lateral_articular_facet.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/lat_artic_facet_post_pat.jpg"
+                      "img": "assets/legjoints/Images/lat_artic_facet_post_pat.webp"
                     }
                   ],
                   "children": []
@@ -944,11 +944,11 @@
                   "id": 47,
                   "label": "Medial Articular Facet",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/medial_articular_facet.wav",
+                  "sound": "assets/legjoints/Sounds/medial_articular_facet.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/med_artic_facet_post_pat.jpg"
+                      "img": "assets/legjoints/Images/med_artic_facet_post_pat.webp"
                     }
                   ],
                   "children": []
@@ -959,31 +959,31 @@
               "id": 48,
               "label": "Tibia",
               "type": "img",
-              "sound": "assets/legjoints/Sounds/tibia.wav",
+              "sound": "assets/legjoints/Sounds/tibia.mp3",
               "buttons": [
                 {
                   "label": "Complete Skeleton",
-                  "img": "assets/legjoints/Images/tibia.jpg"
+                  "img": "assets/legjoints/Images/tibia.webp"
                 },
                 {
                   "label": "Overview",
-                  "img": "assets/legjoints/Images/tibia-zoom.jpg"
+                  "img": "assets/legjoints/Images/tibia-zoom.webp"
                 },
                 {
                   "label": "Anterior with Leg",
-                  "img": "assets/legjoints/Images/tibia_comp_ant.jpg"
+                  "img": "assets/legjoints/Images/tibia_comp_ant.webp"
                 },
                 {
                   "label": "Medial with Leg",
-                  "img": "assets/legjoints/Images/tibia_comp_med.jpg"
+                  "img": "assets/legjoints/Images/tibia_comp_med.webp"
                 },
                 {
                   "label": "Lateral with Leg",
-                  "img": "assets/legjoints/Images/tibia_comp_lat.jpg"
+                  "img": "assets/legjoints/Images/tibia_comp_lat.webp"
                 },
                 {
                   "label": "3D Animation",
-                  "img": "gifs/tibia.gif"
+                  "img": "gifs/tibia.webp"
                 }
               ],
               "children": [
@@ -991,23 +991,23 @@
                   "id": 49,
                   "label": "Anterior Crest",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/anterior_crest.wav",
+                  "sound": "assets/legjoints/Sounds/anterior_crest.mp3",
                   "buttons": [
                     {
                       "label": "Overview",
-                      "img": "assets/legjoints/Images/ant_crest.jpg"
+                      "img": "assets/legjoints/Images/ant_crest.webp"
                     },
                     {
                       "label": "Anterior with Leg",
-                      "img": "assets/legjoints/Images/ant_crest_comp_ant.jpg"
+                      "img": "assets/legjoints/Images/ant_crest_comp_ant.webp"
                     },
                     {
                       "label": "Medial with Leg",
-                      "img": "assets/legjoints/Images/ant_crest_comp_med.jpg"
+                      "img": "assets/legjoints/Images/ant_crest_comp_med.webp"
                     },
                     {
                       "label": "Lateral with Leg",
-                      "img": "assets/legjoints/Images/ant_crest_comp_lat.jpg"
+                      "img": "assets/legjoints/Images/ant_crest_comp_lat.webp"
                     }
                   ],
                   "children": []
@@ -1016,15 +1016,15 @@
                   "id": 50,
                   "label": "Fibular Notch",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/fibular_notch.wav",
+                  "sound": "assets/legjoints/Sounds/fibular_notch.mp3",
                   "buttons": [
                     {
                       "label": "Overview",
-                      "img": "assets/legjoints/Images/fib_notch.jpg"
+                      "img": "assets/legjoints/Images/fib_notch.webp"
                     },
                     {
                       "label": "Lateral with Leg",
-                      "img": "assets/legjoints/Images/fib_notch_leg.jpg"
+                      "img": "assets/legjoints/Images/fib_notch_leg.webp"
                     }
                   ],
                   "children": []
@@ -1033,23 +1033,23 @@
                   "id": 51,
                   "label": "Intercondylar Eminence",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/intercondylar_eminence.wav",
+                  "sound": "assets/legjoints/Sounds/intercondylar_eminence.mp3",
                   "buttons": [
                     {
                       "label": "Overview",
-                      "img": "assets/legjoints/Images/inter_eminence.jpg"
+                      "img": "assets/legjoints/Images/inter_eminence.webp"
                     },
                     {
                       "label": "Anterior with Leg",
-                      "img": "assets/legjoints/Images/intercond_eminence_comp_ant.jpg"
+                      "img": "assets/legjoints/Images/intercond_eminence_comp_ant.webp"
                     },
                     {
                       "label": "Medial with Leg",
-                      "img": "assets/legjoints/Images/intercond_eminence_comp_med.jpg"
+                      "img": "assets/legjoints/Images/intercond_eminence_comp_med.webp"
                     },
                     {
                       "label": "Lateral with Leg",
-                      "img": "assets/legjoints/Images/intercond_eminence_comp_lat.jpg"
+                      "img": "assets/legjoints/Images/intercond_eminence_comp_lat.webp"
                     }
                   ],
                   "children": []
@@ -1058,19 +1058,19 @@
                   "id": 52,
                   "label": "Lateral Condyle",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/lateral_condyle.wav",
+                  "sound": "assets/legjoints/Sounds/lateral_condyle.mp3",
                   "buttons": [
                     {
                       "label": "Overview",
-                      "img": "assets/legjoints/Images/lat_condyle_tibia.jpg"
+                      "img": "assets/legjoints/Images/lat_condyle_tibia.webp"
                     },
                     {
                       "label": "Anterior with Leg",
-                      "img": "assets/legjoints/Images/lat_condyle_comp_ant.jpg"
+                      "img": "assets/legjoints/Images/lat_condyle_comp_ant.webp"
                     },
                     {
                       "label": "Lateral with Leg",
-                      "img": "assets/legjoints/Images/lat_condyle_comp_lat.jpg"
+                      "img": "assets/legjoints/Images/lat_condyle_comp_lat.webp"
                     }
                   ],
                   "children": []
@@ -1079,19 +1079,19 @@
                   "id": 53,
                   "label": "Medial Condyle",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/medial_condyle.wav",
+                  "sound": "assets/legjoints/Sounds/medial_condyle.mp3",
                   "buttons": [
                     {
                       "label": "Overview",
-                      "img": "assets/legjoints/Images/med_condyle_tibia.jpg"
+                      "img": "assets/legjoints/Images/med_condyle_tibia.webp"
                     },
                     {
                       "label": "Anterior with Leg",
-                      "img": "assets/legjoints/Images/med_condyle_comp_ant.jpg"
+                      "img": "assets/legjoints/Images/med_condyle_comp_ant.webp"
                     },
                     {
                       "label": "Medial with Leg",
-                      "img": "assets/legjoints/Images/med_condyle_comp_med.jpg"
+                      "img": "assets/legjoints/Images/med_condyle_comp_med.webp"
                     }
                   ],
                   "children": []
@@ -1100,19 +1100,19 @@
                   "id": 54,
                   "label": "Medial Malleolus",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/medial_malleolus.wav",
+                  "sound": "assets/legjoints/Sounds/medial_malleolus.mp3",
                   "buttons": [
                     {
                       "label": "Overview",
-                      "img": "assets/legjoints/Images/med_malleolus.jpg"
+                      "img": "assets/legjoints/Images/med_malleolus.webp"
                     },
                     {
                       "label": "Anterior with Leg",
-                      "img": "assets/legjoints/Images/med_malleolus_comp_ant.jpg"
+                      "img": "assets/legjoints/Images/med_malleolus_comp_ant.webp"
                     },
                     {
                       "label": "Medial with Leg",
-                      "img": "assets/legjoints/Images/med_malleolus_comp_med.jpg"
+                      "img": "assets/legjoints/Images/med_malleolus_comp_med.webp"
                     }
                   ],
                   "children": []
@@ -1121,23 +1121,23 @@
                   "id": 55,
                   "label": "Tibial Tuberosity",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/tibial_tuberosity.wav",
+                  "sound": "assets/legjoints/Sounds/tibial_tuberosity.mp3",
                   "buttons": [
                     {
                       "label": "Overview",
-                      "img": "assets/legjoints/Images/tib_tuberosity.jpg"
+                      "img": "assets/legjoints/Images/tib_tuberosity.webp"
                     },
                     {
                       "label": "Anterior with Leg",
-                      "img": "assets/legjoints/Images/tib_tuber_comp_ant.jpg"
+                      "img": "assets/legjoints/Images/tib_tuber_comp_ant.webp"
                     },
                     {
                       "label": "Medial with Leg",
-                      "img": "assets/legjoints/Images/tib_tuber_comp_med.jpg"
+                      "img": "assets/legjoints/Images/tib_tuber_comp_med.webp"
                     },
                     {
                       "label": "Lateral with Leg",
-                      "img": "assets/legjoints/Images/tib_tuber_comp_lat.jpg"
+                      "img": "assets/legjoints/Images/tib_tuber_comp_lat.webp"
                     }
                   ],
                   "children": []
@@ -1148,31 +1148,31 @@
               "id": 56,
               "label": "Fibula",
               "type": "img",
-              "sound": "assets/legjoints/Sounds/fibula.wav",
+              "sound": "assets/legjoints/Sounds/fibula.mp3",
               "buttons": [
                 {
                   "label": "Complete Skeleton",
-                  "img": "assets/legjoints/Images/fibula.jpg"
+                  "img": "assets/legjoints/Images/fibula.webp"
                 },
                 {
                   "label": "Anterior and Posterior",
-                  "img": "assets/legjoints/Images/fibula-zoom.jpg"
+                  "img": "assets/legjoints/Images/fibula-zoom.webp"
                 },
                 {
                   "label": "Anterior with Leg",
-                  "img": "assets/legjoints/Images/fibula_comp_ant.jpg"
+                  "img": "assets/legjoints/Images/fibula_comp_ant.webp"
                 },
                 {
                   "label": "Medial with Leg",
-                  "img": "assets/legjoints/Images/fibula_comp_med.jpg"
+                  "img": "assets/legjoints/Images/fibula_comp_med.webp"
                 },
                 {
                   "label": "Lateral with Leg",
-                  "img": "assets/legjoints/Images/fibula_comp_lat.jpg"
+                  "img": "assets/legjoints/Images/fibula_comp_lat.webp"
                 },
                 {
                   "label": "3D Animation",
-                  "img": "gifs/fibula.gif"
+                  "img": "gifs/fibula.webp"
                 }
               ],
               "children": [
@@ -1180,19 +1180,19 @@
                   "id": 57,
                   "label": "Head",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/head.wav",
+                  "sound": "assets/legjoints/Sounds/head.mp3",
                   "buttons": [
                     {
                       "label": "Anterior and Posterior",
-                      "img": "assets/legjoints/Images/head_fibula.jpg"
+                      "img": "assets/legjoints/Images/head_fibula.webp"
                     },
                     {
                       "label": "Anterior with Leg",
-                      "img": "assets/legjoints/Images/fib_head_comp_ant.jpg"
+                      "img": "assets/legjoints/Images/fib_head_comp_ant.webp"
                     },
                     {
                       "label": "Lateral with Leg",
-                      "img": "assets/legjoints/Images/fib_head_comp_lat.jpg"
+                      "img": "assets/legjoints/Images/fib_head_comp_lat.webp"
                     }
                   ],
                   "children": []
@@ -1201,19 +1201,19 @@
                   "id": 58,
                   "label": "Lateral Malleolus",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/lateral_malleolus.wav",
+                  "sound": "assets/legjoints/Sounds/lateral_malleolus.mp3",
                   "buttons": [
                     {
                       "label": "Anterior and Posterior",
-                      "img": "assets/legjoints/Images/lat_malleolus.jpg"
+                      "img": "assets/legjoints/Images/lat_malleolus.webp"
                     },
                     {
                       "label": "Anterior with Leg",
-                      "img": "assets/legjoints/Images/lat_malleolus_comp_ant.jpg"
+                      "img": "assets/legjoints/Images/lat_malleolus_comp_ant.webp"
                     },
                     {
                       "label": "Lateral with Leg",
-                      "img": "assets/legjoints/Images/lat_malleolus_comp_lat.jpg"
+                      "img": "assets/legjoints/Images/lat_malleolus_comp_lat.webp"
                     }
                   ],
                   "children": []
@@ -1223,17 +1223,17 @@
             {
               "id": 59,
               "label": "Tarsal Bones",
-              "sound": "assets/legjoints/Sounds/tarsals.wav",
+              "sound": "assets/legjoints/Sounds/tarsals.mp3",
               "children": [
                 {
                   "id": 60,
                   "label": "Talus",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/talus.wav",
+                  "sound": "assets/legjoints/Sounds/talus.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/talus.jpg"
+                      "img": "assets/legjoints/Images/talus.webp"
                     }
                   ],
                   "children": []
@@ -1242,11 +1242,11 @@
                   "id": 61,
                   "label": "Calcaneus",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/calcaneous.wav",
+                  "sound": "assets/legjoints/Sounds/calcaneous.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/calcaneous.jpg"
+                      "img": "assets/legjoints/Images/calcaneous.webp"
                     }
                   ],
                   "children": []
@@ -1255,11 +1255,11 @@
                   "id": 62,
                   "label": "Navicular",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/navicular.wav",
+                  "sound": "assets/legjoints/Sounds/navicular.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/navicular.jpg"
+                      "img": "assets/legjoints/Images/navicular.webp"
                     }
                   ],
                   "children": []
@@ -1268,11 +1268,11 @@
                   "id": 63,
                   "label": "Medial Cuneiform",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/medial_cune.wav",
+                  "sound": "assets/legjoints/Sounds/medial_cune.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/med_cuneiform.jpg"
+                      "img": "assets/legjoints/Images/med_cuneiform.webp"
                     }
                   ],
                   "children": []
@@ -1281,11 +1281,11 @@
                   "id": 64,
                   "label": "Intermediate Cuneiform",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/intermediate_cune.wav",
+                  "sound": "assets/legjoints/Sounds/intermediate_cune.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/inter_cuneiform.jpg"
+                      "img": "assets/legjoints/Images/inter_cuneiform.webp"
                     }
                   ],
                   "children": []
@@ -1294,11 +1294,11 @@
                   "id": 65,
                   "label": "Lateral Cuneiform",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/lateral_cune.wav",
+                  "sound": "assets/legjoints/Sounds/lateral_cune.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/lat_cuneiform.jpg"
+                      "img": "assets/legjoints/Images/lat_cuneiform.webp"
                     }
                   ],
                   "children": []
@@ -1307,11 +1307,11 @@
                   "id": 66,
                   "label": "Cuboid",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/cuboid.wav",
+                  "sound": "assets/legjoints/Sounds/cuboid.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/cuboid.jpg"
+                      "img": "assets/legjoints/Images/cuboid.webp"
                     }
                   ],
                   "children": []
@@ -1323,27 +1323,27 @@
               "id": 67,
               "label": "Metatarsals",
               "type": "img",
-              "sound": "assets/legjoints/Sounds/metatarsals.wav",
+              "sound": "assets/legjoints/Sounds/metatarsals.mp3",
               "buttons": [
                 {
                   "label": "Complete Skeleton",
-                  "img": "assets/legjoints/Images/metatarsals.jpg"
+                  "img": "assets/legjoints/Images/metatarsals.webp"
                 },
                 {
                   "label": "Superior and Inferior",
-                  "img": "assets/legjoints/Images/metatarsals-zoom.jpg"
+                  "img": "assets/legjoints/Images/metatarsals-zoom.webp"
                 },
                 {
                   "label": "Anterior with Leg",
-                  "img": "assets/legjoints/Images/metatarsals_comp_ant.jpg"
+                  "img": "assets/legjoints/Images/metatarsals_comp_ant.webp"
                 },
                 {
                   "label": "Medial with Leg",
-                  "img": "assets/legjoints/Images/metatarsals_comp_med.jpg"
+                  "img": "assets/legjoints/Images/metatarsals_comp_med.webp"
                 },
                 {
                   "label": "Lateral with Leg",
-                  "img": "assets/legjoints/Images/metatarsals_comp_lat.jpg"
+                  "img": "assets/legjoints/Images/metatarsals_comp_lat.webp"
                 }
               ],
               "children": [
@@ -1351,11 +1351,11 @@
                   "id": 68,
                   "label": "Metatarsal 1",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/metatarsals.wav",
+                  "sound": "assets/legjoints/Sounds/metatarsals.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/first_metatarsal.jpg"
+                      "img": "assets/legjoints/Images/first_metatarsal.webp"
                     }
                   ],
                   "children": []
@@ -1367,15 +1367,15 @@
                   "buttons": [
                     {
                       "label": "Illustration 1",
-                      "img": "assets/legjoints/Images/Sesamoidbones_Sobo_.jpg"
+                      "img": "assets/legjoints/Images/Sesamoidbones_Sobo_.webp"
                     },
                     {
                       "label": "Photo with leg bones",
-                      "img": "assets/legjoints/Images/foot_letg_sesamoids.jpg"
+                      "img": "assets/legjoints/Images/foot_letg_sesamoids.webp"
                     },
                     {
                       "label": "Xray Photo",
-                      "img": "assets/legjoints/Images/SesamoidBonesOfFoot.jpg"
+                      "img": "assets/legjoints/Images/SesamoidBonesOfFoot.webp"
                     }
                   ],
                   "children": []
@@ -1384,11 +1384,11 @@
                   "id": 70,
                   "label": "Metatarsal 2",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/metatarsals.wav",
+                  "sound": "assets/legjoints/Sounds/metatarsals.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/second_metatarsal.jpg"
+                      "img": "assets/legjoints/Images/second_metatarsal.webp"
                     }
                   ],
                   "children": []
@@ -1397,11 +1397,11 @@
                   "id": 71,
                   "label": "Metatarsal 3",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/metatarsals.wav",
+                  "sound": "assets/legjoints/Sounds/metatarsals.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/third_metatarsal.jpg"
+                      "img": "assets/legjoints/Images/third_metatarsal.webp"
                     }
                   ],
                   "children": []
@@ -1410,11 +1410,11 @@
                   "id": 72,
                   "label": "Metatarsal 4",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/metatarsals.wav",
+                  "sound": "assets/legjoints/Sounds/metatarsals.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/fourth_metatarsal.jpg"
+                      "img": "assets/legjoints/Images/fourth_metatarsal.webp"
                     }
                   ],
                   "children": []
@@ -1423,11 +1423,11 @@
                   "id": 73,
                   "label": "Metatarsal 5",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/metatarsals.wav",
+                  "sound": "assets/legjoints/Sounds/metatarsals.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/fifth_metatarsal.jpg"
+                      "img": "assets/legjoints/Images/fifth_metatarsal.webp"
                     }
                   ],
                   "children": []
@@ -1438,27 +1438,27 @@
               "id": 74,
               "label": "Digits (Phalanges)",
               "type": "img",
-              "sound": "assets/legjoints/Sounds/digits.wav",
+              "sound": "assets/legjoints/Sounds/digits.mp3",
               "buttons": [
                 {
                   "label": "Complete Skeleton",
-                  "img": "assets/legjoints/Images/digits.jpg"
+                  "img": "assets/legjoints/Images/digits.webp"
                 },
                 {
                   "label": "Superior and Inferior",
-                  "img": "assets/legjoints/Images/digits-zoom.jpg"
+                  "img": "assets/legjoints/Images/digits-zoom.webp"
                 },
                 {
                   "label": "Anterior",
-                  "img": "assets/legjoints/Images/digits_comp_ant.jpg"
+                  "img": "assets/legjoints/Images/digits_comp_ant.webp"
                 },
                 {
                   "label": "Medial",
-                  "img": "assets/legjoints/Images/digits_comp_med.jpg"
+                  "img": "assets/legjoints/Images/digits_comp_med.webp"
                 },
                 {
                   "label": "Lateral",
-                  "img": "assets/legjoints/Images/digits_comp_lat.jpg"
+                  "img": "assets/legjoints/Images/digits_comp_lat.webp"
                 }
               ],
               "children": [
@@ -1466,11 +1466,11 @@
                   "id": 75,
                   "label": "Distal Phalanx",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/distal_phalanx.wav",
+                  "sound": "assets/legjoints/Sounds/distal_phalanx.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/dist_phalan.jpg"
+                      "img": "assets/legjoints/Images/dist_phalan.webp"
                     }
                   ],
                   "children": []
@@ -1479,11 +1479,11 @@
                   "id": 76,
                   "label": "Middle Phalanx",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/middle_phalanx.wav",
+                  "sound": "assets/legjoints/Sounds/middle_phalanx.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/mid_phalan.jpg"
+                      "img": "assets/legjoints/Images/mid_phalan.webp"
                     }
                   ],
                   "children": []
@@ -1492,11 +1492,11 @@
                   "id": 77,
                   "label": "Proximal Phalanx",
                   "type": "img",
-                  "sound": "assets/legjoints/Sounds/proximal_phalanx.wav",
+                  "sound": "assets/legjoints/Sounds/proximal_phalanx.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/prox_phalan.jpg"
+                      "img": "assets/legjoints/Images/prox_phalan.webp"
                     }
                   ],
                   "children": []
@@ -1647,11 +1647,11 @@
                   "buttons": [
                     {
                       "label": "Shoulder Abduction",
-                      "img": "assets/legjoints/Images/abduction.gif"
+                      "img": "assets/legjoints/Images/abduction-animate.webp"
                     },
                     {
                       "label": "Hand Abduction",
-                      "img": "assets/legjoints/Images/hand_abduction.gif"
+                      "img": "assets/legjoints/Images/hand_abduction-animate.webp"
                     }
                   ],
                   "children": []
@@ -1663,11 +1663,11 @@
                   "buttons": [
                     {
                       "label": "Shoulder Adduction",
-                      "img": "assets/legjoints/Images/adduction.gif"
+                      "img": "assets/legjoints/Images/adduction-animate.webp"
                     },
                     {
                       "label": "Hand Adduction",
-                      "img": "assets/legjoints/Images/hand_adduction.gif"
+                      "img": "assets/legjoints/Images/hand_adduction-animate.webp"
                     }
                   ],
                   "children": []
@@ -1682,7 +1682,7 @@
               "buttons": [
                 {
                   "label": "",
-                  "img": "assets/legjoints/Images/circumduction.gif"
+                  "img": "assets/legjoints/Images/circumduction-animate.webp"
                 }
               ],
               "children": []
@@ -1698,7 +1698,7 @@
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/dorsiflexion.gif"
+                      "img": "assets/legjoints/Images/dorsiflexion-animate.webp"
                     }
                   ],
                   "children": []
@@ -1710,7 +1710,7 @@
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/plantarflexion.gif"
+                      "img": "assets/legjoints/Images/plantarflexion-animate.webp"
                     }
                   ],
                   "children": []
@@ -1729,7 +1729,7 @@
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/elevation.gif"
+                      "img": "assets/legjoints/Images/elevation-animate.webp"
                     }
                   ],
                   "children": []
@@ -1741,7 +1741,7 @@
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/depression.gif"
+                      "img": "assets/legjoints/Images/depression-animate.webp"
                     }
                   ],
                   "children": []
@@ -1760,7 +1760,7 @@
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/flexion.gif"
+                      "img": "assets/legjoints/Images/flexion-animate.webp"
                     }
                   ],
                   "children": []
@@ -1772,7 +1772,7 @@
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/extension.gif"
+                      "img": "assets/legjoints/Images/extension-animate.webp"
                     }
                   ],
                   "children": []
@@ -1791,7 +1791,7 @@
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/inversion.gif"
+                      "img": "assets/legjoints/Images/inversion-animate.webp"
                     }
                   ],
                   "children": []
@@ -1803,7 +1803,7 @@
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/eversion.gif"
+                      "img": "assets/legjoints/Images/eversion-animate.webp"
                     }
                   ],
                   "children": []
@@ -1822,7 +1822,7 @@
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/lat_excursion.gif"
+                      "img": "assets/legjoints/Images/lat_excursion-animate.webp"
                     }
                   ],
                   "children": []
@@ -1834,7 +1834,7 @@
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/med_excursion.gif"
+                      "img": "assets/legjoints/Images/med_excursion-animate.webp"
                     }
                   ],
                   "children": []
@@ -1853,7 +1853,7 @@
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/opposition.gif"
+                      "img": "assets/legjoints/Images/opposition-animate.webp"
                     }
                   ],
                   "children": []
@@ -1865,7 +1865,7 @@
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/reposition.gif"
+                      "img": "assets/legjoints/Images/reposition-animate.webp"
                     }
                   ],
                   "children": []
@@ -1884,7 +1884,7 @@
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/protraction.gif"
+                      "img": "assets/legjoints/Images/protraction-animate.webp"
                     }
                   ],
                   "children": []
@@ -1896,7 +1896,7 @@
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/retraction.gif"
+                      "img": "assets/legjoints/Images/retraction-animate.webp"
                     }
                   ],
                   "children": []
@@ -1915,7 +1915,7 @@
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/lateral_rotation.gif"
+                      "img": "assets/legjoints/Images/lateral_rotation-animate.webp"
                     }
                   ],
                   "children": []
@@ -1927,7 +1927,7 @@
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/medial_rotation.gif"
+                      "img": "assets/legjoints/Images/medial_rotation-animate.webp"
                     }
                   ],
                   "children": []
@@ -1946,7 +1946,7 @@
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/supination.gif"
+                      "img": "assets/legjoints/Images/supination-animate.webp"
                     }
                   ],
                   "children": []
@@ -1958,7 +1958,7 @@
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/legjoints/Images/pronation.gif"
+                      "img": "assets/legjoints/Images/pronation-animate.webp"
                     }
                   ],
                   "children": []

@@ -51,15 +51,15 @@
               "id": 5,
               "label": "Eyebrows",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/eyebrows.wav",
+              "sound": "assets/earseyes/Sounds/eyebrows.mp3",
               "buttons": [
                 {
                   "label": "Illustration",
-                  "img": "assets/earseyes/Images/1-Eye_anterior_illustration-Eye_Brow.jpg"
+                  "img": "assets/earseyes/Images/1-Eye_anterior_illustration-Eye_Brow.webp"
                 },
                 {
                   "label": "Real Eye",
-                  "img": "assets/earseyes/Images/real_eye_eyebrow.jpg"
+                  "img": "assets/earseyes/Images/real_eye_eyebrow.webp"
                 }
               ],
               "children": []
@@ -68,15 +68,15 @@
               "id": 6,
               "label": "Palpebrae",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/palpebrae.wav",
+              "sound": "assets/earseyes/Sounds/palpebrae.mp3",
               "buttons": [
                 {
                   "label": "Illustration",
-                  "img": "assets/earseyes/Images/1-Eye_anterior_illustration-Palpebrae.jpg"
+                  "img": "assets/earseyes/Images/1-Eye_anterior_illustration-Palpebrae.webp"
                 },
                 {
                   "label": "Real Eye",
-                  "img": "assets/earseyes/Images/real_eye_palpebra.jpg"
+                  "img": "assets/earseyes/Images/real_eye_palpebra.webp"
                 }
               ],
               "children": []
@@ -85,15 +85,15 @@
               "id": 7,
               "label": "Palpebral Fissure",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/palpebral_fissure.wav",
+              "sound": "assets/earseyes/Sounds/palpebral_fissure.mp3",
               "buttons": [
                 {
                   "label": "Illustration",
-                  "img": "assets/earseyes/Images/1-Eye_anterior_illustration-Palpebral_Fissure.jpg"
+                  "img": "assets/earseyes/Images/1-Eye_anterior_illustration-Palpebral_Fissure.webp"
                 },
                 {
                   "label": "Real Eye",
-                  "img": "assets/earseyes/Images/real_eye_palpebral_fissure.jpg"
+                  "img": "assets/earseyes/Images/real_eye_palpebral_fissure.webp"
                 }
               ],
               "children": []
@@ -102,19 +102,19 @@
               "id": 8,
               "label": "Caruncle",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/caruncle.wav",
+              "sound": "assets/earseyes/Sounds/caruncle.mp3",
               "buttons": [
                 {
                   "label": "Illustration 1",
-                  "img": "assets/earseyes/Images/1-Eye_anterior_illustration-Caruncle.jpg"
+                  "img": "assets/earseyes/Images/1-Eye_anterior_illustration-Caruncle.webp"
                 },
                 {
                   "label": "Illustration 2",
-                  "img": "assets/earseyes/Images/Sobotta-caruncle-face.jpg"
+                  "img": "assets/earseyes/Images/Sobotta-caruncle-face.webp"
                 },
                 {
                   "label": "Real Eye",
-                  "img": "assets/earseyes/Images/real_eye_caruncle.jpg"
+                  "img": "assets/earseyes/Images/real_eye_caruncle.webp"
                 }
               ],
               "children": []
@@ -123,11 +123,11 @@
               "id": 9,
               "label": "Eyelashes",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/eyelashes.wav",
+              "sound": "assets/earseyes/Sounds/eyelashes.mp3",
               "buttons": [
                 {
                   "label": "",
-                  "img": "assets/earseyes/Images/real_eye_eyelashes.jpg"
+                  "img": "assets/earseyes/Images/real_eye_eyelashes.webp"
                 }
               ],
               "children": []
@@ -136,15 +136,15 @@
               "id": 10,
               "label": "Conjunctiva",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/conjunctiva.wav",
+              "sound": "assets/earseyes/Sounds/conjunctiva.mp3",
               "buttons": [
                 {
                   "label": "Illustration",
-                  "img": "assets/earseyes/Images/1-Eye_anterior_illustration-Conjunctiva.jpg"
+                  "img": "assets/earseyes/Images/1-Eye_anterior_illustration-Conjunctiva.webp"
                 },
                 {
                   "label": "Real Eye",
-                  "img": "assets/earseyes/Images/real_eye_conjunctiva.jpg"
+                  "img": "assets/earseyes/Images/real_eye_conjunctiva.webp"
                 }
               ],
               "children": []
@@ -160,15 +160,15 @@
               "id": 12,
               "label": "Lacrimal Gland",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/lacrimal_gland.wav",
+              "sound": "assets/earseyes/Sounds/lacrimal_gland.mp3",
               "buttons": [
                 {
                   "label": "Illustration",
-                  "img": "assets/earseyes/Images/1-Eye_anterior_illustration-Lacrimal_Gland.jpg"
+                  "img": "assets/earseyes/Images/1-Eye_anterior_illustration-Lacrimal_Gland.webp"
                 },
                 {
                   "label": "Real Eye",
-                  "img": "assets/earseyes/Images/real_eye_lacrimal_gland.jpg"
+                  "img": "assets/earseyes/Images/real_eye_lacrimal_gland.webp"
                 }
               ],
               "children": []
@@ -177,19 +177,19 @@
               "id": 13,
               "label": "Lacrimal Canaliculi",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/lacrimal_canaliculi.wav",
+              "sound": "assets/earseyes/Sounds/lacrimal_canaliculi.mp3",
               "buttons": [
                 {
                   "label": "Illustration 1",
-                  "img": "assets/earseyes/Images/1-Eye_anterior_illustration-Lacrimal_Canaliculi.jpg"
+                  "img": "assets/earseyes/Images/1-Eye_anterior_illustration-Lacrimal_Canaliculi.webp"
                 },
                 {
                   "label": "Illustration 2",
-                  "img": "assets/earseyes/Images/Sobotta-canaliculi-face.jpg"
+                  "img": "assets/earseyes/Images/Sobotta-canaliculi-face.webp"
                 },
                 {
                   "label": "Real Eye",
-                  "img": "assets/earseyes/Images/real_eye_lacrimal_caniliculi.jpg"
+                  "img": "assets/earseyes/Images/real_eye_lacrimal_caniliculi.webp"
                 }
               ],
               "children": []
@@ -198,19 +198,19 @@
               "id": 14,
               "label": "Lacrimal Sac",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/lacrimal_sac.wav",
+              "sound": "assets/earseyes/Sounds/lacrimal_sac.mp3",
               "buttons": [
                 {
                   "label": "Illustration 1",
-                  "img": "assets/earseyes/Images/1-Eye_anterior_illustration-Lacrimal_Sac.jpg"
+                  "img": "assets/earseyes/Images/1-Eye_anterior_illustration-Lacrimal_Sac.webp"
                 },
                 {
                   "label": "Illustration 2",
-                  "img": "assets/earseyes/Images/Sobotta-lacsac-face.jpg"
+                  "img": "assets/earseyes/Images/Sobotta-lacsac-face.webp"
                 },
                 {
                   "label": "Real Eye",
-                  "img": "assets/earseyes/Images/real_eye_lacrimal_sac.jpg"
+                  "img": "assets/earseyes/Images/real_eye_lacrimal_sac.webp"
                 }
               ],
               "children": []
@@ -219,15 +219,15 @@
               "id": 15,
               "label": "Nasolacrimal Duct",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/nasolacrimal_duct.wav",
+              "sound": "assets/earseyes/Sounds/nasolacrimal_duct.mp3",
               "buttons": [
                 {
                   "label": "Illustration",
-                  "img": "assets/earseyes/Images/1-Eye_anterior_illustration-Nasolacrimal_Duct.jpg"
+                  "img": "assets/earseyes/Images/1-Eye_anterior_illustration-Nasolacrimal_Duct.webp"
                 },
                 {
                   "label": "Real Eye",
-                  "img": "assets/earseyes/Images/real_eye_nasolacrimal_canal.jpg"
+                  "img": "assets/earseyes/Images/real_eye_nasolacrimal_canal.webp"
                 }
               ],
               "children": []
@@ -243,23 +243,23 @@
               "id": 17,
               "label": "Levator Palpebrea",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/sup_rectus.wav",
+              "sound": "assets/earseyes/Sounds/sup_rectus.mp3",
               "buttons": [
                 {
                   "label": "Anterior Right Eye",
-                  "img": "assets/earseyes/Images/lev-palp--turner-front.jpg"
+                  "img": "assets/earseyes/Images/lev-palp--turner-front.webp"
                 },
                 {
                   "label": "Lateral 1 Left Eye",
-                  "img": "assets/earseyes/Images/Soboto-medial-eye-lev-palp.jpg"
+                  "img": "assets/earseyes/Images/Soboto-medial-eye-lev-palp.webp"
                 },
                 {
                   "label": "Lateral 2 Right Eye",
-                  "img": "assets/earseyes/Images/Gray-lev-palp-side.jpg"
+                  "img": "assets/earseyes/Images/Gray-lev-palp-side.webp"
                 },
                 {
                   "label": "Top",
-                  "img": "assets/earseyes/Images/Soboto-top-levator-palp.jpg"
+                  "img": "assets/earseyes/Images/Soboto-top-levator-palp.webp"
                 }
               ],
               "children": []
@@ -268,27 +268,27 @@
               "id": 18,
               "label": "Superior Rectus",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/sup_rectus.wav",
+              "sound": "assets/earseyes/Sounds/sup_rectus.mp3",
               "buttons": [
                 {
                   "label": "Anterior Right Eye",
-                  "img": "assets/earseyes/Images/sup-rectus-turner-front.jpg"
+                  "img": "assets/earseyes/Images/sup-rectus-turner-front.webp"
                 },
                 {
                   "label": "Lateral 1 Right Eye",
-                  "img": "assets/earseyes/Images/sup-rectus-turner-side.jpg"
+                  "img": "assets/earseyes/Images/sup-rectus-turner-side.webp"
                 },
                 {
                   "label": "Lateral 2 Left Eye",
-                  "img": "assets/earseyes/Images/Soboto-medial-eye-sup-rec.jpg"
+                  "img": "assets/earseyes/Images/Soboto-medial-eye-sup-rec.webp"
                 },
                 {
                   "label": "Lateral 3 Right Eye",
-                  "img": "assets/earseyes/Images/Gray-sup-rec-side.jpg"
+                  "img": "assets/earseyes/Images/Gray-sup-rec-side.webp"
                 },
                 {
                   "label": "Top",
-                  "img": "assets/earseyes/Images/Soboto-top-sup-rectus.jpg"
+                  "img": "assets/earseyes/Images/Soboto-top-sup-rectus.webp"
                 }
               ],
               "children": []
@@ -297,23 +297,23 @@
               "id": 19,
               "label": "Inferior Rectus",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/inf_rectus.wav",
+              "sound": "assets/earseyes/Sounds/inf_rectus.mp3",
               "buttons": [
                 {
                   "label": "Anterior Right Eye",
-                  "img": "assets/earseyes/Images/inf-rectus-turner-front.jpg"
+                  "img": "assets/earseyes/Images/inf-rectus-turner-front.webp"
                 },
                 {
                   "label": "Lateral 1 Right Eye",
-                  "img": "assets/earseyes/Images/inf-rectus-turner-side.jpg"
+                  "img": "assets/earseyes/Images/inf-rectus-turner-side.webp"
                 },
                 {
                   "label": "Lateral 2 Left Eye",
-                  "img": "assets/earseyes/Images/Soboto-medial-eye-inf-rec.jpg"
+                  "img": "assets/earseyes/Images/Soboto-medial-eye-inf-rec.webp"
                 },
                 {
                   "label": "Lateral 3 Right Eye",
-                  "img": "assets/earseyes/Images/Gray-inf-rec-side.jpg"
+                  "img": "assets/earseyes/Images/Gray-inf-rec-side.webp"
                 }
               ],
               "children": []
@@ -322,23 +322,23 @@
               "id": 20,
               "label": "Medial Rectus",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/med_rectus.wav",
+              "sound": "assets/earseyes/Sounds/med_rectus.mp3",
               "buttons": [
                 {
                   "label": "Anterior Right Eye",
-                  "img": "assets/earseyes/Images/med-rectus-turner-front.jpg"
+                  "img": "assets/earseyes/Images/med-rectus-turner-front.webp"
                 },
                 {
                   "label": "Lateral 1 Right Eye",
-                  "img": "assets/earseyes/Images/med-rectus-turner-side.jpg"
+                  "img": "assets/earseyes/Images/med-rectus-turner-side.webp"
                 },
                 {
                   "label": "Lateral 2 Right Eye",
-                  "img": "assets/earseyes/Images/Gray-med-rec-side.jpg"
+                  "img": "assets/earseyes/Images/Gray-med-rec-side.webp"
                 },
                 {
                   "label": "Top",
-                  "img": "assets/earseyes/Images/Soboto-top-rectus-med.jpg"
+                  "img": "assets/earseyes/Images/Soboto-top-rectus-med.webp"
                 }
               ],
               "children": []
@@ -347,27 +347,27 @@
               "id": 21,
               "label": "Lateral Rectus",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/lat_rectus.wav",
+              "sound": "assets/earseyes/Sounds/lat_rectus.mp3",
               "buttons": [
                 {
                   "label": "Anterior Right Eye",
-                  "img": "assets/earseyes/Images/lat-rectus-turner-front.jpg"
+                  "img": "assets/earseyes/Images/lat-rectus-turner-front.webp"
                 },
                 {
                   "label": "Lateral 1 Right Eye",
-                  "img": "assets/earseyes/Images/lat-rectus-turner-side.jpg"
+                  "img": "assets/earseyes/Images/lat-rectus-turner-side.webp"
                 },
                 {
                   "label": "Lateral 2 Left Eye",
-                  "img": "assets/earseyes/Images/Soboto-medial-eye-lat-rec.jpg"
+                  "img": "assets/earseyes/Images/Soboto-medial-eye-lat-rec.webp"
                 },
                 {
                   "label": "Lateral 3 Right Eye",
-                  "img": "assets/earseyes/Images/Gray-lat-rec-side.jpg"
+                  "img": "assets/earseyes/Images/Gray-lat-rec-side.webp"
                 },
                 {
                   "label": "Top",
-                  "img": "assets/earseyes/Images/Soboto-top-lateral-rectus.jpg"
+                  "img": "assets/earseyes/Images/Soboto-top-lateral-rectus.webp"
                 }
               ],
               "children": []
@@ -376,23 +376,23 @@
               "id": 22,
               "label": "Superior Oblique",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/sup_oblique.wav",
+              "sound": "assets/earseyes/Sounds/sup_oblique.mp3",
               "buttons": [
                 {
                   "label": "Anterior Right Eye",
-                  "img": "assets/earseyes/Images/sup-oblique-turner-front.jpg"
+                  "img": "assets/earseyes/Images/sup-oblique-turner-front.webp"
                 },
                 {
                   "label": "Lateral 1 Right Eye",
-                  "img": "assets/earseyes/Images/sup-oblique-turner-side.jpg"
+                  "img": "assets/earseyes/Images/sup-oblique-turner-side.webp"
                 },
                 {
                   "label": "Lateral 2 Right Eye",
-                  "img": "assets/earseyes/Images/Gray-sup-oblique-side.jpg"
+                  "img": "assets/earseyes/Images/Gray-sup-oblique-side.webp"
                 },
                 {
                   "label": "Top",
-                  "img": "assets/earseyes/Images/Soboto-top-sup-oblique.jpg"
+                  "img": "assets/earseyes/Images/Soboto-top-sup-oblique.webp"
                 }
               ],
               "children": []
@@ -401,23 +401,23 @@
               "id": 23,
               "label": "Inferior Oblique",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/inf_oblique.wav",
+              "sound": "assets/earseyes/Sounds/inf_oblique.mp3",
               "buttons": [
                 {
                   "label": "Anterior Right Eye",
-                  "img": "assets/earseyes/Images/inf-oblique-turner-front.jpg"
+                  "img": "assets/earseyes/Images/inf-oblique-turner-front.webp"
                 },
                 {
                   "label": "Lateral 1 Right Eye",
-                  "img": "assets/earseyes/Images/inf-oblique-turner-side.jpg"
+                  "img": "assets/earseyes/Images/inf-oblique-turner-side.webp"
                 },
                 {
                   "label": "Lateral 2 Left Eye",
-                  "img": "assets/earseyes/Images/Soboto-medial-eye-inf-obliq.jpg"
+                  "img": "assets/earseyes/Images/Soboto-medial-eye-inf-obliq.webp"
                 },
                 {
                   "label": "Lateral 3 Right Eye",
-                  "img": "assets/earseyes/Images/Gray-inf-oblique-side.jpg"
+                  "img": "assets/earseyes/Images/Gray-inf-oblique-side.webp"
                 }
               ],
               "children": []
@@ -432,7 +432,7 @@
           "buttons": [
             {
               "label": "Replay Animation",
-              "img": "assets/earseyes/Images/Eye_Cross_Section_animation.gif"
+              "img": "assets/earseyes/Images/Eye_Cross_Section_animation-animate.webp"
             }
           ],
           "children": [
@@ -440,11 +440,11 @@
               "id": 25,
               "label": "Anterior Chamber",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/ant_chamber.wav",
+              "sound": "assets/earseyes/Sounds/ant_chamber.mp3",
               "buttons": [
                 {
                   "label": "",
-                  "img": "assets/earseyes/Images/5-Eye_Cross_Section-Anterior_Chamber.jpg"
+                  "img": "assets/earseyes/Images/5-Eye_Cross_Section-Anterior_Chamber.webp"
                 }
               ],
               "children": []
@@ -453,11 +453,11 @@
               "id": 26,
               "label": "Posterior Chamber",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/post_chamber.wav",
+              "sound": "assets/earseyes/Sounds/post_chamber.mp3",
               "buttons": [
                 {
                   "label": "",
-                  "img": "assets/earseyes/Images/5-Eye_Cross_Section-Posterior_Chamber.jpg"
+                  "img": "assets/earseyes/Images/5-Eye_Cross_Section-Posterior_Chamber.webp"
                 }
               ],
               "children": []
@@ -466,11 +466,11 @@
               "id": 27,
               "label": "Aqueous Humor",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/aqueous_humor.wav",
+              "sound": "assets/earseyes/Sounds/aqueous_humor.mp3",
               "buttons": [
                 {
                   "label": "",
-                  "img": "assets/earseyes/Images/5-Eye_Cross_Section-Aqueous_Humor.jpg"
+                  "img": "assets/earseyes/Images/5-Eye_Cross_Section-Aqueous_Humor.webp"
                 }
               ],
               "children": []
@@ -479,11 +479,11 @@
               "id": 28,
               "label": "Vitreous Chamber with Vitreous Humor",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/vit_chamber.wav",
+              "sound": "assets/earseyes/Sounds/vit_chamber.mp3",
               "buttons": [
                 {
                   "label": "",
-                  "img": "assets/earseyes/Images/5-Eye_Cross_Section-Vitreous_Humor.jpg"
+                  "img": "assets/earseyes/Images/5-Eye_Cross_Section-Vitreous_Humor.webp"
                 }
               ],
               "children": []
@@ -493,21 +493,21 @@
         {
           "id": 29,
           "label": "Fibrous Tunic",
-          "sound": "assets/earseyes/Sounds/fibrous_tunic.wav",
+          "sound": "assets/earseyes/Sounds/fibrous_tunic.mp3",
           "children": [
             {
               "id": 30,
               "label": "Sclera",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/sclera.wav",
+              "sound": "assets/earseyes/Sounds/sclera.mp3",
               "buttons": [
                 {
                   "label": "Illustration",
-                  "img": "assets/earseyes/Images/5-Eye_Cross_Section-Sclera.jpg"
+                  "img": "assets/earseyes/Images/5-Eye_Cross_Section-Sclera.webp"
                 },
                 {
                   "label": "Real Eye",
-                  "img": "assets/earseyes/Images/real_sclera.jpg"
+                  "img": "assets/earseyes/Images/real_sclera.webp"
                 }
               ],
               "children": []
@@ -516,19 +516,19 @@
               "id": 31,
               "label": "Cornea",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/cornea.wav",
+              "sound": "assets/earseyes/Sounds/cornea.mp3",
               "buttons": [
                 {
                   "label": "Illustration 1",
-                  "img": "assets/earseyes/Images/5-Eye_Cross_Section-Cornea.jpg"
+                  "img": "assets/earseyes/Images/5-Eye_Cross_Section-Cornea.webp"
                 },
                 {
                   "label": "Illustration 2",
-                  "img": "assets/earseyes/Images/cornea_drawing.jpg"
+                  "img": "assets/earseyes/Images/cornea_drawing.webp"
                 },
                 {
                   "label": "Real Eye",
-                  "img": "assets/earseyes/Images/cornea_real.jpg"
+                  "img": "assets/earseyes/Images/cornea_real.webp"
                 }
               ],
               "children": []
@@ -539,25 +539,25 @@
         {
           "id": 32,
           "label": "Vascular Tunic",
-          "sound": "assets/earseyes/Sounds/vasc_tunic.wav",
+          "sound": "assets/earseyes/Sounds/vasc_tunic.mp3",
           "children": [
             {
               "id": 33,
               "label": "Choroid",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/choroid.wav",
+              "sound": "assets/earseyes/Sounds/choroid.mp3",
               "buttons": [
                 {
                   "label": "Illustration 1",
-                  "img": "assets/earseyes/Images/6-Eye_Cross_Section_Full-Choroid.jpg"
+                  "img": "assets/earseyes/Images/6-Eye_Cross_Section_Full-Choroid.webp"
                 },
                 {
                   "label": "Illustration 2",
-                  "img": "assets/earseyes/Images/choroid-wiki.jpg"
+                  "img": "assets/earseyes/Images/choroid-wiki.webp"
                 },
                 {
                   "label": "Highlight in Blue",
-                  "img": "assets/earseyes/Images/choroid-wiki-blue.jpg"
+                  "img": "assets/earseyes/Images/choroid-wiki-blue.webp"
                 }
               ],
               "children": []
@@ -566,11 +566,11 @@
               "id": 34,
               "label": "Ciliary Body",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/ciliary_body.wav",
+              "sound": "assets/earseyes/Sounds/ciliary_body.mp3",
               "buttons": [
                 {
                   "label": "",
-                  "img": "assets/earseyes/Images/6-Eye_Cross_Section_Full-Ciliary_Body.jpg"
+                  "img": "assets/earseyes/Images/6-Eye_Cross_Section_Full-Ciliary_Body.webp"
                 }
               ],
               "children": [
@@ -578,19 +578,19 @@
                   "id": 35,
                   "label": "Ciliary Muscles",
                   "type": "img",
-                  "sound": "assets/earseyes/Sounds/ciliary_muscles.wav",
+                  "sound": "assets/earseyes/Sounds/ciliary_muscles.mp3",
                   "buttons": [
                     {
                       "label": "Illustration 1",
-                      "img": "assets/earseyes/Images/5-Eye_Cross_Section_ciliary_muscle.jpg"
+                      "img": "assets/earseyes/Images/5-Eye_Cross_Section_ciliary_muscle.webp"
                     },
                     {
                       "label": "Illustration 2",
-                      "img": "assets/earseyes/Images/Eye-dia-Wiki-ciliary-mm.jpg"
+                      "img": "assets/earseyes/Images/Eye-dia-Wiki-ciliary-mm.webp"
                     },
                     {
                       "label": "Highlight in Blue",
-                      "img": "assets/earseyes/Images/Eye-dia-Wiki-ciliary-blu.jpg"
+                      "img": "assets/earseyes/Images/Eye-dia-Wiki-ciliary-blu.webp"
                     }
                   ],
                   "children": []
@@ -599,23 +599,23 @@
                   "id": 36,
                   "label": "Suspensory Ligaments",
                   "type": "img",
-                  "sound": "assets/earseyes/Sounds/susp_ligaments.wav",
+                  "sound": "assets/earseyes/Sounds/susp_ligaments.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/earseyes/Images/5-Eye_Cross_Section-Suspensory_Ligaments.jpg"
+                      "img": "assets/earseyes/Images/5-Eye_Cross_Section-Suspensory_Ligaments.webp"
                     },
                     {
                       "label": "Illustration 1",
-                      "img": "assets/earseyes/Images/5-Eye_Cross_Section-Suspensory_Ligaments.jpg"
+                      "img": "assets/earseyes/Images/5-Eye_Cross_Section-Suspensory_Ligaments.webp"
                     },
                     {
                       "label": "Illustration 2",
-                      "img": "assets/earseyes/Images/Eye-dia-Wiki-lig.jpg"
+                      "img": "assets/earseyes/Images/Eye-dia-Wiki-lig.webp"
                     },
                     {
                       "label": "Highlight in Blue",
-                      "img": "assets/earseyes/Images/Eye-dia-Wiki-lig-blu.jpg"
+                      "img": "assets/earseyes/Images/Eye-dia-Wiki-lig-blu.webp"
                     }
                   ],
                   "children": []
@@ -626,15 +626,15 @@
               "id": 37,
               "label": "Iris",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/iris.wav",
+              "sound": "assets/earseyes/Sounds/iris.mp3",
               "buttons": [
                 {
                   "label": "Illustration",
-                  "img": "assets/earseyes/Images/5-Eye_Cross_Section-Iris.jpg"
+                  "img": "assets/earseyes/Images/5-Eye_Cross_Section-Iris.webp"
                 },
                 {
                   "label": "Real Eye",
-                  "img": "assets/earseyes/Images/iris2.jpg"
+                  "img": "assets/earseyes/Images/iris2.webp"
                 }
               ],
               "children": []
@@ -646,11 +646,11 @@
               "buttons": [
                 {
                   "label": "Illustration",
-                  "img": "assets/earseyes/Images/5-Eye_Cross_Section-Lens.jpg"
+                  "img": "assets/earseyes/Images/5-Eye_Cross_Section-Lens.webp"
                 },
                 {
                   "label": "Real Eye",
-                  "img": "assets/earseyes/Images/cataract2.jpg"
+                  "img": "assets/earseyes/Images/cataract2.webp"
                 }
               ],
               "children": []
@@ -659,15 +659,15 @@
               "id": 39,
               "label": "Pupil",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/pupil.wav",
+              "sound": "assets/earseyes/Sounds/pupil.mp3",
               "buttons": [
                 {
                   "label": "Illustration",
-                  "img": "assets/earseyes/Images/pupil-wiki.jpg"
+                  "img": "assets/earseyes/Images/pupil-wiki.webp"
                 },
                 {
                   "label": "Real Eye",
-                  "img": "assets/earseyes/Images/pupil-wiki2.jpg"
+                  "img": "assets/earseyes/Images/pupil-wiki2.webp"
                 }
               ],
               "children": []
@@ -682,15 +682,15 @@
           "buttons": [
             {
               "label": "Illustration",
-              "img": "assets/earseyes/Images/6-Eye_Cross_Section_Full-Retina.jpg"
+              "img": "assets/earseyes/Images/6-Eye_Cross_Section_Full-Retina.webp"
             },
             {
               "label": "Illustration 2",
-              "img": "assets/earseyes/Images/Eye-diagram-Wiki-retina.jpg"
+              "img": "assets/earseyes/Images/Eye-diagram-Wiki-retina.webp"
             },
             {
               "label": "Higlight in Blue",
-              "img": "assets/earseyes/Images/Eye-Wiki-retina-blue.jpg"
+              "img": "assets/earseyes/Images/Eye-Wiki-retina-blue.webp"
             }
           ],
           "children": [
@@ -698,15 +698,15 @@
               "id": 41,
               "label": "Ora Serrata",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/ora_serrata.wav",
+              "sound": "assets/earseyes/Sounds/ora_serrata.mp3",
               "buttons": [
                 {
                   "label": "Illustration 1",
-                  "img": "assets/earseyes/Images/6-Eye_Cross_Section_Full-Ora_Serrata.jpg"
+                  "img": "assets/earseyes/Images/6-Eye_Cross_Section_Full-Ora_Serrata.webp"
                 },
                 {
                   "label": "Illustration 2",
-                  "img": "assets/earseyes/Images/Eye-dia-Wiki-ora-serr.jpg"
+                  "img": "assets/earseyes/Images/Eye-dia-Wiki-ora-serr.webp"
                 }
               ],
               "children": []
@@ -715,15 +715,15 @@
               "id": 42,
               "label": "Macula Lutea",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/macula_lutea.wav",
+              "sound": "assets/earseyes/Sounds/macula_lutea.mp3",
               "buttons": [
                 {
                   "label": "Illustration 1",
-                  "img": "assets/earseyes/Images/6-Eye_Cross_Section_Full-Macula_Lutea.jpg"
+                  "img": "assets/earseyes/Images/6-Eye_Cross_Section_Full-Macula_Lutea.webp"
                 },
                 {
                   "label": "Real Eye",
-                  "img": "assets/earseyes/Images/Macula-Wiki1.jpg"
+                  "img": "assets/earseyes/Images/Macula-Wiki1.webp"
                 }
               ],
               "children": []
@@ -732,15 +732,15 @@
               "id": 43,
               "label": "Central Fovea (Fovea Centralis)",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/fovea_centralis.wav",
+              "sound": "assets/earseyes/Sounds/fovea_centralis.mp3",
               "buttons": [
                 {
                   "label": "Illustration 1",
-                  "img": "assets/earseyes/Images/6-Eye_Cross_Section_Full-Central_Fovea.jpg"
+                  "img": "assets/earseyes/Images/6-Eye_Cross_Section_Full-Central_Fovea.webp"
                 },
                 {
                   "label": "Real Eye",
-                  "img": "assets/earseyes/Images/Fovea-Wiki1.jpg"
+                  "img": "assets/earseyes/Images/Fovea-Wiki1.webp"
                 }
               ],
               "children": []
@@ -749,19 +749,19 @@
               "id": 44,
               "label": "Optic Disk",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/optic_disk.wav",
+              "sound": "assets/earseyes/Sounds/optic_disk.mp3",
               "buttons": [
                 {
                   "label": "Illustration 1",
-                  "img": "assets/earseyes/Images/6-Eye_Cross_Section_Full-Optic_Disc.jpg"
+                  "img": "assets/earseyes/Images/6-Eye_Cross_Section_Full-Optic_Disc.webp"
                 },
                 {
                   "label": "Real Eye 1",
-                  "img": "assets/earseyes/Images/OpticDisc-Wiki1.jpg"
+                  "img": "assets/earseyes/Images/OpticDisc-Wiki1.webp"
                 },
                 {
                   "label": "Real Eye 2",
-                  "img": "assets/earseyes/Images/optic-disc-wiki-3.jpg"
+                  "img": "assets/earseyes/Images/optic-disc-wiki-3.webp"
                 }
               ],
               "children": []
@@ -770,19 +770,19 @@
               "id": 45,
               "label": "Optic Nerve",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/optic_nerv.wav",
+              "sound": "assets/earseyes/Sounds/optic_nerv.mp3",
               "buttons": [
                 {
                   "label": "Illustration 1",
-                  "img": "assets/earseyes/Images/6-Eye_Cross_Section_Full-Optic-Nerve.jpg"
+                  "img": "assets/earseyes/Images/6-Eye_Cross_Section_Full-Optic-Nerve.webp"
                 },
                 {
                   "label": "Illustration 2",
-                  "img": "assets/earseyes/Images/Eye-dia-Wiki-optic.jpg"
+                  "img": "assets/earseyes/Images/Eye-dia-Wiki-optic.webp"
                 },
                 {
                   "label": "Illustration 3",
-                  "img": "assets/earseyes/Images/gray-optic-nerve.jpg"
+                  "img": "assets/earseyes/Images/gray-optic-nerve.webp"
                 }
               ],
               "children": []
@@ -821,15 +821,15 @@
               "id": 49,
               "label": "Pinna (Auricle)",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/auricle.wav",
+              "sound": "assets/earseyes/Sounds/auricle.mp3",
               "buttons": [
                 {
                   "label": "illustration",
-                  "img": "assets/earseyes/Images/Sobotta-auricle.jpg"
+                  "img": "assets/earseyes/Images/Sobotta-auricle.webp"
                 },
                 {
                   "label": "real ear",
-                  "img": "assets/earseyes/Images/adam_ea_pinnar.jpg"
+                  "img": "assets/earseyes/Images/adam_ea_pinnar.webp"
                 }
               ],
               "children": []
@@ -838,11 +838,11 @@
               "id": 50,
               "label": "Lobule",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/lobule.wav",
+              "sound": "assets/earseyes/Sounds/lobule.mp3",
               "buttons": [
                 {
                   "label": "",
-                  "img": "assets/earseyes/Images/adam_ea_lobule.jpg"
+                  "img": "assets/earseyes/Images/adam_ea_lobule.webp"
                 }
               ],
               "children": []
@@ -851,15 +851,15 @@
               "id": 51,
               "label": "Tragus",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/tragus.wav",
+              "sound": "assets/earseyes/Sounds/tragus.mp3",
               "buttons": [
                 {
                   "label": "Real Ear",
-                  "img": "assets/earseyes/Images/adam_ear_tragus.jpg"
+                  "img": "assets/earseyes/Images/adam_ear_tragus.webp"
                 },
                 {
                   "label": "Highlight in Blue",
-                  "img": "assets/earseyes/Images/adam_ear_tragus_blu.jpg"
+                  "img": "assets/earseyes/Images/adam_ear_tragus_blu.webp"
                 }
               ],
               "children": []
@@ -868,23 +868,23 @@
               "id": 52,
               "label": "External Auditory (Acoustic) Meatus and Canal",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/ext_aucustic_meatus.wav",
+              "sound": "assets/earseyes/Sounds/ext_aucustic_meatus.mp3",
               "buttons": [
                 {
                   "label": "External Meatus",
-                  "img": "assets/earseyes/Images/adam_ear_meatus.jpg"
+                  "img": "assets/earseyes/Images/adam_ear_meatus.webp"
                 },
                 {
                   "label": "Auditory Canal",
-                  "img": "assets/earseyes/Images/Auditory_Canal_box.jpg"
+                  "img": "assets/earseyes/Images/Auditory_Canal_box.webp"
                 },
                 {
                   "label": "Higlight in Blue",
-                  "img": "assets/earseyes/Images/Auditory_Canal_highlight.jpg"
+                  "img": "assets/earseyes/Images/Auditory_Canal_highlight.webp"
                 },
                 {
                   "label": "Illustration 2",
-                  "img": "assets/earseyes/Images/auditory_canal_turner.jpg"
+                  "img": "assets/earseyes/Images/auditory_canal_turner.webp"
                 }
               ],
               "children": []
@@ -893,23 +893,23 @@
               "id": 53,
               "label": "Tympanic Membrane",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/tymp_membrane.wav",
+              "sound": "assets/earseyes/Sounds/tymp_membrane.mp3",
               "buttons": [
                 {
                   "label": "Illustration 1",
-                  "img": "assets/earseyes/Images/tympanic_membrane_box.jpg"
+                  "img": "assets/earseyes/Images/tympanic_membrane_box.webp"
                 },
                 {
                   "label": "Highlight in Blue",
-                  "img": "assets/earseyes/Images/tympanic_membrane_highlight.jpg"
+                  "img": "assets/earseyes/Images/tympanic_membrane_highlight.webp"
                 },
                 {
                   "label": "Illustration 2",
-                  "img": "assets/earseyes/Images/tympanic_membrane_turner.jpg"
+                  "img": "assets/earseyes/Images/tympanic_membrane_turner.webp"
                 },
                 {
                   "label": "Illustration 3",
-                  "img": "assets/earseyes/Images/Tympanic-Membrane.jpg"
+                  "img": "assets/earseyes/Images/Tympanic-Membrane.webp"
                 }
               ],
               "children": []
@@ -925,19 +925,19 @@
               "id": 55,
               "label": "Eustachian (Auditory) Tube",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/eustachian_tube.wav",
+              "sound": "assets/earseyes/Sounds/eustachian_tube.mp3",
               "buttons": [
                 {
                   "label": "Illustration 1",
-                  "img": "assets/earseyes/Images/Auditory_tube_box.jpg"
+                  "img": "assets/earseyes/Images/Auditory_tube_box.webp"
                 },
                 {
                   "label": "Highlight in Blue",
-                  "img": "assets/earseyes/Images/Auditory_tube_highlight.jpg"
+                  "img": "assets/earseyes/Images/Auditory_tube_highlight.webp"
                 },
                 {
                   "label": "Illustration 2",
-                  "img": "assets/earseyes/Images/auditory_tube_turner.jpg"
+                  "img": "assets/earseyes/Images/auditory_tube_turner.webp"
                 }
               ],
               "children": []
@@ -949,7 +949,7 @@
               "buttons": [
                 {
                   "label": "",
-                  "img": "assets/earseyes/Images/ossicles_bw.jpg"
+                  "img": "assets/earseyes/Images/ossicles_bw.webp"
                 }
               ],
               "children": [
@@ -957,15 +957,15 @@
                   "id": 57,
                   "label": "Malleus",
                   "type": "img",
-                  "sound": "assets/earseyes/Sounds/malleus.wav",
+                  "sound": "assets/earseyes/Sounds/malleus.mp3",
                   "buttons": [
                     {
                       "label": "Illustration 1",
-                      "img": "assets/earseyes/Images/ossicles_bw_malleus.jpg"
+                      "img": "assets/earseyes/Images/ossicles_bw_malleus.webp"
                     },
                     {
                       "label": "Illustration 2",
-                      "img": "assets/earseyes/Images/maleous_turner.jpg"
+                      "img": "assets/earseyes/Images/maleous_turner.webp"
                     }
                   ],
                   "children": []
@@ -974,15 +974,15 @@
                   "id": 58,
                   "label": "Incus",
                   "type": "img",
-                  "sound": "assets/earseyes/Sounds/incus.wav",
+                  "sound": "assets/earseyes/Sounds/incus.mp3",
                   "buttons": [
                     {
                       "label": "Illustration 1",
-                      "img": "assets/earseyes/Images/ossicles_bw_incus.jpg"
+                      "img": "assets/earseyes/Images/ossicles_bw_incus.webp"
                     },
                     {
                       "label": "Illustration 2",
-                      "img": "assets/earseyes/Images/incus_turner.jpg"
+                      "img": "assets/earseyes/Images/incus_turner.webp"
                     }
                   ],
                   "children": []
@@ -991,15 +991,15 @@
                   "id": 59,
                   "label": "Stapes",
                   "type": "img",
-                  "sound": "assets/earseyes/Sounds/stapes.wav",
+                  "sound": "assets/earseyes/Sounds/stapes.mp3",
                   "buttons": [
                     {
                       "label": "Illustration 1",
-                      "img": "assets/earseyes/Images/ossicles_bw_stapes.jpg"
+                      "img": "assets/earseyes/Images/ossicles_bw_stapes.webp"
                     },
                     {
                       "label": "Illustration 2",
-                      "img": "assets/earseyes/Images/stapes_turner.jpg"
+                      "img": "assets/earseyes/Images/stapes_turner.webp"
                     }
                   ],
                   "children": []
@@ -1010,19 +1010,19 @@
               "id": 60,
               "label": "Tensor Tympani Muscle",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/tensor_typm_muscle.wav",
+              "sound": "assets/earseyes/Sounds/tensor_typm_muscle.mp3",
               "buttons": [
                 {
                   "label": "Illustration 1",
-                  "img": "assets/earseyes/Images/tensor-tympani_box.jpg"
+                  "img": "assets/earseyes/Images/tensor-tympani_box.webp"
                 },
                 {
                   "label": "Highlight in Blue",
-                  "img": "assets/earseyes/Images/tensor-tympani_highlight.jpg"
+                  "img": "assets/earseyes/Images/tensor-tympani_highlight.webp"
                 },
                 {
                   "label": "Illustration 2",
-                  "img": "assets/earseyes/Images/tensor_tympani_turner.jpg"
+                  "img": "assets/earseyes/Images/tensor_tympani_turner.webp"
                 }
               ],
               "children": []
@@ -1031,15 +1031,15 @@
               "id": 61,
               "label": "Stapedius Muscle",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/stapedius_muscle.wav",
+              "sound": "assets/earseyes/Sounds/stapedius_muscle.mp3",
               "buttons": [
                 {
                   "label": "Illustration 1",
-                  "img": "assets/earseyes/Images/stapedius_turner.jpg"
+                  "img": "assets/earseyes/Images/stapedius_turner.webp"
                 },
                 {
                   "label": "Illustration 2",
-                  "img": "assets/earseyes/Images/stapedius-wiki1.jpg"
+                  "img": "assets/earseyes/Images/stapedius-wiki1.webp"
                 }
               ],
               "children": []
@@ -1048,15 +1048,15 @@
               "id": 62,
               "label": "Fenestra Vestibuli (Oval Window)",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/fenestra_vestibuli.wav",
+              "sound": "assets/earseyes/Sounds/fenestra_vestibuli.mp3",
               "buttons": [
                 {
                   "label": "Illustration 1",
-                  "img": "assets/earseyes/Images/oval_window_turner.jpg"
+                  "img": "assets/earseyes/Images/oval_window_turner.webp"
                 },
                 {
                   "label": "Illustration 2",
-                  "img": "assets/earseyes/Images/oval_window_lg.jpg"
+                  "img": "assets/earseyes/Images/oval_window_lg.webp"
                 }
               ],
               "children": []
@@ -1065,15 +1065,15 @@
               "id": 63,
               "label": "Fenestra Cochlea (Round Window)",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/fenestra_cochlea.wav",
+              "sound": "assets/earseyes/Sounds/fenestra_cochlea.mp3",
               "buttons": [
                 {
                   "label": "Illustration 1",
-                  "img": "assets/earseyes/Images/round_window_turner.jpg"
+                  "img": "assets/earseyes/Images/round_window_turner.webp"
                 },
                 {
                   "label": "Illustration 2",
-                  "img": "assets/earseyes/Images/round_window_lg.jpg"
+                  "img": "assets/earseyes/Images/round_window_lg.webp"
                 }
               ],
               "children": []
@@ -1089,19 +1089,19 @@
               "id": 65,
               "label": "Cochlea",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/cochlea.wav",
+              "sound": "assets/earseyes/Sounds/cochlea.mp3",
               "buttons": [
                 {
                   "label": "Illustration 1",
-                  "img": "assets/earseyes/Images/cochlea_box.jpg"
+                  "img": "assets/earseyes/Images/cochlea_box.webp"
                 },
                 {
                   "label": "Highlight in Blue",
-                  "img": "assets/earseyes/Images/cochlea_highlight.jpg"
+                  "img": "assets/earseyes/Images/cochlea_highlight.webp"
                 },
                 {
                   "label": "Illustration 2",
-                  "img": "assets/earseyes/Images/cochlea_turner.jpg"
+                  "img": "assets/earseyes/Images/cochlea_turner.webp"
                 }
               ],
               "children": [
@@ -1109,11 +1109,11 @@
                   "id": 66,
                   "label": "Scala Vestibuli",
                   "type": "img",
-                  "sound": "assets/earseyes/Sounds/scala_vestibuli.wav",
+                  "sound": "assets/earseyes/Sounds/scala_vestibuli.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/earseyes/Images/scala_vestibuli_wiki1.jpg"
+                      "img": "assets/earseyes/Images/scala_vestibuli_wiki1.webp"
                     }
                   ],
                   "children": []
@@ -1122,11 +1122,11 @@
                   "id": 67,
                   "label": "Vestibular Membrane",
                   "type": "img",
-                  "sound": "assets/earseyes/Sounds/vestibular_membrane.wav",
+                  "sound": "assets/earseyes/Sounds/vestibular_membrane.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/earseyes/Images/vestibular_membrane_wiki1.jpg"
+                      "img": "assets/earseyes/Images/vestibular_membrane_wiki1.webp"
                     }
                   ],
                   "children": []
@@ -1135,11 +1135,11 @@
                   "id": 68,
                   "label": "Scala Tympani",
                   "type": "img",
-                  "sound": "assets/earseyes/Sounds/scala_tympani.wav",
+                  "sound": "assets/earseyes/Sounds/scala_tympani.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/earseyes/Images/scala_tympani_wiki1.jpg"
+                      "img": "assets/earseyes/Images/scala_tympani_wiki1.webp"
                     }
                   ],
                   "children": []
@@ -1148,11 +1148,11 @@
                   "id": 69,
                   "label": "Scala Media (Cochlear Duct)",
                   "type": "img",
-                  "sound": "assets/earseyes/Sounds/scala_media.wav",
+                  "sound": "assets/earseyes/Sounds/scala_media.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/earseyes/Images/scala_media_wiki1.jpg"
+                      "img": "assets/earseyes/Images/scala_media_wiki1.webp"
                     }
                   ],
                   "children": []
@@ -1163,11 +1163,11 @@
               "id": 70,
               "label": "Organ of Corti (Spiral Organ)",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/organ_of_corti.wav",
+              "sound": "assets/earseyes/Sounds/organ_of_corti.mp3",
               "buttons": [
                 {
                   "label": "",
-                  "img": "assets/earseyes/Images/organ_corti_wiki1.jpg"
+                  "img": "assets/earseyes/Images/organ_corti_wiki1.webp"
                 }
               ],
               "children": [
@@ -1175,11 +1175,11 @@
                   "id": 71,
                   "label": "Basilar membrane",
                   "type": "img",
-                  "sound": "assets/earseyes/Sounds/basilar_membrane.wav",
+                  "sound": "assets/earseyes/Sounds/basilar_membrane.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/earseyes/Images/basilar_membrane_wiki1.jpg"
+                      "img": "assets/earseyes/Images/basilar_membrane_wiki1.webp"
                     }
                   ],
                   "children": []
@@ -1188,11 +1188,11 @@
                   "id": 72,
                   "label": "Tectorial Membrane",
                   "type": "img",
-                  "sound": "assets/earseyes/Sounds/tectorial_membrane.wav",
+                  "sound": "assets/earseyes/Sounds/tectorial_membrane.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/earseyes/Images/tectoria_wiki1.jpg"
+                      "img": "assets/earseyes/Images/tectoria_wiki1.webp"
                     }
                   ],
                   "children": []
@@ -1201,11 +1201,11 @@
                   "id": 73,
                   "label": "Hair Cells",
                   "type": "img",
-                  "sound": "assets/earseyes/Sounds/hair_cells.wav",
+                  "sound": "assets/earseyes/Sounds/hair_cells.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/earseyes/Images/Hair-Cells1.jpg"
+                      "img": "assets/earseyes/Images/Hair-Cells1.webp"
                     }
                   ],
                   "children": []
@@ -1216,15 +1216,15 @@
               "id": 74,
               "label": "Vestibulocochlear (Auditory) Nerve",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/vestibulococh_or_aud_nerve.wav",
+              "sound": "assets/earseyes/Sounds/vestibulococh_or_aud_nerve.mp3",
               "buttons": [
                 {
                   "label": "Illustration",
-                  "img": "assets/earseyes/Images/vestib_coch_box.jpg"
+                  "img": "assets/earseyes/Images/vestib_coch_box.webp"
                 },
                 {
                   "label": "Highlight in Blue",
-                  "img": "assets/earseyes/Images/vestib_coch_highlight.jpg"
+                  "img": "assets/earseyes/Images/vestib_coch_highlight.webp"
                 }
               ],
               "children": []
@@ -1233,11 +1233,11 @@
               "id": 75,
               "label": "Semicircular Canals",
               "type": "img",
-              "sound": "assets/earseyes/Sounds/semicircular_canals.wav",
+              "sound": "assets/earseyes/Sounds/semicircular_canals.mp3",
               "buttons": [
                 {
                   "label": "",
-                  "img": "assets/earseyes/Images/semicircular_canals_soboto.jpg"
+                  "img": "assets/earseyes/Images/semicircular_canals_soboto.webp"
                 }
               ],
               "children": [
@@ -1248,11 +1248,11 @@
                   "buttons": [
                     {
                       "label": "Illustration 1",
-                      "img": "assets/earseyes/Images/lateral_canal_soboto.jpg"
+                      "img": "assets/earseyes/Images/lateral_canal_soboto.webp"
                     },
                     {
                       "label": "Illustration 2",
-                      "img": "assets/earseyes/Images/lateral_canal_box.jpg"
+                      "img": "assets/earseyes/Images/lateral_canal_box.webp"
                     }
                   ],
                   "children": []
@@ -1264,11 +1264,11 @@
                   "buttons": [
                     {
                       "label": "Illustration 1",
-                      "img": "assets/earseyes/Images/superior_canal_soboto.jpg"
+                      "img": "assets/earseyes/Images/superior_canal_soboto.webp"
                     },
                     {
                       "label": "Illustration 2",
-                      "img": "assets/earseyes/Images/superior_canal_box.jpg"
+                      "img": "assets/earseyes/Images/superior_canal_box.webp"
                     }
                   ],
                   "children": []
@@ -1280,11 +1280,11 @@
                   "buttons": [
                     {
                       "label": "Illustration 1",
-                      "img": "assets/earseyes/Images/posterior_canal_soboto.jpg"
+                      "img": "assets/earseyes/Images/posterior_canal_soboto.webp"
                     },
                     {
                       "label": "Illustration 2",
-                      "img": "assets/earseyes/Images/posterior_canal_box.jpg"
+                      "img": "assets/earseyes/Images/posterior_canal_box.webp"
                     }
                   ],
                   "children": []
@@ -1293,11 +1293,11 @@
                   "id": 79,
                   "label": "Ampullae",
                   "type": "img",
-                  "sound": "assets/earseyes/Sounds/ampullae.wav",
+                  "sound": "assets/earseyes/Sounds/ampullae.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/earseyes/Images/ampulae_soboto.jpg"
+                      "img": "assets/earseyes/Images/ampulae_soboto.webp"
                     }
                   ],
                   "children": []

@@ -40,11 +40,11 @@
               "id": 4,
               "label": "Meninges",
               "type": "img",
-              "sound": "assets/nervous/Sounds/meninges.wav",
+              "sound": "assets/nervous/Sounds/meninges.mp3",
               "buttons": [
                 {
                   "label": "",
-                  "img": "assets/nervous/Images/coverings_brain_final.jpg"
+                  "img": "assets/nervous/Images/coverings_brain_final.webp"
                 }
               ],
               "children": [
@@ -52,19 +52,19 @@
                   "id": 5,
                   "label": "Dura Mater",
                   "type": "img",
-                  "sound": "assets/nervous/Sounds/dura_mater.wav",
+                  "sound": "assets/nervous/Sounds/dura_mater.mp3",
                   "buttons": [
                     {
                       "label": "Illustration 1",
-                      "img": "assets/nervous/Images/coverings_brain_final-Dura_Mater.jpg"
+                      "img": "assets/nervous/Images/coverings_brain_final-Dura_Mater.webp"
                     },
                     {
                       "label": "Illustration 2",
-                      "img": "assets/nervous/Images/coverings_of_brain_zoom-Dura-Mater.jpg"
+                      "img": "assets/nervous/Images/coverings_of_brain_zoom-Dura-Mater.webp"
                     },
                     {
                       "label": "Illustration 3",
-                      "img": "assets/nervous/Images/dura_saggital.jpg"
+                      "img": "assets/nervous/Images/dura_saggital.webp"
                     }
                   ],
                   "children": []
@@ -73,19 +73,19 @@
                   "id": 6,
                   "label": "Arachnoid Mater",
                   "type": "img",
-                  "sound": "assets/nervous/Sounds/arachnoid_membrane.wav",
+                  "sound": "assets/nervous/Sounds/arachnoid_membrane.mp3",
                   "buttons": [
                     {
                       "label": "Illustration 1",
-                      "img": "assets/nervous/Images/coverings_brain_final-Arachnoid_Mater.jpg"
+                      "img": "assets/nervous/Images/coverings_brain_final-Arachnoid_Mater.webp"
                     },
                     {
                       "label": "Illustration 2",
-                      "img": "assets/nervous/Images/coverings_of_brain_zoom-Arachnoid-Mater.jpg"
+                      "img": "assets/nervous/Images/coverings_of_brain_zoom-Arachnoid-Mater.webp"
                     },
                     {
                       "label": "Illustration 3",
-                      "img": "assets/nervous/Images/arachnoid_saggital.jpg"
+                      "img": "assets/nervous/Images/arachnoid_saggital.webp"
                     }
                   ],
                   "children": []
@@ -94,19 +94,19 @@
                   "id": 7,
                   "label": "Pia Mater",
                   "type": "img",
-                  "sound": "assets/nervous/Sounds/pia_mater.wav",
+                  "sound": "assets/nervous/Sounds/pia_mater.mp3",
                   "buttons": [
                     {
                       "label": "Illustration 1",
-                      "img": "assets/nervous/Images/coverings_brain_final-Pia_Mater.jpg"
+                      "img": "assets/nervous/Images/coverings_brain_final-Pia_Mater.webp"
                     },
                     {
                       "label": "Illustration 2",
-                      "img": "assets/nervous/Images/coverings_of_brain_zoom-Pia-Mater.jpg"
+                      "img": "assets/nervous/Images/coverings_of_brain_zoom-Pia-Mater.webp"
                     },
                     {
                       "label": "Illustration 3",
-                      "img": "assets/nervous/Images/pia_saggital.jpg"
+                      "img": "assets/nervous/Images/pia_saggital.webp"
                     }
                   ],
                   "children": []
@@ -117,11 +117,11 @@
               "id": 8,
               "label": "Falx Cerebri",
               "type": "img",
-              "sound": "assets/nervous/Sounds/falx_cerebri.wav",
+              "sound": "assets/nervous/Sounds/falx_cerebri.mp3",
               "buttons": [
                 {
                   "label": "Illustration 1",
-                  "img": "assets/nervous/Images/Sobo_Falx_Cerebri.jpg"
+                  "img": "assets/nervous/Images/Sobo_Falx_Cerebri.webp"
                 }
               ],
               "children": []
@@ -130,11 +130,11 @@
               "id": 9,
               "label": "Falx Cerebelli",
               "type": "img",
-              "sound": "assets/nervous/Sounds/falx_cerebelli.wav",
+              "sound": "assets/nervous/Sounds/falx_cerebelli.mp3",
               "buttons": [
                 {
                   "label": "",
-                  "img": "assets/nervous/Images/Sobo_Falx_Cerebelli.jpg"
+                  "img": "assets/nervous/Images/Sobo_Falx_Cerebelli.webp"
                 }
               ],
               "children": []
@@ -143,15 +143,15 @@
               "id": 10,
               "label": "Tentorium Cerebelli",
               "type": "img",
-              "sound": "assets/nervous/Sounds/tentorium_cerebelli.wav",
+              "sound": "assets/nervous/Sounds/tentorium_cerebelli.mp3",
               "buttons": [
                 {
                   "label": "Illustration 1",
-                  "img": "assets/nervous/Images/Soboto_Tentorium_Cerebelli.jpg"
+                  "img": "assets/nervous/Images/Soboto_Tentorium_Cerebelli.webp"
                 },
                 {
                   "label": "Illustration 2",
-                  "img": "assets/nervous/Images/Tentorium-Cerebelli2i.jpg"
+                  "img": "assets/nervous/Images/Tentorium-Cerebelli2i.webp"
                 }
               ],
               "children": []
@@ -160,23 +160,23 @@
               "id": 11,
               "label": "Dural Sinus",
               "type": "img",
-              "sound": "assets/nervous/Sounds/dural_sinus.wav",
+              "sound": "assets/nervous/Sounds/dural_sinus.mp3",
               "buttons": [
                 {
                   "label": "Illustration 1",
-                  "img": "assets/nervous/Images/Sobo_Dural_Sinus.jpg"
+                  "img": "assets/nervous/Images/Sobo_Dural_Sinus.webp"
                 },
                 {
                   "label": "Illustration 2",
-                  "img": "assets/nervous/Images/coverings_brain_final-Dural_Sinus.jpg"
+                  "img": "assets/nervous/Images/coverings_brain_final-Dural_Sinus.webp"
                 },
                 {
                   "label": "Illustration 3",
-                  "img": "assets/nervous/Images/coverings_of_brain_zoom-Dural-Sinus.jpg"
+                  "img": "assets/nervous/Images/coverings_of_brain_zoom-Dural-Sinus.webp"
                 },
                 {
                   "label": "Illustration 4",
-                  "img": "assets/nervous/Images/Sobo_superior-brain_dural-sinus.jpg"
+                  "img": "assets/nervous/Images/Sobo_superior-brain_dural-sinus.webp"
                 }
               ],
               "children": []
@@ -185,15 +185,15 @@
               "id": 12,
               "label": "Vertebral Arteries",
               "type": "img",
-              "sound": "assets/nervous/Sounds/vertebral_arteries.wav",
+              "sound": "assets/nervous/Sounds/vertebral_arteries.mp3",
               "buttons": [
                 {
                   "label": "Illustration 1",
-                  "img": "assets/nervous/Images/Grey_Brain_VertArt.jpg"
+                  "img": "assets/nervous/Images/Grey_Brain_VertArt.webp"
                 },
                 {
                   "label": "Illustration 2",
-                  "img": "assets/nervous/Images/vertebral_arteries_turner.jpg"
+                  "img": "assets/nervous/Images/vertebral_arteries_turner.webp"
                 }
               ],
               "children": []
@@ -202,15 +202,15 @@
               "id": 13,
               "label": "Basilar Artery",
               "type": "img",
-              "sound": "assets/nervous/Sounds/basilar_artery.wav",
+              "sound": "assets/nervous/Sounds/basilar_artery.mp3",
               "buttons": [
                 {
                   "label": "Illustration 1",
-                  "img": "assets/nervous/Images/Grey_Brain_Basilar.jpg"
+                  "img": "assets/nervous/Images/Grey_Brain_Basilar.webp"
                 },
                 {
                   "label": "Illustration 2",
-                  "img": "assets/nervous/Images/Basilar_Artery_turner.jpg"
+                  "img": "assets/nervous/Images/Basilar_Artery_turner.webp"
                 }
               ],
               "children": []
@@ -219,19 +219,19 @@
               "id": 14,
               "label": "Internal Carotid Arteries",
               "type": "img",
-              "sound": "assets/nervous/Sounds/internal_carotid_arteries.wav",
+              "sound": "assets/nervous/Sounds/internal_carotid_arteries.mp3",
               "buttons": [
                 {
                   "label": "Illustration 1",
-                  "img": "assets/nervous/Images/Grey_Brain_internal_carodtid.jpg"
+                  "img": "assets/nervous/Images/Grey_Brain_internal_carodtid.webp"
                 },
                 {
                   "label": "Illustration 2",
-                  "img": "assets/nervous/Images/internal_carotid_turner.jpg"
+                  "img": "assets/nervous/Images/internal_carotid_turner.webp"
                 },
                 {
                   "label": "Illustration 3",
-                  "img": "assets/nervous/Images/Internal-Carotid2.jpg"
+                  "img": "assets/nervous/Images/Internal-Carotid2.webp"
                 }
               ],
               "children": []
@@ -240,15 +240,15 @@
               "id": 15,
               "label": "Arterial Circle (circle of Willis)",
               "type": "img",
-              "sound": "assets/nervous/Sounds/arterial_circle.wav",
+              "sound": "assets/nervous/Sounds/arterial_circle.mp3",
               "buttons": [
                 {
                   "label": "Illustration 1",
-                  "img": "assets/nervous/Images/Grey_Brain_arterialcircle.jpg"
+                  "img": "assets/nervous/Images/Grey_Brain_arterialcircle.webp"
                 },
                 {
                   "label": "Illustration 2",
-                  "img": "assets/nervous/Images/Arterial_Circle_turner.jpg"
+                  "img": "assets/nervous/Images/Arterial_Circle_turner.webp"
                 }
               ],
               "children": []
@@ -263,7 +263,7 @@
           "buttons": [
             {
               "label": "",
-              "img": "assets/nervous/Images/ventricles.gif"
+              "img": "assets/nervous/Images/ventricles.webp"
             }
           ],
           "sound": "?",
@@ -272,11 +272,11 @@
               "id": 17,
               "label": "Lateral Ventricles",
               "type": "img",
-              "sound": "assets/nervous/Sounds/lateral_ventricles.wav",
+              "sound": "assets/nervous/Sounds/lateral_ventricles.mp3",
               "buttons": [
                 {
                   "label": "",
-                  "img": "assets/nervous/Images/Lateral-Ventricle-gif.gif"
+                  "img": "assets/nervous/Images/Lateral-Ventricle-gif-animate.webp"
                 }
               ],
               "children": []
@@ -285,11 +285,11 @@
               "id": 18,
               "label": "Third Ventricle",
               "type": "img",
-              "sound": "assets/nervous/Sounds/third_ventricle.wav",
+              "sound": "assets/nervous/Sounds/third_ventricle.mp3",
               "buttons": [
                 {
                   "label": "",
-                  "img": "assets/nervous/Images/third_ventricle.gif"
+                  "img": "assets/nervous/Images/third_ventricle-animate.webp"
                 }
               ],
               "children": []
@@ -298,11 +298,11 @@
               "id": 19,
               "label": "Fourth Ventricle",
               "type": "img",
-              "sound": "assets/nervous/Sounds/fourth_ventricle.wav",
+              "sound": "assets/nervous/Sounds/fourth_ventricle.mp3",
               "buttons": [
                 {
                   "label": "",
-                  "img": "assets/nervous/Images/fourth_ventricle.gif"
+                  "img": "assets/nervous/Images/fourth_ventricle.webp"
                 }
               ],
               "children": []
@@ -311,11 +311,11 @@
               "id": 20,
               "label": "Cerebral Aqueduct",
               "type": "img",
-              "sound": "assets/nervous/Sounds/cerebral_aqueduct.wav",
+              "sound": "assets/nervous/Sounds/cerebral_aqueduct.mp3",
               "buttons": [
                 {
                   "label": "",
-                  "img": "assets/nervous/Images/cerebral_aqueduct.gif"
+                  "img": "assets/nervous/Images/cerebral_aqueduct.webp"
                 }
               ],
               "children": []
@@ -324,19 +324,19 @@
               "id": 21,
               "label": "Choroid Plexus",
               "type": "img",
-              "sound": "assets/nervous/Sounds/choroid_plexus.wav",
+              "sound": "assets/nervous/Sounds/choroid_plexus.mp3",
               "buttons": [
                 {
                   "label": "Photo Example 1",
-                  "img": "assets/nervous/Images/Choroid-Plexus1.jpg"
+                  "img": "assets/nervous/Images/Choroid-Plexus1.webp"
                 },
                 {
                   "label": "Photo Example 2",
-                  "img": "assets/nervous/Images/Choroid-Plexus2.jpg"
+                  "img": "assets/nervous/Images/Choroid-Plexus2.webp"
                 },
                 {
                   "label": "Photo Example 3",
-                  "img": "assets/nervous/Images/Choroid-Plexus3.jpg"
+                  "img": "assets/nervous/Images/Choroid-Plexus3.webp"
                 }
               ],
               "children": []
@@ -345,15 +345,15 @@
               "id": 22,
               "label": "Septum Pellucidum",
               "type": "img",
-              "sound": "assets/nervous/Sounds/septum_pellucidum.wav",
+              "sound": "assets/nervous/Sounds/septum_pellucidum.mp3",
               "buttons": [
                 {
                   "label": "Illustration",
-                  "img": "assets/nervous/Images/septum_pellucidum_Sobotta.jpg"
+                  "img": "assets/nervous/Images/septum_pellucidum_Sobotta.webp"
                 },
                 {
                   "label": "Photo Closeup",
-                  "img": "assets/nervous/Images/Septum-Pellucidum-closeup.jpg"
+                  "img": "assets/nervous/Images/Septum-Pellucidum-closeup.webp"
                 }
               ],
               "children": []
@@ -373,15 +373,15 @@
               "buttons": [
                 {
                   "label": "Top",
-                  "img": "assets/nervous/Images/Sobotta-cerebrum-top.jpg"
+                  "img": "assets/nervous/Images/Sobotta-cerebrum-top.webp"
                 },
                 {
                   "label": "Medial",
-                  "img": "assets/nervous/Images/Sobotta-Brain-Hemspherei.jpg"
+                  "img": "assets/nervous/Images/Sobotta-Brain-Hemspherei.webp"
                 },
                 {
                   "label": "Inferior",
-                  "img": "assets/nervous/Images/Sobotta-cerebrum-Inferior.jpg"
+                  "img": "assets/nervous/Images/Sobotta-cerebrum-Inferior.webp"
                 }
               ],
               "children": [
@@ -389,23 +389,23 @@
                   "id": 25,
                   "label": "Cerebral Hemispheres",
                   "type": "img",
-                  "sound": "assets/nervous/Sounds/cerebral_hemispheres.wav",
+                  "sound": "assets/nervous/Sounds/cerebral_hemispheres.mp3",
                   "buttons": [
                     {
                       "label": "Left hemisphere Top",
-                      "img": "assets/nervous/Images/Soboto--brain_top_left.jpg"
+                      "img": "assets/nervous/Images/Soboto--brain_top_left.webp"
                     },
                     {
                       "label": "Right hemisphere Top",
-                      "img": "assets/nervous/Images/Soboto--brain_top_right.jpg"
+                      "img": "assets/nervous/Images/Soboto--brain_top_right.webp"
                     },
                     {
                       "label": "Medial View Left Hemisphere",
-                      "img": "assets/nervous/Images/Sobotta-Brain-Hemspherei.jpg"
+                      "img": "assets/nervous/Images/Sobotta-Brain-Hemspherei.webp"
                     },
                     {
                       "label": "Lateral View Right Hemisphere",
-                      "img": "assets/nervous/Images/right-hemiphsere-cad.jpg"
+                      "img": "assets/nervous/Images/right-hemiphsere-cad.webp"
                     }
                   ],
                   "children": []
@@ -414,11 +414,11 @@
                   "id": 26,
                   "label": "Gyrus",
                   "type": "img",
-                  "sound": "assets/nervous/Sounds/gyrus.wav",
+                  "sound": "assets/nervous/Sounds/gyrus.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/nervous/Images/gyri.jpg"
+                      "img": "assets/nervous/Images/gyri.webp"
                     }
                   ],
                   "children": []
@@ -427,11 +427,11 @@
                   "id": 27,
                   "label": "Sulcus",
                   "type": "img",
-                  "sound": "assets/nervous/Sounds/sulcus.wav",
+                  "sound": "assets/nervous/Sounds/sulcus.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/nervous/Images/sulci.jpg"
+                      "img": "assets/nervous/Images/sulci.webp"
                     }
                   ],
                   "children": []
@@ -440,11 +440,11 @@
                   "id": 28,
                   "label": "Gray Matter",
                   "type": "img",
-                  "sound": "assets/nervous/Sounds/grey_matter.wav",
+                  "sound": "assets/nervous/Sounds/grey_matter.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/nervous/Images/Brain_grey_matter.jpg"
+                      "img": "assets/nervous/Images/Brain_grey_matter.webp"
                     }
                   ],
                   "children": []
@@ -453,11 +453,11 @@
                   "id": 29,
                   "label": "White Matter",
                   "type": "img",
-                  "sound": "assets/nervous/Sounds/white_matter.wav",
+                  "sound": "assets/nervous/Sounds/white_matter.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/nervous/Images/brain_white_matter.jpg"
+                      "img": "assets/nervous/Images/brain_white_matter.webp"
                     }
                   ],
                   "children": []
@@ -466,11 +466,11 @@
                   "id": 30,
                   "label": "Longitudinal Fissure",
                   "type": "img",
-                  "sound": "assets/nervous/Sounds/longitudinal_fissure.wav",
+                  "sound": "assets/nervous/Sounds/longitudinal_fissure.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/nervous/Images/Soboto-top-brain-long-fissure.jpg"
+                      "img": "assets/nervous/Images/Soboto-top-brain-long-fissure.webp"
                     }
                   ],
                   "children": []
@@ -479,15 +479,15 @@
                   "id": 31,
                   "label": "Lateral Sulcus (or fissure)",
                   "type": "img",
-                  "sound": "assets/nervous/Sounds/lateral_sulcus.wav",
+                  "sound": "assets/nervous/Sounds/lateral_sulcus.mp3",
                   "buttons": [
                     {
                       "label": "Lateral",
-                      "img": "assets/nervous/Images/cad_lat_fissure.jpg"
+                      "img": "assets/nervous/Images/cad_lat_fissure.webp"
                     },
                     {
                       "label": "3d Illustration",
-                      "img": "assets/nervous/Images/Lateral_sulcus.gif"
+                      "img": "assets/nervous/Images/Lateral_sulcus-animate.webp"
                     }
                   ],
                   "children": []
@@ -496,11 +496,11 @@
                   "id": 32,
                   "label": "Parietooccipital Sulcus",
                   "type": "img",
-                  "sound": "assets/nervous/Sounds/parietooccipital_sulcus.wav",
+                  "sound": "assets/nervous/Sounds/parietooccipital_sulcus.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/nervous/Images/Sobotta-parietooccip-Hemi.jpg"
+                      "img": "assets/nervous/Images/Sobotta-parietooccip-Hemi.webp"
                     }
                   ],
                   "children": []
@@ -509,15 +509,15 @@
                   "id": 33,
                   "label": "Frontal Lobe",
                   "type": "img",
-                  "sound": "assets/nervous/Sounds/frontal_lobe.wav",
+                  "sound": "assets/nervous/Sounds/frontal_lobe.mp3",
                   "buttons": [
                     {
                       "label": "Top",
-                      "img": "assets/nervous/Images/Soboto-top-Frontal.jpg"
+                      "img": "assets/nervous/Images/Soboto-top-Frontal.webp"
                     },
                     {
                       "label": "Right Lateral",
-                      "img": "assets/nervous/Images/Cadaver-Lateral-Parietal.jpg"
+                      "img": "assets/nervous/Images/Cadaver-Lateral-Parietal.webp"
                     }
                   ],
                   "children": []
@@ -526,15 +526,15 @@
                   "id": 34,
                   "label": "Precentral Gyrus",
                   "type": "img",
-                  "sound": "assets/nervous/Sounds/precentral_gyrus.wav",
+                  "sound": "assets/nervous/Sounds/precentral_gyrus.mp3",
                   "buttons": [
                     {
                       "label": "Top",
-                      "img": "assets/nervous/Images/Soboto-top-pre-central.jpg"
+                      "img": "assets/nervous/Images/Soboto-top-pre-central.webp"
                     },
                     {
                       "label": "Right Lateral",
-                      "img": "assets/nervous/Images/Cadaver-pre-central-gyrus.jpg"
+                      "img": "assets/nervous/Images/Cadaver-pre-central-gyrus.webp"
                     }
                   ],
                   "children": []
@@ -543,15 +543,15 @@
                   "id": 35,
                   "label": "Central Sulcus",
                   "type": "img",
-                  "sound": "assets/nervous/Sounds/central_sulcus.wav",
+                  "sound": "assets/nervous/Sounds/central_sulcus.mp3",
                   "buttons": [
                     {
                       "label": "Top",
-                      "img": "assets/nervous/Images/Soboto-top-central-sulcus.jpg"
+                      "img": "assets/nervous/Images/Soboto-top-central-sulcus.webp"
                     },
                     {
                       "label": "Right Lateral",
-                      "img": "assets/nervous/Images/Cadaver-Brain-central-sulcus.jpg"
+                      "img": "assets/nervous/Images/Cadaver-Brain-central-sulcus.webp"
                     }
                   ],
                   "children": []
@@ -560,15 +560,15 @@
                   "id": 36,
                   "label": "Postcentral Gyrus",
                   "type": "img",
-                  "sound": "assets/nervous/Sounds/postcentral_gyrus.wav",
+                  "sound": "assets/nervous/Sounds/postcentral_gyrus.mp3",
                   "buttons": [
                     {
                       "label": "Top",
-                      "img": "assets/nervous/Images/Soboto-top-post-central.jpg"
+                      "img": "assets/nervous/Images/Soboto-top-post-central.webp"
                     },
                     {
                       "label": "Right Lateral",
-                      "img": "assets/nervous/Images/Cadaver-Brain-post-central.jpg"
+                      "img": "assets/nervous/Images/Cadaver-Brain-post-central.webp"
                     }
                   ],
                   "children": []
@@ -577,15 +577,15 @@
                   "id": 37,
                   "label": "Parietal Lobe",
                   "type": "img",
-                  "sound": "assets/nervous/Sounds/parietal_lobe.wav",
+                  "sound": "assets/nervous/Sounds/parietal_lobe.mp3",
                   "buttons": [
                     {
                       "label": "Top",
-                      "img": "assets/nervous/Images/Soboto-top-parietal.jpg"
+                      "img": "assets/nervous/Images/Soboto-top-parietal.webp"
                     },
                     {
                       "label": "Right Lateral",
-                      "img": "assets/nervous/Images/Cadaver-parietal_lat.jpg"
+                      "img": "assets/nervous/Images/Cadaver-parietal_lat.webp"
                     }
                   ],
                   "children": []
@@ -594,15 +594,15 @@
                   "id": 38,
                   "label": "Temporal Lobe",
                   "type": "img",
-                  "sound": "assets/nervous/Sounds/temporal_lobe.wav",
+                  "sound": "assets/nervous/Sounds/temporal_lobe.mp3",
                   "buttons": [
                     {
                       "label": "Right Lateral",
-                      "img": "assets/nervous/Images/cadaver_temporal_lat.jpg"
+                      "img": "assets/nervous/Images/cadaver_temporal_lat.webp"
                     },
                     {
                       "label": "Inferior",
-                      "img": "assets/nervous/Images/Sobotta-Brain-Inferior-temporal.jpg"
+                      "img": "assets/nervous/Images/Sobotta-Brain-Inferior-temporal.webp"
                     }
                   ],
                   "children": []
@@ -611,15 +611,15 @@
                   "id": 39,
                   "label": "Occipital Lobe",
                   "type": "img",
-                  "sound": "assets/nervous/Sounds/occipital_lobe.wav",
+                  "sound": "assets/nervous/Sounds/occipital_lobe.mp3",
                   "buttons": [
                     {
                       "label": "Top",
-                      "img": "assets/nervous/Images/Soboto-top-occipital.jpg"
+                      "img": "assets/nervous/Images/Soboto-top-occipital.webp"
                     },
                     {
                       "label": "Right Lateral",
-                      "img": "assets/nervous/Images/Cadaver-temporal_lat.jpg"
+                      "img": "assets/nervous/Images/Cadaver-temporal_lat.webp"
                     }
                   ],
                   "children": []
@@ -630,19 +630,19 @@
               "id": 40,
               "label": "Cerebellum",
               "type": "img",
-              "sound": "assets/nervous/Sounds/cerebellum.wav",
+              "sound": "assets/nervous/Sounds/cerebellum.mp3",
               "buttons": [
                 {
                   "label": "Inferior",
-                  "img": "assets/nervous/Images/Sobotta-Brain-Inferior-cerebellum.jpg"
+                  "img": "assets/nervous/Images/Sobotta-Brain-Inferior-cerebellum.webp"
                 },
                 {
                   "label": "Medial",
-                  "img": "assets/nervous/Images/Sobotta-Brain-Hemi-cerebellum.jpg"
+                  "img": "assets/nervous/Images/Sobotta-Brain-Hemi-cerebellum.webp"
                 },
                 {
                   "label": "Lateral",
-                  "img": "assets/nervous/Images/Cadaver_cerebellum_lateral.jpg"
+                  "img": "assets/nervous/Images/Cadaver_cerebellum_lateral.webp"
                 }
               ],
               "children": [
@@ -650,15 +650,15 @@
                   "id": 41,
                   "label": "Cerebellar Hemisphere",
                   "type": "img",
-                  "sound": "assets/nervous/Sounds/cerebellar_hemisphere.wav",
+                  "sound": "assets/nervous/Sounds/cerebellar_hemisphere.mp3",
                   "buttons": [
                     {
                       "label": "Right Hemiphere",
-                      "img": "assets/nervous/Images/Sobotta-Brain-Inferior-cereb-right.jpg"
+                      "img": "assets/nervous/Images/Sobotta-Brain-Inferior-cereb-right.webp"
                     },
                     {
                       "label": "Left Hemisphere",
-                      "img": "assets/nervous/Images/Sobotta-Brain-Inferior-cereb-left.jpg"
+                      "img": "assets/nervous/Images/Sobotta-Brain-Inferior-cereb-left.webp"
                     }
                   ],
                   "children": []
@@ -670,7 +670,7 @@
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/nervous/Images/Cerebellar_vermis_animation.gif"
+                      "img": "assets/nervous/Images/Cerebellar_vermis_animation-animate.webp"
                     }
                   ],
                   "children": []
@@ -679,15 +679,15 @@
                   "id": 43,
                   "label": "Arbor Vitae",
                   "type": "img",
-                  "sound": "assets/nervous/Sounds/arbor_vitae.wav",
+                  "sound": "assets/nervous/Sounds/arbor_vitae.mp3",
                   "buttons": [
                     {
                       "label": "Medial View",
-                      "img": "assets/nervous/Images/Sobotta-arborvitae-Hemi.jpg"
+                      "img": "assets/nervous/Images/Sobotta-arborvitae-Hemi.webp"
                     },
                     {
                       "label": "Illustration",
-                      "img": "assets/nervous/Images/Arbor_Vitae_red.png"
+                      "img": "assets/nervous/Images/Arbor_Vitae_red.webp"
                     }
                   ],
                   "children": []
@@ -698,11 +698,11 @@
               "id": 44,
               "label": "Corpus Callosum",
               "type": "img",
-              "sound": "assets/nervous/Sounds/corpus_callosum.wav",
+              "sound": "assets/nervous/Sounds/corpus_callosum.mp3",
               "buttons": [
                 {
                   "label": "",
-                  "img": "assets/nervous/Images/Sobotta-corpus-callosum-Hemi.jpg"
+                  "img": "assets/nervous/Images/Sobotta-corpus-callosum-Hemi.webp"
                 }
               ],
               "children": [
@@ -710,11 +710,11 @@
                   "id": 45,
                   "label": "Genu",
                   "type": "img",
-                  "sound": "assets/nervous/Sounds/genu.wav",
+                  "sound": "assets/nervous/Sounds/genu.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/nervous/Images/Sobotta-Brain-Hemi-Genu.jpg"
+                      "img": "assets/nervous/Images/Sobotta-Brain-Hemi-Genu.webp"
                     }
                   ],
                   "children": []
@@ -723,11 +723,11 @@
                   "id": 46,
                   "label": "Splenium",
                   "type": "img",
-                  "sound": "assets/nervous/Sounds/splenium.wav",
+                  "sound": "assets/nervous/Sounds/splenium.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/nervous/Images/Sobotta-Brain-Hemi-splenium.jpg"
+                      "img": "assets/nervous/Images/Sobotta-Brain-Hemi-splenium.webp"
                     }
                   ],
                   "children": []
@@ -744,32 +744,32 @@
           "buttons": [
             {
               "label": "Medial View",
-              "img": "assets/nervous/Images/Sobotta-Brain-Hemi-diencephalon.jpg"
+              "img": "assets/nervous/Images/Sobotta-Brain-Hemi-diencephalon.webp"
             },
             {
               "label": "Top of Brainstem",
-              "img": "assets/nervous/Images/dienceph-on-top-brainstem.jpg"
+              "img": "assets/nervous/Images/dienceph-on-top-brainstem.webp"
             },
             {
               "label": "Animation",
-              "img": "assets/nervous/Images/diencephalon.gif"
+              "img": "assets/nervous/Images/diencephalon.webp"
             }
           ],
-          "sound": "assets/nervous/Sounds/diencephalon.wav",
+          "sound": "assets/nervous/Sounds/diencephalon.mp3",
           "children": [
             {
               "id": 48,
               "label": "Thalamus",
               "type": "img",
-              "sound": "assets/nervous/Sounds/thalamus.wav",
+              "sound": "assets/nervous/Sounds/thalamus.mp3",
               "buttons": [
                 {
                   "label": "Medial View",
-                  "img": "assets/nervous/Images/Sobotta-Thalamus-Hemi.jpg"
+                  "img": "assets/nervous/Images/Sobotta-Thalamus-Hemi.webp"
                 },
                 {
                   "label": "Top of Brainstem",
-                  "img": "assets/nervous/Images/Thalamus-on-Brain-stem.jpg"
+                  "img": "assets/nervous/Images/Thalamus-on-Brain-stem.webp"
                 }
               ],
               "children": [
@@ -777,11 +777,11 @@
                   "id": 49,
                   "label": "Intermediate Mass",
                   "type": "img",
-                  "sound": "assets/nervous/Sounds/intermediate_mass.wav",
+                  "sound": "assets/nervous/Sounds/intermediate_mass.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/nervous/Images/Sobotta-Intermediate-Mass-Hemi.jpg"
+                      "img": "assets/nervous/Images/Sobotta-Intermediate-Mass-Hemi.webp"
                     }
                   ],
                   "children": []
@@ -792,11 +792,11 @@
               "id": 50,
               "label": "Hypothalamus",
               "type": "img",
-              "sound": "assets/nervous/Sounds/hypothalamus.wav",
+              "sound": "assets/nervous/Sounds/hypothalamus.mp3",
               "buttons": [
                 {
                   "label": "",
-                  "img": "assets/nervous/Images/Sobotta-hypothalmus-Hemi.jpg"
+                  "img": "assets/nervous/Images/Sobotta-hypothalmus-Hemi.webp"
                 }
               ],
               "children": [
@@ -804,19 +804,19 @@
                   "id": 51,
                   "label": "Mammillary Body",
                   "type": "img",
-                  "sound": "assets/nervous/Sounds/mammilary_body.wav",
+                  "sound": "assets/nervous/Sounds/mammilary_body.mp3",
                   "buttons": [
                     {
                       "label": "Medial",
-                      "img": "assets/nervous/Images/Sobotta-Mamillary-Body-Hemi.jpg"
+                      "img": "assets/nervous/Images/Sobotta-Mamillary-Body-Hemi.webp"
                     },
                     {
                       "label": "Inferior",
-                      "img": "assets/nervous/Images/Sobotta-Brain-Inferior_mamillary.jpg"
+                      "img": "assets/nervous/Images/Sobotta-Brain-Inferior_mamillary.webp"
                     },
                     {
                       "label": "Illustration",
-                      "img": "assets/nervous/Images/Brainstem_ventral_mamillary.jpg"
+                      "img": "assets/nervous/Images/Brainstem_ventral_mamillary.webp"
                     }
                   ],
                   "children": []
@@ -827,11 +827,11 @@
               "id": 52,
               "label": "Fornix",
               "type": "img",
-              "sound": "assets/nervous/Sounds/fornix.wav",
+              "sound": "assets/nervous/Sounds/fornix.mp3",
               "buttons": [
                 {
                   "label": "Lateral",
-                  "img": "assets/nervous/Images/Sobotta-Fornix-Hemi.jpg"
+                  "img": "assets/nervous/Images/Sobotta-Fornix-Hemi.webp"
                 }
               ],
               "children": []
@@ -840,23 +840,23 @@
               "id": 53,
               "label": "Pineal Body (Gland)",
               "type": "img",
-              "sound": "assets/nervous/Sounds/pineal_body.wav",
+              "sound": "assets/nervous/Sounds/pineal_body.mp3",
               "buttons": [
                 {
                   "label": "Medial",
-                  "img": "assets/nervous/Images/Sobotta-pineal-Hemi.jpg"
+                  "img": "assets/nervous/Images/Sobotta-pineal-Hemi.webp"
                 },
                 {
                   "label": "Illustration 1",
-                  "img": "assets/nervous/Images/Pituitary_pineal_glands.png"
+                  "img": "assets/nervous/Images/Pituitary_pineal_glands.webp"
                 },
                 {
                   "label": "Illustration 2",
-                  "img": "assets/nervous/Images/pineal_hypo.png"
+                  "img": "assets/nervous/Images/pineal_hypo.webp"
                 },
                 {
                   "label": "Illustration 3",
-                  "img": "assets/nervous/Images/piineal_post_brainstem.png"
+                  "img": "assets/nervous/Images/piineal_post_brainstem.webp"
                 }
               ],
               "children": []
@@ -865,19 +865,19 @@
               "id": 54,
               "label": "Pituitary Gland",
               "type": "img",
-              "sound": "assets/nervous/Sounds/pituitary_gland.wav",
+              "sound": "assets/nervous/Sounds/pituitary_gland.mp3",
               "buttons": [
                 {
                   "label": "Medial",
-                  "img": "assets/nervous/Images/Sobotta-Pituitary-Hemi.jpg"
+                  "img": "assets/nervous/Images/Sobotta-Pituitary-Hemi.webp"
                 },
                 {
                   "label": "Inferior",
-                  "img": "assets/nervous/Images/Sobotta-Brain-Inferior-pituitary.jpg"
+                  "img": "assets/nervous/Images/Sobotta-Brain-Inferior-pituitary.webp"
                 },
                 {
                   "label": "Illustrated",
-                  "img": "assets/nervous/Images/pituitary_illustrated.png"
+                  "img": "assets/nervous/Images/pituitary_illustrated.webp"
                 }
               ],
               "children": [
@@ -885,15 +885,15 @@
                   "id": 55,
                   "label": "Infundibulum",
                   "type": "img",
-                  "sound": "assets/nervous/Sounds/infundibulum.wav",
+                  "sound": "assets/nervous/Sounds/infundibulum.mp3",
                   "buttons": [
                     {
                       "label": "Medial",
-                      "img": "assets/nervous/Images/Sobotta-Infundibulum-Hemi.jpg"
+                      "img": "assets/nervous/Images/Sobotta-Infundibulum-Hemi.webp"
                     },
                     {
                       "label": "Illustrated",
-                      "img": "assets/nervous/Images/infundibulum-illustrated.png"
+                      "img": "assets/nervous/Images/infundibulum-illustrated.webp"
                     }
                   ],
                   "children": []
@@ -909,32 +909,32 @@
           "buttons": [
             {
               "label": "Illustration",
-              "img": "assets/nervous/Images/Brain_sagittal_section_stem_highlighted.png"
+              "img": "assets/nervous/Images/Brain_sagittal_section_stem_highlighted.webp"
             },
             {
               "label": "Medial",
-              "img": "assets/nervous/Images/Sobotta-Brain-Hemi-brainstem.jpg"
+              "img": "assets/nervous/Images/Sobotta-Brain-Hemi-brainstem.webp"
             },
             {
               "label": "Inferior",
-              "img": "assets/nervous/Images/Sobotta-Brainstem-inferior.jpg"
+              "img": "assets/nervous/Images/Sobotta-Brainstem-inferior.webp"
             }
           ],
-          "sound": "assets/nervous/Sounds/brain_stem.wav",
+          "sound": "assets/nervous/Sounds/brain_stem.mp3",
           "children": [
             {
               "id": 57,
               "label": "Medulla Oblongata",
               "type": "img",
-              "sound": "assets/nervous/Sounds/medulla_oblongata.wav",
+              "sound": "assets/nervous/Sounds/medulla_oblongata.mp3",
               "buttons": [
                 {
                   "label": "Medial",
-                  "img": "assets/nervous/Images/Sobotta-medulla-Hemi.jpg"
+                  "img": "assets/nervous/Images/Sobotta-medulla-Hemi.webp"
                 },
                 {
                   "label": "Inferior",
-                  "img": "assets/nervous/Images/Sobotta-Brain-Inferior-medulla.jpg"
+                  "img": "assets/nervous/Images/Sobotta-Brain-Inferior-medulla.webp"
                 }
               ],
               "children": []
@@ -943,15 +943,15 @@
               "id": 58,
               "label": "Pons",
               "type": "img",
-              "sound": "assets/nervous/Sounds/pons.wav",
+              "sound": "assets/nervous/Sounds/pons.mp3",
               "buttons": [
                 {
                   "label": "Medial",
-                  "img": "assets/nervous/Images/Sobotta-Pons-Hemi.jpg"
+                  "img": "assets/nervous/Images/Sobotta-Pons-Hemi.webp"
                 },
                 {
                   "label": "Inferior",
-                  "img": "assets/nervous/Images/Sobotta-Brain-Inferior-pons.jpg"
+                  "img": "assets/nervous/Images/Sobotta-Brain-Inferior-pons.webp"
                 }
               ],
               "children": []
@@ -960,15 +960,15 @@
               "id": 59,
               "label": "Midbrain",
               "type": "img",
-              "sound": "assets/nervous/Sounds/midbrain.wav",
+              "sound": "assets/nervous/Sounds/midbrain.mp3",
               "buttons": [
                 {
                   "label": "Medial",
-                  "img": "assets/nervous/Images/Sobotta-midbrain-Hemi.jpg"
+                  "img": "assets/nervous/Images/Sobotta-midbrain-Hemi.webp"
                 },
                 {
                   "label": "Rotating Midbrain",
-                  "img": "assets/nervous/Images/Midbrain.gif"
+                  "img": "assets/nervous/Images/Midbrain-animate.webp"
                 }
               ],
               "children": [
@@ -976,23 +976,23 @@
                   "id": 60,
                   "label": "Corpora Quadrigemina",
                   "type": "img",
-                  "sound": "assets/nervous/Sounds/corpora_quadrigemina.wav",
+                  "sound": "assets/nervous/Sounds/corpora_quadrigemina.mp3",
                   "buttons": [
                     {
                       "label": "Medial",
-                      "img": "assets/nervous/Images/Sobotta-Hem_corpora-Quadi.jpg"
+                      "img": "assets/nervous/Images/Sobotta-Hem_corpora-Quadi.webp"
                     },
                     {
                       "label": "Posteior without Cerebrum",
-                      "img": "assets/nervous/Images/corpora-gray-with-thalmus.jpg"
+                      "img": "assets/nervous/Images/corpora-gray-with-thalmus.webp"
                     },
                     {
                       "label": "Superior Colliculi",
-                      "img": "assets/nervous/Images/superior-colliculi-gray.jpg"
+                      "img": "assets/nervous/Images/superior-colliculi-gray.webp"
                     },
                     {
                       "label": "Inferior Colliculi",
-                      "img": "assets/nervous/Images/inferior-colliculi-gray.jpg"
+                      "img": "assets/nervous/Images/inferior-colliculi-gray.webp"
                     }
                   ],
                   "children": []
@@ -1008,7 +1008,7 @@
           "buttons": [
             {
               "label": "",
-              "img": "assets/nervous/Images/cranial-nerve-illustrate.png"
+              "img": "assets/nervous/Images/cranial-nerve-illustrate.webp"
             }
           ],
           "sound": "?",
@@ -1017,15 +1017,15 @@
               "id": 62,
               "label": "I. Olfactory Nerve",
               "type": "img",
-              "sound": "assets/nervous/Sounds/olfactory_nerve.wav",
+              "sound": "assets/nervous/Sounds/olfactory_nerve.mp3",
               "buttons": [
                 {
                   "label": "Anterior",
-                  "img": "assets/nervous/Images/Sobotta-Brain-olfactory-n.jpg"
+                  "img": "assets/nervous/Images/Sobotta-Brain-olfactory-n.webp"
                 },
                 {
                   "label": "Zoom",
-                  "img": "assets/nervous/Images/Sobota-olfactory nerve-zoom.jpg"
+                  "img": "assets/nervous/Images/Sobota-olfactory nerve-zoom.webp"
                 }
               ],
               "children": [
@@ -1033,15 +1033,15 @@
                   "id": 63,
                   "label": "Olfactory Bulb",
                   "type": "img",
-                  "sound": "assets/nervous/Sounds/olfactory_bulb.wav",
+                  "sound": "assets/nervous/Sounds/olfactory_bulb.mp3",
                   "buttons": [
                     {
                       "label": "Anterior",
-                      "img": "assets/nervous/Images/Sobotta-Brain-olf-bulb.jpg"
+                      "img": "assets/nervous/Images/Sobotta-Brain-olf-bulb.webp"
                     },
                     {
                       "label": "Zoom",
-                      "img": "assets/nervous/Images/Sobota-olfactorybulb-zoom.jpg"
+                      "img": "assets/nervous/Images/Sobota-olfactorybulb-zoom.webp"
                     }
                   ],
                   "children": []
@@ -1050,15 +1050,15 @@
                   "id": 64,
                   "label": "Olfactory Tract",
                   "type": "img",
-                  "sound": "assets/nervous/Sounds/olfactory_tract.wav",
+                  "sound": "assets/nervous/Sounds/olfactory_tract.mp3",
                   "buttons": [
                     {
                       "label": "Anterior",
-                      "img": "assets/nervous/Images/Sobotta-Brain-olf-tract.jpg"
+                      "img": "assets/nervous/Images/Sobotta-Brain-olf-tract.webp"
                     },
                     {
                       "label": "Zoom",
-                      "img": "assets/nervous/Images/Sobota-olf tract-zoom.jpg"
+                      "img": "assets/nervous/Images/Sobota-olf tract-zoom.webp"
                     }
                   ],
                   "children": []
@@ -1069,15 +1069,15 @@
               "id": 65,
               "label": "II. Optic Nerve",
               "type": "img",
-              "sound": "assets/nervous/Sounds/optic_nerve.wav",
+              "sound": "assets/nervous/Sounds/optic_nerve.mp3",
               "buttons": [
                 {
                   "label": "Anterior",
-                  "img": "assets/nervous/Images/Sobotta-Brain-optic.jpg"
+                  "img": "assets/nervous/Images/Sobotta-Brain-optic.webp"
                 },
                 {
                   "label": "Zoom",
-                  "img": "assets/nervous/Images/Sobota-optic-zoom.jpg"
+                  "img": "assets/nervous/Images/Sobota-optic-zoom.webp"
                 }
               ],
               "children": [
@@ -1085,23 +1085,23 @@
                   "id": 66,
                   "label": "Optic Chiasma",
                   "type": "img",
-                  "sound": "assets/nervous/Sounds/optic_chiasma.wav",
+                  "sound": "assets/nervous/Sounds/optic_chiasma.mp3",
                   "buttons": [
                     {
                       "label": "Anterior",
-                      "img": "assets/nervous/Images/Sobotta-Brain-chiasma.jpg"
+                      "img": "assets/nervous/Images/Sobotta-Brain-chiasma.webp"
                     },
                     {
                       "label": "Zoom",
-                      "img": "assets/nervous/Images/Sobota-chiasma-zoom.jpg"
+                      "img": "assets/nervous/Images/Sobota-chiasma-zoom.webp"
                     },
                     {
                       "label": "Illustration 1",
-                      "img": "assets/nervous/Images/Brainstem_ventral_chiasma.jpg"
+                      "img": "assets/nervous/Images/Brainstem_ventral_chiasma.webp"
                     },
                     {
                       "label": "Illustration 2",
-                      "img": "assets/nervous/Images/gray-inferior-chiasma.jpg"
+                      "img": "assets/nervous/Images/gray-inferior-chiasma.webp"
                     }
                   ],
                   "children": []
@@ -1110,23 +1110,23 @@
                   "id": 67,
                   "label": "Optic Tract",
                   "type": "img",
-                  "sound": "assets/nervous/Sounds/optic_tract.wav",
+                  "sound": "assets/nervous/Sounds/optic_tract.mp3",
                   "buttons": [
                     {
                       "label": "Anterior",
-                      "img": "assets/nervous/Images/Sobotta-Brain-optic-tract.jpg"
+                      "img": "assets/nervous/Images/Sobotta-Brain-optic-tract.webp"
                     },
                     {
                       "label": "Zoom",
-                      "img": "assets/nervous/Images/Sobota-optic tract-zoom.jpg"
+                      "img": "assets/nervous/Images/Sobota-optic tract-zoom.webp"
                     },
                     {
                       "label": "Illustration 1",
-                      "img": "assets/nervous/Images/Brainstem_ventral_optictract.jpg"
+                      "img": "assets/nervous/Images/Brainstem_ventral_optictract.webp"
                     },
                     {
                       "label": "Illustration 2",
-                      "img": "assets/nervous/Images/optic-tract-gray.jpg"
+                      "img": "assets/nervous/Images/optic-tract-gray.webp"
                     }
                   ],
                   "children": []
@@ -1137,15 +1137,15 @@
               "id": 68,
               "label": "III. Oculomotor Nerve",
               "type": "img",
-              "sound": "assets/nervous/Sounds/oculomotor_nerve.wav",
+              "sound": "assets/nervous/Sounds/oculomotor_nerve.mp3",
               "buttons": [
                 {
                   "label": "Anterior",
-                  "img": "assets/nervous/Images/Sobotta-Brain-oculomotor.jpg"
+                  "img": "assets/nervous/Images/Sobotta-Brain-oculomotor.webp"
                 },
                 {
                   "label": "Zoom",
-                  "img": "assets/nervous/Images/Sobota-oculomotor-zoom.jpg"
+                  "img": "assets/nervous/Images/Sobota-oculomotor-zoom.webp"
                 }
               ],
               "children": []
@@ -1154,15 +1154,15 @@
               "id": 69,
               "label": "IV. Trochlear Nerve",
               "type": "img",
-              "sound": "assets/nervous/Sounds/trochlear_nerve.wav",
+              "sound": "assets/nervous/Sounds/trochlear_nerve.mp3",
               "buttons": [
                 {
                   "label": "Anterior",
-                  "img": "assets/nervous/Images/Sobotta-Brain-trochlear.jpg"
+                  "img": "assets/nervous/Images/Sobotta-Brain-trochlear.webp"
                 },
                 {
                   "label": "Zoom",
-                  "img": "assets/nervous/Images/Sobota-trochlear-zoom.jpg"
+                  "img": "assets/nervous/Images/Sobota-trochlear-zoom.webp"
                 }
               ],
               "children": []
@@ -1171,15 +1171,15 @@
               "id": 70,
               "label": "V. Trigeminal Nerve",
               "type": "img",
-              "sound": "assets/nervous/Sounds/trigeminal_nerve.wav",
+              "sound": "assets/nervous/Sounds/trigeminal_nerve.mp3",
               "buttons": [
                 {
                   "label": "Anterior",
-                  "img": "assets/nervous/Images/Sobotta-Brain-trigeminal.jpg"
+                  "img": "assets/nervous/Images/Sobotta-Brain-trigeminal.webp"
                 },
                 {
                   "label": "Zoom",
-                  "img": "assets/nervous/Images/Sobota-trigeminal-zoom.jpg"
+                  "img": "assets/nervous/Images/Sobota-trigeminal-zoom.webp"
                 }
               ],
               "children": []
@@ -1188,15 +1188,15 @@
               "id": 71,
               "label": "VI. Abducens Nerve",
               "type": "img",
-              "sound": "assets/nervous/Sounds/abducens_nerve.wav",
+              "sound": "assets/nervous/Sounds/abducens_nerve.mp3",
               "buttons": [
                 {
                   "label": "Anterior",
-                  "img": "assets/nervous/Images/Sobotta-Brain-abducens.jpg"
+                  "img": "assets/nervous/Images/Sobotta-Brain-abducens.webp"
                 },
                 {
                   "label": "Zoom",
-                  "img": "assets/nervous/Images/Sobota-abducens-zoom.jpg"
+                  "img": "assets/nervous/Images/Sobota-abducens-zoom.webp"
                 }
               ],
               "children": []
@@ -1205,15 +1205,15 @@
               "id": 72,
               "label": "VII. Facial Nerve",
               "type": "img",
-              "sound": "assets/nervous/Sounds/facial_nerve.wav",
+              "sound": "assets/nervous/Sounds/facial_nerve.mp3",
               "buttons": [
                 {
                   "label": "Anterior",
-                  "img": "assets/nervous/Images/Sobotta-Brain-facial.jpg"
+                  "img": "assets/nervous/Images/Sobotta-Brain-facial.webp"
                 },
                 {
                   "label": "Zoom",
-                  "img": "assets/nervous/Images/Sobota-facial-zoom.jpg"
+                  "img": "assets/nervous/Images/Sobota-facial-zoom.webp"
                 }
               ],
               "children": []
@@ -1222,15 +1222,15 @@
               "id": 73,
               "label": "VIII. Vestibulocochlear Nerve",
               "type": "img",
-              "sound": "assets/nervous/Sounds/vestibulocochlear_nerve.wav",
+              "sound": "assets/nervous/Sounds/vestibulocochlear_nerve.mp3",
               "buttons": [
                 {
                   "label": "Anterior",
-                  "img": "assets/nervous/Images/Sobotta-Brain-vestibulo.jpg"
+                  "img": "assets/nervous/Images/Sobotta-Brain-vestibulo.webp"
                 },
                 {
                   "label": "Zoom",
-                  "img": "assets/nervous/Images/Sobota-vestibulo-zoom.jpg"
+                  "img": "assets/nervous/Images/Sobota-vestibulo-zoom.webp"
                 }
               ],
               "children": []
@@ -1239,15 +1239,15 @@
               "id": 74,
               "label": "IX. Glossopharyngeal Nerve",
               "type": "img",
-              "sound": "assets/nervous/Sounds/glossopharyngeal_nerve.wav",
+              "sound": "assets/nervous/Sounds/glossopharyngeal_nerve.mp3",
               "buttons": [
                 {
                   "label": "Anterior",
-                  "img": "assets/nervous/Images/Sobotta-Brain-glosso.jpg"
+                  "img": "assets/nervous/Images/Sobotta-Brain-glosso.webp"
                 },
                 {
                   "label": "Zoom",
-                  "img": "assets/nervous/Images/Sobota-glosso-zoom.jpg"
+                  "img": "assets/nervous/Images/Sobota-glosso-zoom.webp"
                 }
               ],
               "children": []
@@ -1256,15 +1256,15 @@
               "id": 75,
               "label": "X. Vagus Nerve",
               "type": "img",
-              "sound": "assets/nervous/Sounds/vagus_nerve.wav",
+              "sound": "assets/nervous/Sounds/vagus_nerve.mp3",
               "buttons": [
                 {
                   "label": "Anterior",
-                  "img": "assets/nervous/Images/Sobotta-Brain-vagus.jpg"
+                  "img": "assets/nervous/Images/Sobotta-Brain-vagus.webp"
                 },
                 {
                   "label": "Zoom",
-                  "img": "assets/nervous/Images/Sobota-vagus-zoom.jpg"
+                  "img": "assets/nervous/Images/Sobota-vagus-zoom.webp"
                 }
               ],
               "children": []
@@ -1273,15 +1273,15 @@
               "id": 76,
               "label": "XI. Accessory Nerve",
               "type": "img",
-              "sound": "assets/nervous/Sounds/accessory_nerve.wav",
+              "sound": "assets/nervous/Sounds/accessory_nerve.mp3",
               "buttons": [
                 {
                   "label": "Posterior",
-                  "img": "assets/nervous/Images/Sobotta-Brain-accessory.jpg"
+                  "img": "assets/nervous/Images/Sobotta-Brain-accessory.webp"
                 },
                 {
                   "label": "Zoom",
-                  "img": "assets/nervous/Images/Sobota-accessory-zoom.jpg"
+                  "img": "assets/nervous/Images/Sobota-accessory-zoom.webp"
                 }
               ],
               "children": []
@@ -1290,15 +1290,15 @@
               "id": 77,
               "label": "XII. Hypoglossal Nerve",
               "type": "img",
-              "sound": "assets/nervous/Sounds/hypoglossal_nerve.wav",
+              "sound": "assets/nervous/Sounds/hypoglossal_nerve.mp3",
               "buttons": [
                 {
                   "label": "Anterior",
-                  "img": "assets/nervous/Images/Sobotta-Brain-hypoglossal.jpg"
+                  "img": "assets/nervous/Images/Sobotta-Brain-hypoglossal.webp"
                 },
                 {
                   "label": "Zoom",
-                  "img": "assets/nervous/Images/Sobota-hypoglossal-zoom.jpg"
+                  "img": "assets/nervous/Images/Sobota-hypoglossal-zoom.webp"
                 }
               ],
               "children": []
@@ -1314,11 +1314,11 @@
               "id": 79,
               "label": "Gray Matter",
               "type": "img",
-              "sound": "assets/nervous/Sounds/grey_matter.wav",
+              "sound": "assets/nervous/Sounds/grey_matter.mp3",
               "buttons": [
                 {
                   "label": "",
-                  "img": "assets/nervous/Images/SC_graymatter_turner.jpg"
+                  "img": "assets/nervous/Images/SC_graymatter_turner.webp"
                 }
               ],
               "children": []
@@ -1327,11 +1327,11 @@
               "id": 80,
               "label": "White Matter",
               "type": "img",
-              "sound": "assets/nervous/Sounds/white_matter.wav",
+              "sound": "assets/nervous/Sounds/white_matter.mp3",
               "buttons": [
                 {
                   "label": "",
-                  "img": "assets/nervous/Images/SC_white_matter_turner.jpg"
+                  "img": "assets/nervous/Images/SC_white_matter_turner.webp"
                 }
               ],
               "children": []
@@ -1340,11 +1340,11 @@
               "id": 81,
               "label": "Gray Commissure",
               "type": "img",
-              "sound": "assets/nervous/Sounds/comissure.wav",
+              "sound": "assets/nervous/Sounds/comissure.mp3",
               "buttons": [
                 {
                   "label": "",
-                  "img": "assets/nervous/Images/SC_gray_commisure_turner.jpg"
+                  "img": "assets/nervous/Images/SC_gray_commisure_turner.webp"
                 }
               ],
               "children": []
@@ -1358,11 +1358,11 @@
                   "id": 83,
                   "label": "Ventral Horn",
                   "type": "img",
-                  "sound": "assets/nervous/Sounds/ventral_horn.wav",
+                  "sound": "assets/nervous/Sounds/ventral_horn.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/nervous/Images/SC_ventral-horn_turner.jpg"
+                      "img": "assets/nervous/Images/SC_ventral-horn_turner.webp"
                     }
                   ],
                   "children": []
@@ -1371,11 +1371,11 @@
                   "id": 84,
                   "label": "Lateral Horn",
                   "type": "img",
-                  "sound": "assets/nervous/Sounds/lateral_horn.wav",
+                  "sound": "assets/nervous/Sounds/lateral_horn.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/nervous/Images/SC_lateralhorn_turner.jpg"
+                      "img": "assets/nervous/Images/SC_lateralhorn_turner.webp"
                     }
                   ],
                   "children": []
@@ -1384,11 +1384,11 @@
                   "id": 85,
                   "label": "Dorsal Horn",
                   "type": "img",
-                  "sound": "assets/nervous/Sounds/dorsal_horn.wav",
+                  "sound": "assets/nervous/Sounds/dorsal_horn.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/nervous/Images/SC_dorsalhorn_turner.jpg"
+                      "img": "assets/nervous/Images/SC_dorsalhorn_turner.webp"
                     }
                   ],
                   "children": []
@@ -1405,11 +1405,11 @@
                   "id": 87,
                   "label": "Ventral Column",
                   "type": "img",
-                  "sound": "assets/nervous/Sounds/ventral_column.wav",
+                  "sound": "assets/nervous/Sounds/ventral_column.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/nervous/Images/SC_ventralcolumn_turner.jpg"
+                      "img": "assets/nervous/Images/SC_ventralcolumn_turner.webp"
                     }
                   ],
                   "children": []
@@ -1418,11 +1418,11 @@
                   "id": 88,
                   "label": "Lateral Column",
                   "type": "img",
-                  "sound": "assets/nervous/Sounds/lateral_column.wav",
+                  "sound": "assets/nervous/Sounds/lateral_column.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/nervous/Images/SC_lateral-column_turner.jpg"
+                      "img": "assets/nervous/Images/SC_lateral-column_turner.webp"
                     }
                   ],
                   "children": []
@@ -1431,11 +1431,11 @@
                   "id": 89,
                   "label": "Dorsal Column",
                   "type": "img",
-                  "sound": "assets/nervous/Sounds/dorsal_column.wav",
+                  "sound": "assets/nervous/Sounds/dorsal_column.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/nervous/Images/SC_dorsalcolumn_turner.jpg"
+                      "img": "assets/nervous/Images/SC_dorsalcolumn_turner.webp"
                     }
                   ],
                   "children": []
@@ -1447,11 +1447,11 @@
               "id": 90,
               "label": "Central Canal",
               "type": "img",
-              "sound": "assets/nervous/Sounds/central_canal.wav",
+              "sound": "assets/nervous/Sounds/central_canal.mp3",
               "buttons": [
                 {
                   "label": "",
-                  "img": "assets/nervous/Images/SC_centralcanal_turner.jpg"
+                  "img": "assets/nervous/Images/SC_centralcanal_turner.webp"
                 }
               ],
               "children": []
@@ -1460,11 +1460,11 @@
               "id": 91,
               "label": "Anterior Median Fissure",
               "type": "img",
-              "sound": "assets/nervous/Sounds/anterior_median_fissure.wav",
+              "sound": "assets/nervous/Sounds/anterior_median_fissure.mp3",
               "buttons": [
                 {
                   "label": "",
-                  "img": "assets/nervous/Images/SC_antmedfissure_turner.jpg"
+                  "img": "assets/nervous/Images/SC_antmedfissure_turner.webp"
                 }
               ],
               "children": []
@@ -1473,11 +1473,11 @@
               "id": 92,
               "label": "Posterior Median Sulcus",
               "type": "img",
-              "sound": "assets/nervous/Sounds/posterior_median_sulcus.wav",
+              "sound": "assets/nervous/Sounds/posterior_median_sulcus.mp3",
               "buttons": [
                 {
                   "label": "",
-                  "img": "assets/nervous/Images/SC_postmedfissure_turner.jpg"
+                  "img": "assets/nervous/Images/SC_postmedfissure_turner.webp"
                 }
               ],
               "children": []
@@ -1486,11 +1486,11 @@
               "id": 93,
               "label": "Dorsal Root Ganglion",
               "type": "img",
-              "sound": "assets/nervous/Sounds/dorsal_root_ganglion.wav",
+              "sound": "assets/nervous/Sounds/dorsal_root_ganglion.mp3",
               "buttons": [
                 {
                   "label": "",
-                  "img": "assets/nervous/Images/SC_dorsalrootgang_turner.jpg"
+                  "img": "assets/nervous/Images/SC_dorsalrootgang_turner.webp"
                 }
               ],
               "children": []
@@ -1507,11 +1507,11 @@
               "id": 95,
               "label": "Soma",
               "type": "img",
-              "sound": "assets/nervous/Sounds/soma.wav",
+              "sound": "assets/nervous/Sounds/soma.mp3",
               "buttons": [
                 {
                   "label": "",
-                  "img": "assets/nervous/Images/Neuron_Anatomy_soma.jpg"
+                  "img": "assets/nervous/Images/Neuron_Anatomy_soma.webp"
                 }
               ],
               "children": []
@@ -1520,11 +1520,11 @@
               "id": 96,
               "label": "Axon",
               "type": "img",
-              "sound": "assets/nervous/Sounds/axon.wav",
+              "sound": "assets/nervous/Sounds/axon.mp3",
               "buttons": [
                 {
                   "label": "",
-                  "img": "assets/nervous/Images/Neuron_Anatomy_axon.jpg"
+                  "img": "assets/nervous/Images/Neuron_Anatomy_axon.webp"
                 }
               ],
               "children": []
@@ -1533,11 +1533,11 @@
               "id": 97,
               "label": "Axon Hillock",
               "type": "img",
-              "sound": "assets/nervous/Sounds/axon_hillock.wav",
+              "sound": "assets/nervous/Sounds/axon_hillock.mp3",
               "buttons": [
                 {
                   "label": "",
-                  "img": "assets/nervous/Images/Neuron_Anatomy_hillock.jpg"
+                  "img": "assets/nervous/Images/Neuron_Anatomy_hillock.webp"
                 }
               ],
               "children": []
@@ -1546,11 +1546,11 @@
               "id": 98,
               "label": "Dendrites",
               "type": "img",
-              "sound": "assets/nervous/Sounds/dendrite.wav",
+              "sound": "assets/nervous/Sounds/dendrite.mp3",
               "buttons": [
                 {
                   "label": "",
-                  "img": "assets/nervous/Images/Neuron_Anatomy_dendrites.jpg"
+                  "img": "assets/nervous/Images/Neuron_Anatomy_dendrites.webp"
                 }
               ],
               "children": []
@@ -1559,11 +1559,11 @@
               "id": 99,
               "label": "Nucleus",
               "type": "img",
-              "sound": "assets/nervous/Sounds/nucleus.wav",
+              "sound": "assets/nervous/Sounds/nucleus.mp3",
               "buttons": [
                 {
                   "label": "",
-                  "img": "assets/nervous/Images/Neuron_Anatomy_nucleus.jpg"
+                  "img": "assets/nervous/Images/Neuron_Anatomy_nucleus.webp"
                 }
               ],
               "children": []
@@ -1572,11 +1572,11 @@
               "id": 100,
               "label": "Myelin Sheath and Schwann Cell",
               "type": "img",
-              "sound": "assets/nervous/Sounds/myelin_sheath.wav",
+              "sound": "assets/nervous/Sounds/myelin_sheath.mp3",
               "buttons": [
                 {
                   "label": "",
-                  "img": "assets/nervous/Images/Neuron_Anatomy_myelin.jpg"
+                  "img": "assets/nervous/Images/Neuron_Anatomy_myelin.webp"
                 }
               ],
               "children": []
@@ -1585,11 +1585,11 @@
               "id": 101,
               "label": "Nodes of Ranvier",
               "type": "img",
-              "sound": "assets/nervous/Sounds/node_of_ranvier.wav",
+              "sound": "assets/nervous/Sounds/node_of_ranvier.mp3",
               "buttons": [
                 {
                   "label": "Nodes of Ranvier",
-                  "img": "assets/nervous/Images/Neuron_Anatomy_nodes.jpg"
+                  "img": "assets/nervous/Images/Neuron_Anatomy_nodes.webp"
                 }
               ],
               "children": []

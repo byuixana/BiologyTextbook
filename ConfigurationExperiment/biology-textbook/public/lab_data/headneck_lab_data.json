@@ -31,23 +31,23 @@
                   "id": 4,
                   "label": "Buccinator",
                   "type": "img",
-                  "sound": "assets/headneck/Sounds/buccinator.wav",
+                  "sound": "assets/headneck/Sounds/buccinator.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/Buccinator.jpg"
+                      "img": "assets/headneck/Images/Buccinator.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/headneck/Images/Buccinator Illistration.png"
+                      "img": "assets/headneck/Images/Buccinator Illistration.webp"
                     },
                     {
                       "label": "Example 3",
-                      "img": "assets/headneck/Images/buccinator_front_kaden.jpg"
+                      "img": "assets/headneck/Images/buccinator_front_kaden.webp"
                     },
                     {
                       "label": "Example 4",
-                      "img": "assets/headneck/Images/buccinator_side_kaden.jpg"
+                      "img": "assets/headneck/Images/buccinator_side_kaden.webp"
                     }
                   ],
                   "children": []
@@ -56,19 +56,19 @@
                   "id": 5,
                   "label": "Corrugator Supercilli",
                   "type": "img",
-                  "sound": "assets/headneck/Sounds/corrugator.wav",
+                  "sound": "assets/headneck/Sounds/corrugator.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/Corrugator Supercillia Illistration.png"
+                      "img": "assets/headneck/Images/Corrugator Supercillia Illistration.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/headneck/Images/corrugator_side_kaden.jpg"
+                      "img": "assets/headneck/Images/corrugator_side_kaden.webp"
                     },
                     {
                       "label": "Example 3",
-                      "img": "assets/headneck/Images/corrugator_supercilli_2.jpg"
+                      "img": "assets/headneck/Images/corrugator_supercilli_2.webp"
                     }
                   ],
                   "children": []
@@ -77,23 +77,23 @@
                   "id": 6,
                   "label": "Depressor Anguli Oris",
                   "type": "img",
-                  "sound": "assets/headneck/Sounds/depressor_anguli_oris.wav",
+                  "sound": "assets/headneck/Sounds/depressor_anguli_oris.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/Depressor-Anguli-Labi.jpg"
+                      "img": "assets/headneck/Images/Depressor-Anguli-Labi.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/headneck/Images/Depressor Anguli Oris Anterior.png"
+                      "img": "assets/headneck/Images/Depressor Anguli Oris Anterior.webp"
                     },
                     {
                       "label": "Example 3",
-                      "img": "assets/headneck/Images/depressor_anglui_side_kaden.jpg"
+                      "img": "assets/headneck/Images/depressor_anglui_side_kaden.webp"
                     },
                     {
                       "label": "Example 4",
-                      "img": "assets/headneck/Images/depressor-anguli-oris.jpg"
+                      "img": "assets/headneck/Images/depressor-anguli-oris.webp"
                     }
                   ],
                   "children": []
@@ -102,19 +102,19 @@
                   "id": 7,
                   "label": "Depressor Labii Inferioris",
                   "type": "img",
-                  "sound": "assets/headneck/Sounds/depressor_labii_inferioris.wav",
+                  "sound": "assets/headneck/Sounds/depressor_labii_inferioris.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/Depressor-Labi-Inferioris.jpg"
+                      "img": "assets/headneck/Images/Depressor-Labi-Inferioris.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/headneck/Images/Depressor Labii Inferioris Anterior.png"
+                      "img": "assets/headneck/Images/Depressor Labii Inferioris Anterior.webp"
                     },
                     {
                       "label": "Example 3",
-                      "img": "assets/headneck/Images/depressor_labii_side_kaden.jpg"
+                      "img": "assets/headneck/Images/depressor_labii_side_kaden.webp"
                     }
                   ],
                   "children": []
@@ -123,19 +123,19 @@
                   "id": 8,
                   "label": "Levator Labii Superioris",
                   "type": "img",
-                  "sound": "assets/headneck/Sounds/levator_labii_superioris.wav",
+                  "sound": "assets/headneck/Sounds/levator_labii_superioris.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/Levator-Labi.jpg"
+                      "img": "assets/headneck/Images/Levator-Labi.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/headneck/Images/Levator Labii Superioris Anterior.png"
+                      "img": "assets/headneck/Images/Levator Labii Superioris Anterior.webp"
                     },
                     {
                       "label": "Example 3",
-                      "img": "assets/headneck/Images/levator_labii_superior_kaden.jpg"
+                      "img": "assets/headneck/Images/levator_labii_superior_kaden.webp"
                     }
                   ],
                   "children": []
@@ -147,7 +147,7 @@
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/levator_anguli_oris_kaden.jpg"
+                      "img": "assets/headneck/Images/levator_anguli_oris_kaden.webp"
                     }
                   ],
                   "children": []
@@ -156,23 +156,23 @@
                   "id": 10,
                   "label": "Mentalis",
                   "type": "img",
-                  "sound": "assets/headneck/Sounds/mentalis.wav",
+                  "sound": "assets/headneck/Sounds/mentalis.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/Mentalis.jpg"
+                      "img": "assets/headneck/Images/Mentalis.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/headneck/Images/Mentalis Illistration.png"
+                      "img": "assets/headneck/Images/Mentalis Illistration.webp"
                     },
                     {
                       "label": "Example 3",
-                      "img": "assets/headneck/Images/mentalis_front_kaden.jpg"
+                      "img": "assets/headneck/Images/mentalis_front_kaden.webp"
                     },
                     {
                       "label": "Example 4",
-                      "img": "assets/headneck/Images/mentalis_side_kaden.jpg"
+                      "img": "assets/headneck/Images/mentalis_side_kaden.webp"
                     }
                   ],
                   "children": []
@@ -181,19 +181,19 @@
                   "id": 11,
                   "label": "Nasalis",
                   "type": "img",
-                  "sound": "assets/headneck/Sounds/nasalis.wav",
+                  "sound": "assets/headneck/Sounds/nasalis.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/Nasalis.jpg"
+                      "img": "assets/headneck/Images/Nasalis.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/headneck/Images/Nasalis Anterior.png"
+                      "img": "assets/headneck/Images/Nasalis Anterior.webp"
                     },
                     {
                       "label": "Example 3",
-                      "img": "assets/headneck/Images/nasalis_side_kaden.jpg"
+                      "img": "assets/headneck/Images/nasalis_side_kaden.webp"
                     }
                   ],
                   "children": []
@@ -202,23 +202,23 @@
                   "id": 12,
                   "label": "Occipitofrontalis",
                   "type": "img",
-                  "sound": "assets/headneck/Sounds/occipitofrontalis.wav",
+                  "sound": "assets/headneck/Sounds/occipitofrontalis.mp3",
                   "buttons": [
                     {
                       "label": "Occipitalfrontalis",
-                      "img": "assets/headneck/Images/occiital_frontalis_kaden.jpg"
+                      "img": "assets/headneck/Images/occiital_frontalis_kaden.webp"
                     },
                     {
                       "label": "Occipitalis",
-                      "img": "assets/headneck/Images/occipitalis_side_kaden.jpg"
+                      "img": "assets/headneck/Images/occipitalis_side_kaden.webp"
                     },
                     {
                       "label": "Frontalis",
-                      "img": "assets/headneck/Images/frontalis_side_kaden.jpg"
+                      "img": "assets/headneck/Images/frontalis_side_kaden.webp"
                     },
                     {
                       "label": "Epicranial Aponeurosis or (Galea)",
-                      "img": "assets/headneck/Images/epicranial_aponerurosis_side_kaden.jpg"
+                      "img": "assets/headneck/Images/epicranial_aponerurosis_side_kaden.webp"
                     }
                   ],
                   "children": []
@@ -227,19 +227,19 @@
                   "id": 13,
                   "label": "Orbicularis Oculi",
                   "type": "img",
-                  "sound": "assets/headneck/Sounds/orbicularis_oculi.wav",
+                  "sound": "assets/headneck/Sounds/orbicularis_oculi.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/Orbicularis-Oculi.jpg"
+                      "img": "assets/headneck/Images/Orbicularis-Oculi.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/headneck/Images/Obicularis Oculi Anterior.png"
+                      "img": "assets/headneck/Images/Obicularis Oculi Anterior.webp"
                     },
                     {
                       "label": "Example 3",
-                      "img": "assets/headneck/Images/obicularis_oculi_side_kaden.jpg"
+                      "img": "assets/headneck/Images/obicularis_oculi_side_kaden.webp"
                     }
                   ],
                   "children": []
@@ -248,23 +248,23 @@
                   "id": 14,
                   "label": "Orbicularis Oris",
                   "type": "img",
-                  "sound": "assets/headneck/Sounds/orbicularis_oris.wav",
+                  "sound": "assets/headneck/Sounds/orbicularis_oris.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/Orbicularis-Oris.jpg"
+                      "img": "assets/headneck/Images/Orbicularis-Oris.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/headneck/Images/Obicularis Oris Anterior.png"
+                      "img": "assets/headneck/Images/Obicularis Oris Anterior.webp"
                     },
                     {
                       "label": "Example 3",
-                      "img": "assets/headneck/Images/obicularis_oris_front_kaden.jpg"
+                      "img": "assets/headneck/Images/obicularis_oris_front_kaden.webp"
                     },
                     {
                       "label": "Example 4",
-                      "img": "assets/headneck/Images/obicularis_oris_side_kaden.jpg"
+                      "img": "assets/headneck/Images/obicularis_oris_side_kaden.webp"
                     }
                   ],
                   "children": []
@@ -276,11 +276,11 @@
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/Procerus_kaden.jpg"
+                      "img": "assets/headneck/Images/Procerus_kaden.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/headneck/Images/Procerus_lauren.jpg"
+                      "img": "assets/headneck/Images/Procerus_lauren.webp"
                     }
                   ],
                   "children": []
@@ -289,15 +289,15 @@
                   "id": 16,
                   "label": "Risorius",
                   "type": "img",
-                  "sound": "assets/headneck/Sounds/risorius.wav",
+                  "sound": "assets/headneck/Sounds/risorius.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/Risorius.jpg"
+                      "img": "assets/headneck/Images/Risorius.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/headneck/Images/Risorius Illistration.png"
+                      "img": "assets/headneck/Images/Risorius Illistration.webp"
                     }
                   ],
                   "children": []
@@ -306,23 +306,23 @@
                   "id": 17,
                   "label": "Zygomaticus Major",
                   "type": "img",
-                  "sound": "assets/headneck/Sounds/zygomaticus_major.wav",
+                  "sound": "assets/headneck/Sounds/zygomaticus_major.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/Zygomaticus-Major.jpg"
+                      "img": "assets/headneck/Images/Zygomaticus-Major.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/headneck/Images/Zygomaticus Major Anterior.png"
+                      "img": "assets/headneck/Images/Zygomaticus Major Anterior.webp"
                     },
                     {
                       "label": "Example 3",
-                      "img": "assets/headneck/Images/zygo_major_front_kaden.jpg"
+                      "img": "assets/headneck/Images/zygo_major_front_kaden.webp"
                     },
                     {
                       "label": "Example 4",
-                      "img": "assets/headneck/Images/zygo_major_side_kaden.jpg"
+                      "img": "assets/headneck/Images/zygo_major_side_kaden.webp"
                     }
                   ],
                   "children": []
@@ -331,23 +331,23 @@
                   "id": 18,
                   "label": "Zygomaticus Minor",
                   "type": "img",
-                  "sound": "assets/headneck/Sounds/zygomaticus_minor.wav",
+                  "sound": "assets/headneck/Sounds/zygomaticus_minor.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/Zygomaticus-Minor.jpg"
+                      "img": "assets/headneck/Images/Zygomaticus-Minor.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/headneck/Images/Zygomaticus Minor Anterior.png"
+                      "img": "assets/headneck/Images/Zygomaticus Minor Anterior.webp"
                     },
                     {
                       "label": "Example 3",
-                      "img": "assets/headneck/Images/zygo_minor_front_kaden.jpg"
+                      "img": "assets/headneck/Images/zygo_minor_front_kaden.webp"
                     },
                     {
                       "label": "Example 4",
-                      "img": "assets/headneck/Images/zygo_minor_side_kaden.jpg"
+                      "img": "assets/headneck/Images/zygo_minor_side_kaden.webp"
                     }
                   ],
                   "children": []
@@ -363,27 +363,27 @@
                   "id": 20,
                   "label": "Lateral Pterygoid",
                   "type": "img",
-                  "sound": "assets/headneck/Sounds/lateral_pterygoid.wav",
+                  "sound": "assets/headneck/Sounds/lateral_pterygoid.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/Lateral Pterygoid Skull.png"
+                      "img": "assets/headneck/Images/Lateral Pterygoid Skull.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/headneck/Images/lateral_pterygoid_lauren.jpg"
+                      "img": "assets/headneck/Images/lateral_pterygoid_lauren.webp"
                     },
                     {
                       "label": "Example 3 (From Inside)",
-                      "img": "assets/headneck/Images/Lateral Pterygoid Internal.png"
+                      "img": "assets/headneck/Images/Lateral Pterygoid Internal.webp"
                     },
                     {
                       "label": "Example 4",
-                      "img": "assets/headneck/Images/Lat_pterygoiid_kaden.jpg"
+                      "img": "assets/headneck/Images/Lat_pterygoiid_kaden.webp"
                     },
                     {
                       "label": "Animation",
-                      "img": "assets/headneck/Images/animate_LateralPterygoid_Kaden.gif"
+                      "img": "assets/headneck/Images/animate_LateralPterygoid_Kaden-animate.webp"
                     }
                   ],
                   "children": []
@@ -392,27 +392,27 @@
                   "id": 21,
                   "label": "Medial Pterygoid",
                   "type": "img",
-                  "sound": "assets/headneck/Sounds/medial_pterygoid.wav",
+                  "sound": "assets/headneck/Sounds/medial_pterygoid.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/Medial Pterygoid Skull.png"
+                      "img": "assets/headneck/Images/Medial Pterygoid Skull.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/headneck/Images/medial-pterygoid_lauren.jpg"
+                      "img": "assets/headneck/Images/medial-pterygoid_lauren.webp"
                     },
                     {
                       "label": "Example 3 (From Inside)",
-                      "img": "assets/headneck/Images/Medial Pterygoid internal.png"
+                      "img": "assets/headneck/Images/Medial Pterygoid internal.webp"
                     },
                     {
                       "label": "Example 4",
-                      "img": "assets/headneck/Images/Med_pterygoiid_kaden.jpg"
+                      "img": "assets/headneck/Images/Med_pterygoiid_kaden.webp"
                     },
                     {
                       "label": "Animation",
-                      "img": "assets/headneck/Images/animate_MedPterygoid_Kaden.gif"
+                      "img": "assets/headneck/Images/animate_MedPterygoid_Kaden-animate.webp"
                     }
                   ],
                   "children": []
@@ -421,19 +421,19 @@
                   "id": 22,
                   "label": "Masseter",
                   "type": "img",
-                  "sound": "assets/headneck/Sounds/masseter.wav",
+                  "sound": "assets/headneck/Sounds/masseter.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/Masseter Illistration.png"
+                      "img": "assets/headneck/Images/Masseter Illistration.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/headneck/Images/Masseter_lauren.jpg"
+                      "img": "assets/headneck/Images/Masseter_lauren.webp"
                     },
                     {
                       "label": "Example 3",
-                      "img": "assets/headneck/Images/masseter_side_kaden.jpg"
+                      "img": "assets/headneck/Images/masseter_side_kaden.webp"
                     }
                   ],
                   "children": []
@@ -442,15 +442,15 @@
                   "id": 23,
                   "label": "Temporalis",
                   "type": "img",
-                  "sound": "assets/headneck/Sounds/temporalis.wav",
+                  "sound": "assets/headneck/Sounds/temporalis.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/Temporalis Skull.png"
+                      "img": "assets/headneck/Images/Temporalis Skull.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/headneck/Images/temporalis_side_kaden.jpg"
+                      "img": "assets/headneck/Images/temporalis_side_kaden.webp"
                     }
                   ],
                   "children": []
@@ -466,31 +466,31 @@
                   "id": 25,
                   "label": "Digastric",
                   "type": "img",
-                  "sound": "assets/headneck/Sounds/digastric.wav",
+                  "sound": "assets/headneck/Sounds/digastric.mp3",
                   "buttons": [
                     {
                       "label": "Both Bellies 1",
-                      "img": "assets/headneck/Images/Digastric Illistration.png"
+                      "img": "assets/headneck/Images/Digastric Illistration.webp"
                     },
                     {
                       "label": "Both Bellies 2",
-                      "img": "assets/headneck/Images/Digastric.jpg"
+                      "img": "assets/headneck/Images/Digastric.webp"
                     },
                     {
                       "label": "Anterior Belly 1",
-                      "img": "assets/headneck/Images/Digastric Anterior Belly Illistration.png"
+                      "img": "assets/headneck/Images/Digastric Anterior Belly Illistration.webp"
                     },
                     {
                       "label": "Anterior Belly 2",
-                      "img": "assets/headneck/Images/Digastric_ant_lauren.jpg"
+                      "img": "assets/headneck/Images/Digastric_ant_lauren.webp"
                     },
                     {
                       "label": "Posterior Belly 1",
-                      "img": "assets/headneck/Images/Digastric Posterior Belly Illistration.png"
+                      "img": "assets/headneck/Images/Digastric Posterior Belly Illistration.webp"
                     },
                     {
                       "label": "Posterior Belly 2",
-                      "img": "assets/headneck/Images/Digastric_post_lauren.jpg"
+                      "img": "assets/headneck/Images/Digastric_post_lauren.webp"
                     }
                   ],
                   "children": []
@@ -499,15 +499,15 @@
                   "id": 26,
                   "label": "Mylohyoid",
                   "type": "img",
-                  "sound": "assets/headneck/Sounds/mylohyoid.wav",
+                  "sound": "assets/headneck/Sounds/mylohyoid.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/Mylohyoid Illistration.png"
+                      "img": "assets/headneck/Images/Mylohyoid Illistration.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/headneck/Images/Mylohyoid_lauren.jpg"
+                      "img": "assets/headneck/Images/Mylohyoid_lauren.webp"
                     }
                   ],
                   "children": []
@@ -519,15 +519,15 @@
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/omohyoid grey.png"
+                      "img": "assets/headneck/Images/omohyoid grey.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/headneck/Images/omohyoid.png"
+                      "img": "assets/headneck/Images/omohyoid.webp"
                     },
                     {
                       "label": "Example 3",
-                      "img": "assets/headneck/Images/omohyoid-soboto.jpg"
+                      "img": "assets/headneck/Images/omohyoid-soboto.webp"
                     }
                   ],
                   "children": []
@@ -536,11 +536,11 @@
                   "id": 28,
                   "label": "Platysma",
                   "type": "img",
-                  "sound": "assets/headneck/Sounds/platysma.wav",
+                  "sound": "assets/headneck/Sounds/platysma.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/Platysma Illistration.png"
+                      "img": "assets/headneck/Images/Platysma Illistration.webp"
                     }
                   ],
                   "children": []
@@ -552,15 +552,15 @@
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/Scaleus Anterior Grey.png"
+                      "img": "assets/headneck/Images/Scaleus Anterior Grey.webp"
                     },
                     {
                       "label": "Reveal all Scalenes",
-                      "img": "assets/headneck/Images/scalenes_animate.gif"
+                      "img": "assets/headneck/Images/scalenes_animate-animate.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/headneck/Images/anterior_scalene_lauren.jpg"
+                      "img": "assets/headneck/Images/anterior_scalene_lauren.webp"
                     }
                   ],
                   "children": []
@@ -572,15 +572,15 @@
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/Scaleus Medius Grey.png"
+                      "img": "assets/headneck/Images/Scaleus Medius Grey.webp"
                     },
                     {
                       "label": "Reveal all Scalenes",
-                      "img": "assets/headneck/Images/scalenes_animate.gif"
+                      "img": "assets/headneck/Images/scalenes_animate-animate.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/headneck/Images/middle_scalene_lauren.jpg"
+                      "img": "assets/headneck/Images/middle_scalene_lauren.webp"
                     }
                   ],
                   "children": []
@@ -592,15 +592,15 @@
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/Scaleus Posterior Grey.png"
+                      "img": "assets/headneck/Images/Scaleus Posterior Grey.webp"
                     },
                     {
                       "label": "Reveal all Scalenes",
-                      "img": "assets/headneck/Images/scalenes_animate.gif"
+                      "img": "assets/headneck/Images/scalenes_animate-animate.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/headneck/Images/posterior_scalene_lauren.jpg"
+                      "img": "assets/headneck/Images/posterior_scalene_lauren.webp"
                     }
                   ],
                   "children": []
@@ -609,23 +609,23 @@
                   "id": 32,
                   "label": "Sternocleidomastoid",
                   "type": "img",
-                  "sound": "assets/headneck/Sounds/sternocleidomastoid.wav",
+                  "sound": "assets/headneck/Sounds/sternocleidomastoid.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/Sternocleidomastoid.jpg"
+                      "img": "assets/headneck/Images/Sternocleidomastoid.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/headneck/Images/Sternocleidomastoid Anterior.png"
+                      "img": "assets/headneck/Images/Sternocleidomastoid Anterior.webp"
                     },
                     {
                       "label": "Example 3",
-                      "img": "assets/headneck/Images/Sternocleidomatoid Illistration.png"
+                      "img": "assets/headneck/Images/Sternocleidomatoid Illistration.webp"
                     },
                     {
                       "label": "Example 4",
-                      "img": "assets/headneck/Images/SCM_lauren.jpg"
+                      "img": "assets/headneck/Images/SCM_lauren.webp"
                     }
                   ],
                   "children": []
@@ -634,15 +634,15 @@
                   "id": 33,
                   "label": "Stylohyoid",
                   "type": "img",
-                  "sound": "assets/headneck/Sounds/stylohyoid.wav",
+                  "sound": "assets/headneck/Sounds/stylohyoid.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/Stylohyoid Illistration.png"
+                      "img": "assets/headneck/Images/Stylohyoid Illistration.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/headneck/Images/Stylohyoid_Lauren.jpg"
+                      "img": "assets/headneck/Images/Stylohyoid_Lauren.webp"
                     }
                   ],
                   "children": []
@@ -669,11 +669,11 @@
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/Lavator Scapulae 346.png"
+                      "img": "assets/headneck/Images/Lavator Scapulae 346.webp"
                     },
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/Levator-Scapulae.png"
+                      "img": "assets/headneck/Images/Levator-Scapulae.webp"
                     }
                   ],
                   "children": []
@@ -682,19 +682,19 @@
                   "id": 37,
                   "label": "Rhomboideus Minor",
                   "type": "img",
-                  "sound": "assets/headneck/Sounds/Rhomboidius_minor.wav",
+                  "sound": "assets/headneck/Sounds/Rhomboidius_minor.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/Rhomboideus Minor 346.png"
+                      "img": "assets/headneck/Images/Rhomboideus Minor 346.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/headneck/Images/Rhomboideus Minor 344.png"
+                      "img": "assets/headneck/Images/Rhomboideus Minor 344.webp"
                     },
                     {
                       "label": "Example 3",
-                      "img": "assets/headneck/Images/Rhomboid minor (8).png"
+                      "img": "assets/headneck/Images/Rhomboid minor (8).webp"
                     }
                   ],
                   "children": []
@@ -703,19 +703,19 @@
                   "id": 38,
                   "label": "Rhomboideus Major",
                   "type": "img",
-                  "sound": "assets/headneck/Sounds/Rhomboideus_major.wav",
+                  "sound": "assets/headneck/Sounds/Rhomboideus_major.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/Rhomboideus Major 346.png"
+                      "img": "assets/headneck/Images/Rhomboideus Major 346.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/headneck/Images/Rhomboideus Major 344.png"
+                      "img": "assets/headneck/Images/Rhomboideus Major 344.webp"
                     },
                     {
                       "label": "Example 3",
-                      "img": "assets/headneck/Images/Rhomboid Major (4).png"
+                      "img": "assets/headneck/Images/Rhomboid Major (4).webp"
                     }
                   ],
                   "children": []
@@ -724,15 +724,15 @@
                   "id": 39,
                   "label": "Pectoralis Minor",
                   "type": "img",
-                  "sound": "assets/headneck/Sounds/pectoralis_minor.wav",
+                  "sound": "assets/headneck/Sounds/pectoralis_minor.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/Pectoralis Minor Illistration.png"
+                      "img": "assets/headneck/Images/Pectoralis Minor Illistration.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/headneck/Images/pec_minor_ant_truj.jpg"
+                      "img": "assets/headneck/Images/pec_minor_ant_truj.webp"
                     }
                   ],
                   "children": []
@@ -741,27 +741,27 @@
                   "id": 40,
                   "label": "Serratus Anterior",
                   "type": "img",
-                  "sound": "assets/headneck/Sounds/serratus_anterior.wav",
+                  "sound": "assets/headneck/Sounds/serratus_anterior.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/Serratus Anterior Anterior.png"
+                      "img": "assets/headneck/Images/Serratus Anterior Anterior.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/headneck/Images/Serratus Anterior (21).png"
+                      "img": "assets/headneck/Images/Serratus Anterior (21).webp"
                     },
                     {
                       "label": "Example 3",
-                      "img": "assets/headneck/Images/serrat_ant_front_kaden.jpg"
+                      "img": "assets/headneck/Images/serrat_ant_front_kaden.webp"
                     },
                     {
                       "label": "Example 4",
-                      "img": "assets/headneck/Images/Seratusonly_lateral.jpg"
+                      "img": "assets/headneck/Images/Seratusonly_lateral.webp"
                     },
                     {
                       "label": "Example 5",
-                      "img": "assets/headneck/Images/serrat_ant_truj.jpg"
+                      "img": "assets/headneck/Images/serrat_ant_truj.webp"
                     }
                   ],
                   "children": []
@@ -770,19 +770,19 @@
                   "id": 41,
                   "label": "Trapezius",
                   "type": "img",
-                  "sound": "assets/headneck/Sounds/trapezius.wav",
+                  "sound": "assets/headneck/Sounds/trapezius.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/trapezius.jpg"
+                      "img": "assets/headneck/Images/trapezius.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/headneck/Images/Trapezius (4).png"
+                      "img": "assets/headneck/Images/Trapezius (4).webp"
                     },
                     {
                       "label": "Anterior Example",
-                      "img": "assets/headneck/Images/Trapezius Anterior.png"
+                      "img": "assets/headneck/Images/Trapezius Anterior.webp"
                     }
                   ],
                   "children": []
@@ -801,7 +801,7 @@
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/Internal_Intercostals-annalee.jpg"
+                      "img": "assets/headneck/Images/Internal_Intercostals-annalee.webp"
                     }
                   ],
                   "children": []
@@ -813,7 +813,7 @@
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/External_Intercostals-annalee.jpg"
+                      "img": "assets/headneck/Images/External_Intercostals-annalee.webp"
                     }
                   ],
                   "children": []
@@ -822,23 +822,23 @@
                   "id": 45,
                   "label": "External Abdominal Oblique",
                   "type": "img",
-                  "sound": "assets/headneck/Sounds/external_abdominal_oblique.wav",
+                  "sound": "assets/headneck/Sounds/external_abdominal_oblique.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/External Abdominal Oblique Bock Illistration.png"
+                      "img": "assets/headneck/Images/External Abdominal Oblique Bock Illistration.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/headneck/Images/External Abdominal Oblique Anterior.png"
+                      "img": "assets/headneck/Images/External Abdominal Oblique Anterior.webp"
                     },
                     {
                       "label": "Example 3",
-                      "img": "assets/headneck/Images/ext_ab_obl_front_kaden.jpg"
+                      "img": "assets/headneck/Images/ext_ab_obl_front_kaden.webp"
                     },
                     {
                       "label": "Example 4",
-                      "img": "assets/headneck/Images/ext_ab_obl_side_trunkmuscles_kaden.jpg"
+                      "img": "assets/headneck/Images/ext_ab_obl_side_trunkmuscles_kaden.webp"
                     }
                   ],
                   "children": []
@@ -847,15 +847,15 @@
                   "id": 46,
                   "label": "Inguinal Ligament",
                   "type": "img",
-                  "sound": "assets/headneck/Sounds/inguinal_ligament.wav",
+                  "sound": "assets/headneck/Sounds/inguinal_ligament.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/Inguinal Ligament Gray Illistration.png"
+                      "img": "assets/headneck/Images/Inguinal Ligament Gray Illistration.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/headneck/Images/Inguinal Ligament Bock Illistration.png"
+                      "img": "assets/headneck/Images/Inguinal Ligament Bock Illistration.webp"
                     }
                   ],
                   "children": []
@@ -864,15 +864,15 @@
                   "id": 47,
                   "label": "Internal Abdominial Oblique",
                   "type": "img",
-                  "sound": "assets/headneck/Sounds/internal_abdominal_oblique.wav",
+                  "sound": "assets/headneck/Sounds/internal_abdominal_oblique.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/Internal Abdominal Oblique Bock Illistration.png"
+                      "img": "assets/headneck/Images/Internal Abdominal Oblique Bock Illistration.webp"
                     },
                     {
                       "label": "Animate",
-                      "img": "assets/headneck/Images/animate_side_internal_obl_kaden.gif"
+                      "img": "assets/headneck/Images/animate_side_internal_obl_kaden-animate.webp"
                     }
                   ],
                   "children": []
@@ -881,11 +881,11 @@
                   "id": 48,
                   "label": "Linea Alba",
                   "type": "img",
-                  "sound": "assets/headneck/Sounds/linea_alba.wav",
+                  "sound": "assets/headneck/Sounds/linea_alba.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/Linea Alba Anterior.png"
+                      "img": "assets/headneck/Images/Linea Alba Anterior.webp"
                     }
                   ],
                   "children": []
@@ -894,19 +894,19 @@
                   "id": 49,
                   "label": "Rectus Abdominis",
                   "type": "img",
-                  "sound": "assets/headneck/Sounds/rectus_abdominus.wav",
+                  "sound": "assets/headneck/Sounds/rectus_abdominus.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/Rectus Abdominus Bock Illistration.png"
+                      "img": "assets/headneck/Images/Rectus Abdominus Bock Illistration.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/headneck/Images/Rectus Abdomininis Anterior.png"
+                      "img": "assets/headneck/Images/Rectus Abdomininis Anterior.webp"
                     },
                     {
                       "label": "Animate",
-                      "img": "assets/headneck/Images/animate_rectus_ab_Kaden.gif"
+                      "img": "assets/headneck/Images/animate_rectus_ab_Kaden-animate.webp"
                     }
                   ],
                   "children": []
@@ -915,15 +915,15 @@
                   "id": 50,
                   "label": "Transverse Abdominis",
                   "type": "img",
-                  "sound": "assets/headneck/Sounds/transverse_abdominus.wav",
+                  "sound": "assets/headneck/Sounds/transverse_abdominus.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/Transversus Abdominus Sabotta Illitration.png"
+                      "img": "assets/headneck/Images/Transversus Abdominus Sabotta Illitration.webp"
                     },
                     {
                       "label": "Animate",
-                      "img": "assets/headneck/Images/animate_side_transverse_ab_kaden.gif"
+                      "img": "assets/headneck/Images/animate_side_transverse_ab_kaden-animate.webp"
                     }
                   ],
                   "children": []
@@ -939,15 +939,15 @@
                   "id": 52,
                   "label": "Quadratus Lumborum",
                   "type": "img",
-                  "sound": "assets/headneck/Sounds/quadratus_lumborum.wav",
+                  "sound": "assets/headneck/Sounds/quadratus_lumborum.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/Quadratus Lumborum Sabotta Illistration.png"
+                      "img": "assets/headneck/Images/Quadratus Lumborum Sabotta Illistration.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/headneck/Images/quadratus_lum_Grey.png"
+                      "img": "assets/headneck/Images/quadratus_lum_Grey.webp"
                     }
                   ],
                   "children": []
@@ -956,23 +956,23 @@
                   "id": 53,
                   "label": "Sacrospinalis (Erector Spinae) Example Set 1",
                   "type": "img",
-                  "sound": "assets/headneck/Sounds/sacrospinalis.wav",
+                  "sound": "assets/headneck/Sounds/sacrospinalis.mp3",
                   "buttons": [
                     {
                       "label": "Sacrospinalis or Erector Spinae",
-                      "img": "assets/headneck/Images/sacrospinalis.png"
+                      "img": "assets/headneck/Images/sacrospinalis.webp"
                     },
                     {
                       "label": "Illiocostalis Portion",
-                      "img": "assets/headneck/Images/Sacrospinalis-Iliocostalis.png"
+                      "img": "assets/headneck/Images/Sacrospinalis-Iliocostalis.webp"
                     },
                     {
                       "label": "Longissmus Portion",
-                      "img": "assets/headneck/Images/Sacrospinalis-Longissiumus.png"
+                      "img": "assets/headneck/Images/Sacrospinalis-Longissiumus.webp"
                     },
                     {
                       "label": "Spinalis Portion",
-                      "img": "assets/headneck/Images/Sacrospinalis-Spinalis.png"
+                      "img": "assets/headneck/Images/Sacrospinalis-Spinalis.webp"
                     }
                   ],
                   "children": []
@@ -981,23 +981,23 @@
                   "id": 54,
                   "label": "Sacrospinalis (Erector Spinae) Example Set 2",
                   "type": "img",
-                  "sound": "assets/headneck/Sounds/sacrospinalis.wav",
+                  "sound": "assets/headneck/Sounds/sacrospinalis.mp3",
                   "buttons": [
                     {
                       "label": "Sacrospinalis or Erector Spinae",
-                      "img": "assets/headneck/Images/Erector_Spinae_Grey.png"
+                      "img": "assets/headneck/Images/Erector_Spinae_Grey.webp"
                     },
                     {
                       "label": "Illiocostalis Portion",
-                      "img": "assets/headneck/Images/Erector-Spinae-iliocost_Grey.png"
+                      "img": "assets/headneck/Images/Erector-Spinae-iliocost_Grey.webp"
                     },
                     {
                       "label": "Longissmus Portion",
-                      "img": "assets/headneck/Images/Erector-Spinae-long_Grey.png"
+                      "img": "assets/headneck/Images/Erector-Spinae-long_Grey.webp"
                     },
                     {
                       "label": "Spinalis Portion",
-                      "img": "assets/headneck/Images/Erector-Spinae-spin_Grey.png"
+                      "img": "assets/headneck/Images/Erector-Spinae-spin_Grey.webp"
                     }
                   ],
                   "children": []
@@ -1009,11 +1009,11 @@
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/headneck/Images/post_serratus.png"
+                      "img": "assets/headneck/Images/post_serratus.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/headneck/Images/post-serratus-Grey.png"
+                      "img": "assets/headneck/Images/post-serratus-Grey.webp"
                     }
                   ],
                   "children": []

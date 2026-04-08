@@ -10,7 +10,7 @@ export default function Cover({img_src}){
             {/* Inner group — image drives the height, menu stretches to match */}
             <div className="flex items-stretch">
                 <img
-                    src={img_src || process.env.PUBLIC_URL + '/Bio264L_SpiralCover_cropped.jpg'}
+                    src={img_src || process.env.PUBLIC_URL + '/Bio264L_SpiralCover_cropped.webp'}
                     alt="Bio 264 Lab Manual Cover"
                     className="max-h-screen w-auto"
                     style={{ maxWidth: 'calc(100vw - 6rem)' }}

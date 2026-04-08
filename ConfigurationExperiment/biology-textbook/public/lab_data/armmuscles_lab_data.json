@@ -31,19 +31,19 @@
                   "id": 4,
                   "label": "Coracobrachialis",
                   "type": "img",
-                  "sound": "assets/armmuscles/Sounds/coracobrachialis.wav",
+                  "sound": "assets/armmuscles/Sounds/coracobrachialis.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/armmuscles/Images/Coracobrachialis (13).png"
+                      "img": "assets/armmuscles/Images/Coracobrachialis (13).webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/armmuscles/Images/Coracobrachialis.png"
+                      "img": "assets/armmuscles/Images/Coracobrachialis.webp"
                     },
                     {
                       "label": "Example 3",
-                      "img": "assets/armmuscles/Images/Coracobrachialis Anterior.png"
+                      "img": "assets/armmuscles/Images/Coracobrachialis Anterior.webp"
                     }
                   ],
                   "children": []
@@ -52,19 +52,19 @@
                   "id": 5,
                   "label": "Deltoid",
                   "type": "img",
-                  "sound": "assets/armmuscles/Sounds/deltoid.wav",
+                  "sound": "assets/armmuscles/Sounds/deltoid.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/armmuscles/Images/Deltoid (5).png"
+                      "img": "assets/armmuscles/Images/Deltoid (5).webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/armmuscles/Images/Deltoid Anterior.png"
+                      "img": "assets/armmuscles/Images/Deltoid Anterior.webp"
                     },
                     {
                       "label": "Example 3",
-                      "img": "assets/armmuscles/Images/Deltoid Posterior.png"
+                      "img": "assets/armmuscles/Images/Deltoid Posterior.webp"
                     }
                   ],
                   "children": []
@@ -73,19 +73,19 @@
                   "id": 6,
                   "label": "Latissimus Dorsi",
                   "type": "img",
-                  "sound": "assets/armmuscles/Sounds/latissimus_dorsi.wav",
+                  "sound": "assets/armmuscles/Sounds/latissimus_dorsi.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/armmuscles/Images/Latissimus dorsi  (1).png"
+                      "img": "assets/armmuscles/Images/Latissimus dorsi  (1).webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/armmuscles/Images/Latissimus Dorsi 346.png"
+                      "img": "assets/armmuscles/Images/Latissimus Dorsi 346.webp"
                     },
                     {
                       "label": "Example 3",
-                      "img": "assets/armmuscles/Images/Latissimus Dorsi Posterior.png"
+                      "img": "assets/armmuscles/Images/Latissimus Dorsi Posterior.webp"
                     }
                   ],
                   "children": []
@@ -94,11 +94,11 @@
                   "id": 7,
                   "label": "Pectoralis Major",
                   "type": "img",
-                  "sound": "assets/armmuscles/Sounds/pectoralis_major.wav",
+                  "sound": "assets/armmuscles/Sounds/pectoralis_major.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/armmuscles/Images/Pectoralis major (3).png"
+                      "img": "assets/armmuscles/Images/Pectoralis major (3).webp"
                     }
                   ],
                   "children": []
@@ -107,11 +107,11 @@
                   "id": 8,
                   "label": "Infraspinatus",
                   "type": "img",
-                  "sound": "assets/armmuscles/Sounds/infraspinatus.wav",
+                  "sound": "assets/armmuscles/Sounds/infraspinatus.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/armmuscles/Images/Infraspinatus 346.png"
+                      "img": "assets/armmuscles/Images/Infraspinatus 346.webp"
                     }
                   ],
                   "children": []
@@ -120,11 +120,11 @@
                   "id": 9,
                   "label": "Supraspinatus",
                   "type": "img",
-                  "sound": "assets/armmuscles/Sounds/supraspinatus.wav",
+                  "sound": "assets/armmuscles/Sounds/supraspinatus.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/armmuscles/Images/Supraspinatus 346.png"
+                      "img": "assets/armmuscles/Images/Supraspinatus 346.webp"
                     }
                   ],
                   "children": []
@@ -133,11 +133,11 @@
                   "id": 10,
                   "label": "Subscapularis",
                   "type": "img",
-                  "sound": "assets/armmuscles/Sounds/subscapularis.wav",
+                  "sound": "assets/armmuscles/Sounds/subscapularis.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/armmuscles/Images/subscapularis.png"
+                      "img": "assets/armmuscles/Images/subscapularis.webp"
                     }
                   ],
                   "children": []
@@ -146,11 +146,11 @@
                   "id": 11,
                   "label": "Teres Minor",
                   "type": "img",
-                  "sound": "assets/armmuscles/Sounds/teres_minor.wav",
+                  "sound": "assets/armmuscles/Sounds/teres_minor.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/armmuscles/Images/Teres Minor 346.png"
+                      "img": "assets/armmuscles/Images/Teres Minor 346.webp"
                     }
                   ],
                   "children": []
@@ -159,15 +159,15 @@
                   "id": 12,
                   "label": "Teres Major",
                   "type": "img",
-                  "sound": "assets/armmuscles/Sounds/teres_major.wav",
+                  "sound": "assets/armmuscles/Sounds/teres_major.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/armmuscles/Images/Teres Major 346.png"
+                      "img": "assets/armmuscles/Images/Teres Major 346.webp"
                     },
                     {
                       "label": "Example 2 - Anterior View",
-                      "img": "assets/armmuscles/Images/Teres Major Anteromedial.png"
+                      "img": "assets/armmuscles/Images/Teres Major Anteromedial.webp"
                     }
                   ],
                   "children": []
@@ -183,23 +183,23 @@
                   "id": 14,
                   "label": "Biceps Brachii",
                   "type": "img",
-                  "sound": "assets/armmuscles/Sounds/biceps_brachii.wav",
+                  "sound": "assets/armmuscles/Sounds/biceps_brachii.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/armmuscles/Images/Biceps_Brachii.png"
+                      "img": "assets/armmuscles/Images/Biceps_Brachii.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/armmuscles/Images/Biceps-Brachii.png"
+                      "img": "assets/armmuscles/Images/Biceps-Brachii.webp"
                     },
                     {
                       "label": "Long Head",
-                      "img": "assets/armmuscles/Images/Biceps Brachii Long Head Illistration.png"
+                      "img": "assets/armmuscles/Images/Biceps Brachii Long Head Illistration.webp"
                     },
                     {
                       "label": "Short Head",
-                      "img": "assets/armmuscles/Images/Biceps Brachii Short Head Illistration.png"
+                      "img": "assets/armmuscles/Images/Biceps Brachii Short Head Illistration.webp"
                     }
                   ],
                   "children": []
@@ -208,19 +208,19 @@
                   "id": 15,
                   "label": "Brachialis",
                   "type": "img",
-                  "sound": "assets/armmuscles/Sounds/brachialis.wav",
+                  "sound": "assets/armmuscles/Sounds/brachialis.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/armmuscles/Images/Brachialis.png"
+                      "img": "assets/armmuscles/Images/Brachialis.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/armmuscles/Images/Brachialis_3.png"
+                      "img": "assets/armmuscles/Images/Brachialis_3.webp"
                     },
                     {
                       "label": "Example 3",
-                      "img": "assets/armmuscles/Images/Brachialis Anteromedial.png"
+                      "img": "assets/armmuscles/Images/Brachialis Anteromedial.webp"
                     }
                   ],
                   "children": []
@@ -229,23 +229,23 @@
                   "id": 16,
                   "label": "Brachioradialis",
                   "type": "img",
-                  "sound": "assets/armmuscles/Sounds/brachioradialis.wav",
+                  "sound": "assets/armmuscles/Sounds/brachioradialis.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/armmuscles/Images/Brachioradialis.png"
+                      "img": "assets/armmuscles/Images/Brachioradialis.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/armmuscles/Images/Brachioradialis Anterior Arm.png"
+                      "img": "assets/armmuscles/Images/Brachioradialis Anterior Arm.webp"
                     },
                     {
                       "label": "Example 3",
-                      "img": "assets/armmuscles/Images/Brachiradialis101.png"
+                      "img": "assets/armmuscles/Images/Brachiradialis101.webp"
                     },
                     {
                       "label": "Example 4",
-                      "img": "assets/armmuscles/Images/Brachioradialis Anterior.png"
+                      "img": "assets/armmuscles/Images/Brachioradialis Anterior.webp"
                     }
                   ],
                   "children": []
@@ -254,19 +254,19 @@
                   "id": 17,
                   "label": "Triceps Brachii",
                   "type": "img",
-                  "sound": "assets/armmuscles/Sounds/triceps_brachii.wav",
+                  "sound": "assets/armmuscles/Sounds/triceps_brachii.mp3",
                   "buttons": [
                     {
                       "label": "Lateral Head",
-                      "img": "assets/armmuscles/Images/Tricep Brachii Lateral Head Posterior.png"
+                      "img": "assets/armmuscles/Images/Tricep Brachii Lateral Head Posterior.webp"
                     },
                     {
                       "label": "Long Head",
-                      "img": "assets/armmuscles/Images/triceps Brachii Long Head Posterior.png"
+                      "img": "assets/armmuscles/Images/triceps Brachii Long Head Posterior.webp"
                     },
                     {
                       "label": "Medial Head",
-                      "img": "assets/armmuscles/Images/Tricep Brachii Medial Head Posterior.png"
+                      "img": "assets/armmuscles/Images/Tricep Brachii Medial Head Posterior.webp"
                     }
                   ],
                   "children": []
@@ -278,15 +278,15 @@
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/armmuscles/Images/Anconeus_Grey.png"
+                      "img": "assets/armmuscles/Images/Anconeus_Grey.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/armmuscles/Images/Anconeus_Anatomie.jpg"
+                      "img": "assets/armmuscles/Images/Anconeus_Anatomie.webp"
                     },
                     {
                       "label": "Example 3",
-                      "img": "assets/armmuscles/Images/Anconeus_Braus.jpg"
+                      "img": "assets/armmuscles/Images/Anconeus_Braus.webp"
                     }
                   ],
                   "children": []
@@ -302,19 +302,19 @@
                   "id": 20,
                   "label": "Flexor Carpi Ulnaris",
                   "type": "img",
-                  "sound": "assets/armmuscles/Sounds/flexor_carpi_ulnaris.wav",
+                  "sound": "assets/armmuscles/Sounds/flexor_carpi_ulnaris.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/armmuscles/Images/Flexor Carpi Ulnaris Anterior.png"
+                      "img": "assets/armmuscles/Images/Flexor Carpi Ulnaris Anterior.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/armmuscles/Images/Flexor Carpi Ulnaris Anterior Arm.png"
+                      "img": "assets/armmuscles/Images/Flexor Carpi Ulnaris Anterior Arm.webp"
                     },
                     {
                       "label": "Posterior View",
-                      "img": "assets/armmuscles/Images/Flexor Carpi Ulnaris Posterior Arm.png"
+                      "img": "assets/armmuscles/Images/Flexor Carpi Ulnaris Posterior Arm.webp"
                     }
                   ],
                   "children": []
@@ -323,19 +323,19 @@
                   "id": 21,
                   "label": "Flexor Digitorum Superficialis",
                   "type": "img",
-                  "sound": "assets/armmuscles/Sounds/flexor_digitorum_superficialis.wav",
+                  "sound": "assets/armmuscles/Sounds/flexor_digitorum_superficialis.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/armmuscles/Images/Flexor Digitorum Superficialis Anterior.png"
+                      "img": "assets/armmuscles/Images/Flexor Digitorum Superficialis Anterior.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/armmuscles/Images/Flexor Digitorium Superficialis Anterior Arm.png"
+                      "img": "assets/armmuscles/Images/Flexor Digitorium Superficialis Anterior Arm.webp"
                     },
                     {
                       "label": "Example 3",
-                      "img": "assets/armmuscles/Images/Flexor Digitorum Superficialis Gray Illistration.png"
+                      "img": "assets/armmuscles/Images/Flexor Digitorum Superficialis Gray Illistration.webp"
                     }
                   ],
                   "children": []
@@ -344,11 +344,11 @@
                   "id": 22,
                   "label": "Palmaris Longus",
                   "type": "img",
-                  "sound": "assets/armmuscles/Sounds/palmaris_longus.wav",
+                  "sound": "assets/armmuscles/Sounds/palmaris_longus.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/armmuscles/Images/Palmaris-Longus (7).png"
+                      "img": "assets/armmuscles/Images/Palmaris-Longus (7).webp"
                     }
                   ],
                   "children": []
@@ -357,15 +357,15 @@
                   "id": 23,
                   "label": "Flexor Carpi Radialis",
                   "type": "img",
-                  "sound": "assets/armmuscles/Sounds/flexor_carpi_radialis.wav",
+                  "sound": "assets/armmuscles/Sounds/flexor_carpi_radialis.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/armmuscles/Images/Flexor Carpi Radialis Anterior.png"
+                      "img": "assets/armmuscles/Images/Flexor Carpi Radialis Anterior.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/armmuscles/Images/Flexor Carpi Radialis Anterior Arm.png"
+                      "img": "assets/armmuscles/Images/Flexor Carpi Radialis Anterior Arm.webp"
                     }
                   ],
                   "children": []
@@ -374,19 +374,19 @@
                   "id": 24,
                   "label": "Pronator Teres",
                   "type": "img",
-                  "sound": "assets/armmuscles/Sounds/pronator_teres.wav",
+                  "sound": "assets/armmuscles/Sounds/pronator_teres.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/armmuscles/Images/Pronator Teres Anterior Arm.png"
+                      "img": "assets/armmuscles/Images/Pronator Teres Anterior Arm.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/armmuscles/Images/Pronator-Teres (5).png"
+                      "img": "assets/armmuscles/Images/Pronator-Teres (5).webp"
                     },
                     {
                       "label": "Example 3",
-                      "img": "assets/armmuscles/Images/Pronator Teres Anteriomedial.png"
+                      "img": "assets/armmuscles/Images/Pronator Teres Anteriomedial.webp"
                     }
                   ],
                   "children": []
@@ -398,15 +398,15 @@
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/armmuscles/Images/pronator-quad-Blaus.png"
+                      "img": "assets/armmuscles/Images/pronator-quad-Blaus.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/armmuscles/Images/pronator-quad-Grey.png"
+                      "img": "assets/armmuscles/Images/pronator-quad-Grey.webp"
                     },
                     {
                       "label": "Example 3",
-                      "img": "assets/armmuscles/Images/Pronator-Quad-Sobotto.png"
+                      "img": "assets/armmuscles/Images/Pronator-Quad-Sobotto.webp"
                     }
                   ],
                   "children": []
@@ -415,15 +415,15 @@
                   "id": 26,
                   "label": "Supinator",
                   "type": "img",
-                  "sound": "assets/armmuscles/Sounds/supinator.wav",
+                  "sound": "assets/armmuscles/Sounds/supinator.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/armmuscles/Images/Suppinator Anterior Arm.png"
+                      "img": "assets/armmuscles/Images/Suppinator Anterior Arm.webp"
                     },
                     {
                       "label": "Example 2",
-                      "img": "assets/armmuscles/Images/Supinator.png"
+                      "img": "assets/armmuscles/Images/Supinator.webp"
                     }
                   ],
                   "children": []
@@ -432,11 +432,11 @@
                   "id": 27,
                   "label": "Flexor Digitorum Profundus",
                   "type": "img",
-                  "sound": "assets/armmuscles/Sounds/flexor_digitorum_profundus.wav",
+                  "sound": "assets/armmuscles/Sounds/flexor_digitorum_profundus.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/armmuscles/Images/FDP_FPL_Gray.png"
+                      "img": "assets/armmuscles/Images/FDP_FPL_Gray.webp"
                     }
                   ],
                   "children": []
@@ -445,11 +445,11 @@
                   "id": 28,
                   "label": "Flexor Pollicis Longus",
                   "type": "img",
-                  "sound": "assets/armmuscles/Sounds/flexor_pollicis_longus.wav",
+                  "sound": "assets/armmuscles/Sounds/flexor_pollicis_longus.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/armmuscles/Images/FDP_FPL_Gray.png"
+                      "img": "assets/armmuscles/Images/FDP_FPL_Gray.webp"
                     }
                   ],
                   "children": []
@@ -458,11 +458,11 @@
                   "id": 29,
                   "label": "Extensor Carpi Radialis Longus",
                   "type": "img",
-                  "sound": "assets/armmuscles/Sounds/extensor_carpi_radialis_longus.wav",
+                  "sound": "assets/armmuscles/Sounds/extensor_carpi_radialis_longus.mp3",
                   "buttons": [
                     {
                       "label": "Illustration",
-                      "img": "assets/armmuscles/Images/Extensor Carpi Radialis Longus Posterior Arm.png"
+                      "img": "assets/armmuscles/Images/Extensor Carpi Radialis Longus Posterior Arm.webp"
                     }
                   ],
                   "children": []
@@ -471,11 +471,11 @@
                   "id": 30,
                   "label": "Extensor Carpi Radialis Brevis",
                   "type": "img",
-                  "sound": "assets/armmuscles/Sounds/extensor_carpi_radialis_brevis.wav",
+                  "sound": "assets/armmuscles/Sounds/extensor_carpi_radialis_brevis.mp3",
                   "buttons": [
                     {
                       "label": "Illustration",
-                      "img": "assets/armmuscles/Images/Ext_carpi_rad_brev.png"
+                      "img": "assets/armmuscles/Images/Ext_carpi_rad_brev.webp"
                     }
                   ],
                   "children": []
@@ -484,15 +484,15 @@
                   "id": 31,
                   "label": "Abductor Pollicis Longus",
                   "type": "img",
-                  "sound": "assets/armmuscles/Sounds/abductor_pollicis_lonogus.wav",
+                  "sound": "assets/armmuscles/Sounds/abductor_pollicis_lonogus.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/armmuscles/Images/Abductor Pollicis Longus Posterior Arm.png"
+                      "img": "assets/armmuscles/Images/Abductor Pollicis Longus Posterior Arm.webp"
                     },
                     {
                       "label": "With Extensor Digitorum Removed",
-                      "img": "assets/armmuscles/Images/Abductor Pollicis Longus (NO Digitorum) Posterior Arm.png"
+                      "img": "assets/armmuscles/Images/Abductor Pollicis Longus (NO Digitorum) Posterior Arm.webp"
                     }
                   ],
                   "children": []
@@ -501,15 +501,15 @@
                   "id": 32,
                   "label": "Extensor Pollicis Brevis",
                   "type": "img",
-                  "sound": "assets/armmuscles/Sounds/extensor_pollicis_Brevis.wav",
+                  "sound": "assets/armmuscles/Sounds/extensor_pollicis_Brevis.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/armmuscles/Images/Extensor Pollicis Brevis Posterior Arm.png"
+                      "img": "assets/armmuscles/Images/Extensor Pollicis Brevis Posterior Arm.webp"
                     },
                     {
                       "label": "With Extensor Digitorum Removed",
-                      "img": "assets/armmuscles/Images/Extensor Pollicis Brevis (NO Digitorum) Posterior Arm.png"
+                      "img": "assets/armmuscles/Images/Extensor Pollicis Brevis (NO Digitorum) Posterior Arm.webp"
                     }
                   ],
                   "children": []
@@ -518,15 +518,15 @@
                   "id": 33,
                   "label": "Extensor Pollicis Longus",
                   "type": "img",
-                  "sound": "assets/armmuscles/Sounds/extensor_pollicis_Longus.wav",
+                  "sound": "assets/armmuscles/Sounds/extensor_pollicis_Longus.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/armmuscles/Images/Extensor Pollicis Longus Posterior Arm.png"
+                      "img": "assets/armmuscles/Images/Extensor Pollicis Longus Posterior Arm.webp"
                     },
                     {
                       "label": "With Extensor Digitorum Removed",
-                      "img": "assets/armmuscles/Images/Extensor Pollicis Longus (NO DIgitorum) Posterior Arm.png"
+                      "img": "assets/armmuscles/Images/Extensor Pollicis Longus (NO DIgitorum) Posterior Arm.webp"
                     }
                   ],
                   "children": []
@@ -535,11 +535,11 @@
                   "id": 34,
                   "label": "Extensor Digitorum",
                   "type": "img",
-                  "sound": "assets/armmuscles/Sounds/extensor_digitorum.wav",
+                  "sound": "assets/armmuscles/Sounds/extensor_digitorum.mp3",
                   "buttons": [
                     {
                       "label": "Example 1",
-                      "img": "assets/armmuscles/Images/Extensor Digitorum Posterior Arm.png"
+                      "img": "assets/armmuscles/Images/Extensor Digitorum Posterior Arm.webp"
                     }
                   ],
                   "children": []
@@ -548,11 +548,11 @@
                   "id": 35,
                   "label": "Extensor Digiti Minimi",
                   "type": "img",
-                  "sound": "assets/armmuscles/Sounds/extensor_digiti_minimi.wav",
+                  "sound": "assets/armmuscles/Sounds/extensor_digiti_minimi.mp3",
                   "buttons": [
                     {
                       "label": "Illustration",
-                      "img": "assets/armmuscles/Images/Extensor Digiti Minimi Posterior Arm.png"
+                      "img": "assets/armmuscles/Images/Extensor Digiti Minimi Posterior Arm.webp"
                     }
                   ],
                   "children": []
@@ -564,7 +564,7 @@
                   "buttons": [
                     {
                       "label": "Illustration",
-                      "img": "assets/armmuscles/Images/ExtensorIndicesGrey.png"
+                      "img": "assets/armmuscles/Images/ExtensorIndicesGrey.webp"
                     }
                   ],
                   "children": []
@@ -573,15 +573,15 @@
                   "id": 37,
                   "label": "Extensor Carpi Ulnaris",
                   "type": "img",
-                  "sound": "assets/armmuscles/Sounds/extensor_carpi_ulnaris.wav",
+                  "sound": "assets/armmuscles/Sounds/extensor_carpi_ulnaris.mp3",
                   "buttons": [
                     {
                       "label": "Illustration",
-                      "img": "assets/armmuscles/Images/Extensor Carpi Ulnaris Posterior Arm.png"
+                      "img": "assets/armmuscles/Images/Extensor Carpi Ulnaris Posterior Arm.webp"
                     },
                     {
                       "label": "Ext Digitorum Removed",
-                      "img": "assets/armmuscles/Images/Extensor Carpi Ulnaris (NO Digitorum) Posterior Arm.png"
+                      "img": "assets/armmuscles/Images/Extensor Carpi Ulnaris (NO Digitorum) Posterior Arm.webp"
                     }
                   ],
                   "children": []

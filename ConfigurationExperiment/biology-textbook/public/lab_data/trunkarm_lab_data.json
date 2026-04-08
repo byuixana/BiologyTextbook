@@ -28,11 +28,11 @@
               "id": 3,
               "label": "Clavicle",
               "type": "img",
-              "sound": "assets/trunkarm/Sounds/clavicle.wav",
+              "sound": "assets/trunkarm/Sounds/clavicle.mp3",
               "buttons": [
                 {
                   "label": "",
-                  "img": "assets/trunkarm/Images/clavicle.jpg"
+                  "img": "assets/trunkarm/Images/clavicle.webp"
                 }
               ],
               "children": [
@@ -40,11 +40,11 @@
                   "id": 4,
                   "label": "Acromial (Lateral) End",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/acromial.wav",
+                  "sound": "assets/trunkarm/Sounds/acromial.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/acromial_end.jpg"
+                      "img": "assets/trunkarm/Images/acromial_end.webp"
                     }
                   ],
                   "children": []
@@ -53,11 +53,11 @@
                   "id": 5,
                   "label": "Conoid Process",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/conoid.wav",
+                  "sound": "assets/trunkarm/Sounds/conoid.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/conoid_proc_clav.jpg"
+                      "img": "assets/trunkarm/Images/conoid_proc_clav.webp"
                     }
                   ],
                   "children": []
@@ -66,11 +66,11 @@
                   "id": 6,
                   "label": "Sternal (Medial) End",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/sternal_end.wav",
+                  "sound": "assets/trunkarm/Sounds/sternal_end.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/sternal_end.jpg"
+                      "img": "assets/trunkarm/Images/sternal_end.webp"
                     }
                   ],
                   "children": []
@@ -81,31 +81,31 @@
               "id": 7,
               "label": "Scapula",
               "type": "img",
-              "sound": "assets/trunkarm/Sounds/scapula.wav",
+              "sound": "assets/trunkarm/Sounds/scapula.mp3",
               "buttons": [
                 {
                   "label": "Posterior Complete Skeleton",
-                  "img": "assets/trunkarm/Images/scapula.jpg"
+                  "img": "assets/trunkarm/Images/scapula.webp"
                 },
                 {
                   "label": "Anterior",
-                  "img": "assets/trunkarm/Images/ant_scapula.jpg"
+                  "img": "assets/trunkarm/Images/ant_scapula.webp"
                 },
                 {
                   "label": "Lateral",
-                  "img": "assets/trunkarm/Images/lat_scapula.jpg"
+                  "img": "assets/trunkarm/Images/lat_scapula.webp"
                 },
                 {
                   "label": "Posterior",
-                  "img": "assets/trunkarm/Images/post_scapula.jpg"
+                  "img": "assets/trunkarm/Images/post_scapula.webp"
                 },
                 {
                   "label": "Superior",
-                  "img": "assets/trunkarm/Images/sup_scapula.jpg"
+                  "img": "assets/trunkarm/Images/sup_scapula.webp"
                 },
                 {
                   "label": "3D Animation",
-                  "img": "assets/trunkarm/Images/gifs/scapula.gif"
+                  "img": "assets/trunkarm/Images/gifs/scapula.webp"
                 }
               ],
               "children": [
@@ -113,23 +113,23 @@
                   "id": 8,
                   "label": "Acromion Process",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/acromion_process.wav",
+                  "sound": "assets/trunkarm/Sounds/acromion_process.mp3",
                   "buttons": [
                     {
                       "label": "Anterior",
-                      "img": "assets/trunkarm/Images/acromion_proc_ant.jpg"
+                      "img": "assets/trunkarm/Images/acromion_proc_ant.webp"
                     },
                     {
                       "label": "Lateral",
-                      "img": "assets/trunkarm/Images/acromion_proc_lat.jpg"
+                      "img": "assets/trunkarm/Images/acromion_proc_lat.webp"
                     },
                     {
                       "label": "Posterior",
-                      "img": "assets/trunkarm/Images/acromion_proc_post.jpg"
+                      "img": "assets/trunkarm/Images/acromion_proc_post.webp"
                     },
                     {
                       "label": "Superior",
-                      "img": "assets/trunkarm/Images/acromion_proc_sup.jpg"
+                      "img": "assets/trunkarm/Images/acromion_proc_sup.webp"
                     }
                   ],
                   "children": []
@@ -138,19 +138,19 @@
                   "id": 9,
                   "label": "Axillary (Lateral) Border",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/axillary.wav",
+                  "sound": "assets/trunkarm/Sounds/axillary.mp3",
                   "buttons": [
                     {
                       "label": "Anterior",
-                      "img": "assets/trunkarm/Images/axil_border_ant.jpg"
+                      "img": "assets/trunkarm/Images/axil_border_ant.webp"
                     },
                     {
                       "label": "Lateral",
-                      "img": "assets/trunkarm/Images/axil_border_lat.jpg"
+                      "img": "assets/trunkarm/Images/axil_border_lat.webp"
                     },
                     {
                       "label": "Posterior",
-                      "img": "assets/trunkarm/Images/axil_border_post.jpg"
+                      "img": "assets/trunkarm/Images/axil_border_post.webp"
                     }
                   ],
                   "children": []
@@ -159,23 +159,23 @@
                   "id": 10,
                   "label": "Coracoid Process",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/coracoid_process.wav",
+                  "sound": "assets/trunkarm/Sounds/coracoid_process.mp3",
                   "buttons": [
                     {
                       "label": "Anterior",
-                      "img": "assets/trunkarm/Images/coracoid_proc_ant.jpg"
+                      "img": "assets/trunkarm/Images/coracoid_proc_ant.webp"
                     },
                     {
                       "label": "Lateral",
-                      "img": "assets/trunkarm/Images/coracoid_proc_lat.jpg"
+                      "img": "assets/trunkarm/Images/coracoid_proc_lat.webp"
                     },
                     {
                       "label": "Posterior",
-                      "img": "assets/trunkarm/Images/coracoid_proc_post.jpg"
+                      "img": "assets/trunkarm/Images/coracoid_proc_post.webp"
                     },
                     {
                       "label": "Superior",
-                      "img": "assets/trunkarm/Images/coracoid_proc_sup.jpg"
+                      "img": "assets/trunkarm/Images/coracoid_proc_sup.webp"
                     }
                   ],
                   "children": []
@@ -184,19 +184,19 @@
                   "id": 11,
                   "label": "Glenoid Cavity",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/glenoid.wav",
+                  "sound": "assets/trunkarm/Sounds/glenoid.mp3",
                   "buttons": [
                     {
                       "label": "Anterior",
-                      "img": "assets/trunkarm/Images/glenoid_ant.jpg"
+                      "img": "assets/trunkarm/Images/glenoid_ant.webp"
                     },
                     {
                       "label": "Lateral",
-                      "img": "assets/trunkarm/Images/glenoid_lat.jpg"
+                      "img": "assets/trunkarm/Images/glenoid_lat.webp"
                     },
                     {
                       "label": "Superior",
-                      "img": "assets/trunkarm/Images/glenoid_sup.jpg"
+                      "img": "assets/trunkarm/Images/glenoid_sup.webp"
                     }
                   ],
                   "children": []
@@ -205,19 +205,19 @@
                   "id": 12,
                   "label": "Inferior Angle",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/inferior_angle.wav",
+                  "sound": "assets/trunkarm/Sounds/inferior_angle.mp3",
                   "buttons": [
                     {
                       "label": "Anterior",
-                      "img": "assets/trunkarm/Images/inf_angle_ant.jpg"
+                      "img": "assets/trunkarm/Images/inf_angle_ant.webp"
                     },
                     {
                       "label": "Lateral",
-                      "img": "assets/trunkarm/Images/inf_angle_lat.jpg"
+                      "img": "assets/trunkarm/Images/inf_angle_lat.webp"
                     },
                     {
                       "label": "Posterior",
-                      "img": "assets/trunkarm/Images/inf_angle_post.jpg"
+                      "img": "assets/trunkarm/Images/inf_angle_post.webp"
                     }
                   ],
                   "children": []
@@ -226,11 +226,11 @@
                   "id": 13,
                   "label": "Infraspinous Fossa",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/infraspinous.wav",
+                  "sound": "assets/trunkarm/Sounds/infraspinous.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/infraspin_fossa_post.jpg"
+                      "img": "assets/trunkarm/Images/infraspin_fossa_post.webp"
                     }
                   ],
                   "children": []
@@ -239,19 +239,19 @@
                   "id": 14,
                   "label": "Scapular Notch",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/scapular_notch.wav",
+                  "sound": "assets/trunkarm/Sounds/scapular_notch.mp3",
                   "buttons": [
                     {
                       "label": "Anterior",
-                      "img": "assets/trunkarm/Images/scap_notch_ant.jpg"
+                      "img": "assets/trunkarm/Images/scap_notch_ant.webp"
                     },
                     {
                       "label": "Posterior",
-                      "img": "assets/trunkarm/Images/scap_notch_post.jpg"
+                      "img": "assets/trunkarm/Images/scap_notch_post.webp"
                     },
                     {
                       "label": "Superior",
-                      "img": "assets/trunkarm/Images/Scap_notch_sup.jpg"
+                      "img": "assets/trunkarm/Images/Scap_notch_sup.webp"
                     }
                   ],
                   "children": []
@@ -260,15 +260,15 @@
                   "id": 15,
                   "label": "Spine",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/spine.wav",
+                  "sound": "assets/trunkarm/Sounds/spine.mp3",
                   "buttons": [
                     {
                       "label": "Posterior",
-                      "img": "assets/trunkarm/Images/spine_post.jpg"
+                      "img": "assets/trunkarm/Images/spine_post.webp"
                     },
                     {
                       "label": "Superior",
-                      "img": "assets/trunkarm/Images/spine_sup.jpg"
+                      "img": "assets/trunkarm/Images/spine_sup.webp"
                     }
                   ],
                   "children": []
@@ -277,11 +277,11 @@
                   "id": 16,
                   "label": "Subscapular Fossa",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/subscapular_fossa.wav",
+                  "sound": "assets/trunkarm/Sounds/subscapular_fossa.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/subscap_fossa_ant.jpg"
+                      "img": "assets/trunkarm/Images/subscap_fossa_ant.webp"
                     }
                   ],
                   "children": []
@@ -290,23 +290,23 @@
                   "id": 17,
                   "label": "Superior (Medial) Angle",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/superior_angle.wav",
+                  "sound": "assets/trunkarm/Sounds/superior_angle.mp3",
                   "buttons": [
                     {
                       "label": "Anterior",
-                      "img": "assets/trunkarm/Images/sup_angle_ant.jpg"
+                      "img": "assets/trunkarm/Images/sup_angle_ant.webp"
                     },
                     {
                       "label": "Lateral",
-                      "img": "assets/trunkarm/Images/sup_angle_lat.jpg"
+                      "img": "assets/trunkarm/Images/sup_angle_lat.webp"
                     },
                     {
                       "label": "Posterior",
-                      "img": "assets/trunkarm/Images/sup_angle_post.jpg"
+                      "img": "assets/trunkarm/Images/sup_angle_post.webp"
                     },
                     {
                       "label": "Superior",
-                      "img": "assets/trunkarm/Images/sup_angle_sup.jpg"
+                      "img": "assets/trunkarm/Images/sup_angle_sup.webp"
                     }
                   ],
                   "children": []
@@ -315,23 +315,23 @@
                   "id": 18,
                   "label": "Superior Border",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/superior_border.wav",
+                  "sound": "assets/trunkarm/Sounds/superior_border.mp3",
                   "buttons": [
                     {
                       "label": "Anterior",
-                      "img": "assets/trunkarm/Images/sup_border_ant.jpg"
+                      "img": "assets/trunkarm/Images/sup_border_ant.webp"
                     },
                     {
                       "label": "Lateral",
-                      "img": "assets/trunkarm/Images/sup_border_lat.jpg"
+                      "img": "assets/trunkarm/Images/sup_border_lat.webp"
                     },
                     {
                       "label": "Posterior",
-                      "img": "assets/trunkarm/Images/sup_border_post.jpg"
+                      "img": "assets/trunkarm/Images/sup_border_post.webp"
                     },
                     {
                       "label": "Superior",
-                      "img": "assets/trunkarm/Images/sup_border_sup.jpg"
+                      "img": "assets/trunkarm/Images/sup_border_sup.webp"
                     }
                   ],
                   "children": []
@@ -340,15 +340,15 @@
                   "id": 19,
                   "label": "Supraspinous Fossa",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/supraspinous_fossa.wav",
+                  "sound": "assets/trunkarm/Sounds/supraspinous_fossa.mp3",
                   "buttons": [
                     {
                       "label": "Posterior",
-                      "img": "assets/trunkarm/Images/supraspin_fossa_post.jpg"
+                      "img": "assets/trunkarm/Images/supraspin_fossa_post.webp"
                     },
                     {
                       "label": "Superior",
-                      "img": "assets/trunkarm/Images/supraspin_fossa_sup.jpg"
+                      "img": "assets/trunkarm/Images/supraspin_fossa_sup.webp"
                     }
                   ],
                   "children": []
@@ -357,15 +357,15 @@
                   "id": 20,
                   "label": "Vertebral (Medial) Border",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/vertebral_border.wav",
+                  "sound": "assets/trunkarm/Sounds/vertebral_border.mp3",
                   "buttons": [
                     {
                       "label": "Anterior",
-                      "img": "assets/trunkarm/Images/vert_border_ant.jpg"
+                      "img": "assets/trunkarm/Images/vert_border_ant.webp"
                     },
                     {
                       "label": "Posterior",
-                      "img": "assets/trunkarm/Images/vert_border_post.jpg"
+                      "img": "assets/trunkarm/Images/vert_border_post.webp"
                     }
                   ],
                   "children": []
@@ -376,19 +376,19 @@
               "id": 21,
               "label": "Humerus",
               "type": "img",
-              "sound": "assets/trunkarm/Sounds/humerus.wav",
+              "sound": "assets/trunkarm/Sounds/humerus.mp3",
               "buttons": [
                 {
                   "label": "Anterior and Posterior-Complete",
-                  "img": "assets/trunkarm/Images/humerus.jpg"
+                  "img": "assets/trunkarm/Images/humerus.webp"
                 },
                 {
                   "label": "Anterior, Lateral, and Posterior-Zoom",
-                  "img": "assets/trunkarm/Images/humerus-zoom.jpg"
+                  "img": "assets/trunkarm/Images/humerus-zoom.webp"
                 },
                 {
                   "label": "3D Animation",
-                  "img": "assets/trunkarm/Images/humerus.gif"
+                  "img": "assets/trunkarm/Images/humerus.webp"
                 }
               ],
               "children": [
@@ -396,11 +396,11 @@
                   "id": 22,
                   "label": "Anatomical Neck",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/anatomical_neck.wav",
+                  "sound": "assets/trunkarm/Sounds/anatomical_neck.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/anatomical_neck.jpg"
+                      "img": "assets/trunkarm/Images/anatomical_neck.webp"
                     }
                   ],
                   "children": []
@@ -409,11 +409,11 @@
                   "id": 23,
                   "label": "Capitulum",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/capitulum.wav",
+                  "sound": "assets/trunkarm/Sounds/capitulum.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/capitulum.jpg"
+                      "img": "assets/trunkarm/Images/capitulum.webp"
                     }
                   ],
                   "children": []
@@ -422,11 +422,11 @@
                   "id": 24,
                   "label": "Coronoid Fossa",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/coronoid_fossa.wav",
+                  "sound": "assets/trunkarm/Sounds/coronoid_fossa.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/coronoid_fossa.jpg"
+                      "img": "assets/trunkarm/Images/coronoid_fossa.webp"
                     }
                   ],
                   "children": []
@@ -435,11 +435,11 @@
                   "id": 25,
                   "label": "Deltoid Tuberosity",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/deltoid_tuberosity.wav",
+                  "sound": "assets/trunkarm/Sounds/deltoid_tuberosity.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/deltoid_tuberosity.jpg"
+                      "img": "assets/trunkarm/Images/deltoid_tuberosity.webp"
                     }
                   ],
                   "children": []
@@ -448,11 +448,11 @@
                   "id": 26,
                   "label": "Greater Tubercle",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/greater_tubercle.wav",
+                  "sound": "assets/trunkarm/Sounds/greater_tubercle.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/greater_tubercle.jpg"
+                      "img": "assets/trunkarm/Images/greater_tubercle.webp"
                     }
                   ],
                   "children": []
@@ -461,11 +461,11 @@
                   "id": 27,
                   "label": "Head",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/head.wav",
+                  "sound": "assets/trunkarm/Sounds/head.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/head.jpg"
+                      "img": "assets/trunkarm/Images/head.webp"
                     }
                   ],
                   "children": []
@@ -474,11 +474,11 @@
                   "id": 28,
                   "label": "Intertubercular Groove",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/intertubercular_groove.wav",
+                  "sound": "assets/trunkarm/Sounds/intertubercular_groove.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/inter_groove.jpg"
+                      "img": "assets/trunkarm/Images/inter_groove.webp"
                     }
                   ],
                   "children": []
@@ -487,11 +487,11 @@
                   "id": 29,
                   "label": "Lateral Epicondyle",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/Lateral_epicondyle.wav",
+                  "sound": "assets/trunkarm/Sounds/Lateral_epicondyle.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/lat_epicondyle.jpg"
+                      "img": "assets/trunkarm/Images/lat_epicondyle.webp"
                     }
                   ],
                   "children": []
@@ -500,11 +500,11 @@
                   "id": 30,
                   "label": "Lesser Tubercle",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/lesser_tubercle.wav",
+                  "sound": "assets/trunkarm/Sounds/lesser_tubercle.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/lesser_tubercle.jpg"
+                      "img": "assets/trunkarm/Images/lesser_tubercle.webp"
                     }
                   ],
                   "children": []
@@ -513,11 +513,11 @@
                   "id": 31,
                   "label": "Medial Epicondyle",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/medial_epicondyle.wav",
+                  "sound": "assets/trunkarm/Sounds/medial_epicondyle.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/med_epicondyle.jpg"
+                      "img": "assets/trunkarm/Images/med_epicondyle.webp"
                     }
                   ],
                   "children": []
@@ -526,11 +526,11 @@
                   "id": 32,
                   "label": "Olecranon Fossa",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/olecranon_fossa.wav",
+                  "sound": "assets/trunkarm/Sounds/olecranon_fossa.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/olecranon_fossa.jpg"
+                      "img": "assets/trunkarm/Images/olecranon_fossa.webp"
                     }
                   ],
                   "children": []
@@ -539,11 +539,11 @@
                   "id": 33,
                   "label": "Radial Fossa",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/radial_fossa.wav",
+                  "sound": "assets/trunkarm/Sounds/radial_fossa.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/radial_fossa.jpg"
+                      "img": "assets/trunkarm/Images/radial_fossa.webp"
                     }
                   ],
                   "children": []
@@ -552,11 +552,11 @@
                   "id": 34,
                   "label": "Surgical Neck",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/surgical_neck.wav",
+                  "sound": "assets/trunkarm/Sounds/surgical_neck.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/surgical_neck.jpg"
+                      "img": "assets/trunkarm/Images/surgical_neck.webp"
                     }
                   ],
                   "children": []
@@ -565,11 +565,11 @@
                   "id": 35,
                   "label": "Trochlea",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/trochlea.wav",
+                  "sound": "assets/trunkarm/Sounds/trochlea.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/trochlea.jpg"
+                      "img": "assets/trunkarm/Images/trochlea.webp"
                     }
                   ],
                   "children": []
@@ -580,19 +580,19 @@
               "id": 36,
               "label": "Radius",
               "type": "img",
-              "sound": "assets/trunkarm/Sounds/radius.wav",
+              "sound": "assets/trunkarm/Sounds/radius.mp3",
               "buttons": [
                 {
                   "label": "Anterior and Posterior-Complete",
-                  "img": "assets/trunkarm/Images/radius.jpg"
+                  "img": "assets/trunkarm/Images/radius.webp"
                 },
                 {
                   "label": "Overview",
-                  "img": "assets/trunkarm/Images/radius_zoom.jpg"
+                  "img": "assets/trunkarm/Images/radius_zoom.webp"
                 },
                 {
                   "label": "3D Animation",
-                  "img": "assets/trunkarm/Images/radius.gif"
+                  "img": "assets/trunkarm/Images/radius.webp"
                 }
               ],
               "children": [
@@ -600,15 +600,15 @@
                   "id": 37,
                   "label": "Head",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/head.wav",
+                  "sound": "assets/trunkarm/Sounds/head.mp3",
                   "buttons": [
                     {
                       "label": "Radius Only Multiple Views",
-                      "img": "assets/trunkarm/Images/head_radius.jpg"
+                      "img": "assets/trunkarm/Images/head_radius.webp"
                     },
                     {
                       "label": "See With Entire Forearm",
-                      "img": "assets/trunkarm/Images/head_forearm.jpg"
+                      "img": "assets/trunkarm/Images/head_forearm.webp"
                     }
                   ],
                   "children": []
@@ -617,15 +617,15 @@
                   "id": 38,
                   "label": "Neck",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/neck.wav",
+                  "sound": "assets/trunkarm/Sounds/neck.mp3",
                   "buttons": [
                     {
                       "label": "Radius Only Multiple Views",
-                      "img": "assets/trunkarm/Images/neck_radius.jpg"
+                      "img": "assets/trunkarm/Images/neck_radius.webp"
                     },
                     {
                       "label": "See With Entire Forearm",
-                      "img": "assets/trunkarm/Images/neck_forearm.jpg"
+                      "img": "assets/trunkarm/Images/neck_forearm.webp"
                     }
                   ],
                   "children": []
@@ -634,15 +634,15 @@
                   "id": 39,
                   "label": "Radial Tuberosity",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/radial_tuberosity.wav",
+                  "sound": "assets/trunkarm/Sounds/radial_tuberosity.mp3",
                   "buttons": [
                     {
                       "label": "Radius Only Multiple Views",
-                      "img": "assets/trunkarm/Images/radial_tuberosity.jpg"
+                      "img": "assets/trunkarm/Images/radial_tuberosity.webp"
                     },
                     {
                       "label": "See With Entire Forearm",
-                      "img": "assets/trunkarm/Images/radial_tuberosity_forearm.jpg"
+                      "img": "assets/trunkarm/Images/radial_tuberosity_forearm.webp"
                     }
                   ],
                   "children": []
@@ -651,15 +651,15 @@
                   "id": 40,
                   "label": "Styloid Process",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/styloid_process.wav",
+                  "sound": "assets/trunkarm/Sounds/styloid_process.mp3",
                   "buttons": [
                     {
                       "label": "Radius Only Multiple Views",
-                      "img": "assets/trunkarm/Images/syloid_proc_radius.jpg"
+                      "img": "assets/trunkarm/Images/syloid_proc_radius.webp"
                     },
                     {
                       "label": "See With Entire Forearm",
-                      "img": "assets/trunkarm/Images/styloid_process_forearm.jpg"
+                      "img": "assets/trunkarm/Images/styloid_process_forearm.webp"
                     }
                   ],
                   "children": []
@@ -668,15 +668,15 @@
                   "id": 41,
                   "label": "Ulnar Notch",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/ulnar_notch.wav",
+                  "sound": "assets/trunkarm/Sounds/ulnar_notch.mp3",
                   "buttons": [
                     {
                       "label": "Radius Only Multiple Views",
-                      "img": "assets/trunkarm/Images/ulnar_notch.jpg"
+                      "img": "assets/trunkarm/Images/ulnar_notch.webp"
                     },
                     {
                       "label": "See With Entire Forearm",
-                      "img": "assets/trunkarm/Images/ulnar_notch_forearm.jpg"
+                      "img": "assets/trunkarm/Images/ulnar_notch_forearm.webp"
                     }
                   ],
                   "children": []
@@ -687,19 +687,19 @@
               "id": 42,
               "label": "Ulna",
               "type": "img",
-              "sound": "assets/trunkarm/Sounds/ulna.wav",
+              "sound": "assets/trunkarm/Sounds/ulna.mp3",
               "buttons": [
                 {
                   "label": "Anterior and Posterior-Complete",
-                  "img": "assets/trunkarm/Images/ulna.jpg"
+                  "img": "assets/trunkarm/Images/ulna.webp"
                 },
                 {
                   "label": "Overview",
-                  "img": "assets/trunkarm/Images/ulna_zoom.jpg"
+                  "img": "assets/trunkarm/Images/ulna_zoom.webp"
                 },
                 {
                   "label": "3D Animation",
-                  "img": "assets/trunkarm/Images/ulna.gif"
+                  "img": "assets/trunkarm/Images/ulna.webp"
                 }
               ],
               "children": [
@@ -707,15 +707,15 @@
                   "id": 43,
                   "label": "Coronoid Process",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/coronoid_process.wav",
+                  "sound": "assets/trunkarm/Sounds/coronoid_process.mp3",
                   "buttons": [
                     {
                       "label": "Ulna Only Multiple Views",
-                      "img": "assets/trunkarm/Images/coronoid_proc_ulna.jpg"
+                      "img": "assets/trunkarm/Images/coronoid_proc_ulna.webp"
                     },
                     {
                       "label": "See With Entire Forearm",
-                      "img": "assets/trunkarm/Images/coronoid_process_ulna.jpg"
+                      "img": "assets/trunkarm/Images/coronoid_process_ulna.webp"
                     }
                   ],
                   "children": []
@@ -724,15 +724,15 @@
                   "id": 44,
                   "label": "Head",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/head.wav",
+                  "sound": "assets/trunkarm/Sounds/head.mp3",
                   "buttons": [
                     {
                       "label": "Ulna Only Multiple Views",
-                      "img": "assets/trunkarm/Images/head_ulna.jpg"
+                      "img": "assets/trunkarm/Images/head_ulna.webp"
                     },
                     {
                       "label": "See With Entire Forearm",
-                      "img": "assets/trunkarm/Images/head_ulna_arm.jpg"
+                      "img": "assets/trunkarm/Images/head_ulna_arm.webp"
                     }
                   ],
                   "children": []
@@ -741,15 +741,15 @@
                   "id": 45,
                   "label": "Olecranon Process",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/olecranon_process.wav",
+                  "sound": "assets/trunkarm/Sounds/olecranon_process.mp3",
                   "buttons": [
                     {
                       "label": "Ulna Only Multiple Views",
-                      "img": "assets/trunkarm/Images/olecranon_proc.jpg"
+                      "img": "assets/trunkarm/Images/olecranon_proc.webp"
                     },
                     {
                       "label": "See With Entire Forearm",
-                      "img": "assets/trunkarm/Images/olecranon_process_arm.jpg"
+                      "img": "assets/trunkarm/Images/olecranon_process_arm.webp"
                     }
                   ],
                   "children": []
@@ -758,15 +758,15 @@
                   "id": 46,
                   "label": "Radial Notch",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/radial_notch.wav",
+                  "sound": "assets/trunkarm/Sounds/radial_notch.mp3",
                   "buttons": [
                     {
                       "label": "Ulna Only Multiple Views",
-                      "img": "assets/trunkarm/Images/radial_notch.jpg"
+                      "img": "assets/trunkarm/Images/radial_notch.webp"
                     },
                     {
                       "label": "See With Entire Forearm",
-                      "img": "assets/trunkarm/Images/radial_notch_ulna.jpg"
+                      "img": "assets/trunkarm/Images/radial_notch_ulna.webp"
                     }
                   ],
                   "children": []
@@ -775,15 +775,15 @@
                   "id": 47,
                   "label": "Styloid Process",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/styloid_process.wav",
+                  "sound": "assets/trunkarm/Sounds/styloid_process.mp3",
                   "buttons": [
                     {
                       "label": "Ulna Only Multiple Views",
-                      "img": "assets/trunkarm/Images/styloid_proc_ulna.jpg"
+                      "img": "assets/trunkarm/Images/styloid_proc_ulna.webp"
                     },
                     {
                       "label": "See With Entire Forearm",
-                      "img": "assets/trunkarm/Images/styloid_process_ulna.jpg"
+                      "img": "assets/trunkarm/Images/styloid_process_ulna.webp"
                     }
                   ],
                   "children": []
@@ -792,15 +792,15 @@
                   "id": 48,
                   "label": "Trochlear (Semilunar) Notch",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/trochlear_notch.wav",
+                  "sound": "assets/trunkarm/Sounds/trochlear_notch.mp3",
                   "buttons": [
                     {
                       "label": "Ulna Only Multiple Views",
-                      "img": "assets/trunkarm/Images/trochlear_notch.jpg"
+                      "img": "assets/trunkarm/Images/trochlear_notch.webp"
                     },
                     {
                       "label": "See With Entire Forearm",
-                      "img": "assets/trunkarm/Images/trochlear_notch_ulna.jpg"
+                      "img": "assets/trunkarm/Images/trochlear_notch_ulna.webp"
                     }
                   ],
                   "children": []
@@ -809,15 +809,15 @@
                   "id": 49,
                   "label": "Ulnar Tuberosity",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/ulnar_tuberosity.wav",
+                  "sound": "assets/trunkarm/Sounds/ulnar_tuberosity.mp3",
                   "buttons": [
                     {
                       "label": "Ulna Only Multiple Views",
-                      "img": "assets/trunkarm/Images/ulnar_tuberosity.jpg"
+                      "img": "assets/trunkarm/Images/ulnar_tuberosity.webp"
                     },
                     {
                       "label": "See With Entire Forearm",
-                      "img": "assets/trunkarm/Images/ulnar_tuberosity_arm.jpg"
+                      "img": "assets/trunkarm/Images/ulnar_tuberosity_arm.webp"
                     }
                   ],
                   "children": []
@@ -828,15 +828,15 @@
               "id": 50,
               "label": "Carpal Bones",
               "type": "img",
-              "sound": "assets/trunkarm/Sounds/carpals.wav",
+              "sound": "assets/trunkarm/Sounds/carpals.mp3",
               "buttons": [
                 {
                   "label": "Anterior-Complete Skeleton",
-                  "img": "assets/trunkarm/Images/carpals.jpg"
+                  "img": "assets/trunkarm/Images/carpals.webp"
                 },
                 {
                   "label": "Anterior and Posterior-Zoom",
-                  "img": "assets/trunkarm/Images/carpals-zoom.jpg"
+                  "img": "assets/trunkarm/Images/carpals-zoom.webp"
                 }
               ],
               "children": [
@@ -844,11 +844,11 @@
                   "id": 51,
                   "label": "Scaphoid",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/scaphoid.wav",
+                  "sound": "assets/trunkarm/Sounds/scaphoid.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/scaphoid.jpg"
+                      "img": "assets/trunkarm/Images/scaphoid.webp"
                     }
                   ],
                   "children": []
@@ -857,11 +857,11 @@
                   "id": 52,
                   "label": "Lunate",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/lunate.wav",
+                  "sound": "assets/trunkarm/Sounds/lunate.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/lunate.jpg"
+                      "img": "assets/trunkarm/Images/lunate.webp"
                     }
                   ],
                   "children": []
@@ -870,11 +870,11 @@
                   "id": 53,
                   "label": "Triquetrum",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/triquetrum.wav",
+                  "sound": "assets/trunkarm/Sounds/triquetrum.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/triquetrum.jpg"
+                      "img": "assets/trunkarm/Images/triquetrum.webp"
                     }
                   ],
                   "children": []
@@ -883,11 +883,11 @@
                   "id": 54,
                   "label": "Pisiform",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/pisiform.wav",
+                  "sound": "assets/trunkarm/Sounds/pisiform.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/pisiform.jpg"
+                      "img": "assets/trunkarm/Images/pisiform.webp"
                     }
                   ],
                   "children": []
@@ -896,11 +896,11 @@
                   "id": 55,
                   "label": "Trapezium",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/trapezium.wav",
+                  "sound": "assets/trunkarm/Sounds/trapezium.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/trapezium.jpg"
+                      "img": "assets/trunkarm/Images/trapezium.webp"
                     }
                   ],
                   "children": []
@@ -909,11 +909,11 @@
                   "id": 56,
                   "label": "Trapezoid",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/trapezoid.wav",
+                  "sound": "assets/trunkarm/Sounds/trapezoid.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/trapezoid.jpg"
+                      "img": "assets/trunkarm/Images/trapezoid.webp"
                     }
                   ],
                   "children": []
@@ -922,11 +922,11 @@
                   "id": 57,
                   "label": "Capitate",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/capitate.wav",
+                  "sound": "assets/trunkarm/Sounds/capitate.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/capitate.jpg"
+                      "img": "assets/trunkarm/Images/capitate.webp"
                     }
                   ],
                   "children": []
@@ -935,11 +935,11 @@
                   "id": 58,
                   "label": "Hamate",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/hamate.wav",
+                  "sound": "assets/trunkarm/Sounds/hamate.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/Hamate.jpg"
+                      "img": "assets/trunkarm/Images/Hamate.webp"
                     }
                   ],
                   "children": []
@@ -950,15 +950,15 @@
               "id": 59,
               "label": "Metacarpals",
               "type": "img",
-              "sound": "assets/trunkarm/Sounds/metacarpals.wav",
+              "sound": "assets/trunkarm/Sounds/metacarpals.mp3",
               "buttons": [
                 {
                   "label": "Anterior-Complete Skeleton",
-                  "img": "assets/trunkarm/Images/metacarpals.jpg"
+                  "img": "assets/trunkarm/Images/metacarpals.webp"
                 },
                 {
                   "label": "Anterior and Posterior-Zoom",
-                  "img": "assets/trunkarm/Images/metacarpals-zoom.jpg"
+                  "img": "assets/trunkarm/Images/metacarpals-zoom.webp"
                 }
               ],
               "children": [
@@ -970,7 +970,7 @@
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/metacarp_one.jpg"
+                      "img": "assets/trunkarm/Images/metacarp_one.webp"
                     }
                   ],
                   "children": []
@@ -983,7 +983,7 @@
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/metacarp_two.jpg"
+                      "img": "assets/trunkarm/Images/metacarp_two.webp"
                     }
                   ],
                   "children": []
@@ -996,7 +996,7 @@
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/metacarp_three.jpg"
+                      "img": "assets/trunkarm/Images/metacarp_three.webp"
                     }
                   ],
                   "children": []
@@ -1009,7 +1009,7 @@
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/metacarp_four.jpg"
+                      "img": "assets/trunkarm/Images/metacarp_four.webp"
                     }
                   ],
                   "children": []
@@ -1022,7 +1022,7 @@
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/metacarp_five.jpg"
+                      "img": "assets/trunkarm/Images/metacarp_five.webp"
                     }
                   ],
                   "children": []
@@ -1033,15 +1033,15 @@
               "id": 65,
               "label": "Digits (Phalanges)",
               "type": "img",
-              "sound": "assets/trunkarm/Sounds/digits.wav",
+              "sound": "assets/trunkarm/Sounds/digits.mp3",
               "buttons": [
                 {
                   "label": "Anterior-Complete Skeleton",
-                  "img": "assets/trunkarm/Images/digits.jpg"
+                  "img": "assets/trunkarm/Images/digits.webp"
                 },
                 {
                   "label": "Anterior and Posterior-Zoom",
-                  "img": "assets/trunkarm/Images/digits-zoom.jpg"
+                  "img": "assets/trunkarm/Images/digits-zoom.webp"
                 }
               ],
               "children": [
@@ -1049,11 +1049,11 @@
                   "id": 66,
                   "label": "Distal Phalanx",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/distal_phalanx.wav",
+                  "sound": "assets/trunkarm/Sounds/distal_phalanx.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/dist_phalan.jpg"
+                      "img": "assets/trunkarm/Images/dist_phalan.webp"
                     }
                   ],
                   "children": []
@@ -1062,11 +1062,11 @@
                   "id": 67,
                   "label": "Middle Phalanx",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/middle_phalanx.wav",
+                  "sound": "assets/trunkarm/Sounds/middle_phalanx.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/mid_phalan.jpg"
+                      "img": "assets/trunkarm/Images/mid_phalan.webp"
                     }
                   ],
                   "children": []
@@ -1075,11 +1075,11 @@
                   "id": 68,
                   "label": "Proximal Phalanx",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/proximal_phalanx.wav",
+                  "sound": "assets/trunkarm/Sounds/proximal_phalanx.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/prox_phalan.jpg"
+                      "img": "assets/trunkarm/Images/prox_phalan.webp"
                     }
                   ],
                   "children": []
@@ -1090,15 +1090,15 @@
               "id": 69,
               "label": "Sternum",
               "type": "img",
-              "sound": "assets/trunkarm/Sounds/sternum.wav",
+              "sound": "assets/trunkarm/Sounds/sternum.mp3",
               "buttons": [
                 {
                   "label": "Anterior",
-                  "img": "assets/trunkarm/Images/ant_sternum.jpg"
+                  "img": "assets/trunkarm/Images/ant_sternum.webp"
                 },
                 {
                   "label": "Lateral",
-                  "img": "assets/trunkarm/Images/lat_sternum.jpg"
+                  "img": "assets/trunkarm/Images/lat_sternum.webp"
                 }
               ],
               "children": [
@@ -1106,15 +1106,15 @@
                   "id": 70,
                   "label": "Body",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/body.wav",
+                  "sound": "assets/trunkarm/Sounds/body.mp3",
                   "buttons": [
                     {
                       "label": "Anterior",
-                      "img": "assets/trunkarm/Images/ant_body_stern.jpg"
+                      "img": "assets/trunkarm/Images/ant_body_stern.webp"
                     },
                     {
                       "label": "Lateral",
-                      "img": "assets/trunkarm/Images/lat_body_stern.jpg"
+                      "img": "assets/trunkarm/Images/lat_body_stern.webp"
                     }
                   ],
                   "children": []
@@ -1123,15 +1123,15 @@
                   "id": 71,
                   "label": "Clavicular Notch",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/clavicular_notch.wav",
+                  "sound": "assets/trunkarm/Sounds/clavicular_notch.mp3",
                   "buttons": [
                     {
                       "label": "Anterior",
-                      "img": "assets/trunkarm/Images/ant_clav_notch.jpg"
+                      "img": "assets/trunkarm/Images/ant_clav_notch.webp"
                     },
                     {
                       "label": "Lateral",
-                      "img": "assets/trunkarm/Images/lat_clav_notch.jpg"
+                      "img": "assets/trunkarm/Images/lat_clav_notch.webp"
                     }
                   ],
                   "children": []
@@ -1140,15 +1140,15 @@
                   "id": 72,
                   "label": "Costal Notches",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/costal_notches.wav",
+                  "sound": "assets/trunkarm/Sounds/costal_notches.mp3",
                   "buttons": [
                     {
                       "label": "Anterior",
-                      "img": "assets/trunkarm/Images/ant_costal_notch.jpg"
+                      "img": "assets/trunkarm/Images/ant_costal_notch.webp"
                     },
                     {
                       "label": "Lateral",
-                      "img": "assets/trunkarm/Images/lat_costal_notch.jpg"
+                      "img": "assets/trunkarm/Images/lat_costal_notch.webp"
                     }
                   ],
                   "children": []
@@ -1157,15 +1157,15 @@
                   "id": 73,
                   "label": "Jugular Notch",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/jugular_notch.wav",
+                  "sound": "assets/trunkarm/Sounds/jugular_notch.mp3",
                   "buttons": [
                     {
                       "label": "Anterior",
-                      "img": "assets/trunkarm/Images/ant_jug_notch.jpg"
+                      "img": "assets/trunkarm/Images/ant_jug_notch.webp"
                     },
                     {
                       "label": "Lateral",
-                      "img": "assets/trunkarm/Images/lat_jug_notch.jpg"
+                      "img": "assets/trunkarm/Images/lat_jug_notch.webp"
                     }
                   ],
                   "children": []
@@ -1174,15 +1174,15 @@
                   "id": 74,
                   "label": "Manubrium",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/manubrium.wav",
+                  "sound": "assets/trunkarm/Sounds/manubrium.mp3",
                   "buttons": [
                     {
                       "label": "Anterior",
-                      "img": "assets/trunkarm/Images/ant_manubrium.jpg"
+                      "img": "assets/trunkarm/Images/ant_manubrium.webp"
                     },
                     {
                       "label": "Lateral",
-                      "img": "assets/trunkarm/Images/lat_manubrium.jpg"
+                      "img": "assets/trunkarm/Images/lat_manubrium.webp"
                     }
                   ],
                   "children": []
@@ -1191,15 +1191,15 @@
                   "id": 75,
                   "label": "Sternal Angle",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/sternal_angle.wav",
+                  "sound": "assets/trunkarm/Sounds/sternal_angle.mp3",
                   "buttons": [
                     {
                       "label": "Anterior",
-                      "img": "assets/trunkarm/Images/ant_stern_angle.jpg"
+                      "img": "assets/trunkarm/Images/ant_stern_angle.webp"
                     },
                     {
                       "label": "Lateral",
-                      "img": "assets/trunkarm/Images/lat_stern_angle.jpg"
+                      "img": "assets/trunkarm/Images/lat_stern_angle.webp"
                     }
                   ],
                   "children": []
@@ -1208,15 +1208,15 @@
                   "id": 76,
                   "label": "Xiphoid Process",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/xiphoid.wav",
+                  "sound": "assets/trunkarm/Sounds/xiphoid.mp3",
                   "buttons": [
                     {
                       "label": "Anterior",
-                      "img": "assets/trunkarm/Images/ant_xiphoid.jpg"
+                      "img": "assets/trunkarm/Images/ant_xiphoid.webp"
                     },
                     {
                       "label": "Lateral",
-                      "img": "assets/trunkarm/Images/lat_xiphoid.jpg"
+                      "img": "assets/trunkarm/Images/lat_xiphoid.webp"
                     }
                   ],
                   "children": []
@@ -1227,27 +1227,27 @@
               "id": 77,
               "label": "Ribs",
               "type": "img",
-              "sound": "assets/trunkarm/Sounds/ribs.wav",
+              "sound": "assets/trunkarm/Sounds/ribs.mp3",
               "buttons": [
                 {
                   "label": "Complete Skeleton",
-                  "img": "assets/trunkarm/Images/ribs.jpg"
+                  "img": "assets/trunkarm/Images/ribs.webp"
                 },
                 {
                   "label": "Anterior Ribcage",
-                  "img": "assets/trunkarm/Images/ant_ribs.jpg"
+                  "img": "assets/trunkarm/Images/ant_ribs.webp"
                 },
                 {
                   "label": "Posterior Ribcage",
-                  "img": "assets/trunkarm/Images/post_ribs.jpg"
+                  "img": "assets/trunkarm/Images/post_ribs.webp"
                 },
                 {
                   "label": "Posterior Rib",
-                  "img": "assets/trunkarm/Images/rib_posterior.jpg"
+                  "img": "assets/trunkarm/Images/rib_posterior.webp"
                 },
                 {
                   "label": "Animation",
-                  "img": "assets/trunkarm/Images/rib_animation.gif"
+                  "img": "assets/trunkarm/Images/rib_animation-animate.webp"
                 }
               ],
               "children": [
@@ -1255,11 +1255,11 @@
                   "id": 78,
                   "label": "Head",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/head.wav",
+                  "sound": "assets/trunkarm/Sounds/head.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/post_head_rib.jpg"
+                      "img": "assets/trunkarm/Images/post_head_rib.webp"
                     }
                   ],
                   "children": []
@@ -1268,11 +1268,11 @@
                   "id": 79,
                   "label": "Neck",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/neck.wav",
+                  "sound": "assets/trunkarm/Sounds/neck.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/post_neck_rib.jpg"
+                      "img": "assets/trunkarm/Images/post_neck_rib.webp"
                     }
                   ],
                   "children": []
@@ -1281,11 +1281,11 @@
                   "id": 80,
                   "label": "Tubercle",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/tubercle.wav",
+                  "sound": "assets/trunkarm/Sounds/tubercle.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/post_tubercle.jpg"
+                      "img": "assets/trunkarm/Images/post_tubercle.webp"
                     }
                   ],
                   "children": []
@@ -1294,11 +1294,11 @@
                   "id": 81,
                   "label": "Angle",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/angle.wav",
+                  "sound": "assets/trunkarm/Sounds/angle.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/post_angle.jpg"
+                      "img": "assets/trunkarm/Images/post_angle.webp"
                     }
                   ],
                   "children": []
@@ -1307,11 +1307,11 @@
                   "id": 82,
                   "label": "Body",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/body.wav",
+                  "sound": "assets/trunkarm/Sounds/body.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/post_body_rib.jpg"
+                      "img": "assets/trunkarm/Images/post_body_rib.webp"
                     }
                   ],
                   "children": []
@@ -1320,11 +1320,11 @@
                   "id": 83,
                   "label": "Costal Groove",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/costal_groove.wav",
+                  "sound": "assets/trunkarm/Sounds/costal_groove.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/post_costal_groove.jpg"
+                      "img": "assets/trunkarm/Images/post_costal_groove.webp"
                     }
                   ],
                   "children": []
@@ -1333,11 +1333,11 @@
                   "id": 84,
                   "label": "Costal Cartilage",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/costal_cartilage.wav",
+                  "sound": "assets/trunkarm/Sounds/costal_cartilage.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/cost_cartilage_ant.jpg"
+                      "img": "assets/trunkarm/Images/cost_cartilage_ant.webp"
                     }
                   ],
                   "children": []
@@ -1346,15 +1346,15 @@
                   "id": 85,
                   "label": "False Ribs (5 Pair)",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/false_ribs.wav",
+                  "sound": "assets/trunkarm/Sounds/false_ribs.mp3",
                   "buttons": [
                     {
                       "label": "Anterior",
-                      "img": "assets/trunkarm/Images/false_ribs_ant.jpg"
+                      "img": "assets/trunkarm/Images/false_ribs_ant.webp"
                     },
                     {
                       "label": "Posterior",
-                      "img": "assets/trunkarm/Images/false_ribs_post.jpg"
+                      "img": "assets/trunkarm/Images/false_ribs_post.webp"
                     }
                   ],
                   "children": []
@@ -1363,15 +1363,15 @@
                   "id": 86,
                   "label": "Floating Ribs (2 Pair)",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/floating.wav",
+                  "sound": "assets/trunkarm/Sounds/floating.mp3",
                   "buttons": [
                     {
                       "label": "Anterior",
-                      "img": "assets/trunkarm/Images/floating_ribs_ant.jpg"
+                      "img": "assets/trunkarm/Images/floating_ribs_ant.webp"
                     },
                     {
                       "label": "Posterior",
-                      "img": "assets/trunkarm/Images/floating_ribs_post.jpg"
+                      "img": "assets/trunkarm/Images/floating_ribs_post.webp"
                     }
                   ],
                   "children": []
@@ -1380,15 +1380,15 @@
                   "id": 87,
                   "label": "True Ribs (7 Pair)",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/true_ribs.wav",
+                  "sound": "assets/trunkarm/Sounds/true_ribs.mp3",
                   "buttons": [
                     {
                       "label": "Anterior",
-                      "img": "assets/trunkarm/Images/true_ribs_ant.jpg"
+                      "img": "assets/trunkarm/Images/true_ribs_ant.webp"
                     },
                     {
                       "label": "Posterior",
-                      "img": "assets/trunkarm/Images/true_ribs_post.jpg"
+                      "img": "assets/trunkarm/Images/true_ribs_post.webp"
                     }
                   ],
                   "children": []
@@ -1399,19 +1399,19 @@
               "id": 88,
               "label": "Vertebrae Regions",
               "type": "img",
-              "sound": "assets/trunkarm/Sounds/vertebrae_general.wav",
+              "sound": "assets/trunkarm/Sounds/vertebrae_general.mp3",
               "buttons": [
                 {
                   "label": "Lateral",
-                  "img": "assets/trunkarm/Images/vertebrae_lat.jpg"
+                  "img": "assets/trunkarm/Images/vertebrae_lat.webp"
                 },
                 {
                   "label": "Superior",
-                  "img": "assets/trunkarm/Images/vertebrae_sup.jpg"
+                  "img": "assets/trunkarm/Images/vertebrae_sup.webp"
                 },
                 {
                   "label": "Posterior",
-                  "img": "assets/trunkarm/Images/vertebrae_post.jpg"
+                  "img": "assets/trunkarm/Images/vertebrae_post.webp"
                 }
               ],
               "children": []
@@ -1419,25 +1419,25 @@
             {
               "id": 89,
               "label": "Vertebrae - General Features",
-              "sound": "assets/trunkarm/Sounds/vertebrae_general.wav",
+              "sound": "assets/trunkarm/Sounds/vertebrae_general.mp3",
               "children": [
                 {
                   "id": 90,
                   "label": "Body",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/body.wav",
+                  "sound": "assets/trunkarm/Sounds/body.mp3",
                   "buttons": [
                     {
                       "label": "Lateral",
-                      "img": "assets/trunkarm/Images/vert_body_lat.jpg"
+                      "img": "assets/trunkarm/Images/vert_body_lat.webp"
                     },
                     {
                       "label": "Superior",
-                      "img": "assets/trunkarm/Images/vert_body_sup.jpg"
+                      "img": "assets/trunkarm/Images/vert_body_sup.webp"
                     },
                     {
                       "label": "Posterior",
-                      "img": "assets/trunkarm/Images/vert_body_post.jpg"
+                      "img": "assets/trunkarm/Images/vert_body_post.webp"
                     }
                   ],
                   "children": []
@@ -1446,11 +1446,11 @@
                   "id": 91,
                   "label": "Inferior Articular Facet",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/inferior_articular_facet.wav",
+                  "sound": "assets/trunkarm/Sounds/inferior_articular_facet.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/vert_inf_art_facet_lat.jpg"
+                      "img": "assets/trunkarm/Images/vert_inf_art_facet_lat.webp"
                     }
                   ],
                   "children": []
@@ -1459,15 +1459,15 @@
                   "id": 92,
                   "label": "Inferior Articular Process",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/inferior_articular_process.wav",
+                  "sound": "assets/trunkarm/Sounds/inferior_articular_process.mp3",
                   "buttons": [
                     {
                       "label": "Lateral",
-                      "img": "assets/trunkarm/Images/vert_inf_art_proc_lat.jpg"
+                      "img": "assets/trunkarm/Images/vert_inf_art_proc_lat.webp"
                     },
                     {
                       "label": "Posterior",
-                      "img": "assets/trunkarm/Images/vert_inf_art_proc_post.jpg"
+                      "img": "assets/trunkarm/Images/vert_inf_art_proc_post.webp"
                     }
                   ],
                   "children": []
@@ -1476,11 +1476,11 @@
                   "id": 93,
                   "label": "Inferior Intervertebral Notch",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/inferior_intervertebral_notch.wav",
+                  "sound": "assets/trunkarm/Sounds/inferior_intervertebral_notch.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/inf_intervert_notch.jpg"
+                      "img": "assets/trunkarm/Images/inf_intervert_notch.webp"
                     }
                   ],
                   "children": []
@@ -1489,11 +1489,11 @@
                   "id": 94,
                   "label": "Intervertebral Foramen",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/intervertebral_foramen.wav",
+                  "sound": "assets/trunkarm/Sounds/intervertebral_foramen.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/intervert_foramen.jpg"
+                      "img": "assets/trunkarm/Images/intervert_foramen.webp"
                     }
                   ],
                   "children": []
@@ -1502,19 +1502,19 @@
                   "id": 95,
                   "label": "Lamina",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/lamina.wav",
+                  "sound": "assets/trunkarm/Sounds/lamina.mp3",
                   "buttons": [
                     {
                       "label": "Lateral",
-                      "img": "assets/trunkarm/Images/vert_lamina_lat.jpg"
+                      "img": "assets/trunkarm/Images/vert_lamina_lat.webp"
                     },
                     {
                       "label": "Superior",
-                      "img": "assets/trunkarm/Images/vert_lamina_sup.jpg"
+                      "img": "assets/trunkarm/Images/vert_lamina_sup.webp"
                     },
                     {
                       "label": "Posterior",
-                      "img": "assets/trunkarm/Images/vert_lamina_post.jpg"
+                      "img": "assets/trunkarm/Images/vert_lamina_post.webp"
                     }
                   ],
                   "children": []
@@ -1523,15 +1523,15 @@
                   "id": 96,
                   "label": "Pedicle",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/pedicle.wav",
+                  "sound": "assets/trunkarm/Sounds/pedicle.mp3",
                   "buttons": [
                     {
                       "label": "Lateral",
-                      "img": "assets/trunkarm/Images/vert_pedicle_lat.jpg"
+                      "img": "assets/trunkarm/Images/vert_pedicle_lat.webp"
                     },
                     {
                       "label": "Superior",
-                      "img": "assets/trunkarm/Images/vert_pedicle_sup.jpg"
+                      "img": "assets/trunkarm/Images/vert_pedicle_sup.webp"
                     }
                   ],
                   "children": []
@@ -1540,19 +1540,19 @@
                   "id": 97,
                   "label": "Spinous Process",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/spinous_process.wav",
+                  "sound": "assets/trunkarm/Sounds/spinous_process.mp3",
                   "buttons": [
                     {
                       "label": "Lateral",
-                      "img": "assets/trunkarm/Images/vert_spinous_proc_lat.jpg"
+                      "img": "assets/trunkarm/Images/vert_spinous_proc_lat.webp"
                     },
                     {
                       "label": "Superior",
-                      "img": "assets/trunkarm/Images/vert_spinous_proc_sup.jpg"
+                      "img": "assets/trunkarm/Images/vert_spinous_proc_sup.webp"
                     },
                     {
                       "label": "Posterior",
-                      "img": "assets/trunkarm/Images/vert_spinous_proc_post.jpg"
+                      "img": "assets/trunkarm/Images/vert_spinous_proc_post.webp"
                     }
                   ],
                   "children": []
@@ -1561,19 +1561,19 @@
                   "id": 98,
                   "label": "Superior Articular Facet",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/superior_articular_facet.wav",
+                  "sound": "assets/trunkarm/Sounds/superior_articular_facet.mp3",
                   "buttons": [
                     {
                       "label": "Lateral",
-                      "img": "assets/trunkarm/Images/vert_sup_art_facet_lat.jpg"
+                      "img": "assets/trunkarm/Images/vert_sup_art_facet_lat.webp"
                     },
                     {
                       "label": "Superior",
-                      "img": "assets/trunkarm/Images/vert_sup_art_facet_sup.jpg"
+                      "img": "assets/trunkarm/Images/vert_sup_art_facet_sup.webp"
                     },
                     {
                       "label": "Posterior",
-                      "img": "assets/trunkarm/Images/vert_sup_art_facet_post.jpg"
+                      "img": "assets/trunkarm/Images/vert_sup_art_facet_post.webp"
                     }
                   ],
                   "children": []
@@ -1582,19 +1582,19 @@
                   "id": 99,
                   "label": "Superior Articular Process",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/superior_articular_process.wav",
+                  "sound": "assets/trunkarm/Sounds/superior_articular_process.mp3",
                   "buttons": [
                     {
                       "label": "Lateral",
-                      "img": "assets/trunkarm/Images/vert_sup_art_proc_lat.jpg"
+                      "img": "assets/trunkarm/Images/vert_sup_art_proc_lat.webp"
                     },
                     {
                       "label": "Superior",
-                      "img": "assets/trunkarm/Images/vert_sup_art_proc_sup.jpg"
+                      "img": "assets/trunkarm/Images/vert_sup_art_proc_sup.webp"
                     },
                     {
                       "label": "Posterior",
-                      "img": "assets/trunkarm/Images/vert_sup_art_proc_post.jpg"
+                      "img": "assets/trunkarm/Images/vert_sup_art_proc_post.webp"
                     }
                   ],
                   "children": []
@@ -1603,11 +1603,11 @@
                   "id": 100,
                   "label": "Superior Intervertebral Notch",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/superior_intervertebral_notch.wav",
+                  "sound": "assets/trunkarm/Sounds/superior_intervertebral_notch.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/sup_intervert_notch.jpg"
+                      "img": "assets/trunkarm/Images/sup_intervert_notch.webp"
                     }
                   ],
                   "children": []
@@ -1616,19 +1616,19 @@
                   "id": 101,
                   "label": "Transverse Process",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/transverse_process.wav",
+                  "sound": "assets/trunkarm/Sounds/transverse_process.mp3",
                   "buttons": [
                     {
                       "label": "Lateral",
-                      "img": "assets/trunkarm/Images/vert_trans_proc_lat.jpg"
+                      "img": "assets/trunkarm/Images/vert_trans_proc_lat.webp"
                     },
                     {
                       "label": "Superior",
-                      "img": "assets/trunkarm/Images/vert_trans_proc_sup.jpg"
+                      "img": "assets/trunkarm/Images/vert_trans_proc_sup.webp"
                     },
                     {
                       "label": "Posterior",
-                      "img": "assets/trunkarm/Images/vert_trans_proc_post.jpg"
+                      "img": "assets/trunkarm/Images/vert_trans_proc_post.webp"
                     }
                   ],
                   "children": []
@@ -1637,19 +1637,19 @@
                   "id": 102,
                   "label": "Vertebral Arch",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/vertebral_arch.wav",
+                  "sound": "assets/trunkarm/Sounds/vertebral_arch.mp3",
                   "buttons": [
                     {
                       "label": "Lateral",
-                      "img": "assets/trunkarm/Images/vert_arch_lat.jpg"
+                      "img": "assets/trunkarm/Images/vert_arch_lat.webp"
                     },
                     {
                       "label": "Superior",
-                      "img": "assets/trunkarm/Images/vert_arch_sup.jpg"
+                      "img": "assets/trunkarm/Images/vert_arch_sup.webp"
                     },
                     {
                       "label": "Posterior",
-                      "img": "assets/trunkarm/Images/vert_arch_post.jpg"
+                      "img": "assets/trunkarm/Images/vert_arch_post.webp"
                     }
                   ],
                   "children": []
@@ -1658,11 +1658,11 @@
                   "id": 103,
                   "label": "Vertebral Foramen",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/vertebral_foramen.wav",
+                  "sound": "assets/trunkarm/Sounds/vertebral_foramen.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/vert_foramen_sup.jpg"
+                      "img": "assets/trunkarm/Images/vert_foramen_sup.webp"
                     }
                   ],
                   "children": []
@@ -1673,19 +1673,19 @@
               "id": 104,
               "label": "Cervical Vertebrae (7)",
               "type": "img",
-              "sound": "assets/trunkarm/Sounds/cervical_vertebrae.wav",
+              "sound": "assets/trunkarm/Sounds/cervical_vertebrae.mp3",
               "buttons": [
                 {
                   "label": "Anterior and Posterior-Complete",
-                  "img": "assets/trunkarm/Images/cerv_vert_axis_atlas.jpg"
+                  "img": "assets/trunkarm/Images/cerv_vert_axis_atlas.webp"
                 },
                 {
                   "label": "Axis and Atlas",
-                  "img": "assets/trunkarm/Images/cerv_vert_axis_atlas-zoom.jpg"
+                  "img": "assets/trunkarm/Images/cerv_vert_axis_atlas-zoom.webp"
                 },
                 {
                   "label": "3D Animation",
-                  "img": "assets/trunkarm/Images/cervical.gif"
+                  "img": "assets/trunkarm/Images/cervical-animate.webp"
                 }
               ],
               "children": [
@@ -1693,19 +1693,19 @@
                   "id": 105,
                   "label": "Atlas (C1)",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/atlas.wav",
+                  "sound": "assets/trunkarm/Sounds/atlas.mp3",
                   "buttons": [
                     {
                       "label": "Overview",
-                      "img": "assets/trunkarm/Images/atlas.jpg"
+                      "img": "assets/trunkarm/Images/atlas.webp"
                     },
                     {
                       "label": "3D Animation - Atlas",
-                      "img": "assets/trunkarm/Images/atlas.gif"
+                      "img": "assets/trunkarm/Images/atlas.webp"
                     },
                     {
                       "label": "3D Animation - Atlas and Axis",
-                      "img": "assets/trunkarm/Images/atlas_axis.gif"
+                      "img": "assets/trunkarm/Images/atlas_axis-animate.webp"
                     }
                   ],
                   "children": []
@@ -1714,15 +1714,15 @@
                   "id": 106,
                   "label": "Axis (C2)",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/axis.wav",
+                  "sound": "assets/trunkarm/Sounds/axis.mp3",
                   "buttons": [
                     {
                       "label": "Overview",
-                      "img": "assets/trunkarm/Images/axis.jpg"
+                      "img": "assets/trunkarm/Images/axis.webp"
                     },
                     {
                       "label": "3D Animation",
-                      "img": "assets/trunkarm/Images/axis.gif"
+                      "img": "assets/trunkarm/Images/axis.webp"
                     }
                   ],
                   "children": []
@@ -1731,11 +1731,11 @@
                   "id": 107,
                   "label": "Bifid Spinous Process",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/bifid.wav",
+                  "sound": "assets/trunkarm/Sounds/bifid.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/bi_spinous_proc_axis.jpg"
+                      "img": "assets/trunkarm/Images/bi_spinous_proc_axis.webp"
                     }
                   ],
                   "children": []
@@ -1744,11 +1744,11 @@
                   "id": 108,
                   "label": "Odontoid Process (Dens)",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/odontoid.wav",
+                  "sound": "assets/trunkarm/Sounds/odontoid.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/dens_axis.jpg"
+                      "img": "assets/trunkarm/Images/dens_axis.webp"
                     }
                   ],
                   "children": []
@@ -1757,15 +1757,15 @@
                   "id": 109,
                   "label": "Transverse Foramen",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/transverse_foramen.wav",
+                  "sound": "assets/trunkarm/Sounds/transverse_foramen.mp3",
                   "buttons": [
                     {
                       "label": "Atlas",
-                      "img": "assets/trunkarm/Images/trans_foramen_atlas.jpg"
+                      "img": "assets/trunkarm/Images/trans_foramen_atlas.webp"
                     },
                     {
                       "label": "Axis",
-                      "img": "assets/trunkarm/Images/trans_foramen_axis.jpg"
+                      "img": "assets/trunkarm/Images/trans_foramen_axis.webp"
                     }
                   ],
                   "children": []
@@ -1776,27 +1776,27 @@
               "id": 110,
               "label": "Thoracic Vertebrae (12)",
               "type": "img",
-              "sound": "assets/trunkarm/Sounds/thoracic.wav",
+              "sound": "assets/trunkarm/Sounds/thoracic.mp3",
               "buttons": [
                 {
                   "label": "Anterior and Posterior-Complete",
-                  "img": "assets/trunkarm/Images/thoracic_lat.jpg"
+                  "img": "assets/trunkarm/Images/thoracic_lat.webp"
                 },
                 {
                   "label": "Lateral",
-                  "img": "assets/trunkarm/Images/thoracic_lat-zoom.jpg"
+                  "img": "assets/trunkarm/Images/thoracic_lat-zoom.webp"
                 },
                 {
                   "label": "Superior",
-                  "img": "assets/trunkarm/Images/thoracic_sup.jpg"
+                  "img": "assets/trunkarm/Images/thoracic_sup.webp"
                 },
                 {
                   "label": "Posterior",
-                  "img": "assets/trunkarm/Images/thoracic_post.jpg"
+                  "img": "assets/trunkarm/Images/thoracic_post.webp"
                 },
                 {
                   "label": "3D Animation",
-                  "img": "assets/trunkarm/Images/thoracic.gif"
+                  "img": "assets/trunkarm/Images/thoracic-animate.webp"
                 }
               ],
               "children": [
@@ -1804,11 +1804,11 @@
                   "id": 111,
                   "label": "Costal Facet",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/costal_facet.wav",
+                  "sound": "assets/trunkarm/Sounds/costal_facet.mp3",
                   "buttons": [
                     {
                       "label": "",
-                      "img": "assets/trunkarm/Images/costal_facet_lat.jpg"
+                      "img": "assets/trunkarm/Images/costal_facet_lat.webp"
                     }
                   ],
                   "children": []
@@ -1819,27 +1819,27 @@
               "id": 112,
               "label": "Lumbar Vertebrae (5)",
               "type": "img",
-              "sound": "assets/trunkarm/Sounds/lumbar.wav",
+              "sound": "assets/trunkarm/Sounds/lumbar.mp3",
               "buttons": [
                 {
                   "label": "Anterior and Posterior-Complete",
-                  "img": "assets/trunkarm/Images/lumbar_lat.jpg"
+                  "img": "assets/trunkarm/Images/lumbar_lat.webp"
                 },
                 {
                   "label": "Lateral",
-                  "img": "assets/trunkarm/Images/lumbar_lat_zoom.jpg"
+                  "img": "assets/trunkarm/Images/lumbar_lat_zoom.webp"
                 },
                 {
                   "label": "Posterior",
-                  "img": "assets/trunkarm/Images/lumbar_post.jpg"
+                  "img": "assets/trunkarm/Images/lumbar_post.webp"
                 },
                 {
                   "label": "Superior",
-                  "img": "assets/trunkarm/Images/lumbar_sup.jpg"
+                  "img": "assets/trunkarm/Images/lumbar_sup.webp"
                 },
                 {
                   "label": "3D Animation",
-                  "img": "assets/trunkarm/Images/lumbar.gif"
+                  "img": "assets/trunkarm/Images/lumbar-animate.webp"
                 }
               ],
               "children": []
@@ -1848,35 +1848,35 @@
               "id": 113,
               "label": "Sacrum",
               "type": "img",
-              "sound": "assets/trunkarm/Sounds/sacrum.wav",
+              "sound": "assets/trunkarm/Sounds/sacrum.mp3",
               "buttons": [
                 {
                   "label": "Complete Skeleton",
-                  "img": "assets/trunkarm/Images/sacrum.jpg"
+                  "img": "assets/trunkarm/Images/sacrum.webp"
                 },
                 {
                   "label": "Anterior",
-                  "img": "assets/trunkarm/Images/ant_sacrum_1.jpg"
+                  "img": "assets/trunkarm/Images/ant_sacrum_1.webp"
                 },
                 {
                   "label": "Lateral",
-                  "img": "assets/trunkarm/Images/lat_sacrum_1.jpg"
+                  "img": "assets/trunkarm/Images/lat_sacrum_1.webp"
                 },
                 {
                   "label": "Posterior",
-                  "img": "assets/trunkarm/Images/post_sacrum_1.jpg"
+                  "img": "assets/trunkarm/Images/post_sacrum_1.webp"
                 },
                 {
                   "label": "Superior",
-                  "img": "assets/trunkarm/Images/sup_sacrum.jpg"
+                  "img": "assets/trunkarm/Images/sup_sacrum.webp"
                 },
                 {
                   "label": "Anterior with Coxal Bones",
-                  "img": "assets/trunkarm/Images/sacrum_comp_ant.jpg"
+                  "img": "assets/trunkarm/Images/sacrum_comp_ant.webp"
                 },
                 {
                   "label": "Posterior with Coxal Bones",
-                  "img": "assets/trunkarm/Images/sacrum_comp_post.jpg"
+                  "img": "assets/trunkarm/Images/sacrum_comp_post.webp"
                 }
               ],
               "children": [
@@ -1884,15 +1884,15 @@
                   "id": 114,
                   "label": "Anterior (Ventral) Sacral Foramen",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/anterior_sacral.wav",
+                  "sound": "assets/trunkarm/Sounds/anterior_sacral.mp3",
                   "buttons": [
                     {
                       "label": "Anterior with Coxal Bones",
-                      "img": "assets/trunkarm/Images/ant_sacral_foramen_comp_ant.jpg"
+                      "img": "assets/trunkarm/Images/ant_sacral_foramen_comp_ant.webp"
                     },
                     {
                       "label": "Anterior Sacrum Only",
-                      "img": "assets/trunkarm/Images/ant_sacral_foramen.jpg"
+                      "img": "assets/trunkarm/Images/ant_sacral_foramen.webp"
                     }
                   ],
                   "children": []
@@ -1901,15 +1901,15 @@
                   "id": 115,
                   "label": "Auricular Surface",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/auricular_surface.wav",
+                  "sound": "assets/trunkarm/Sounds/auricular_surface.mp3",
                   "buttons": [
                     {
                       "label": "Posterior",
-                      "img": "assets/trunkarm/Images/post_auric_surface.jpg"
+                      "img": "assets/trunkarm/Images/post_auric_surface.webp"
                     },
                     {
                       "label": "Lateral",
-                      "img": "assets/trunkarm/Images/lat_auric_surface.jpg"
+                      "img": "assets/trunkarm/Images/lat_auric_surface.webp"
                     }
                   ],
                   "children": []
@@ -1918,19 +1918,19 @@
                   "id": 116,
                   "label": "Median Sacral Crest",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/median_sacral_crest.wav",
+                  "sound": "assets/trunkarm/Sounds/median_sacral_crest.mp3",
                   "buttons": [
                     {
                       "label": "Posterior with Coxal Bones",
-                      "img": "assets/trunkarm/Images/med_sacral_crest_comp_post.jpg"
+                      "img": "assets/trunkarm/Images/med_sacral_crest_comp_post.webp"
                     },
                     {
                       "label": "Posterior Sacrum Only",
-                      "img": "assets/trunkarm/Images/post_med_sacral_crest.jpg"
+                      "img": "assets/trunkarm/Images/post_med_sacral_crest.webp"
                     },
                     {
                       "label": "Lateral Sacrum Only",
-                      "img": "assets/trunkarm/Images/lat_med_sacral_crest.jpg"
+                      "img": "assets/trunkarm/Images/lat_med_sacral_crest.webp"
                     }
                   ],
                   "children": []
@@ -1939,15 +1939,15 @@
                   "id": 117,
                   "label": "Posterior (Dorsal) Sacral Foramen",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/posterior_sacral.wav",
+                  "sound": "assets/trunkarm/Sounds/posterior_sacral.mp3",
                   "buttons": [
                     {
                       "label": "Posterior with Coxal Bones",
-                      "img": "assets/trunkarm/Images/post_sacral_foramen_comp_post.jpg"
+                      "img": "assets/trunkarm/Images/post_sacral_foramen_comp_post.webp"
                     },
                     {
                       "label": "Posterior Sacrum only",
-                      "img": "assets/trunkarm/Images/post_sacral_foramen.jpg"
+                      "img": "assets/trunkarm/Images/post_sacral_foramen.webp"
                     }
                   ],
                   "children": []
@@ -1956,19 +1956,19 @@
                   "id": 118,
                   "label": "Sacral Canal",
                   "type": "img",
-                  "sound": "assets/trunkarm/Sounds/sacral_canal.wav",
+                  "sound": "assets/trunkarm/Sounds/sacral_canal.mp3",
                   "buttons": [
                     {
                       "label": "Posterior with Coxal Bones",
-                      "img": "assets/trunkarm/Images/sacral_canal_comp_post.jpg"
+                      "img": "assets/trunkarm/Images/sacral_canal_comp_post.webp"
                     },
                     {
                       "label": "Posterior Sacrum Only",
-                      "img": "assets/trunkarm/Images/post_sacral_canal.jpg"
+                      "img": "assets/trunkarm/Images/post_sacral_canal.webp"
                     },
                     {
                       "label": "Superior Sacrum Only",
-                      "img": "assets/trunkarm/Images/sup_sacral_canal.jpg"
+                      "img": "assets/trunkarm/Images/sup_sacral_canal.webp"
                     }
                   ],
                   "children": []
@@ -1979,19 +1979,19 @@
               "id": 119,
               "label": "Coccyx",
               "type": "img",
-              "sound": "assets/trunkarm/Sounds/coccyx.wav",
+              "sound": "assets/trunkarm/Sounds/coccyx.mp3",
               "buttons": [
                 {
                   "label": "Anterior",
-                  "img": "assets/trunkarm/Images/ant_coccyx.jpg"
+                  "img": "assets/trunkarm/Images/ant_coccyx.webp"
                 },
                 {
                   "label": "Lateral",
-                  "img": "assets/trunkarm/Images/lat_coccyx.jpg"
+                  "img": "assets/trunkarm/Images/lat_coccyx.webp"
                 },
                 {
                   "label": "Posterior",
-                  "img": "assets/trunkarm/Images/post_coccyx.jpg"
+                  "img": "assets/trunkarm/Images/post_coccyx.webp"
                 }
               ],
               "children": []
